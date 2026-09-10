@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 02/07/26 14:27
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: 038f8ae3193f6dbc
+Country: AE
+IP: 92.97.172.41
+System Language: English
+Processor: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz (6 cores, 12 threads)
+Installed RAM: 15.91 GB
+Operation System: Windows 11 (Build 26200) (64 Bit)
+Graphics card: NVIDIA GeForce GTX 1050 Ti
+Computer Name: DESKTOP-BA2H0MT
+Domain Name: WORKGROUP
+-------------
+User Name: Admin
+Admin Group: TRUE
+Integrity: High
+TimeZone: UTC+4
+UserLanguage: English
+Keyboard Language: English
+Display Resolution: 1920x1080

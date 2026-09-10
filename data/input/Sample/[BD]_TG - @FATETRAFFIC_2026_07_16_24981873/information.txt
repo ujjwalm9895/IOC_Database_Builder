@@ -1,0 +1,200 @@
+IP: 103.148.148.73
+Country: BD
+Date: 10.07.2026 15:44:59
+MachineID: db197c04-97c0-ae81-5042-8b5bcbf93401
+GUID: {c103a697-d062}
+HWID: 0B259CF2BF434AB5EC9F-c103a697-d062-C028707
+Path: C:\Users\hp\AppData\Local\Temp\13110840101\23d17617f5.exe
+MD5: 9dd5b2c901390e1b8bfafee9bbcbbeb5
+Work Dir: In memory
+Windows: Windows 11 Pro 21H2 (Build 22000)
+Computer Name: DESKTOP-DQ8FVOF
+User Name: hp
+Display Resolution: 1536x864
+Local Time: 10.07.2026 15:44:59
+Antivirus: Windows Defender
+[Hardware]
+Processor: AMD Ryzen 5 5625U with Radeon Graphics         
+Cores: 12
+Threads: 12
+RAM: 15714 MB
+VideoCard: AMD Radeon (TM) Graphics
+[Processes]
+  [4] System
+  [200] Registry
+  [588] smss.exe
+  [936] csrss.exe
+  [640] wininit.exe
+  [1044] services.exe
+  [1064] lsass.exe
+  [1256] svchost.exe
+  [1288] fontdrvhost.exe
+  [1384] WUDFHost.exe
+  [1440] svchost.exe
+  [1480] svchost.exe
+  [1708] svchost.exe
+  [1716] svchost.exe
+  [1724] svchost.exe
+  [1740] svchost.exe
+  [1880] svchost.exe
+  [1932] svchost.exe
+  [1940] svchost.exe
+  [1952] svchost.exe
+  [1960] svchost.exe
+  [1968] svchost.exe
+  [1844] svchost.exe
+  [2052] svchost.exe
+  [2100] svchost.exe
+  [2252] svchost.exe
+  [2380] svchost.exe
+  [2432] svchost.exe
+  [2464] svchost.exe
+  [2476] svchost.exe
+  [2700] SynTPEnhService.exe
+  [2928] amdfendrsr.exe
+  [2936] atiesrxx.exe
+  [2948] svchost.exe
+  [2500] svchost.exe
+  [2552] svchost.exe
+  [2532] svchost.exe
+  [2556] Memory Compression
+  [3112] svchost.exe
+  [3164] svchost.exe
+  [3172] svchost.exe
+  [3180] AppHelperCap.exe
+  [3188] TouchpointAnalyticsClientService.exe
+  [3196] NetworkCap.exe
+  [3204] SysInfoCap.exe
+  [3212] DiagsCap.exe
+  [3424] svchost.exe
+  [3580] svchost.exe
+  [3660] svchost.exe
+  [3804] svchost.exe
+  [3904] svchost.exe
+  [3952] svchost.exe
+  [3976] svchost.exe
+  [4024] spoolsv.exe
+  [2620] svchost.exe
+  [8] svchost.exe
+  [4308] RtkBtManServ.exe
+  [4316] svchost.exe
+  [4324] svchost.exe
+  [4332] svchost.exe
+  [4340] RtkAudUService64.exe
+  [4352] SECOMN64.exe
+  [4360] svchost.exe
+  [4368] MsMpEng.exe
+  [4384] svchost.exe
+  [4376] MpDefenderCoreService.exe
+  [4396] OfficeClickToRun.exe
+  [4648] svchost.exe
+  [5224] svchost.exe
+  [5816] AggregatorHost.exe
+  [6140] unsecapp.exe
+  [5416] dllhost.exe
+  [1608] WmiPrvSE.exe
+  [5216] SearchIndexer.exe
+  [6216] svchost.exe
+  [6684] svchost.exe
+  [6732] svchost.exe
+  [7012] svchost.exe
+  [7320] svchost.exe
+  [7972] NisSrv.exe
+  [9088] svchost.exe
+  [10064] svchost.exe
+  [9948] svchost.exe
+  [6544] svchost.exe
+  [4488] svchost.exe
+  [10396] SecurityHealthService.exe
+  [10988] svchost.exe
+  [11688] svchost.exe
+  [13176] svchost.exe
+  [12256] SgrmBroker.exe
+  [10180] svchost.exe
+  [9052] svchost.exe
+  [11020] svchost.exe
+  [1052] svchost.exe
+  [4884] audiodg.exe
+  [4044] svchost.exe
+  [1704] svchost.exe
+  [14524] svchost.exe
+  [33300] svchost.exe
+  [8144] svchost.exe
+  [21180] svchost.exe
+  [33888] SearchProtocolHost.exe
+  [6356] WmiPrvSE.exe
+  [30156] svchost.exe
+  [10864] csrss.exe
+  [23440] winlogon.exe
+  [10904] fontdrvhost.exe
+  [26688] dwm.exe
+  [34568] atieclxx.exe
+  [35264] svchost.exe
+  [34580] svchost.exe
+  [24296] svchost.exe
+  [27976] svchost.exe
+  [17828] svchost.exe
+  [7432] svchost.exe
+  [18248] MoUsoCoreWorker.exe
+  [33844] SynTPEnh.exe
+  [22908] sihost.exe
+  [21296] svchost.exe
+  [33892] svchost.exe
+  [31648] MicrosoftEdgeUpdate.exe
+  [28724] taskhostw.exe
+  [7444] explorer.exe
+  [20956] svchost.exe
+  [18680] Widgets.exe
+  [25820] sppsvc.exe
+  [33528] StartMenuExperienceHost.exe
+  [14088] SearchHost.exe
+  [33040] RuntimeBroker.exe
+  [20368] RuntimeBroker.exe
+  [27020] svchost.exe
+  [9844] SECOCL64.exe
+  [25808] conhost.exe
+  [21756] dllhost.exe
+  [25352] backgroundTaskHost.exe
+  [804] backgroundTaskHost.exe
+  [32236] ctfmon.exe
+  [23388] SppExtComObj.Exe
+  [4776] RtkAudUService64.exe
+  [19640] PhoneExperienceHost.exe
+  [26040] WmiPrvSE.exe
+  [5240] WidgetService.exe
+  [7336] powershell.exe
+  [31992] conhost.exe
+  [35188] RuntimeBroker.exe
+  [19968] TextInputHost.exe
+  [18844] smartscreen.exe
+  [19012] SecurityHealthSystray.exe
+  [26528] OneDrive.exe
+  [4812] Avro Keyboard.exe
+  [8076] SecurityHealthService.exe
+  [6616] GDFwAdmin.exe
+  [21016] svchost.exe
+  [22396] 23d17617f5.exe
+  [12876] powershell.exe
+  [1988] conhost.exe
+  [19068] Chrome.exe
+  [7548] Dllhost.exe
+  [9296] svchost.exe
+  [34600] msedge.exe
+  [31488] msedge.exe
+  [16168] msedge.exe
+  [32168] msedge.exe
+  [24300] msedge.exe
+  [13480] identity_helper.exe
+  [26432] dllhost.exe
+  [10100] schtasks.exe
+  [12764] conhost.exe
+  [14312] dllhost.exe
+  [28272] Client.exe
+[Software]
+  Microsoft Office Professional Plus 2016 - en-us
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  Office 16 Click-to-Run Localization Component
+  Microsoft Update Health Tools

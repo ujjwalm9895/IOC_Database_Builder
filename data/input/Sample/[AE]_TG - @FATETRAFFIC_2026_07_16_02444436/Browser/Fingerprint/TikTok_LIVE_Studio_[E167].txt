@@ -1,0 +1,13 @@
+﻿Browser: TikTok_LIVE_Studio
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: false
+Update Channel: stable
+Hardware Acceleration: unknown
+Metrics Enabled: false
+Default Search: unknown
+
+[Metadata]
+Extraction Time: 1783287573

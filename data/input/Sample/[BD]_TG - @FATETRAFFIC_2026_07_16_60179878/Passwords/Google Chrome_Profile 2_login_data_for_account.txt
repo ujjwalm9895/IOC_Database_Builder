@@ -1,0 +1,28 @@
+Soft: Google Chrome (Profile 2)
+Host: https://www.facebook.com/
+Login: 
+Password: 
+Soft: Google Chrome (Profile 2)
+Host: https://myaccount.google.com/
+Login: 
+Password: 
+Soft: Google Chrome (Profile 2)
+Host: android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.lite/
+Login: 
+Password: 
+Soft: Google Chrome (Profile 2)
+Host: https://accounts.google.com/
+Login: 
+Password: 
+Soft: Google Chrome (Profile 2)
+Host: android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/
+Login: 
+Password: 
+Soft: Google Chrome (Profile 2)
+Host: http://pcc.police.gov.bd:8080/
+Login: 
+Password: 
+Soft: Google Chrome (Profile 2)
+Host: https://www.mycvcreator.com/
+Login: 
+Password: 

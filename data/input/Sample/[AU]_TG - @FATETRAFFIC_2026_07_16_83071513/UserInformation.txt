@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 05/07/26 05:43
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: d3dcfd2d3899ab2c
+Country: AU
+IP: 203.132.68.4
+System Language: English
+Processor: AMD Ryzen 5 5600G with Radeon Graphics  (6 cores, 12 threads)
+Installed RAM: 13.90 GB
+Operation System: Windows 11 (Build 26200) (64 Bit)
+Graphics card: NVIDIA GeForce RTX 4060
+Computer Name: BENSONSPC
+Domain Name: WORKGROUP
+-------------
+User Name: bkenn
+Admin Group: TRUE
+Integrity: High
+TimeZone: UTC+10
+UserLanguage: English
+Keyboard Language: English
+Display Resolution: 2560x1440

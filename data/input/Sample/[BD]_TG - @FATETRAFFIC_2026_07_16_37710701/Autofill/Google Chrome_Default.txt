@@ -1,0 +1,83 @@
+user_email 2203132
+id 232259
+id 988802
+email irokibul912@gmail.com
+doj 23-May-2026
+firstName Rokibul
+givenName Islam
+roll 604802
+reg 077606
+name MOSAMMAT SHAHNAZ PARVIN
+father MD. ABDUR RASHID
+session 1993
+center DHANBARI
+dob 1978-03-01
+fee_show 500
+mobile 01765704153
+registration[email] u2203132@student.cuet.ac.bd
+name Rakib
+institution Chittagong University of Engineering & Technology
+doj 24-Sep-2025
+left_1401_3 1750
+from 0
+mobile_number 01768135007
+registration[email] irokibul912@gmail.com
+doj 02-Oct-2025
+s বিভা
+right_1401_3 12000
+subject-name a
+doj 13-May-2026
+pname0 MD. ROKIBUL ISLAM
+searchmenu_departingon 03/06/2025
+reset_password[email] u2203132@student.cuet.ac.bd
+email u2203132@student.cuet.ac.bd
+s matlab
+username Rokibul Islam
+phone 01768135007
+q the anatomy of world politics
+course-name math
+keys energy
+id 988810
+_r_r_ RelentlessMind
+dest_from Chattogram
+dest_to Dhaka
+to 80,000
+userName irokibul912@gmail.com
+user Rokibul Islam
+name NAFISHA ALAM 
+dateOfBirth 21-05-2013
+birthRegistrationNo 20139312585106274
+mobileNo 01733980263
+confirmMobileNo 01733980263
+fatherName MD JAHANGIR ALAM
+fatherNid 4161512738
+motherName JAYNAB KHATOON
+motherNid 2354785442
+previousSchoolName Chatila Safalia Balika Dakhil Madrasha
+presentAddress DORICHANDRABARI
+presentPostalCode 1997
+permanentAddress DORICHANDRABARI
+permanentPostalCode 1997
+shareCommentText 😂
+shareCommentText tumi ki jedi?
+id 98802
+_r_19_ VoidStriker1X
+_r_19_ void_striker_X
+log-back-focus-input He's an insipid old bore.
+searchmenu_departingon 19/12/2025
+citizen_name MD. ROKIBUL ISLAM
+citizen_father_name মোঃ গোলাম সরওয়ার
+citizen_mother_name মোছাঃ শাহনাজ পারভীন
+shareCommentText white o kharap na
+shareCommentText eita dita 🥺
+shareCommentText amader kopale nai 😢
+shareCommentText everyday
+shareCommentText but your's voice!!   OMG
+shareCommentText 😭😭
+username irokibul912@gmail.com
+doj 28-Feb-2026
+right_1401_3 12
+s kobi
+9279e415e74cf70a4bc728721471eda5 irokibul911@gmail.com
+shareCommentText chol khai quiz cancel
+shareCommentText dekhsoos?

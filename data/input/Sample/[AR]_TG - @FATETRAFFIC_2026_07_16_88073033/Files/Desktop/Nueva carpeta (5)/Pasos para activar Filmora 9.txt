@@ -1,0 +1,10 @@
+-Primero Instala Filmora version 9.3.0.24
+
+para activar filmora 9 version filmora 9.3.0.24, seguir los pasos acontinuacion.
+-copiar y pegar el archivo hosts en la ruta de disco duro C:\Windows\System32\drivers\etc
+para entrar a la carpeta etc ir hasta la carpeta drivers poner en la barra de buscar etc y dar enter, esperar que salga la carpeta etc entrar y pegar el archivo host.
+-una vez hecho ese paso apagar el internet del computador, abrir filmora, ir donde dice ayuda y luego donde dice activación sin internet, copiar y pegar el correo y el codigo, dar click en activar, esperar ventana de confirmación, cerrar el programa, abrir otra vez filmora, ir otra vez donde dice ayuda y activar sin conexion, abierta la ventana debe salir Wondershare filmora 9 ACTIVADO.
+*Agradeceme suscribiendote a mi canal para ver mas contenido de ayuda gratis*
+
+Correo: c2943267@drdrb.com
+Codigo: D772BE0279AFE60AF0E1D2109CA89A19

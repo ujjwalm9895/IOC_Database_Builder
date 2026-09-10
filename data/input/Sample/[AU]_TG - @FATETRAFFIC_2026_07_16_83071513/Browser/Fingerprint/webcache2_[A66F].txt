@@ -1,0 +1,22 @@
+﻿Browser: webcache2
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: false
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Profile Name: Person 1
+
+[Metadata]
+Extraction Time: 1783230282

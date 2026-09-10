@@ -1,0 +1,1 @@
+﻿mojang	FALSE	/	TRUE	1805995683	MicrosoftApplicationsTelemetryDeviceId	ae6f

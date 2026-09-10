@@ -1,0 +1,446 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+⤷ Жирные логи с вебмастеров, лендов и Youtube 
+⤷ Количество логов в базах: 3 350 000+ | Имеем отзывы на форумах 
+⤷ Регулярные заливы свежего материала
+⤷ Льем уникальный трафик без дублей в одни руки по индивидуальной подписке. 
+
+⦁Budget(1 week)-208$ | Budget(1 month)-422$ | Budget(Lifetime)-4875$ | Secret(1 month)-487$ 
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 2.50.160.45
+Country: AE
+
+Date: 01.06.2026 06:16:17
+MachineID: e6f07b96-07b9-2473-107e-f68eaf9e4f9e
+GUID: {cbd4d975-8f13}
+HWID: B0CAE7A1DDC6D9202352-cbd4d975-8f13-DF32C7B
+
+Path: C:\windows\system32\nslookup.exe
+MD5: f2e3950c1023acf80765c918791999c0
+Work Dir: In memory
+
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: BLENDER
+User Name: hp
+Display Resolution: 2560x1440
+Local Time: 01.06.2026 06:16:17
+
+[Hardware]
+Processor: 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz
+Cores: 16
+Threads: 16
+RAM: 65280 MB
+VideoCard: Intel(R) UHD Graphics 750
+
+[Processes]
+  [4] System
+  [104] Secure System
+  [180] Registry
+  [640] smss.exe
+  [968] csrss.exe
+  [1100] wininit.exe
+  [1108] csrss.exe
+  [1172] services.exe
+  [1192] LsaIso.exe
+  [1200] lsass.exe
+  [1320] svchost.exe
+  [1344] fontdrvhost.exe
+  [1388] WUDFHost.exe
+  [1448] svchost.exe
+  [1496] svchost.exe
+  [1572] winlogon.exe
+  [1628] fontdrvhost.exe
+  [1716] svchost.exe
+  [1772] svchost.exe
+  [1780] svchost.exe
+  [1804] svchost.exe
+  [1832] svchost.exe
+  [1984] svchost.exe
+  [708] svchost.exe
+  [724] svchost.exe
+  [2052] svchost.exe
+  [2092] IntelCpHDCPSvc.exe
+  [2120] svchost.exe
+  [2132] svchost.exe
+  [2140] svchost.exe
+  [2200] dwm.exe
+  [2264] svchost.exe
+  [2288] svchost.exe
+  [2388] svchost.exe
+  [2480] svchost.exe
+  [2548] igfxCUIServiceN.exe
+  [2612] svchost.exe
+  [2664] svchost.exe
+  [2736] svchost.exe
+  [2752] svchost.exe
+  [2800] svchost.exe
+  [2936] svchost.exe
+  [2988] svchost.exe
+  [3172] svchost.exe
+  [3256] svchost.exe
+  [3264] svchost.exe
+  [3332] svchost.exe
+  [3340] amdfendrsr.exe
+  [3348] atiesrxx.exe
+  [3516] svchost.exe
+  [3564] svchost.exe
+  [3840] svchost.exe
+  [3848] svchost.exe
+  [3864] atieclxx.exe
+  [3940] svchost.exe
+  [3948] svchost.exe
+  [3956] svchost.exe
+  [3964] TouchpointAnalyticsClientService.exe
+  [3972] NetworkCap.exe
+  [3980] AppHelperCap.exe
+  [3988] SysInfoCap.exe
+  [3996] DiagsCap.exe
+  [4032] Memory Compression
+  [4116] hpsvcsscan.exe
+  [4192] svchost.exe
+  [4784] unsecapp.exe
+  [4908] WmiPrvSE.exe
+  [5008] svchost.exe
+  [5104] svchost.exe
+  [5112] svchost.exe
+  [3792] svchost.exe
+  [5256] svchost.exe
+  [5340] svchost.exe
+  [5536] svchost.exe
+  [5696] svchost.exe
+  [5764] HotkeyServiceDSU.exe
+  [6072] svchost.exe
+  [6080] svchost.exe
+  [5876] svchost.exe
+  [6016] svchost.exe
+  [6008] sihost.exe
+  [6192] svchost.exe
+  [6204] svchost.exe
+  [6240] PresentationFontCache.exe
+  [6288] svchost.exe
+  [6468] UlaaUpdateAssistant.exe
+  [6492] svchost.exe
+  [6524] taskhostw.exe
+  [6616] HP.ClientSecurityManager.exe
+  [6792] wlanext.exe
+  [6800] conhost.exe
+  [6976] spoolsv.exe
+  [7024] Intel_PIE_Service.exe
+  [7048] explorer.exe
+  [6816] igfxEMN.exe
+  [7224] svchost.exe
+  [7364] SearchIndexer.exe
+  [7456] svchost.exe
+  [7976] svchost.exe
+  [7992] OneApp.IGCC.WinService.exe
+  [8000] BrService.exe
+  [8008] sntlkeyssrvr.exe
+  [8016] svchost.exe
+  [8024] sntlsrtsrvr.exe
+  [8032] spnsrvnt.exe
+  [8048] svchost.exe
+  [8056] svchost.exe
+  [8064] jhi_service.exe
+  [8072] RstMwService.exe
+  [8088] svchost.exe
+  [8096] XtuService.exe
+  [8104] SECOMN64.exe
+  [8112] svchost.exe
+  [8120] svchost.exe
+  [8128] RtkAudUService64.exe
+  [8184] OfficeClickToRun.exe
+  [2224] LMS.exe
+  [8256] esif_uf.exe
+  [8368] svchost.exe
+  [8572] svchost.exe
+  [8820] LanWlanWwanSwitchingServiceDSU.exe
+  [9056] svchost.exe
+  [10724] BemSvc.exe
+  [11012] svchost.exe
+  [8788] AggregatorHost.exe
+  [11096] SearchApp.exe
+  [11436] StartMenuExperienceHost.exe
+  [11504] RuntimeBroker.exe
+  [11688] svchost.exe
+  [11844] svchost.exe
+  [11888] msedgewebview2.exe
+  [11936] RuntimeBroker.exe
+  [12060] dllhost.exe
+  [12092] msedgewebview2.exe
+  [11128] msedgewebview2.exe
+  [11100] msedgewebview2.exe
+  [12368] msedgewebview2.exe
+  [12668] msedgewebview2.exe
+  [14228] svchost.exe
+  [14316] ctfmon.exe
+  [13864] BrConsole.exe
+  [14884] svchost.exe
+  [14196] svchost.exe
+  [14620] svchost.exe
+  [14816] svchost.exe
+  [15072] svchost.exe
+  [6116] svchost.exe
+  [15924] audiodg.exe
+  [15220] dasHost.exe
+  [13216] svchost.exe
+  [16620] BrHostSvr.exe
+  [14056] TextInputHost.exe
+  [13964] SecurityHealthSystray.exe
+  [17256] SecurityHealthService.exe
+  [17340] RtkAudUService64.exe
+  [16572] acdIDInTouch2.exe
+  [17032] svchost.exe
+  [16736] ACDSeeCommanderUltimate17.exe
+  [16748] ACDSeeCommanderFree.exe
+  [15616] recorder.exe
+  [16288] uservice.exe
+  [17460] Matrix90.exe
+  [17824] WhatsApp.Root.exe
+  [17832] Discord.exe
+  [18364] Discord.exe
+  [16296] Discord.exe
+  [17784] Discord.exe
+  [18188] RuntimeBroker.exe
+  [18536] msedgewebview2.exe
+  [18572] msedgewebview2.exe
+  [18832] msedgewebview2.exe
+  [18840] msedgewebview2.exe
+  [18928] msedgewebview2.exe
+  [18984] CompPkgSrv.exe
+  [19380] svchost.exe
+  [19600] msedgewebview2.exe
+  [19776] Discord.exe
+  [20060] WhatsApp.Root.exe
+  [20380] RuntimeBroker.exe
+  [20472] msedgewebview2.exe
+  [19472] msedgewebview2.exe
+  [19844] msedgewebview2.exe
+  [19660] msedgewebview2.exe
+  [19620] msedgewebview2.exe
+  [20716] Discord.exe
+  [21340] msedgewebview2.exe
+  [17440] HPNotifications.exe
+  [21264] hpqwmiex.exe
+  [9912] svchost.exe
+  [21460] unsecapp.exe
+  [9176] HuionTablet.exe
+  [1508] HuionTabletCore.exe
+  [3384] HuionServer.exe
+  [18860] PhoneExperienceHost.exe
+  [21720] svchost.exe
+  [21964] RuntimeBroker.exe
+  [22608] svchost.exe
+  [23252] RadeonSoftware.exe
+  [13188] cncmd.exe
+  [20928] cmd.exe
+  [21268] conhost.exe
+  [12016] AMDRSServ.exe
+  [6256] amdow.exe
+  [6316] AMDRSSrcExt.exe
+  [13508] svchost.exe
+  [22092] nearby_share.exe
+  [9136] crashpad_handler.exe
+  [1396] ApplicationFrameHost.exe
+  [23432] UserOOBEBroker.exe
+  [15116] DesktopExtension.exe
+  [14992] HP.HPX.exe
+  [24048] RuntimeBroker.exe
+  [23812] MatrixUpdater.exe
+  [24252] SecurityUpdateService.exe
+  [8648] svchost.exe
+  [1460] Rhino.exe
+  [22732] FNPLicensingService64.exe
+  [10548] CalculatorApp.exe
+  [22060] RuntimeBroker.exe
+  [12204] Br-uxendm.exe
+  [12116] conhost.exe
+  [13576] Br-uxendm.exe
+  [12676] conhost.exe
+  [20780] Rhino.exe
+  [6352] MpDefenderCoreService.exe
+  [15204] MsMpEng.exe
+  [6916] SDXHelper.exe
+  [16236] prevhost.exe
+  [8748] svchost.exe
+  [4616] svchost.exe
+  [13792] ulaa.exe
+  [13328] ulaa.exe
+  [14288] ulaa.exe
+  [14868] ulaa.exe
+  [2732] ulaa.exe
+  [5156] ulaa.exe
+  [6020] ulaa.exe
+  [16484] ulaa.exe
+  [3640] ulaa.exe
+  [14664] ulaa.exe
+  [15908] rundll32.exe
+  [24624] svchost.exe
+  [24880] svchost.exe
+  [25356] dllhost.exe
+  [4408] msedgewebview2.exe
+  [24180] OneDrive.exe
+  [26104] OneDrive.Sync.Service.exe
+  [17860] ulaa.exe
+  [26964] ulaa.exe
+  [15868] ulaa.exe
+  [14640] LicSrv30.exe
+  [15280] ulaa.exe
+  [32] dllhost.exe
+  [24284] ulaa.exe
+  [29408] notepad.exe
+  [7600] ulaa.exe
+  [29592] ulaa.exe
+  [2896] ShellExperienceHost.exe
+  [12812] RuntimeBroker.exe
+  [20888] ulaa.exe
+  [4580] ulaa.exe
+  [15184] SystemSettingsBroker.exe
+  [15032] ulaa.exe
+  [15540] MoUsoCoreWorker.exe
+  [31068] WUDFHost.exe
+  [3536] blender.exe
+  [30028] conhost.exe
+  [23828] blender.exe
+  [14752] conhost.exe
+  [23324] Microsoft.Media.Player.exe
+  [14600] RuntimeBroker.exe
+  [26844] FileCoAuth.exe
+  [28112] ulaa.exe
+  [9780] taskhostw.exe
+  [35704] WmiPrvSE.exe
+  [31708] ACDSeeQVUltimate17.exe
+  [24208] ulaa.exe
+  [28404] SearchApp.exe
+  [2488] RuntimeBroker.exe
+  [12564] taskhostw.exe
+  [34692] msedgewebview2.exe
+  [8492] blenderkit-client-windows-x86_64.exe
+  [25620] conhost.exe
+  [35196] svchost.exe
+  [18684] Rhino.exe
+  [9276] ulaa.exe
+  [30444] Rhino.exe
+  [26296] ulaa.exe
+  [31112] ulaa.exe
+  [31248] ulaa.exe
+  [8664] ulaa.exe
+  [26380] dasHost.exe
+  [17148] dasHost.exe
+  [29860] svchost.exe
+  [34924] svchost.exe
+  [33236] ulaa.exe
+  [32456] ulaa.exe
+  [33960] blender.exe
+  [34592] conhost.exe
+  [3064] svchost.exe
+  [16924] svchost.exe
+  [21308] svchost.exe
+  [36956] ulaa.exe
+  [35900] smartscreen.exe
+  [27432] svchost.exe
+  [28224] blender.exe
+  [14312] conhost.exe
+  [30748] blender.exe
+  [38160] conhost.exe
+  [34968] SearchProtocolHost.exe
+  [39764] setup.exe
+  [24924] ulaa.exe
+  [25376] ulaa.exe
+  [36964] ulaa.exe
+  [24964] svchost.exe
+  [4384] SearchProtocolHost.exe
+  [18240] SearchFilterHost.exe
+  [38472] WinRAR.exe
+  [10024] svchost.exe
+  [36384] ulaa.exe
+  [14872] svchost.exe
+  [37852] svchost.exe
+  [17012] svchost.exe
+  [22400] RuntimeBroker.exe
+  [31144] nslookup.exe
+  [36216] dllhost.exe
+  [16192] Setup.exe
+  [39700] AutoIt3.exe
+  [35404] Setup.exe
+[Software]
+  Windows Driver Package - HP Inc. BrCow_4_4_31_845 ActivityMonitor  (04/30/2026 4.4.31.845)
+  Windows Driver Package - HP Inc. BrFilter_4_4_31_845 ActivityMonitor  (04/30/2026 4.4.31.845)
+  AMD Software
+  Windows Driver Package - HP Inc. sselam_4_4_2_453 AntiVirus  (11/01/2022 4.4.2.453)
+  Clayoo 2
+  Clayoo 2 for Rhino 6
+  Windows Driver Package - HP Inc. sselam_4_4_30_1296 AntiVirus  (03/10/2026 4.4.30.1296)
+  Equalizer APO
+  HP Documentation
+  Microsoft OneDrive
+  Microsoft Office Professional Plus 2024 - en-us
+  Intel(R) Network Connections Drivers
+  RhinoGold 6.6
+  VLC media player
+  WinRAR 7.01 (64-bit)
+  ZBrush 2023.1.1
+  HP Wolf Security Application Support for Sure Sense
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  Rhinoceros 5 (64-bit)
+  Autodesk T-Splines Plug-in for Rhino version 4.0 r11183 (64)
+  Microsoft Windows Desktop Runtime - 7.0.0 (x64)
+  Intel(R) Management Engine Components
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Update Health Tools
+  Rhino 8
+  Intel(R) Management Engine Components
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+  Blender
+  ACDSee Free
+  Microsoft .NET Host - 8.0.8 (x64)
+  Rhinoceros 7 Language Pack Installer (en-US)
+  Rhino Installer Engine
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  HP Security Update Service
+  Branding64
+  Quick Share
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+  Microsoft Windows Desktop Runtime - 8.0.8 (x64)
+  AMD Settings
+  Intel(R) LMS
+  Microsoft .NET Host FX Resolver - 8.0.8 (x64)
+  Intel(R) Management Engine Driver
+  Rhinoceros 6 Language Pack Installer (en-US)
+  AMD WVR64
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Blender
+  Office 16 Click-to-Run Extensibility Component
+  Dynamic Application Loader Host Interface Service
+  Intel(R) Wireless Manageability Driver
+  AMD DVR64
+  Intel(R) Management Engine Components
+  Microsoft .NET Runtime - 8.0.8 (x64)
+  Rhino 6
+  Microsoft .NET Runtime - 7.0.0 (x64)
+  Intel(R) Management Engine Components
+  Intel(R) Wireless Manageability Driver Extension
+  Microsoft Visual C++ 2005 Redistributable (x64)
+  Rhinoceros 8 Language Pack Installer (en-US)
+  Update for x64-based Windows Systems (KB5001716)
+  HP Wolf Security
+  Microsoft .NET Host - 7.0.0 (x64)
+  Blender
+  ACDSee Photo Studio Ultimate 2024
+  HP Wolf Security Application Support for Chrome 146.0.7680.208
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+  Blender
+  Rhino 7
+  HP Wolf Security - Console
+  Microsoft .NET Host FX Resolver - 7.0.0 (x64)
+  Intel(R) Icls

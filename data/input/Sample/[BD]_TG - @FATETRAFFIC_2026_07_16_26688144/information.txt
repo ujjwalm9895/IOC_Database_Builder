@@ -1,0 +1,248 @@
+IP: 27.123.255.130
+Country: BD
+Date: 11.07.2026 18:56:18
+MachineID: efddf086-df08-00fc-f6f4-19292d8acd92
+GUID: {f4adbee2-137d}
+HWID: C4E3F655F86A0DA43736-f4adbee2-137d-49B665F
+Path: C:\Users\Amjad Hossan\AppData\Local\Temp\13117500101\64963c794e.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-N9KNKKQ
+User Name: Amjad Hossan
+Display Resolution: 1536x864
+Local Time: 11.07.2026 18:56:18
+Antivirus: Windows Defender
+[Hardware]
+Processor: 13th Gen Intel(R) Core(TM) i5-1335U
+Cores: 12
+Threads: 12
+RAM: 7824 MB
+VideoCard: Intel(R) UHD Graphics
+[Processes]
+  [4] System
+  [148] Registry
+  [596] smss.exe
+  [844] csrss.exe
+  [940] wininit.exe
+  [648] services.exe
+  [952] lsass.exe
+  [1136] svchost.exe
+  [1172] fontdrvhost.exe
+  [1236] WUDFHost.exe
+  [1304] svchost.exe
+  [1356] svchost.exe
+  [1400] WUDFHost.exe
+  [1488] WUDFHost.exe
+  [1568] svchost.exe
+  [1584] svchost.exe
+  [1592] svchost.exe
+  [1620] svchost.exe
+  [1716] svchost.exe
+  [1732] svchost.exe
+  [1740] svchost.exe
+  [1860] svchost.exe
+  [1968] IntelCpHDCPSvc.exe
+  [2020] svchost.exe
+  [1012] svchost.exe
+  [2088] svchost.exe
+  [2140] svchost.exe
+  [2320] svchost.exe
+  [2464] svchost.exe
+  [2480] svchost.exe
+  [2492] svchost.exe
+  [2536] ELAN_MOC_Service.exe
+  [2552] svchost.exe
+  [2560] svchost.exe
+  [2740] svchost.exe
+  [2800] dasHost.exe
+  [2884] svchost.exe
+  [2936] svchost.exe
+  [2972] svchost.exe
+  [2980] svchost.exe
+  [2996] svchost.exe
+  [3036] svchost.exe
+  [3068] QMEmulatorService.exe
+  [3312] svchost.exe
+  [3412] svchost.exe
+  [3420] svchost.exe
+  [3428] svchost.exe
+  [3512] Memory Compression
+  [3556] svchost.exe
+  [3620] svchost.exe
+  [3628] SysInfoCap.exe
+  [3640] TouchpointAnalyticsClientService.exe
+  [3636] NetworkCap.exe
+  [3652] AppHelperCap.exe
+  [3664] svchost.exe
+  [3668] DiagsCap.exe
+  [3684] svchost.exe
+  [3808] hpsvcsscan.exe
+  [3944] svchost.exe
+  [4016] svchost.exe
+  [4436] svchost.exe
+  [4700] svchost.exe
+  [4792] unsecapp.exe
+  [4844] svchost.exe
+  [4940] WmiPrvSE.exe
+  [5188] SearchIndexer.exe
+  [5256] HotKeyServiceUWP.exe
+  [5332] svchost.exe
+  [5360] svchost.exe
+  [5460] svchost.exe
+  [5548] spoolsv.exe
+  [5556] wlanext.exe
+  [5576] conhost.exe
+  [5660] svchost.exe
+  [5728] svchost.exe
+  [5820] svchost.exe
+  [5276] svchost.exe
+  [4552] ipfsvc.exe
+  [5388] FMService64.exe
+  [5320] svchost.exe
+  [5600] svchost.exe
+  [5596] IntelAudioService.exe
+  [5780] ipf_uf.exe
+  [4204] jhi_service.exe
+  [6152] RtkAudUService64.exe
+  [6160] svchost.exe
+  [6184] SECOMN64.exe
+  [6192] HpSfuService64.exe
+  [6220] WMIRegistrationService.exe
+  [6228] svchost.exe
+  [6240] MpDefenderCoreService.exe
+  [6248] MsMpEng.exe
+  [6264] svchost.exe
+  [6272] net_updater32.exe
+  [6288] svchost.exe
+  [6524] IntelGraphicsSoftware.Service.exe
+  [6872] svchost.exe
+  [7156] LanWlanWwanSwitchingServiceUWP.exe
+  [6652] svchost.exe
+  [9004] dllhost.exe
+  [8696] PresentMonService.exe
+  [8860] conhost.exe
+  [8484] nslookup.exe
+  [8752] AggregatorHost.exe
+  [9644] svchost.exe
+  [9920] svchost.exe
+  [9800] svchost.exe
+  [11200] svchost.exe
+  [4924] svchost.exe
+  [11304] svchost.exe
+  [6116] svchost.exe
+  [12776] conhost.exe
+  [13000] NisSrv.exe
+  [8464] SecurityHealthService.exe
+  [8168] svchost.exe
+  [16084] svchost.exe
+  [17024] svchost.exe
+  [6208] svchost.exe
+  [11996] svchost.exe
+  [8] svchost.exe
+  [8736] svchost.exe
+  [18460] WmiPrvSE.exe
+  [19036] svchost.exe
+  [15652] svchost.exe
+  [3448] vds.exe
+  [12104] svchost.exe
+  [5784] WmiPrvSE.exe
+  [17796] svchost.exe
+  [18944] svchost.exe
+  [3568] audiodg.exe
+  [3296] svchost.exe
+  [18744] SearchProtocolHost.exe
+  [11804] WmiPrvSE.exe
+  [6472] svchost.exe
+  [13800] csrss.exe
+  [5092] winlogon.exe
+  [1452] fontdrvhost.exe
+  [14772] dwm.exe
+  [17036] svchost.exe
+  [9672] SearchFilterHost.exe
+  [11720] ipf_helper.exe
+  [4432] sihost.exe
+  [1580] svchost.exe
+  [1872] svchost.exe
+  [18844] svchost.exe
+  [9732] taskhostw.exe
+  [15316] MicrosoftEdgeUpdate.exe
+  [4412] taskhostw.exe
+  [19276] HPAudioAnalytics.exe
+  [3180] FMAudioMonitor.exe
+  [16620] explorer.exe
+  [10596] sppsvc.exe
+  [936] svchost.exe
+  [18324] SECOCL64.exe
+  [13700] conhost.exe
+  [1856] ctfmon.exe
+  [336] RtkAudUService64.exe
+  [11052] svchost.exe
+  [16412] StartMenuExperienceHost.exe
+  [5812] RuntimeBroker.exe
+  [18024] SearchApp.exe
+  [2060] RuntimeBroker.exe
+  [12220] backgroundTaskHost.exe
+  [16096] backgroundTaskHost.exe
+  [16016] RuntimeBroker.exe
+  [5564] RuntimeBroker.exe
+  [18528] SppExtComObj.Exe
+  [11948] PhoneExperienceHost.exe
+  [10804] brightdata.exe
+  [16132] conhost.exe
+  [10176] TextInputHost.exe
+  [18616] smartscreen.exe
+  [540] SecurityHealthSystray.exe
+  [9728] RtkAudUService64.exe
+  [7420] dllhost.exe
+  [13480] mentalmentor.exe
+  [4568] BlueStacksServices.exe
+  [16348] pwahelper.exe
+  [7880] msedge.exe
+  [9356] BlueStacksServices.exe
+  [16644] msedge.exe
+  [4816] msedge.exe
+  [9068] msedge.exe
+  [16192] msedge.exe
+  [15404] BlueStacksServices.exe
+  [14136] BlueStacksServices.exe
+  [11532] msedge.exe
+  [17632] SecurityHealthService.exe
+  [11296] 64963c794e.exe
+  [684] msedge.exe
+  [10340] Chrome.exe
+  [6356] Client.exe
+  [5180] msedge.exe
+  [8536] msedge.exe
+  [14444] svchost.exe
+  [1700] Dllhost.exe
+  [2160] ShellExperienceHost.exe
+  [15256] RuntimeBroker.exe
+  [16988] svchost.exe
+  [19244] taskhostw.exe
+  [14324] svchost.exe
+  [10224] RuntimeBroker.exe
+  [12984] svchost.exe
+  [8488] dllhost.exe
+  [17196] wermgr.exe
+  [2880] taskhostw.exe
+  [19144] Wihnup.exe
+  [18784] svchost.exe
+  [18960] LocationNotificationWindows.exe
+  [17092] backgroundTaskHost.exe
+  [9432] backgroundTaskHost.exe
+[Software]
+  BlueStacks
+  WinRAR 6.11 (64-bit)
+  Python 3.13.5 Documentation (64-bit)
+  Microsoft Update Health Tools
+  Python 3.13.5 pip Bootstrap (64-bit)
+  Python 3.13.5 Executables (64-bit)
+  Microsoft Office Office 64-bit Components 2010
+  Microsoft Office Shared 64-bit MUI (English) 2010
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010
+  Python 3.13.5 Core Interpreter (64-bit)
+  Python 3.13.5 Test Suite (64-bit)
+  Python 3.13.5 Tcl/Tk Support (64-bit)
+  Python 3.13.5 Development Libraries (64-bit)
+  Update for x64-based Windows Systems (KB5001716)

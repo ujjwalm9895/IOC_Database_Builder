@@ -1,0 +1,5 @@
+﻿Browser: Kiro
+===============
+
+[Metadata]
+Extraction Time: 1782877668

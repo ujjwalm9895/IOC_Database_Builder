@@ -1,0 +1,30 @@
+{
+  "Version": 1,
+  "Configs": [
+    {
+      "Feature": "MooseCrashReportingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.45"
+        }
+      ]
+    },
+    {
+      "Feature": "DeveloperEventsResultTrackingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    }
+  ]
+}

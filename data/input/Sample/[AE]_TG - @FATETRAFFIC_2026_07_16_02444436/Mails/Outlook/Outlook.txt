@@ -1,0 +1,23 @@
+Target: MicrosoftAccount:target=SSO_POP_User:user=mmk98uae@gmail.com
+User: mmk98uae@gmail.com
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_Device
+User: 02qogbnjmkribslq
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=mmk98uae@gmail.com
+User: mmk98uae@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=WindowsLive:(token):name=mmk98uae@gmail.com;serviceuri=scope=service::user.auth.xboxlive.com::mbi_ssl
+User: mmk98uae@gmail.com
+Pass: (empty)
+
+Target: WindowsLive:target=virtualapp/didlogical
+User: 02qogbnjmkribslq
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=m9309020@hotmail.com
+User: m9309020@hotmail.com
+Pass: (empty)

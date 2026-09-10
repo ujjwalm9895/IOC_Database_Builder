@@ -1,0 +1,14 @@
+﻿Browser: Edge
+===============
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Profile Name: Guest
+
+[Metadata]
+Extraction Time: 1783272118

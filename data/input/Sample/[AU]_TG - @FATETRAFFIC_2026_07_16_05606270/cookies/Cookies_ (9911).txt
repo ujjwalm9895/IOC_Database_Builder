@@ -1,0 +1,12 @@
+.grok.com	TRUE	/	TRUE	1786057032	sso-rw	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYmU0MzhlYmEtZWIyMy00MjhhLTg0YmMtNTBmYTBlMTc5M2E1In0.jnLwj0Qx86Ab9eHrxZdIQBj-0W7LvBrc7KUXT8R4BXQ
+.grok.com	TRUE	/	TRUE	1786057032	sso	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYmU0MzhlYmEtZWIyMy00MjhhLTg0YmMtNTBmYTBlMTc5M2E1In0.jnLwj0Qx86Ab9eHrxZdIQBj-0W7LvBrc7KUXT8R4BXQ
+.grok.com	TRUE	/	TRUE	1808479897	_twpid	tw.1774783841398.378131719252831619
+.grok.com	TRUE	/	FALSE	1809821934	afUserId	b85d8ff3-2dce-4913-962e-fd20827f1a0b-p
+.grok.com	TRUE	/	FALSE	1809821934	_ga	GA1.1.158380753.1770505023
+.grok.com	TRUE	/	FALSE	1809822051	_ga_8FEWB057YH	GS2.1.s1775261568$o18$g1$t1775262051$j60$l0$h0
+.grok.com	TRUE	/	FALSE	1807223145	OptanonAlertBoxClosed	2026-04-08T22:25:45.406Z
+.grok.com	TRUE	/	TRUE	1814047989	grok_device_id	27c167f9-0fef-4f55-b67a-3a2fe9b8b415
+.grok.com	TRUE	/	TRUE	1811763822	cf_clearance	3nsfdlobBy_J2g0HFOSQn170szE.9phFQ5jXcdRX1nQ-1780227822-1.2.1.1-xMuIZy7r_xfnDrNqTWm3AuhOdVErgXlOeeTdy_hU8WtZdlnmbbHyq2xVZvHyxl7qUAdYOACbEhx5VyFSVKh1CLejoOIK0BaONeuJRCLlgU_CH5fCTbHqEYXxEqjUMtHZ1JN4lYzdPTmf12jRPOKFR5oqoTvV0m32iUC7QIpujKp_b8kl_UNgIFfMHV2j0iVI4yGxlHWcUmMFD1CAmoLfeSVOaTILY.zsn5ZRXgw7tFNGaa07X3OflO7fXV9AunmzzzRjDtFQiSq7pHFtfmEdoBBBL5_HPYh67pGsPXtj9CrOV8z0tHYQzcp0UIFpVezhw3thJ7mUbMcyJAYF_llodQ
+.grok.com	TRUE	/	FALSE	1811763823	OptanonConsent	isGpcEnabled=1&datestamp=Sun+May+31+2026+13%3A43%3A43+GMT%2B0200+(Central+European+Summer+Time)&version=202603.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=eb987317-81d4-44c6-8354-ce524994839d&interactionCount=1&isAnonUser=0&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0&intType=2&crTime=1775687145845&geolocation=HU%3BPE&AwaitingReconsent=false
+.grok.com	TRUE	/	TRUE	1811763862	__stripe_mid	2dc78fb1-ad21-46a8-866b-0b091b5e4d58cd58db
+.grok.com	TRUE	/	FALSE	1811763877	mp_ea93da913ddb66b6372b89d97b1029ac_mixpanel	%7B%22distinct_id%22%3A%22eb987317-81d4-44c6-8354-ce524994839d%22%2C%22%24device_id%22%3A%22dee910a0-d625-45de-b517-b5102416b0b0%22%2C%22%24search_engine%22%3A%22google%22%2C%22%24initial_referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%22www.google.com%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22%24user_id%22%3A%22eb987317-81d4-44c6-8354-ce524994839d%22%7D

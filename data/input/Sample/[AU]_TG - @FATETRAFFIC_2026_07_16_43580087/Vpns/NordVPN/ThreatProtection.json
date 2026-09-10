@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "Configs": [
+    {
+      "Feature": "Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=6.40.1",
+          "Weight": 1,
+          "Channel": "channel-1, channel-4, channel-5, channel-beta",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.43.4",
+          "Weight": 2,
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.43.5",
+          "Weight": 3,
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": true,
+          "AppVersion": "<6.46.0",
+          "Weight": 4,
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": false,
+          "Weight": 5,
+          "AppVersion": "<6.40.1"
+        }
+      ]
+    },
+    {
+      "Feature": "Deprecated",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": "<7.4.7",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "MonitoringExtensions",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "*",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "EnableThreatProtectionByAPI",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": "<6.46.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "UseIpc",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=6.45.5.0",
+          "Weight": 1,
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": true,
+          "AppVersion": "<6.48.2.0",
+          "Weight": 2,
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": false,
+          "Weight": 3,
+          "AppVersion": "<6.45.5.0"
+        }
+      ]
+    },
+    {
+      "Feature": "UseLibmanglerLoki",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=6.43.0",
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": "<6.46.0",
+          "Weight": 2
+        },
+        {
+          "Value": false,
+          "Weight": 3,
+          "AppVersion": "<6.43.0"
+        }
+      ]
+    },
+    {
+      "Feature": "UrlStrippingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.48.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "CookiesConsentHiderEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ExtensionScanningEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.4.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ThreatProtectionGrpcChannelHandlingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.4.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "MlSetConfiguration",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.4.5",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5",
+          "Weight": 2
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.9.4",
+          "Weight": 3
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=7.38",
+          "Architecture": "arm64",
+          "Weight": 4
+        }
+      ]
+    },
+    {
+      "Feature": "MlEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.4.5",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5",
+          "Weight": 2
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.9.4",
+          "Weight": 3
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=7.38",
+          "Architecture": "arm64",
+          "Weight": 4
+        }
+      ]
+    },
+    {
+      "Feature": "ThreatProtectionMaxUIEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.5.0.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ThreatProtectionPauseEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": "<7.12.0",
+          "Weight": 1
+        },
+        {
+          "Value": false,
+          "AppVersion": "<7.7.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "TrustMlPrediction",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.12.3",
+          "Weight": 2
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=7.17.0",
+          "Weight": 3
+        }
+      ]
+    },
+    {
+      "Feature": "TrustMlPredictionIndex",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 2,
+          "AppVersion": ">=7.17.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ProcessMonitoringEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "Channel": "channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "DeveloperEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.21.0",
+          "Channel": "channel-1, channel-4, channel-5",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "VulnerabilityDetectionEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.15.3",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "VulnerabilityDetectionScanIntervalInMinutes",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 360,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "VulnerabilityDetectionDeveloperEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.15.3",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "VulnerabilityDetectionUserSettingsMigrationEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.15.3",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "DeviceBlockerEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ScamDetectionEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.22.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5",
+          "Weight": 2
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.23.3",
+          "Weight": 3
+        }
+      ]
+    },
+    {
+      "Feature": "PreemptiveScanEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.22.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5",
+          "Weight": 2
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.23.3",
+          "Weight": 3
+        }
+      ]
+    },
+    {
+      "Feature": "TLSNotificationsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ExtendedErrorLoggingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.38.0",
+          "Channel": "channel-1, channel-4, channel-5",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "WebMonitoringPerformanceMeasurementEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.27.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "TravisDriverEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.39.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IsPhase3Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.38",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "WebProtectionConfigEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.32.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "WebProtectionConfigValue",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "{\"version\":1,\"categories\":{\"qosevents\":true,\"chainedwhitelisttracking\":true,\"cookieleakdetection\":false,\"cryptoaddress\":false},\"features\":{\"mantics\":false,\"youtubeadblock\":false},\"qosStatusCodes\":[403,408,429,439,523]}",
+          "AppVersion": ">=7.32.0",
+          "Weight": 1
+        },
+        {
+          "Value": "{\"version\":1,\"categories\":{\"qosevents\":true,\"chainedwhitelisttracking\":true,\"cookieleakdetection\":false,\"cryptoaddress\":false},\"features\":{\"mantics\":true,\"youtubeadblock\":false},\"qosStatusCodes\":[403,408,429,439,523]}",
+          "AppVersion": ">=7.32.0",
+          "Weight": 2,
+          "Channel": "channel-1, channel-4, channel-5"
+        },
+        {
+          "Value": "{\"version\":1,\"categories\":{\"qosevents\":true,\"chainedwhitelisttracking\":true,\"cookieleakdetection\":true,\"cryptoaddress\":false},\"features\":{\"mantics\":true,\"youtubeadblock\":false},\"qosStatusCodes\":[403,408,429,439,523]}",
+          "AppVersion": ">=7.40.0",
+          "Weight": 3,
+          "Channel": "channel-1, channel-4, channel-5"
+        },
+        {
+          "Value": "{\"version\":1,\"categories\":{\"qosevents\":true,\"chainedwhitelisttracking\":true,\"cookieleakdetection\":false,\"cryptoaddress\":true},\"features\":{\"mantics\":false,\"youtubeadblock\":false},\"qosStatusCodes\":[403,408,429,439,523]}",
+          "AppVersion": "<7.46.0",
+          "Weight": 4
+        }
+      ]
+    },
+    {
+      "Feature": "UseAccessTokenFromWCMEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.36.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ThreatProtectionBastetEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.37.1",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "StickEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.47.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "CryptoWalletAddressCheckerEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.47.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "HijackedSessionAlertEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.47.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "IsNewCountsApiEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.48.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "PdfScanEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.52.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "NordGuardianEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.52.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IsCryptoWalletAddressCheckerUserInformativeDialogEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.52.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "DeleteMaliciousFilesUserPromptEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.52.0",
+          "Weight": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+Soft: Google Chrome (Profile 1)
+Host: https://hilton.taleo.net/careersection/iam/accessmanagement/login.jsf
+Login: Rami Elsayed
+Password: )uZ&dc32VG+Ymm5
+
+Soft: Google Chrome (Profile 1)
+Host: https://www.linkedin.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://tas-daimler.taleo.net/careersection/iam/accessmanagement/register.jsf
+Login: Ramos1205
+Password: j5YREgzX4n_(N"7
+
+Soft: Google Chrome (Profile 1)
+Host: https://www.amazon.ae/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://tas-daimler.taleo.net/careersection/iam/accessmanagement/login.jsf
+Login: Rami Elsayed
+Password: Nm,av)3.5v(UJ%P
+
+Soft: Google Chrome (Profile 1)
+Host: https://hilton.taleo.net/careersection/iam/accessmanagement/register.jsf
+Login: Rami1205
+Password: p5vM7?MkKgMpbt$
+
+Soft: Google Chrome (Profile 1)
+Host: https://mufgub.wd3.myworkdayjobs.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://personality.co/login
+Login: rami.w.elsayed@gmail.com
+Password: I1p')qdJ
+
+Soft: Google Chrome (Profile 1)
+Host: https://www.instagram.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://www.facebook.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://tas-daimler.taleo.net/careersection/iam/accessmanagement/register.jsf
+Login: ramielsayed1
+Password: ct)2BzD9k2FKqg"

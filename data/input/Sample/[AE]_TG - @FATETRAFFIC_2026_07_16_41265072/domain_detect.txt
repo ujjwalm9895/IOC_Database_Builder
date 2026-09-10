@@ -1,0 +1,8 @@
+[GAMES]
+Passwords: battle.net (5), store.steampowered.com (1)
+Cookies: epicgames.com (6), rockstargames.com (10), store.steampowered.com (3)
+History: epicgames.com (46), rockstargames.com (7), store.steampowered.com (1)
+
+[Social]
+Cookies: youtube.com (120), facebook.com (5), twitter.com (5)
+History: facebook.com (3), twitter.com (3), youtube.com (895)

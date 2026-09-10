@@ -1,0 +1,65 @@
+﻿76358eb384d5c3e40dff090a2d8b8f1dbf65ef81:LorienStarz
+:5f.ie:General Vent
+DateOfBirth:23/02/2002
+Email:rhysmarven@outlook.com
+EmailConfirm:rhysmarven@outlook.com
+FirstName:Rhys
+LastName:Marven
+MobileNumber:0403497967
+_r_10_:072519
+_r_5_:LorienStarz
+_r_8_:LorienStarz
+_r_8_:rhysmarven@outlook.com
+_r_b_:Rhys
+amount:1144
+c1bc5ec0650ddc3a57f1a1dc5370723b7c3f1e58:rhysmarven@outlook.com
+code:3
+code:7
+conversations_create_session_form[email]:rhysmarven@outlook.com
+conversations_email_tfa_required_form[code]:971614
+custom_fields[discord]:lorienstarz
+custom_fields[twitch]:https://www.twitch.tv/lorienstarz
+custom_fields[youtube]:https://www.youtube.com/@LorienStarz
+dob_day:23
+dob_year:2002
+dwfrm_login_username:rhysmarven@outlook.com
+email:0403497967
+email:1037651@student.sae.edu.au
+email:cappucciniostarz@gmail.com
+email:luciniomarven@outlook.com
+email:rhysmarven@outlook.com
+email_or_username:rhysmarven@outlook.com
+identifier:1037651@student.sae.edu.au
+identifier:rhysmarven@outlook.com
+location:Melbourne, Victoria
+log_email:rhysmarven@outlook.com
+login-username:LorienStarz
+login-username:luciniomarven@outlook.com
+login-username:rhysmarven@outlook.com
+login_email:luciniomarven@outlook.com
+login_email:rhysmarven@outlook.com
+loginfmt:1037651@student.sae.edu.au
+loginfmt:rhysmarven@outlook.com
+loginfmt:rhysmarven@torrens.edu.au
+name:Lorien~
+name:Melanie
+phone_number:0403497967
+profile[location]:Australia, Melbourne 
+quantity:2
+request[anonymous_requester_email]:rhysmarven@outlook.com
+request[subject]:CD/ROM for Scorptec Revenge RTX 4080 Super Gaming PC
+search:lorienstarz
+sign-in-phone-number:+61 0 4034 97967
+thePage:enrolmentForm:j_id51:2HJ28CJUG5
+thePage:enrolmentForm:studentMName:Ian
+ulp-first-name:Rhys
+ulp-last-name:Marven
+user[nickname]:LorienStarz
+username:0403497967
+username:1037651@student.sae.edu.au
+username:LorienStarz
+username:luciniomarven@outlook.com
+username:rhysmarven@outlook.com
+username:rmarven1@myjmc.edu.au
+username_email:rhysmarven@outlook.com
+zipCode:3806

@@ -1,0 +1,48 @@
+﻿URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: mohammed188799@gmail.com
+Password: 
+===============
+URL: https://secure.soundcloud.com/web-auth
+Username: alshamsimohammed328@gmail.com
+Password: 
+===============
+URL: https://www.roblox.com/
+Username: rashedalsha4
+Password: 
+===============
+URL: https://discord.com/login
+Username: sultanalsuwaidi20009@gmail.com
+Password: 
+===============
+URL: https://www.datadoghq.com/dg/monitor/mongodb-benefits/
+Username: mmk98uae@gmail.com
+Password: 
+===============
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: alshamsimohammed328@gmail.com
+Password: 
+===============
+URL: https://my.account.sony.com/sonyacct/signin/
+Username: alshamsimohammed328@gmail.com
+Password: 
+===============
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: bhbshamsi@gmail.com
+Password: 
+===============
+URL: https://sso.alefed.com/login
+Username: 734733
+Password: 
+===============
+URL: https://login.microsoftonline.com/69813918-a348-424f-8168-4b246e86245c/oauth2/v2.0/authorize
+Username: s734733@moe.sch.ae
+Password: 
+===============
+URL: https://discord.com/login
+Username: rashedalshamsi954@gmail.com
+Password: 
+===============
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: mmk98uae@gmail.com
+Password: 
+===============

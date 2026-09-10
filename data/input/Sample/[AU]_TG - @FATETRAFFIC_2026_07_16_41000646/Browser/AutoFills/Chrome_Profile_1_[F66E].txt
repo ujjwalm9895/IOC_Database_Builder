@@ -1,0 +1,63 @@
+﻿Name: AuthEmail
+Value: tamicatownsend@gmail.com
+===============
+Name: ForgotEmail
+Value: tamicatownsend@gmail.com
+===============
+Name: IBrF4sX5lZNxy7vESBY2d60dVzGKlHLl
+Value: hastleyoakley@gmail.com
+===============
+Name: Username
+Value: tamicatownsend@gmail.com
+===============
+Name: classID
+Value: 43355922
+===============
+Name: displayName
+Value: Tamjca
+===============
+Name: email
+Value: getgunned26@gmail.com
+===============
+Name: email
+Value: tamica.kelly@education.nsw.gov.au
+===============
+Name: email-input
+Value: jamesbond43069@gmail.com
+===============
+Name: enrollment_password
+Value: 10PE
+===============
+Name: ext-element-22
+Value: eyelash glue
+===============
+Name: loginfmt
+Value: skuxx96@outlook.com,
+===============
+Name: loginfmt
+Value: tamicatownsend@gmail.com
+===============
+Name: profile-account-info-setting__email-input
+Value: hastleyoakley@gmail.com
+===============
+Name: signin-entrance-input-signinId
+Value: amazonkaeloh@gmail.com
+===============
+Name: signin-entrance-input-signinId
+Value: skuxx96@outlook.com
+===============
+Name: signup-username
+Value: RelqzAU
+===============
+Name: user_code
+Value: ZXWKTQZZ
+===============
+Name: username
+Value: I-WFX
+===============
+Name: username
+Value: tamica.kelly
+===============
+Name: username
+Value: tyrell.pattersoncase
+===============

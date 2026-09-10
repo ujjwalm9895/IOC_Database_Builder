@@ -1,0 +1,1139 @@
+﻿[
+  {
+    "ZoomLevel": 3,
+    "Clusters": [
+      {
+        "ClusteredItems": [
+          "London",
+          "Edinburgh",
+          "Glasgow",
+          "Manchester"
+        ],
+        "ClusterName": "GreatBritain",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -0.8204397998373147,
+          "Latitude": 52.2890636802209
+        }
+      },
+      {
+        "ClusteredItems": [
+          "San Francisco",
+          "San Jose"
+        ],
+        "ClusterName": "GoldenStateCities",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -122.17331038043825,
+          "Latitude": 37.661555722013055
+        }
+      },
+      {
+        "ClusteredItems": [
+          "New York",
+          "New Jersey"
+        ],
+        "ClusterName": "NewYorkJersey",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -74.51039972135436,
+          "Latitude": 40.165115110473685
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Berlin",
+          "Frankfurt",
+          "Hamburg"
+        ],
+        "ClusterName": "GermanyCluster",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 10.6090735036099,
+          "Latitude": 51.697641160424126
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Paris",
+          "Marseille",
+          "Strasbourg"
+        ],
+        "ClusterName": "FranceCluster",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 3.1802697894163487,
+          "Latitude": 46.79798726058119
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Milan",
+          "Rome",
+          "Palermo"
+        ],
+        "ClusterName": "ItalySmall",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 13.6555337,
+          "Latitude": 42.2
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Belgium",
+          "Netherlands",
+          "Luxembourg"
+        ],
+        "ClusterName": "BeNeLux",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 4.787521061783697,
+          "Latitude": 50.64640386568404
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Switzerland",
+          "Liechtenstein"
+        ],
+        "ClusterName": "Alps",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 9.40919,
+          "Latitude": 47.017715
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Ireland",
+          "Isle of Man"
+        ],
+        "ClusterName": "LittleBritainIslands",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -6.341751,
+          "Latitude": 53.904892
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Latvia",
+          "Estonia",
+          "Lithuania"
+        ],
+        "ClusterName": "HappyTreeFriends",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 25.594764247916984,
+          "Latitude": 56.8496415602268
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Albania",
+          "Serbia",
+          "North Macedonia",
+          "Bosnia and Herzegovina",
+          "Montenegro",
+          "Novi Travnik",
+          "Sarajevo"
+        ],
+        "ClusterName": "Balkan",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 19.51812342053804,
+          "Latitude": 43.970311492514405
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Czech Republic",
+          "Hungary",
+          "Croatia",
+          "Slovenia",
+          "Austria",
+          "Slovakia"
+        ],
+        "ClusterName": "CentralEastEurope",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 16.742995536559746,
+          "Latitude": 48.76772033787973
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Guatemala",
+          "El Salvador",
+          "Honduras",
+          "Belize"
+        ],
+        "ClusterName": "CentralAmericasSmall",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -89.866721,
+          "Latitude": 14.047
+        }
+      }
+    ]
+  },
+  {
+    "ZoomLevel": 2,
+    "Clusters": [
+      {
+        "ClusteredItems": [
+          "Uruguay",
+          "Argentina"
+        ],
+        "ClusterName": "SouthAmericaMedium",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -57.66,
+          "Latitude": -35
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Toronto",
+          "Montreal"
+        ],
+        "ClusterName": "EastCanada",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -78.57133888550598,
+          "Latitude": 44.13117984230872
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Saint Louis",
+          "Chicago",
+          "Kansas City",
+          "Omaha"
+        ],
+        "ClusterName": "BigLakeCities",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -89.45750880001575,
+          "Latitude": 43.030342374135614
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Salt Lake City",
+          "Denver",
+          "Phoenix",
+          "Los Angeles",
+          "San Jose",
+          "San Francisco"
+        ],
+        "ClusterName": "WesternCoastUSA",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -113.44643994766903,
+          "Latitude": 40.04302626264429
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Dallas",
+          "Houston",
+          "McAllen"
+        ],
+        "ClusterName": "Texas",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -99.5,
+          "Latitude": 31
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Buffalo",
+          "New York",
+          "New Jersey",
+          "Virginia",
+          "Charlotte",
+          "Atlanta",
+          "Manassas",
+          "Nashville"
+        ],
+        "ClusterName": "EasternCoastUSA",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -80.22301072494217,
+          "Latitude": 34.98925570363324
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Hong Kong",
+          "Taiwan"
+        ],
+        "ClusterName": "TaiwanKong",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 117.47673123139687,
+          "Latitude": 26.0591185373565
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Singapore",
+          "Malaysia"
+        ],
+        "ClusterName": "Indonesian",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 102.31604689000125,
+          "Latitude": 4.485270649402754
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Cambodia",
+          "Thailand",
+          "Lao People's Democratic Republic",
+          "Myanmar",
+          "Ho Chi Minh City",
+          "Hanoi"
+        ],
+        "ClusterName": "Indochina",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 101.26,
+          "Latitude": 18.433
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Nepal",
+          "Bhutan",
+          "Bangladesh"
+        ],
+        "ClusterName": "HimalayasMedium",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 88,
+          "Latitude": 27.78
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Georgia",
+          "Armenia",
+          "Azerbaijan"
+        ],
+        "ClusterName": "Caucasus",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 45,
+          "Latitude": 41.19
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Sweden",
+          "Finland",
+          "Latvia",
+          "Estonia",
+          "Lithuania"
+        ],
+        "ClusterName": "BalticAndFriends",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 24.068634523486615,
+          "Latitude": 57.32099366229032
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Portugal",
+          "Barcelona",
+          "Madrid"
+        ],
+        "ClusterName": "Iberian",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -4.397629360799407,
+          "Latitude": 40.37535883145162
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Milan",
+          "Rome",
+          "Palermo"
+        ],
+        "ClusterName": "ItalyMedium",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 13.6555337,
+          "Latitude": 42.2
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Ireland",
+          "United Kingdom",
+          "London",
+          "Edinburgh",
+          "Glasgow",
+          "Manchester",
+          "Isle of Man"
+        ],
+        "ClusterName": "Britannia",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -5.459937851314924,
+          "Latitude": 55.24495003968587
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Norway",
+          "Denmark"
+        ],
+        "ClusterName": "Scandinavia",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 8.427516313402872,
+          "Latitude": 58.65313735736873
+        }
+      },
+      {
+        "ClusteredItems": [
+          "France",
+          "Germany",
+          "Switzerland",
+          "Netherlands",
+          "Belgium",
+          "Luxembourg",
+          "Frankfurt",
+          "Berlin",
+          "Paris",
+          "Marseille",
+          "Liechtenstein",
+          "Jersey",
+          "Hamburg",
+          "Strasbourg"
+        ],
+        "ClusterName": "CentralEurope",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 5.7275867839637975,
+          "Latitude": 51.369510866412185
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Italy",
+          "Austria",
+          "Czech Republic",
+          "Ukraine",
+          "Poland",
+          "Moldova",
+          "Hungary",
+          "Romania",
+          "Slovakia",
+          "Slovenia",
+          "Croatia",
+          "Bosnia and Herzegovina",
+          "Serbia",
+          "Bulgaria",
+          "North Macedonia",
+          "Greece",
+          "Albania",
+          "Montenegro",
+          "Novi Travnik",
+          "Sarajevo"
+        ],
+        "ClusterName": "BalkanCentralEastEurope",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 22.730098187320905,
+          "Latitude": 49.56368526843358
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Turkey",
+          "Israel",
+          "Cyprus",
+          "Lebanon",
+          "Jordan",
+          "Egypt"
+        ],
+        "ClusterName": "Byzantine",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 35.202738722216665,
+          "Latitude": 33
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Iraq",
+          "Kuwait",
+          "Qatar",
+          "Bahrain",
+          "United Arab Emirates"
+        ],
+        "ClusterName": "PersianGulf",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 47.4818,
+          "Latitude": 29.3117
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Guatemala",
+          "El Salvador",
+          "Costa Rica",
+          "Panama",
+          "Honduras",
+          "Belize"
+        ],
+        "ClusterName": "CentralAmericasMedium",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -86.57,
+          "Latitude": 13
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Bahamas",
+          "Jamaica",
+          "Dominican Republic",
+          "Puerto Rico"
+        ],
+        "ClusterName": "AmericanIslands",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -73,
+          "Latitude": 21
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Osaka",
+          "Tokyo"
+        ],
+        "ClusterName": "JapanCluster",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 138.44,
+          "Latitude": 35.627
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Ghana",
+          "Nigeria"
+        ],
+        "ClusterName": "AfricaMedium",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 2.5,
+          "Latitude": 7
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Morocco",
+          "Algeria",
+          "Tunisia",
+          "Libyan Arab Jamahiriya"
+        ],
+        "ClusterName": "NorthAfricaZoom2",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 5,
+          "Latitude": 30
+        }
+      }
+    ]
+  },
+  {
+    "ZoomLevel": 1,
+    "Clusters": [
+      {
+        "ClusteredItems": [
+          "Uruguay",
+          "Argentina"
+        ],
+        "ClusterName": "SouthAmericaBig",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -57.66,
+          "Latitude": -35
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Mumbai",
+          "Chennai"
+        ],
+        "ClusterName": "WestIndia",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 77.49652988609297,
+          "Latitude": 16.695676772166788
+        }
+      },
+      {
+        "ClusteredItems": [
+          "France",
+          "Germany",
+          "United Kingdom",
+          "Netherlands",
+          "Barcelona",
+          "Madrid",
+          "Sweden",
+          "Switzerland",
+          "Belgium",
+          "Denmark",
+          "Norway",
+          "Poland",
+          "Ireland",
+          "Czech Republic",
+          "Italy",
+          "Milan",
+          "Rome",
+          "Finland",
+          "Serbia",
+          "Austria",
+          "Slovakia",
+          "Slovenia",
+          "Bulgaria",
+          "Hungary",
+          "Latvia",
+          "Lithuania",
+          "Romania",
+          "Portugal",
+          "Luxembourg",
+          "Ukraine",
+          "Greece",
+          "Estonia",
+          "Albania",
+          "Croatia",
+          "Moldova",
+          "Bosnia and Herzegovina",
+          "North Macedonia",
+          "Berlin",
+          "Frankfurt",
+          "Paris",
+          "Marseille",
+          "London",
+          "Edinburgh",
+          "Glasgow",
+          "Manchester",
+          "Montenegro",
+          "Monaco",
+          "Malta",
+          "Liechtenstein",
+          "Isle of Man",
+          "Andorra",
+          "Jersey",
+          "Hamburg",
+          "Palermo",
+          "Novi Travnik",
+          "Sarajevo",
+          "Strasbourg"
+        ],
+        "ClusterName": "EuropeBig",
+        "Size": 3,
+        "Coordinates": {
+          "Longitude": 5.395981198365774,
+          "Latitude": 52.25077591793016
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Turkey",
+          "Israel",
+          "Cyprus",
+          "Georgia",
+          "Egypt",
+          "Lebanon",
+          "Armenia",
+          "Azerbaijan",
+          "Jordan",
+          "Kuwait",
+          "Bahrain",
+          "Iraq",
+          "Qatar",
+          "United Arab Emirates"
+        ],
+        "ClusterName": "CaucasusByzantine",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 41,
+          "Latitude": 36
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Indonesia",
+          "Malaysia",
+          "Hong Kong",
+          "Singapore",
+          "Taiwan",
+          "Thailand",
+          "Philippines",
+          "Cambodia",
+          "Lao People's Democratic Republic",
+          "Brunei Darussalam",
+          "Myanmar",
+          "Ho Chi Minh City",
+          "Hanoi"
+        ],
+        "ClusterName": "Asia",
+        "Size": 2,
+        "Coordinates": {
+          "Longitude": 105.00950978206556,
+          "Latitude": 12.013329881614732
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Nepal",
+          "Bhutan",
+          "Bangladesh"
+        ],
+        "ClusterName": "HimalayasBig",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 88,
+          "Latitude": 27.78
+        }
+      },
+      {
+        "ClusteredItems": [
+          "South Korea",
+          "Osaka",
+          "Tokyo"
+        ],
+        "ClusterName": "JapanKoreaCluster",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 131.69707493117156,
+          "Latitude": 35.92368843073675
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Sydney",
+          "Brisbane",
+          "Perth",
+          "Adelaide",
+          "Melbourne"
+        ],
+        "ClusterName": "AustralianClusterBig",
+        "Size": 2,
+        "Coordinates": {
+          "Longitude": 134.49273794092386,
+          "Latitude": -23.86909927455504
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Seattle",
+          "San Francisco",
+          "Los Angeles",
+          "Phoenix",
+          "Salt Lake City",
+          "Denver",
+          "Dallas",
+          "Atlanta",
+          "Saint Louis",
+          "Chicago",
+          "Miami",
+          "Charlotte",
+          "New York",
+          "Manassas",
+          "Buffalo",
+          "Kansas City",
+          "Houston",
+          "McAllen",
+          "Boston",
+          "Omaha",
+          "Nashville"          
+        ],
+        "ClusterName": "USACluster",
+        "Size": 2,
+        "Coordinates": {
+          "Longitude": -102.78339369600205,
+          "Latitude": 40.19773827200946
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Vancouver",
+          "Toronto",
+          "Montreal"
+        ],
+        "ClusterName": "CanadaCluster",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": -111.61291486006091,
+          "Latitude": 59.04143707322565
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Venezuela",
+          "Colombia",
+          "Costa Rica",
+          "Panama",
+          "Ecuator",
+          "Trinidad and Tobago",
+          "El Salvador",
+          "Guatemala",
+          "Jamaica",
+          "Bahamas",
+          "Dominican Republic",
+          "Puerto Rico",
+          "Ecuador",
+          "Belize",
+          "Cayman Islands",
+          "Honduras"
+        ],
+        "ClusterName": "CentralAmericasBig",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": -80,
+          "Latitude": 11.591143
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Ghana",
+          "Nigeria"
+        ],
+        "ClusterName": "AfricaBig",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 2.5,
+          "Latitude": 7
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Morocco",
+          "Algeria",
+          "Tunisia",
+          "Libyan Arab Jamahiriya"
+        ],
+        "ClusterName": "NorthAfrica",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 5,
+          "Latitude": 30
+        }
+      }
+    ]
+  },
+  {
+    "ZoomLevel": 0,
+    "Clusters": [
+      {
+        "ClusteredItems": [
+          "Chile",
+          "Argentina",
+          "Peru",
+          "Bolivia",
+          "Paraguay",
+          "Uruguay"
+        ],
+        "ClusterName": "SouthAmericaLarge",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": -70.02175698033575,
+          "Latitude": -28.786093493442156
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Mumbai",
+          "Chennai"
+        ],
+        "ClusterName": "WestIndiaLarge",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 77.49652988609297,
+          "Latitude": 16.695676772166788
+        }
+      },
+      {
+        "ClusteredItems": [
+          "France",
+          "Germany",
+          "United Kingdom",
+          "Netherlands",
+          "Barcelona",
+          "Madrid",
+          "Sweden",
+          "Switzerland",
+          "Belgium",
+          "Denmark",
+          "Norway",
+          "Poland",
+          "Ireland",
+          "Czech Republic",
+          "Italy",
+          "Milan",
+          "Rome",
+          "Finland",
+          "Serbia",
+          "Austria",
+          "Slovakia",
+          "Slovenia",
+          "Bulgaria",
+          "Hungary",
+          "Latvia",
+          "Lithuania",
+          "Romania",
+          "Portugal",
+          "Luxembourg",
+          "Ukraine",
+          "Greece",
+          "Estonia",
+          "Albania",
+          "Croatia",
+          "Moldova",
+          "Bosnia and Herzegovina",
+          "North Macedonia",
+          "Berlin",
+          "Frankfurt",
+          "Paris",
+          "Marseille",
+          "London",
+          "Edinburgh",
+          "Glasgow",
+          "Manchester",
+          "Malta",
+          "Montenegro",
+          "Monaco",
+          "Liechtenstein",
+          "Isle of Man",
+          "Andorra",
+          "Jersey",
+          "Hamburg",
+          "Palermo",
+          "Novi Travnik",
+          "Sarajevo",
+          "Strasbourg"
+        ],
+        "ClusterName": "EuropeLarge",
+        "Size": 2,
+        "Coordinates": {
+          "Longitude": 5.395981198365774,
+          "Latitude": 52.25077591793016
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Turkey",
+          "Israel",
+          "Cyprus",
+          "Georgia",
+          "Egypt",
+          "Lebanon",
+          "Armenia",
+          "Azerbaijan",
+          "Jordan",
+          "Kuwait",
+          "Bahrain",
+          "Iraq",
+          "Qatar",
+          "United Arab Emirates"
+        ],
+        "ClusterName": "CaucasusByzantineLarge",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 41,
+          "Latitude": 36
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Indonesia",
+          "Malaysia",
+          "Hong Kong",
+          "Singapore",
+          "Taiwan",
+          "Thailand",
+          "Philippines",
+          "Cambodia",
+          "Lao People's Democratic Republic",
+          "Brunei Darussalam",
+          "Myanmar",
+          "Ho Chi Minh City",
+          "Hanoi"
+        ],
+        "ClusterName": "IndoChinaLarge",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 105.00950978206556,
+          "Latitude": 12.013329881614732
+        }
+      },
+      {
+        "ClusteredItems": [
+          "South Korea",
+          "Osaka",
+          "Tokyo"
+        ],
+        "ClusterName": "JapanKoreaClusterLarge",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 131.69707493117156,
+          "Latitude": 35.92368843073675
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Sri Lanka",
+          "India",
+          "Pakistan",
+          "United Arab Emirates",
+          "Nepal",
+          "Bhutan",
+          "Bangladesh"
+        ],
+        "ClusterName": "IndianHimalayas",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 80.12,
+          "Latitude": 26
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Kazakhstan",
+          "Uzbekistan",
+          "Afghanistan"
+        ],
+        "ClusterName": "MiddleEastStans",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": 64.5853,
+          "Latitude": 41.3775
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Sydney",
+          "Brisbane",
+          "Perth",
+          "Adelaide",
+          "Melbourne"
+        ],
+        "ClusterName": "AustralianClusterLarge",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": 134.49273794092386,
+          "Latitude": -23.86909927455504
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Seattle",
+          "San Francisco",
+          "Los Angeles",
+          "Phoenix",
+          "Salt Lake City",
+          "Denver",
+          "Dallas",
+          "Atlanta",
+          "Saint Louis",
+          "Chicago",
+          "Miami",
+          "Charlotte",
+          "New York",
+          "Manassas",
+          "Buffalo",
+          "Kansas City",
+          "Boston",
+          "Houston",
+          "McAllen",
+          "Omaha",
+          "Nashville"
+        ],
+        "ClusterName": "USAClusterLarge",
+        "Size": 1,
+        "Coordinates": {
+          "Longitude": -102.78339369600205,
+          "Latitude": 40.19773827200946
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Vancouver",
+          "Toronto",
+          "Montreal"
+        ],
+        "ClusterName": "CanadaClusterLarge",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -111.61291486006091,
+          "Latitude": 59.04143707322565
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Venezuela",
+          "Colombia",
+          "Costa Rica",
+          "Panama",
+          "Ecuator",
+          "Trinidad and Tobago",
+          "El Salvador",
+          "Guatemala",
+          "Jamaica",
+          "Bahamas",
+          "Dominican Republic",
+          "Puerto Rico",
+          "Ecuador",
+          "Cayman Islands",
+          "Honduras",
+          "Belize"
+        ],
+        "ClusterName": "CentralAmericasLarge",
+        "Size": 0,
+        "Coordinates": {
+          "Longitude": -80,
+          "Latitude": 11.591143
+        }
+      },
+      {
+        "ClusteredItems": [
+          "Morocco",
+          "Ghana",
+          "Nigeria",
+          "Kenya",
+          "South Africa",
+          "Algeria",
+          "Angola",
+          "Senegal",
+          "Mozambique",
+          "Tunisia",
+          "Somalia",
+          "Comoros",
+          "Rwanda",
+          "Libyan Arab Jamahiriya"
+        ],
+        "ClusterName": "AfricaLarge",
+        "Size": 2,
+        "Coordinates": {
+          "Longitude": 15,
+          "Latitude": 1
+        }
+      }
+    ]
+  }
+]

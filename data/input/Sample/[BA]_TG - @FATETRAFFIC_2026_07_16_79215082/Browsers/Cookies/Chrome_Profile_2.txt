@@ -1,0 +1,8 @@
+.tiktok.com	TRUE	/	FALSE	1797421949	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1797421949	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	FALSE	1797421949	store-country-sign	MEIEDJ25V_cfgoHJtgdC3wQgmFVvodEXnWf98AFfCO-q8DHTqiTBBGptV2kNm-hVsV4EEB9vvWQL5_wWr1WGUUhQULM
+.tiktok.com	TRUE	/	FALSE	1797421949	store-idc	no1a
+.tiktok.com	TRUE	/	TRUE	1798623870	tt_chain_token	m496mSRUBuCV0lS6yMOa8Q==
+.tiktok.com	TRUE	/	TRUE	1814607871	ttwid	1%7CsoJ-OkzW0Bh80BoCRFsEoiH-xTr_89rRuSXvYC-hMFM%7C1783071872%7C626d348f179e15c0d545df1229c53f06fd420d20b76a26b8bb00d23d20a387a8
+.tiktok.com	TRUE	/	TRUE	1785979885	tt_csrf_token	2RekkRY0-fcj8Dj4OqgRCPO8kOoZtbb6Ije8
+.tiktok.com	TRUE	/	TRUE	1790856764	_ttp	3FIlKlCtCAvJdXnIlNI7VRhrBuB

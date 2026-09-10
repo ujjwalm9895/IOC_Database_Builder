@@ -1,0 +1,365 @@
+IP: 103.107.161.50
+Country: BD
+Date: 11.07.2026 03:20:35
+MachineID: e6856cb0-56cb-7e76-3cd1-da5497aa67ca
+GUID: {036bc85c-870e}
+HWID: B006064BB828C3727DD4-036bc85c-870e-71C9E2F
+Path: C:\Users\M Rakib Hossen\UBah.exe
+MD5: 7def6882cd38fe92ff13936a9f0741dd
+Work Dir: In memory
+Windows: Windows 10 Home Single Language 22H2 (Build 19045)
+Computer Name: RAKIB-DEXTOP
+User Name: M Rakib Hossen
+Display Resolution: 1360x768
+Local Time: 11.07.2026 03:20:35
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz
+Cores: 4
+Threads: 4
+RAM: 8070 MB
+VideoCard: Intel(R) HD Graphics 4000
+[Processes]
+  [4] System
+  [100] Registry
+  [380] smss.exe
+  [544] csrss.exe
+  [772] wininit.exe
+  [780] csrss.exe
+  [860] winlogon.exe
+  [928] services.exe
+  [948] lsass.exe
+  [496] svchost.exe
+  [580] fontdrvhost.exe
+  [644] WUDFHost.exe
+  [672] fontdrvhost.exe
+  [536] svchost.exe
+  [968] svchost.exe
+  [1120] svchost.exe
+  [1128] svchost.exe
+  [1136] svchost.exe
+  [1216] svchost.exe
+  [1264] svchost.exe
+  [1320] svchost.exe
+  [1348] svchost.exe
+  [1380] dwm.exe
+  [1556] svchost.exe
+  [1648] svchost.exe
+  [1788] svchost.exe
+  [1896] svchost.exe
+  [1904] svchost.exe
+  [1932] svchost.exe
+  [2032] svchost.exe
+  [1000] svchost.exe
+  [2064] NVDisplay.Container.exe
+  [2076] svchost.exe
+  [2188] svchost.exe
+  [2216] svchost.exe
+  [2288] svchost.exe
+  [2296] svchost.exe
+  [2304] svchost.exe
+  [2336] svchost.exe
+  [2476] svchost.exe
+  [2512] Memory Compression
+  [2552] igfxCUIService.exe
+  [2604] svchost.exe
+  [2612] svchost.exe
+  [2648] svchost.exe
+  [2740] svchost.exe
+  [2852] svchost.exe
+  [2944] svchost.exe
+  [2952] svchost.exe
+  [2960] svchost.exe
+  [2872] svchost.exe
+  [3164] svchost.exe
+  [3308] svchost.exe
+  [3388] spoolsv.exe
+  [3440] svchost.exe
+  [3496] svchost.exe
+  [3784] svchost.exe
+  [3792] svchost.exe
+  [3800] svchost.exe
+  [3808] AnyDesk.exe
+  [3816] svchost.exe
+  [3824] svchost.exe
+  [3832] svchost.exe
+  [3844] GameInputRedistService.exe
+  [3852] SynTPEnhService.exe
+  [3860] svchost.exe
+  [3868] svchost.exe
+  [3876] svchost.exe
+  [3888] NvTelemetryContainer.exe
+  [3900] MsMpEng.exe
+  [3932] BtwRSupportService.exe
+  [3940] MpDefenderCoreService.exe
+  [3576] svchost.exe
+  [4176] svchost.exe
+  [4240] svchost.exe
+  [4304] svchost.exe
+  [5528] gamingservicesnet.exe
+  [5540] gamingservices.exe
+  [5548] dllhost.exe
+  [5612] SearchIndexer.exe
+  [5908] svchost.exe
+  [1756] svchost.exe
+  [5600] svchost.exe
+  [6200] dasHost.exe
+  [6208] svchost.exe
+  [6508] svchost.exe
+  [6692] svchost.exe
+  [6736] svchost.exe
+  [6084] NVDisplay.Container.exe
+  [7092] AggregatorHost.exe
+  [7436] svchost.exe
+  [7452] NisSrv.exe
+  [7904] svchost.exe
+  [7404] GameInputSvc.exe
+  [7460] GameInputSvc.exe
+  [7552] GameInputRedistService.exe
+  [7372] SynTPEnh.exe
+  [5484] sihost.exe
+  [5436] svchost.exe
+  [7668] svchost.exe
+  [8080] svchost.exe
+  [7244] taskhostw.exe
+  [8160] HDSentinel.exe
+  [1012] PresentationFontCache.exe
+  [2908] svchost.exe
+  [7344] ctfmon.exe
+  [7972] SynTPHelper.exe
+  [2360] explorer.exe
+  [3624] svchost.exe
+  [6044] igfxEM.exe
+  [7560] igfxHK.exe
+  [8980] svchost.exe
+  [9076] svchost.exe
+  [8268] dllhost.exe
+  [4656] StartMenuExperienceHost.exe
+  [8920] svchost.exe
+  [9188] RuntimeBroker.exe
+  [9708] SearchApp.exe
+  [9952] RuntimeBroker.exe
+  [6680] TextInputHost.exe
+  [7444] RuntimeBroker.exe
+  [10500] Avro Keyboard.exe
+  [10576] svchost.exe
+  [10628] MonitorianPlus.exe
+  [10740] RuntimeBroker.exe
+  [10924] WmiPrvSE.exe
+  [11188] Lightshot.exe
+  [8772] ApplicationFrameHost.exe
+  [8856] SystemSettings.exe
+  [6860] UserOOBEBroker.exe
+  [6488] ShellExperienceHost.exe
+  [460] RuntimeBroker.exe
+  [7784] svchost.exe
+  [6924] svchost.exe
+  [1584] svchost.exe
+  [2932] SecurityHealthService.exe
+  [4492] SearchApp.exe
+  [5676] msedgewebview2.exe
+  [4704] msedgewebview2.exe
+  [10484] msedgewebview2.exe
+  [1952] msedgewebview2.exe
+  [1732] msedgewebview2.exe
+  [10372] msedgewebview2.exe
+  [11240] msedgewebview2.exe
+  [6556] WhatsApp.Root.exe
+  [9340] RuntimeBroker.exe
+  [2012] CompPkgSrv.exe
+  [7828] LockApp.exe
+  [6752] RuntimeBroker.exe
+  [10720] svchost.exe
+  [5244] msedge.exe
+  [6064] msedge.exe
+  [9884] msedge.exe
+  [720] msedge.exe
+  [5632] msedge.exe
+  [11196] msedge.exe
+  [4552] pwahelper.exe
+  [3512] msedge.exe
+  [7292] msedge.exe
+  [9244] msedge.exe
+  [10940] msedge.exe
+  [4564] msedgewebview2.exe
+  [6268] msedgewebview2.exe
+  [8472] msedgewebview2.exe
+  [1612] msedgewebview2.exe
+  [11508] msedgewebview2.exe
+  [488] msedgewebview2.exe
+  [8552] msedgewebview2.exe
+  [1400] msedgewebview2.exe
+  [9944] svchost.exe
+  [5672] taskhostw.exe
+  [10932] osk.exe
+  [4468] svchost.exe
+  [4912] taskhostw.exe
+  [14012] svchost.exe
+  [12164] audiodg.exe
+  [9108] dllhost.exe
+  [3536] OneDrive.Sync.Service.exe
+  [12988] svchost.exe
+  [13548] chrome.exe
+  [11840] chrome.exe
+  [12012] chrome.exe
+  [11460] chrome.exe
+  [5896] chrome.exe
+  [13964] chrome.exe
+  [13648] svchost.exe
+  [11620] chrome.exe
+  [12108] svchost.exe
+  [14860] msedge.exe
+  [4156] Telegram.exe
+  [15072] chrome.exe
+  [7408] chrome.exe
+  [10856] chrome.exe
+  [13072] chrome.exe
+  [6132] chrome.exe
+  [10936] chrome.exe
+  [10024] chrome.exe
+  [12132] chrome.exe
+  [13120] chrome.exe
+  [8700] SearchFilterHost.exe
+  [12336] smartscreen.exe
+  [13860] powershell.exe
+  [14276] conhost.exe
+  [6232] SearchProtocolHost.exe
+  [12008] WmiPrvSE.exe
+  [10688] powershell.exe
+  [14708] chrome.exe
+  [14744] chrome.exe
+  [14608] UBah.exe
+  [14448] identity_helper.exe
+  [13660] chrome.exe
+  [7184] chrome.exe
+  [5656] chrome.exe
+  [14024] svchost.exe
+  [13236] HS3XkV.exe
+[Software]
+  7-Zip 25.01 (x64)
+  Audacity 3.7.8
+  BlueStacks
+  Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+  Microsoft Office Professional Plus 2016
+  Microsoft OneDrive
+  Synaptics Pointing Device Driver
+  WinRAR 7.13 (64-bit)
+  Python 3.14.0 Development Libraries (64-bit)
+  Microsoft GameInput
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Update Health Tools
+  Microsoft Windows Desktop Runtime - 8.0.28 (x64)
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31332
+  Python 3.14.0 Tcl/Tk Support (64-bit)
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+  Python 3.14.0 pip Bootstrap (64-bit)
+  Python 3.14.0 Add to Path (64-bit)
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+  Python 3.14.0 Standard Library (64-bit)
+  Python 3.14.0 Core Interpreter (64-bit)
+  Microsoft Office Professional Plus 2016
+  Security Update for Microsoft Office 2016 (KB5002578) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB5002623) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3213650) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4484145) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3114524) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002341) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4011259) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB2920717) 64-Bit Edition
+  Security Update for Microsoft Publisher 2016 (KB5002566) 64-Bit Edition
+  Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4484103) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002852) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4022193) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4462148) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002818) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4475581) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB5002050) 64-Bit Edition
+  Update for Microsoft Outlook 2016 (KB5002747) 64-Bit Edition
+  Security Update for Microsoft Visio 2016 (KB5002634) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002616) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4484104) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3115081) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002718) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4464583) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3118262) 64-Bit Edition
+  Security Update for Microsoft Excel 2016 (KB5002877) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5001941) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB5002251) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB2920720) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002812) 64-Bit Edition
+  Security Update for Microsoft Project 2016 (KB5002652) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4011634) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3114903) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3118263) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB3191869) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4011621) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4475587) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002576) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3191929) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4011629) 64-Bit Edition
+  Security Update for Microsoft Word 2016 (KB5002879) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB2920724) 64-Bit Edition
+  Update for Skype for Business 2016 (KB5002567) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4464587) 64-Bit Edition
+  Security Update for Microsoft Access 2016 (KB5002720) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB3118264) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4011035) 64-Bit Edition
+  Update for Microsoft OneDrive for Business (KB4022219) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4022176) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002878) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB2920678) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002762) 64-Bit Edition
+  Security Update for Microsoft PowerPoint 2016 (KB5002808) 64-Bit Edition
+  Update for Microsoft Visio Viewer 2016 (KB2920709) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002766) 64-Bit Edition
+  Update for Microsoft OneNote 2016 (KB5002761) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4032254) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4011574) 64-Bit Edition
+  Microsoft Access MUI (English) 2016
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft Excel MUI (English) 2016
+  Security Update for Microsoft Excel 2016 (KB5002877) 64-Bit Edition
+  Update for Microsoft Office 2016 (KB4011629) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft PowerPoint MUI (English) 2016
+  Security Update for Microsoft Excel 2016 (KB5002877) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Security Update for Microsoft PowerPoint 2016 (KB5002808) 64-Bit Edition
+  Microsoft Publisher MUI (English) 2016
+  Security Update for Microsoft Publisher 2016 (KB5002566) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft Outlook MUI (English) 2016
+  Update for Microsoft Outlook 2016 (KB5002747) 64-Bit Edition
+  Security Update for Microsoft Word 2016 (KB5002879) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft Word MUI (English) 2016
+  Security Update for Microsoft Excel 2016 (KB5002877) 64-Bit Edition
+  Security Update for Microsoft Word 2016 (KB5002879) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft Office Proofing Tools 2016 - English
+  Security Update for Microsoft Office 2016 (KB4464583) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Outils de vrification linguistique 2016 de Microsoft Office- Franais
+  Security Update for Microsoft Office 2016 (KB4464583) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Herramientas de correccin de Microsoft Office 2016: espaol
+  Security Update for Microsoft Office 2016 (KB4464583) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft Office Proofing (English) 2016
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft InfoPath MUI (English) 2016
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Microsoft Office Shared MUI (English) 2016
+  Security Update for Microsoft Office 2016 (KB4484103) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002852) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4022176) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB5002878) 64-Bit Edition
+  Security Update for Microsoft Office 2016 (KB4011574) 64-Bit Edition
+  Microsoft DCF MUI (English) 2016
+  Security Update for Microsoft Office 2016 (KB5002669) 64-Bit Edition

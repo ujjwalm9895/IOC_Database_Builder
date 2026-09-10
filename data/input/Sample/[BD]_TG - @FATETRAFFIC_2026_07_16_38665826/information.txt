@@ -1,0 +1,228 @@
+IP: 103.143.254.52
+Country: BD
+Date: 10.07.2026 11:21:12
+MachineID: 1c973e99-73e9-658e-18b3-0424cc293149
+GUID: {8ed24ba7-6778}
+HWID: BCB0252980AE61C86BBA-8ed24ba7-6778-D450D64
+Path: C:\Users\TOUHID\AppData\Local\Temp\13114420101\836ee042da.exe
+MD5: 9dd5b2c901390e1b8bfafee9bbcbbeb5
+Work Dir: In memory
+Windows: Windows 11 Pro 24H2 (Build 26100)
+Computer Name: TOUHID
+User Name: TOUHID
+Display Resolution: 1366x768
+Local Time: 10.07.2026 11:21:12
+Antivirus: None
+[Hardware]
+Processor: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+Cores: 4
+Threads: 4
+RAM: 8070 MB
+VideoCard: Intel(R) HD Graphics 530
+[Processes]
+  [4] System
+  [124] Registry
+  [432] smss.exe
+  [616] csrss.exe
+  [704] wininit.exe
+  [848] services.exe
+  [872] lsass.exe
+  [1012] svchost.exe
+  [468] fontdrvhost.exe
+  [572] svchost.exe
+  [1032] svchost.exe
+  [1176] svchost.exe
+  [1192] svchost.exe
+  [1288] svchost.exe
+  [1296] svchost.exe
+  [1384] svchost.exe
+  [1452] svchost.exe
+  [1464] svchost.exe
+  [1532] svchost.exe
+  [1576] svchost.exe
+  [1604] svchost.exe
+  [1680] svchost.exe
+  [1748] svchost.exe
+  [1808] svchost.exe
+  [1840] svchost.exe
+  [1920] svchost.exe
+  [1928] svchost.exe
+  [1936] svchost.exe
+  [2044] Memory Compression
+  [2084] svchost.exe
+  [2160] igfxCUIService.exe
+  [2196] svchost.exe
+  [2232] svchost.exe
+  [2240] svchost.exe
+  [2380] svchost.exe
+  [2448] svchost.exe
+  [2496] svchost.exe
+  [2532] svchost.exe
+  [2596] svchost.exe
+  [2616] svchost.exe
+  [2692] svchost.exe
+  [2764] spoolsv.exe
+  [2852] svchost.exe
+  [2860] svchost.exe
+  [2944] svchost.exe
+  [3004] svchost.exe
+  [2528] svchost.exe
+  [2684] svchost.exe
+  [3080] svchost.exe
+  [3104] svchost.exe
+  [3116] IntelCpHDCPSvc.exe
+  [3136] svchost.exe
+  [3144] GooglePlayGamesServices.exe
+  [3180] svchost.exe
+  [3220] OfficeClickToRun.exe
+  [3432] svchost.exe
+  [3460] IntelCpHeciSvc.exe
+  [4556] svchost.exe
+  [4748] crashpad_handler.exe
+  [5088] svchost.exe
+  [5096] svchost.exe
+  [4696] svchost.exe
+  [5504] svchost.exe
+  [5748] svchost.exe
+  [5864] AggregatorHost.exe
+  [6092] svchost.exe
+  [4064] svchost.exe
+  [6512] svchost.exe
+  [6060] svchost.exe
+  [7584] svchost.exe
+  [7176] audiodg.exe
+  [6484] svchost.exe
+  [10700] svchost.exe
+  [10748] svchost.exe
+  [11396] WmiPrvSE.exe
+  [11768] svchost.exe
+  [11260] csrss.exe
+  [12088] winlogon.exe
+  [11284] fontdrvhost.exe
+  [6272] dwm.exe
+  [6848] WmiPrvSE.exe
+  [8548] sihost.exe
+  [9000] svchost.exe
+  [8280] igfxEM.exe
+  [7996] svchost.exe
+  [4020] svchost.exe
+  [8952] taskhostw.exe
+  [9060] MicrosoftEdgeUpdate.exe
+  [6456] explorer.exe
+  [11048] ShellHost.exe
+  [2040] svchost.exe
+  [9072] CrossDeviceResume.exe
+  [624] svchost.exe
+  [8780] StartMenuExperienceHost.exe
+  [524] SearchHost.exe
+  [9796] RuntimeBroker.exe
+  [3880] svchost.exe
+  [9552] Widgets.exe
+  [12148] WidgetService.exe
+  [7872] msedgewebview2.exe
+  [7276] msedgewebview2.exe
+  [7244] msedgewebview2.exe
+  [7860] msedgewebview2.exe
+  [7780] msedgewebview2.exe
+  [6044] msedgewebview2.exe
+  [12016] ctfmon.exe
+  [6308] servicehelper.exe
+  [3064] svchost.exe
+  [7752] svchost.exe
+  [6140] svchost.exe
+  [5060] svchost.exe
+  [10308] svchost.exe
+  [9964] svchost.exe
+  [7488] powershell.exe
+  [720] conhost.exe
+  [10516] consent.exe
+  [7524] powershell.exe
+  [7640] conhost.exe
+  [1236] consent.exe
+  [6472] svchost.exe
+  [13196] msedge.exe
+  [11644] msedge.exe
+  [8296] svchost.exe
+  [8744] powershell.exe
+  [3616] conhost.exe
+  [13580] consent.exe
+  [13660] 836ee042da.exe
+  [12364] zz4Sj5M.exe
+  [11756] 4BtqZz1.exe
+  [14144] powershell.exe
+  [14156] conhost.exe
+  [12340] consent.exe
+  [5056] 9c963b9d.exe
+  [13736] svchost.exe
+  [13560] dllhost.exe
+  [4548] browser_assistant.exe
+  [11456] browser_assistant.exe
+  [14200] unsecapp.exe
+  [1968] Dllhost.exe
+  [7820] a4e0973b.exe
+  [3132] appidcertstorecheck.exe
+  [6980] Client.exe
+  [9032] conhost.exe
+  [9136] SearchIndexer.exe
+  [4716] db75cf988c.exe
+  [14256] msedgewebview2.exe
+  [8336] msedgewebview2.exe
+  [13260] msedgewebview2.exe
+  [10996] msedgewebview2.exe
+  [11148] msedgewebview2.exe
+  [11036] msedgewebview2.exe
+  [1284] Wihnup.exe
+  [5148] WmiApSrv.exe
+  [1656] SecurityHealthService.exe
+  [12244] v49922.exe
+  [13440] chrome.exe
+  [2388] chrome.exe
+  [3940] svchost.exe
+  [8512] d6535df65b.exe
+  [6368] SoftLandingTask.exe
+  [10712] svchost.exe
+  [4504] chrome.exe
+  [2328] chrome.exe
+  [13800] msedge.exe
+  [7456] msedge.exe
+  [13868] chrome.exe
+  [13892] chrome.exe
+  [11356] chrome.exe
+  [10392] chrome.exe
+  [1772] chrome.exe
+  [2440] chrome.exe
+  [13124] msedge.exe
+  [8096] msedge.exe
+  [3864] msedge.exe
+  [5312] msedge.exe
+  [11392] msedge.exe
+  [8940] chrome.exe
+  [4988] msedge.exe
+  [9288] msedge.exe
+  [1804] msedge.exe
+  [11624] msedge.exe
+  [780] msedge.exe
+  [3852] msedge.exe
+  [408] updater.exe
+  [5988] updater.exe
+  [9452] updater.exe
+  [400] updater.exe
+  [12720] updater.exe
+  [12740] updater.exe
+  [9804] updater.exe
+  [13444] updater.exe
+[Software]
+  Microsoft Access LTSC - en-us
+  Google Play Games
+  Microsoft Office LTSC Standard 2021 - en-us
+  WinRAR 5.00 beta 5 (64-bit)
+  Microsoft Visual C++ 2005 Redistributable (x64)
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.15.26706
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030

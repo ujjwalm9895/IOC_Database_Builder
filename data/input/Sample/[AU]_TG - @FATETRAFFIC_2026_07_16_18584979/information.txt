@@ -1,0 +1,88 @@
+IP: 180.149.228.85
+Country: AU
+Date: 10.07.2026 05:42:34
+MachineID: 2a4b7fcc-276f-46e1-8ae7-aa0c452ca83c
+GUID: {d9c12785-6774}
+HWID: E045979368770E71C03D-95306fa2-9d03-E3AE395
+Path: C:\Users\DesktopUser\Desktop\ztcurbldpwralaf.exe
+MD5: a24aede6a77212fdb07e83e6566e661b
+Work Dir: In memory
+Windows: Windows 11 Pro 22H2 (Build 22621)
+Computer Name: LAPTOP-1RRZUA5
+User Name: DesktopUser
+Display Resolution: 1400x1050
+Local Time: 10.07.2026 05:42:34
+[Hardware]
+Processor: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz
+Cores: 4
+Threads: 4
+RAM: 32768 MB
+VideoCard: NVIDIA GeForce RTX 3070
+[Processes]
+  [4] System
+  [100] Registry
+  [322] smss.exe
+  [465] csrss.exe
+  [551] wininit.exe
+  [600] lsass.exe
+  [624] services.exe
+  [807] svchost.exe
+  [1905] svchost.exe
+  [1947] svchost.exe
+  [2051] svchost.exe
+  [2107] svchost.exe
+  [2167] svchost.exe
+  [2367] svchost.exe
+  [2402] svchost.exe
+  [2526] svchost.exe
+  [2952] svchost.exe
+  [3702] svchost.exe
+  [4097] taskhostw.exe
+  [4313] explorer.exe
+  [4364] RuntimeBroker.exe
+  [5479] firefox.exe
+  [5556] chrome.exe
+  [5690] ztcurbldpwralaf.exe
+  [5726] cmd.exe
+[Software]
+  Microsoft .NET Host FX Resolver - 8.0.3 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)
+  Microsoft Windows Desktop Targeting Pack - 8.0.3 (x64)
+  Google Chrome
+  Microsoft .NET 8.0 Templates 8.0.203 (x64)
+  Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)
+  Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)
+  Mozilla Firefox (x64 en-US)
+  Microsoft Windows Desktop Runtime - 9.0.1 (x64)
+  Microsoft .NET Host - 9.0.1 (x64)
+  Node.js
+  Microsoft.NET.Sdk.Maui.Manifest-8.0.100 (x64)
+  Microsoft .NET AppHost Pack - 8.0.3 (x64_x86)
+  Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+  Microsoft .NET Targeting Pack - 8.0.3 (x64)
+  Microsoft .NET Runtime - 8.0.3 (x64)
+  Microsoft.NET.Sdk.tvOS.Manifest-8.0.100 (x64)
+  Microsoft .NET Host FX Resolver - 9.0.1 (x64)
+  Java 8 Update 401 (64-bit)
+  Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)
+  Microsoft ASP.NET Core 8.0.3 Targeting Pack (x64)
+  Mozilla Maintenance Service
+  Microsoft .NET AppHost Pack - 8.0.3 (x64_arm64)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33135
+  Microsoft .NET Runtime - 9.0.1 (x64)
+  Microsoft Office Shared 64-bit MUI (English) 2016
+  Microsoft .NET Host - 8.0.3 (x64)
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2016
+  Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)
+  Microsoft Office 64-bit Components 2016
+  Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)
+  Microsoft.NET.Sdk.Android.Manifest-8.0.100 (x64)
+  Microsoft.NET.Sdk.iOS.Manifest-8.0.100 (x64)
+  LibreOffice 24.2.0.3
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.38.33135
+  Microsoft .NET Toolset 8.0.203 (x64)
+  Microsoft ASP.NET Core 8.0.3 Shared Framework (x64)
+  Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)
+  7-Zip 23.01 (x64)
+  Microsoft Windows Desktop Runtime - 8.0.3 (x64)

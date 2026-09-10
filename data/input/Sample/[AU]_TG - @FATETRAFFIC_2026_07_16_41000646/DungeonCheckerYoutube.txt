@@ -1,0 +1,11 @@
+[INFO] Path : Chrome_Default_[9251].txt
+[INFO] Title : RickShortEpisodes
+[INFO] Subscribers : 33
+[INFO] Total_Views : 22021
+[INFO] Join_Date : 2021
+[INFO] Url : https://www.youtube.com/channel/UC4cz6t1SoWy22ZifzgLV-Zg
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+

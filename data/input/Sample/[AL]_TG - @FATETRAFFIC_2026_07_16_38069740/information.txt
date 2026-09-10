@@ -1,0 +1,360 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 185.239.8.227
+Country: AL
+Date: 11.07.2026 12:32:42
+MachineID: 3a293104-9310-ac90-f211-c838b4a5b6a5
+GUID: {e38adca1-df76}
+HWID: A3B323C6BF879ED92023-e38adca1-df76-65A38C0
+Path: C:\Users\mobile\AppData\Local\Temp\13122420101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-JVC488S
+User Name: mobile
+Display Resolution: 1536x864
+Local Time: 11.07.2026 12:32:58
+Antivirus: None
+[Hardware]
+Processor: Intel(R) Core(TM) i7-7920HQ CPU @ 3.10GHz
+Cores: 8
+Threads: 8
+RAM: 32616 MB
+VideoCard: Intel(R) HD Graphics 630
+[Processes]
+  [4] System
+  [124] Registry
+  [468] smss.exe
+  [740] csrss.exe
+  [496] wininit.exe
+  [508] csrss.exe
+  [800] services.exe
+  [836] lsass.exe
+  [972] svchost.exe
+  [1004] fontdrvhost.exe
+  [892] WUDFHost.exe
+  [1080] svchost.exe
+  [1124] svchost.exe
+  [1176] winlogon.exe
+  [1236] fontdrvhost.exe
+  [1372] svchost.exe
+  [1380] svchost.exe
+  [1392] svchost.exe
+  [1476] svchost.exe
+  [1496] svchost.exe
+  [1608] svchost.exe
+  [1616] svchost.exe
+  [1640] IntelCpHDCPSvc.exe
+  [1676] svchost.exe
+  [1796] svchost.exe
+  [1824] svchost.exe
+  [1984] IntelCpHeciSvc.exe
+  [500] svchost.exe
+  [1836] dwm.exe
+  [2176] svchost.exe
+  [2276] svchost.exe
+  [2328] svchost.exe
+  [2396] UshUpgradeService.exe
+  [2424] svchost.exe
+  [2508] svchost.exe
+  [2516] svchost.exe
+  [2572] svchost.exe
+  [2612] NVDisplay.Container.exe
+  [2652] svchost.exe
+  [2728] svchost.exe
+  [2816] svchost.exe
+  [2812] svchost.exe
+  [2832] svchost.exe
+  [2932] svchost.exe
+  [2956] svchost.exe
+  [2988] Memory Compression
+  [2096] igfxCUIService.exe
+  [2248] svchost.exe
+  [3104] svchost.exe
+  [3112] svchost.exe
+  [3236] svchost.exe
+  [3244] svchost.exe
+  [3352] NVDisplay.Container.exe
+  [3432] RtkAudioService64.exe
+  [3456] svchost.exe
+  [3596] svchost.exe
+  [3604] svchost.exe
+  [3608] svchost.exe
+  [3808] svchost.exe
+  [3924] svchost.exe
+  [4016] RAVBg64.exe
+  [4040] RAVBg64.exe
+  [4048] svchost.exe
+  [4104] wlanext.exe
+  [4112] spoolsv.exe
+  [4152] conhost.exe
+  [4384] HostStorageService.exe
+  [4392] HostControlService.exe
+  [4480] svchost.exe
+  [4536] svchost.exe
+  [4676] svchost.exe
+  [4684] DellFFDPWmiService.exe
+  [4692] svchost.exe
+  [4708] svchost.exe
+  [4720] HidMonitorSvc.exe
+  [4732] mDNSResponder.exe
+  [4748] AppleMobileDeviceService.exe
+  [4760] svchost.exe
+  [4784] svchost.exe
+  [4808] OneApp.IGCC.WinService.exe
+  [4816] ElevationService.exe
+  [4828] AlsulicsService.exe
+  [4872] EternalCast.exe
+  [4880] WsidService.exe
+  [4900] esif_uf.exe
+  [4992] svchost.exe
+  [5048] LMS.exe
+  [5092] rsDNSClientSvc.exe
+  [5104] svchost.exe
+  [5112] rsDNSSvc.exe
+  [4192] rsDNSResolver.exe
+  [4200] sshd.exe
+  [4236] svchost.exe
+  [4140] ss_conn_service2.exe
+  [4208] ss_conn_service.exe
+  [4204] rsVPNSvc.exe
+  [4248] RstMwService.exe
+  [2100] rsVPNClientSvc.exe
+  [4164] svchost.exe
+  [5140] WavesSysSvc64.exe
+  [5200] svchost.exe
+  [5212] svchost.exe
+  [5264] InstallAssistService.exe
+  [5296] WMIRegistrationService.exe
+  [5332] jhi_service.exe
+  [5428] svchost.exe
+  [5836] svchost.exe
+  [6420] svchost.exe
+  [6636] svchost.exe
+  [6688] svchost.exe
+  [6812] unsecapp.exe
+  [6852] WmiPrvSE.exe
+  [6920] WmiPrvSE.exe
+  [7456] SearchIndexer.exe
+  [2344] AggregatorHost.exe
+  [2408] Apoint.exe
+  [7644] AlsulicsApp.exe
+  [8180] sihost.exe
+  [3844] svchost.exe
+  [4848] svchost.exe
+  [7012] PresentationFontCache.exe
+  [8184] svchost.exe
+  [8208] taskhostw.exe
+  [8376] svchost.exe
+  [8616] svchost.exe
+  [8680] ctfmon.exe
+  [8736] rsAppUI.exe
+  [8740] rsAppUI.exe
+  [8784] svchost.exe
+  [8944] ApMsgFwd.exe
+  [8972] svchost.exe
+  [8980] svchost.exe
+  [9128] explorer.exe
+  [5652] winhost.exe
+  [8696] ApRemote.exe
+  [8432] hidfind.exe
+  [9136] ApntEx.exe
+  [9300] igfxEM.exe
+  [9316] conhost.exe
+  [9996] rsAppUI.exe
+  [10172] rsAppUI.exe
+  [9492] rsAppUI.exe
+  [10104] svchost.exe
+  [10304] rsAppUI.exe
+  [10364] rsAppUI.exe
+  [10512] rsAppUI.exe
+  [10896] StartMenuExperienceHost.exe
+  [11080] RuntimeBroker.exe
+  [8588] SearchApp.exe
+  [11112] RuntimeBroker.exe
+  [11416] rsAppUI.exe
+  [11652] dllhost.exe
+  [13116] GDFwAdmin.exe
+  [13164] EternalCast.exe
+  [12980] unsecapp.exe
+  [2284] systemhelper.exe
+  [13092] WindowsCalculator.exe
+  [6620] WindowsCalculator.exe
+  [2440] GDFwAdmin.exe
+  [12724] jusched.exe
+  [4080] Bwale.exe
+  [12888] svchost.exe
+  [6480] 3uTools.exe
+  [10344] QtWebEngineProcess.exe
+  [4632] QtWebEngineProcess.exe
+  [12688] QtWebEngineProcess.exe
+  [5272] QtWebEngineProcess.exe
+  [11296] svchost.exe
+  [1772] svchost.exe
+  [12700] svchost.exe
+  [6996] svchost.exe
+  [2388] RuntimeBroker.exe
+  [4952] RAVBg64.exe
+  [1196] WavesSvc64.exe
+  [12408] DeskRest.exe
+  [12400] SamsungDeX.exe
+  [8292] Sys Service.exe
+  [15300] gjwie.exe
+  [7440] svchost.exe
+  [14780] WindowsStore.Update.exe
+  [13844] yv7qwnut.exe
+  [14420] SearchApp.exe
+  [18692] msedgewebview2.exe
+  [18768] msedgewebview2.exe
+  [19140] msedgewebview2.exe
+  [19148] msedgewebview2.exe
+  [19232] msedgewebview2.exe
+  [18620] msedgewebview2.exe
+  [20868] ce9ce299.exe
+  [23360] Dllhost.exe
+  [23900] Client.exe
+  [23948] e6456666.exe
+  [13468] pCVwgr+dsojg.exe
+  [25700] IGCC.exe
+  [30280] M365Copilot.exe
+  [29960] RuntimeBroker.exe
+  [18908] runonce.exe
+  [16440] msedgewebview2.exe
+  [18964] msedgewebview2.exe
+  [3676] msedgewebview2.exe
+  [30020] msedgewebview2.exe
+  [30724] msedgewebview2.exe
+  [31252] consent.exe
+  [31368] NTFSReaderExtension.exe
+  [25772] pCVwgr+dsojg.exe
+  [30152] kNQk+N71Mq8R.exe
+  [16356] dllhost.exe
+  [16208] UserOOBEBroker.exe
+  [3592] GDFwAdmin.exe
+  [28904] TextInputHost.exe
+  [1044] dllhost.exe
+  [30636] OneBUpdateService.exe
+  [1628] msedgewebview2.exe
+  [12420] svchost.exe
+  [27812] WUDFHost.exe
+  [14948] svchost.exe
+  [15828] svchost.exe
+  [21888] 16a0808f.exe
+  [7044] pD18XGFHW2Lm.exe
+  [32064] taskhostw.exe
+  [24000] MicrosoftEdgeUpdate.exe
+  [17656] powershell.exe
+  [8840] conhost.exe
+  [23952] consent.exe
+  [14196] MicrosoftEdgeUpdate.exe
+  [12132] taskhostw.exe
+  [11972] MicrosoftEdgeUpdate.exe
+  [18340] WaaSMedicAgent.exe
+  [32500] conhost.exe
+  [11108] LockApp.exe
+  [24600] RuntimeBroker.exe
+  [21576] svchost.exe
+  [17264] svchost.exe
+  [4804] taskhostw.exe
+  [25192] CompatTelRunner.exe
+  [24516] conhost.exe
+  [4672] CompatTelRunner.exe
+  [27844] 7380b328.exe
+  [27096] 63d56ebb.exe
+  [17208] backgroundTaskHost.exe
+  [24724] backgroundTaskHost.exe
+  [5168] backgroundTaskHost.exe
+  [25388] Wihnup.exe
+  [31796] svchost.exe
+  [27316] WerFault.exe
+  [22980] powershell.exe
+  [32232] conhost.exe
+  [30768] consent.exe
+  [20396] msedge.exe
+  [816] svchost.exe
+  [31308] MicrosoftEdge_X64_149.0.4022.98_149.0.4022.80.exe
+  [11000] setup.exe
+  [21652] msedge.exe
+  [25512] powershell.exe
+  [16044] conhost.exe
+  [17796] msedge.exe
+  [27464] msedge.exe
+  [23340] msedge.exe
+  [30148] msedge.exe
+  [26368] msedge.exe
+  [30244] msedge.exe
+  [32188] msedge.exe
+  [26776] msedge.exe
+  [5440] msedge.exe
+  [24644] powershell.exe
+  [32504] conhost.exe
+  [25504] tasklist.exe
+  [13936] conhost.exe
+  [16372] powershell.exe
+  [21236] conhost.exe
+  [17012] powershell.exe
+  [17444] conhost.exe
+  [21500] InnoMesh.exe
+  [29240] wermgr.exe
+  [28216] svchost.exe
+  [31204] DataPulse.exe
+  [2980] 4BtqZz1.exe
+  [20728] powershell.exe
+  [21708] conhost.exe
+  [27788] tasklist.exe
+  [27556] 74e5a0a3f5.exe
+  [31384] conhost.exe
+  [18272] conhost.exe
+  [24296] msedge.exe
+  [15388] v49922.exe
+  [22752] svchost.exe
+  [13888] Server.exe
+  [27264] powershell.exe
+  [21556] conhost.exe
+  [18180] consent.exe
+  [31096] svchost.exe
+  [17304] audiodg.exe
+  [27040] systemruntime.exe
+  [27776] B2485823B8409141.exe
+  [16504] consent.exe
+[Software]
+  Windows Driver Package - SAMSUNG Electronics Co., Ltd.  (dg_ssudbus) USB  (08/24/2016 2.12.4.0)
+  Windows Driver Package - SAMSUNG Electronics Co., Ltd.  (WinUSB) AndroidUsbDeviceClass  (08/24/2016 2.12.4.0)
+  Windows Driver Package - SAMSUNG Electronics Co., Ltd.  (WinUSB) AndroidUsbDeviceClass  (12/02/2015 2.12.1.0)
+  Windows Driver Package - SAMSUNG Electronics Co., Ltd.  (dg_ssudbus) USB  (12/02/2015 2.12.1.0)
+  Windows Driver Package - SAMSUNG Electronics Co., Ltd.  (ssudmdm) Modem  (12/02/2015 2.12.1.0)
+  AlsulicsApplication
+  Windows Driver Package - SAMSUNG Electronics Co., Ltd.  (ssudmdm) Modem  (08/24/2016 2.12.4.0)
+  Mesh Agent
+  Microsoft OneDrive
+  Safer Web
+  VPN by RAV
+  WinRAR 7.20 (64-bit)
+  Microsoft Update Health Tools
+  Microsoft .NET Host - 8.0.26 (x64)
+  Maxx Audio Installer (x64)
+  Bonjour
+  ZeroShare version 1.0
+  Dell Touchpad
+  NVIDIA Control Panel 512.36
+  NVIDIA Install Application
+  NVIDIA Display MessageBus
+  NVIDIA Display Container
+  NVIDIA Display Container LS
+  NVIDIA Display Watchdog Plugin
+  NVIDIA Display Session Container
+  Update for x64-based Windows Systems (KB5001716)
+  Apple Mobile Device Support
+  Microsoft Windows Desktop Runtime - 8.0.26 (x64)
+  Microsoft .NET Host FX Resolver - 8.0.26 (x64)
+  Samsung USB Driver for Mobile Phones

@@ -1,0 +1,11 @@
+Target: MicrosoftAccount:target=SSO_POP_User:user=rajjor27@gmail.com
+User: rajjor27@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=rajjor27@gmail.com
+User: rajjor27@gmail.com
+Pass: (empty)
+
+Target: WindowsLive:target=virtualapp/didlogical
+User: 02qnaicazyuhjyyx
+Pass: (empty)

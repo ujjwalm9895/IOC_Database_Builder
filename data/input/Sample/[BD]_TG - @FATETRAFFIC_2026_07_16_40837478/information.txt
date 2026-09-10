@@ -1,0 +1,199 @@
+IP: 203.89.126.144
+Country: BD
+Date: 10.07.2026 21:51:14
+MachineID: c65e3287-e328-67c6-2ea4-e8fa0b736c7b
+GUID: {f3e4b63a-938c}
+HWID: AC4D351DA392D58CBFDE-f3e4b63a-938c-694E095
+Path: C:\Users\Nur Hasan\C2Y8efF.exe
+MD5: 7def6882cd38fe92ff13936a9f0741dd
+Work Dir: In memory
+Windows: Windows 10 Home 22H2 (Build 19045)
+Computer Name: DESKTOP-FD1GVH2
+User Name: Nur Hasan
+Display Resolution: 1366x768
+Local Time: 10.07.2026 21:51:14
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+Cores: 4
+Threads: 4
+RAM: 12163 MB
+VideoCard: Intel(R) HD Graphics 5500
+[Processes]
+  [4] System
+  [100] Registry
+  [396] smss.exe
+  [584] csrss.exe
+  [884] wininit.exe
+  [1004] services.exe
+  [68] lsass.exe
+  [664] svchost.exe
+  [712] fontdrvhost.exe
+  [608] svchost.exe
+  [432] svchost.exe
+  [1264] svchost.exe
+  [1272] svchost.exe
+  [1280] svchost.exe
+  [1392] svchost.exe
+  [1400] svchost.exe
+  [1516] svchost.exe
+  [1596] svchost.exe
+  [1732] svchost.exe
+  [1772] svchost.exe
+  [1908] svchost.exe
+  [1952] svchost.exe
+  [2004] svchost.exe
+  [2076] svchost.exe
+  [2084] svchost.exe
+  [2168] svchost.exe
+  [2240] svchost.exe
+  [2268] svchost.exe
+  [2304] igfxCUIService.exe
+  [2336] svchost.exe
+  [2392] svchost.exe
+  [2464] svchost.exe
+  [2512] svchost.exe
+  [2592] svchost.exe
+  [2756] svchost.exe
+  [2784] svchost.exe
+  [2896] RtkAudioService64.exe
+  [2948] svchost.exe
+  [3016] svchost.exe
+  [3024] svchost.exe
+  [3032] svchost.exe
+  [3172] svchost.exe
+  [3332] svchost.exe
+  [3548] svchost.exe
+  [3636] spoolsv.exe
+  [3732] svchost.exe
+  [3780] svchost.exe
+  [3828] svchost.exe
+  [3964] svchost.exe
+  [3976] svchost.exe
+  [3988] svchost.exe
+  [3996] fpCSEvtSvc.exe
+  [4004] svchost.exe
+  [4060] svchost.exe
+  [4080] valWBFPolicyService.exe
+  [4088] svchost.exe
+  [4100] ibtsiva.exe
+  [4120] SynTPEnhService.exe
+  [4204] WsNativePushService.exe
+  [4284] svchost.exe
+  [4328] svchost.exe
+  [4584] svchost.exe
+  [4696] svchost.exe
+  [5324] svchost.exe
+  [5840] dllhost.exe
+  [4916] svchost.exe
+  [5912] svchost.exe
+  [6152] svchost.exe
+  [6444] svchost.exe
+  [6552] svchost.exe
+  [3412] SearchIndexer.exe
+  [7900] svchost.exe
+  [3884] SecurityHealthService.exe
+  [2252] SgrmBroker.exe
+  [7260] svchost.exe
+  [8576] svchost.exe
+  [9452] svchost.exe
+  [9488] svchost.exe
+  [5584] svchost.exe
+  [2628] svchost.exe
+  [9388] svchost.exe
+  [11116] MpDefenderCoreService.exe
+  [5068] MsMpEng.exe
+  [16076] NisSrv.exe
+  [1812] svchost.exe
+  [19180] svchost.exe
+  [1804] WUDFHost.exe
+  [9708] csrss.exe
+  [17968] winlogon.exe
+  [860] fontdrvhost.exe
+  [9504] dwm.exe
+  [10684] RAVBg64.exe
+  [14640] SynTPEnh.exe
+  [10156] RAVBg64.exe
+  [14128] sihost.exe
+  [7644] svchost.exe
+  [13284] svchost.exe
+  [10288] taskhostw.exe
+  [6216] explorer.exe
+  [14780] igfxHK.exe
+  [3384] igfxTray.exe
+  [11452] SynTPHelper.exe
+  [20300] svchost.exe
+  [7740] ctfmon.exe
+  [124] StartMenuExperienceHost.exe
+  [14820] RuntimeBroker.exe
+  [11824] SearchApp.exe
+  [13340] RuntimeBroker.exe
+  [6672] SkypeBackgroundHost.exe
+  [13256] TabTip.exe
+  [13184] RuntimeBroker.exe
+  [9016] TextInputHost.exe
+  [15904] SkypeApp.exe
+  [13000] chrome.exe
+  [19172] chrome.exe
+  [19704] chrome.exe
+  [13168] chrome.exe
+  [1492] chrome.exe
+  [15820] SecurityHealthSystray.exe
+  [7832] RtsCM64.exe
+  [4900] WSHelper.exe
+  [15328] RuntimeBroker.exe
+  [20100] chrome.exe
+  [14108] CompPkgSrv.exe
+  [6696] svchost.exe
+  [10012] LockApp.exe
+  [12220] RuntimeBroker.exe
+  [2256] chrome.exe
+  [5264] rundll32.exe
+  [6752] ApplicationFrameHost.exe
+  [20384] ShellExperienceHost.exe
+  [5164] RuntimeBroker.exe
+  [12684] dllhost.exe
+  [12116] chrome.exe
+  [13252] chrome.exe
+  [9632] chrome.exe
+  [20284] audiodg.exe
+  [9584] WsToastNotification.exe
+  [13408] conhost.exe
+  [8892] chrome.exe
+  [19072] chrome.exe
+  [12348] dasHost.exe
+  [18544] chrome.exe
+  [14604] svchost.exe
+  [14524] chrome.exe
+  [1720] svchost.exe
+  [17096] taskhostw.exe
+  [14068] chrome.exe
+  [10580] OneDrive.Sync.Service.exe
+  [12296] chrome.exe
+  [6720] svchost.exe
+  [5712] svchost.exe
+  [948] smartscreen.exe
+  [8084] powershell.exe
+  [17528] conhost.exe
+  [3044] chrome.exe
+  [18204] chrome.exe
+  [1860] fk9Q.exe
+  [11936] chrome.exe
+  [6944] SearchProtocolHost.exe
+  [14548] SearchFilterHost.exe
+  [11904] svchost.exe
+  [18396] chrome.exe
+  [10672] WmiPrvSE.exe
+  [14504] powershell.exe
+  [17344] chrome.exe
+  [16796] chrome.exe
+  [12976] chrome.exe
+  [424] chrome.exe
+  [19732] chrome.exe
+  [16708] chrome.exe
+  [4564] C2Y8efF.exe
+  [11056] SecurityHealthHost.exe
+[Software]
+  7-Zip 25.01 (x64)
+  Synaptics Pointing Device Driver
+  VLC media player

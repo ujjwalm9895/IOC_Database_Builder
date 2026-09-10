@@ -1,0 +1,33 @@
+[INFO] Path : Brave-Browser_Default_[D3F6].txt
+[INFO] Title : MBS Alshamsi
+[INFO] Subscribers : 3
+[INFO] Total_Views : N/A
+[INFO] Join_Date : 2023
+[INFO] Url : https://www.youtube.com/@MBSAlshamsi
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+
+[INFO] Path : Brave-Browser_Default_[D3F6].txt
+[INFO] Title : MBS Alshamsi
+[INFO] Subscribers : 121
+[INFO] Total_Views : 12025
+[INFO] Join_Date : 2025
+[INFO] Url : https://www.youtube.com/channel/UCOHyHvtsGCPDSJUECNGrrwQ
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+
+[INFO] Path : Chrome_Default_[11DD].txt
+[INFO] Title : Bu Saif
+[INFO] Subscribers : 0
+[INFO] Total_Views : N/A
+[INFO] Join_Date : 2019
+[INFO] Url : https://www.youtube.com/@mrmjhool7842
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+

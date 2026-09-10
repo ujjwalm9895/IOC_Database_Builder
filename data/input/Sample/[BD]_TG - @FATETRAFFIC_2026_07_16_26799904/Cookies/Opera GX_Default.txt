@@ -1,0 +1,2 @@
+.opera.com	TRUE	/	FALSE	1775722026	_gcl_au	1.1.2055031793.1767946026
+.opera.com	TRUE	/	FALSE	1783584428	opref	source%3DMSTL%26medium%3Dpb%26campaign%3DOperaGX%26content%3D%26id%3D%26referrer%3D%26site%3Dopera_com%26sub%3D

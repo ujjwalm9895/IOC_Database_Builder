@@ -1,0 +1,19 @@
+Soft: Google Chrome (Default)
+Host: http://192.168.0.1/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.seedr.cc/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.lite/
+Login: 
+Password: 

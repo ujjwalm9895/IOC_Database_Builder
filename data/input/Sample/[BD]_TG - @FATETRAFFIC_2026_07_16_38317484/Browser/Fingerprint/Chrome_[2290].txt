@@ -1,0 +1,16 @@
+﻿Browser: Chrome
+===============
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: enabled
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Languages: en-BD,bn-BD,bn,en-GB,en-US,en
+Download Dir: C:\Users\User1\Downloads
+Profile Name: Person 1
+
+[Metadata]
+Extraction Time: 1782877622

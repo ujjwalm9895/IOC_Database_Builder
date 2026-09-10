@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 04/07/26 05:38
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: d8ff099ff6cdd3ee
+Country: BD
+IP: 103.146.16.220
+System Language: English
+Processor: AMD Ryzen 5 5600 6-Core Processor  (6 cores, 12 threads)
+Installed RAM: 15.93 GB
+Operation System: Windows 11 (Build 26200) (64 Bit)
+Graphics card: AMD Radeon RX 580 2048SP
+Computer Name: DESKTOP-EIK8F4P
+Domain Name: WORKGROUP
+-------------
+User Name: USER
+Admin Group: TRUE
+Integrity: High
+TimeZone: UTC+6
+UserLanguage: English
+Keyboard Language: English
+Display Resolution: 1920x1080

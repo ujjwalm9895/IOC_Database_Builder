@@ -1,0 +1,366 @@
+IP: 103.231.161.176
+Country: BD
+Date: 11.07.2026 15:35:39
+MachineID: 75a1e9f9-1e9f-ff5a-5e31-2b90b74a48ac
+GUID: {cfa6281c-6a81}
+HWID: D7520C709BE9882B7AA5-cfa6281c-6a81-8EC115C
+Path: C:\Users\jahan\AppData\Local\Temp\13117860101\eede0d72a3.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+Windows: Windows 11 Pro 25H2 (Build 26200)
+Computer Name: JIHAD
+User Name: jahan
+Display Resolution: 1920x1080
+Local Time: 11.07.2026 15:35:39
+Antivirus: Windows Defender
+[Hardware]
+Processor: AMD Ryzen 7 5700G with Radeon Graphics         
+Cores: 16
+Threads: 16
+RAM: 28561 MB
+VideoCard: NVIDIA GeForce RTX 3060
+[Processes]
+  [4] System
+  [236] Secure System
+  [280] Registry
+  [804] smss.exe
+  [1064] csrss.exe
+  [1228] wininit.exe
+  [1236] csrss.exe
+  [1328] winlogon.exe
+  [1348] services.exe
+  [1416] LsaIso.exe
+  [1424] lsass.exe
+  [1564] svchost.exe
+  [1600] fontdrvhost.exe
+  [1608] fontdrvhost.exe
+  [1628] svchost.exe
+  [1720] svchost.exe
+  [1764] svchost.exe
+  [1848] dwm.exe
+  [2004] svchost.exe
+  [2016] svchost.exe
+  [1376] svchost.exe
+  [1760] svchost.exe
+  [2084] svchost.exe
+  [2092] svchost.exe
+  [2100] svchost.exe
+  [2188] svchost.exe
+  [2276] svchost.exe
+  [2332] svchost.exe
+  [2360] svchost.exe
+  [2468] svchost.exe
+  [2624] NVDisplay.Container.exe
+  [2712] svchost.exe
+  [2876] svchost.exe
+  [2920] svchost.exe
+  [2928] amdfendrsr.exe
+  [2936] atiesrxx.exe
+  [3020] svchost.exe
+  [2272] svchost.exe
+  [3080] svchost.exe
+  [3088] svchost.exe
+  [3156] atieclxx.exe
+  [3200] Memory Compression
+  [3240] svchost.exe
+  [3268] svchost.exe
+  [3276] svchost.exe
+  [3408] svchost.exe
+  [3440] svchost.exe
+  [3500] svchost.exe
+  [3508] svchost.exe
+  [3568] svchost.exe
+  [3648] spoolsv.exe
+  [3776] svchost.exe
+  [3860] svchost.exe
+  [3948] NVDisplay.Container.exe
+  [4044] svchost.exe
+  [3264] audiodg.exe
+  [4272] svchost.exe
+  [4292] svchost.exe
+  [4300] svchost.exe
+  [4308] svchost.exe
+  [4316] svchost.exe
+  [4324] svchost.exe
+  [4332] svchost.exe
+  [4340] svchost.exe
+  [4360] nvcontainer.exe
+  [4460] FNPLicensingService64.exe
+  [4480] UltraViewer_Service.exe
+  [4532] register-service.exe
+  [4632] CptService.exe
+  [4640] NovabenchService.exe
+  [4688] MsMpEng.exe
+  [4748] MpDefenderCoreService.exe
+  [4756] FNPLicensingService.exe
+  [4796] AdskLicensingService.exe
+  [4968] OfficeClickToRun.exe
+  [4916] svchost.exe
+  [5236] svchost.exe
+  [5280] svchost.exe
+  [5404] lmgrd.exe
+  [5584] conhost.exe
+  [5704] lmgrd.exe
+  [4824] adskflex.exe
+  [5628] svchost.exe
+  [7104] swrm.exe
+  [7036] conhost.exe
+  [7644] WmiApSrv.exe
+  [7708] svchost.exe
+  [7936] svchost.exe
+  [8032] svchost.exe
+  [8076] WmiPrvSE.exe
+  [8164] NgcIso.exe
+  [8184] WmiPrvSE.exe
+  [7900] svchost.exe
+  [7896] svchost.exe
+  [8388] svchost.exe
+  [8488] nvcontainer.exe
+  [8816] svchost.exe
+  [8984] AggregatorHost.exe
+  [4852] dialer.exe
+  [4704] dialer.exe
+  [6464] dialer.exe
+  [9792] dialer.exe
+  [9700] dialer.exe
+  [9788] dialer.exe
+  [9976] dialer.exe
+  [9940] dialer.exe
+  [9948] dialer.exe
+  [9624] dialer.exe
+  [9968] dialer.exe
+  [9924] dialer.exe
+  [7212] svchost.exe
+  [6768] svchost.exe
+  [9520] nvcontainer.exe
+  [8728] sihost.exe
+  [9308] nvcontainer.exe
+  [6368] svchost.exe
+  [4896] svchost.exe
+  [6164] svchost.exe
+  [4624] taskhostw.exe
+  [8208] svchost.exe
+  [6128] svchost.exe
+  [8644] explorer.exe
+  [10084] ShellHost.exe
+  [10372] svchost.exe
+  [10420] svchost.exe
+  [10676] CrossDeviceResume.exe
+  [11020] nvsphelper64.exe
+  [11032] NVIDIA Overlay.exe
+  [10552] StartMenuExperienceHost.exe
+  [11360] WidgetBoard.exe
+  [11404] CrossDeviceService.exe
+  [11500] RuntimeBroker.exe
+  [11528] svchost.exe
+  [11996] NisSrv.exe
+  [10464] hostmanager.exe
+  [12824] WidgetService.exe
+  [12944] NVIDIA Overlay.exe
+  [13044] NVIDIA Overlay.exe
+  [11104] NVIDIA Overlay.exe
+  [6808] NVIDIA Overlay.exe
+  [8288] svchost.exe
+  [14772] MicrosoftStartFeedProvider.exe
+  [14820] ctfmon.exe
+  [15136] smartscreen.exe
+  [15216] svchost.exe
+  [15320] RuntimeBroker.exe
+  [15384] TextInputHost.exe
+  [16272] svchost.exe
+  [11420] nvfvsdksvc_x64.exe
+  [12004] FvContainer.System.exe
+  [12052] FvContainer.exe
+  [13672] PresentMon_x64.exe
+  [13680] nvrla.exe
+  [13388] SearchHost.exe
+  [13096] msedgewebview2.exe
+  [13560] msedgewebview2.exe
+  [3532] msedgewebview2.exe
+  [12696] msedgewebview2.exe
+  [14176] msedgewebview2.exe
+  [16620] msedgewebview2.exe
+  [18160] PhoneExperienceHost.exe
+  [10152] SecurityHealthSystray.exe
+  [5008] SecurityHealthService.exe
+  [10368] Bwale.exe
+  [18116] Chrome.exe
+  [18144] svchost.exe
+  [6092] Dllhost.exe
+  [18072] schtasks.exe
+  [1620] conhost.exe
+  [13540] taskhostw.exe
+  [15284] svchost.exe
+  [17980] AdskAccessService.exe
+  [7012] ADPClientService.exe
+  [17628] conhost.exe
+  [8120] ImoDesktopApp.exe
+  [9888] crashpad_handler.exe
+  [2680] svchost.exe
+  [7244] GDFwAdmin.exe
+  [4844] D5Launcher.exe
+  [9584] D5Launcher.exe
+  [13988] CrashDumpServer.exe
+  [17376] D5Launcher.exe
+  [14484] D5Launcher.exe
+  [9704] D5Launcher.exe
+  [18168] D5Launcher.exe
+  [6500] D5Launcher.exe
+  [7436] MidiSrv.exe
+  [6384] OneDrive.exe
+  [9356] SearchIndexer.exe
+  [8152] SearchProtocolHost.exe
+  [5056] terabox.exe
+  [14060] teraboxunite.exe
+  [1296] teraboxunite.exe
+  [2720] teraboxunite.exe
+  [14264] teraboxunite.exe
+  [8100] teraboxunite.exe
+  [13468] teraboxunite.exe
+  [11184] teraboxhost.exe
+  [16848] crashpad_handler.exe
+  [18380] chrome.exe
+  [9740] chrome.exe
+  [15296] chrome.exe
+  [9724] chrome.exe
+  [11176] chrome.exe
+  [17472] chrome.exe
+  [4836] chrome.exe
+  [16496] chrome.exe
+  [13904] chrome.exe
+  [8144] chrome.exe
+  [16228] msedge.exe
+  [3480] chrome.exe
+  [3752] chrome.exe
+  [6636] msedge.exe
+  [5956] msedge.exe
+  [9440] msedge.exe
+  [15412] msedge.exe
+  [10248] chrome.exe
+  [15364] msedge.exe
+  [12352] pwahelper.exe
+  [10116] svchost.exe
+  [18764] msedge.exe
+  [4060] msedge.exe
+  [18728] msedge.exe
+  [19896] msedge.exe
+  [20032] msedge.exe
+  [19840] RuntimeBroker.exe
+  [19448] RuntimeBroker.exe
+  [17896] msedge.exe
+  [20216] svchost.exe
+  [13456] sppsvc.exe
+  [18900] svchost.exe
+  [19716] svchost.exe
+  [19588] svchost.exe
+  [18968] svchost.exe
+  [5728] eede0d72a3.exe
+  [1748] msedge.exe
+  [19792] identity_helper.exe
+  [13612] msedge.exe
+  [19848] msedge.exe
+  [16236] updater.exe
+  [16160] updater.exe
+[Software]
+  Arduino IDE 2.3.8
+  7-Zip 25.00 (x64)
+  Autodesk AutoCAD 2020 - English
+  Autodesk 3ds Max 2020
+  Chaos Cosmos Browser
+  Chaos License Server
+  Chaos Scatter for 3ds Max 2020
+  Chaos Scatter for 3ds Max 2025
+  Chaos Unified Login
+  Chaos Vantage
+  Chaos Corona for 3ds Max
+  Mozilla Firefox (x64 en-US)
+  Mozilla Maintenance Service
+  Microsoft 365 - en-us
+  Microsoft OneDrive
+  PDF Reader for Windows 7
+  Pristina version 1.94
+  Microsoft Office LTSC Professional Plus 2021 - en-us
+  V-Ray for 3dsmax 2020 for x64
+  V-Ray for 3dsmax 2025 for x64
+  V-Ray Swarm
+  WinRAR 7.12 (64-bit)
+  Microsoft ASP.NET Core 9.0.7 Shared Framework (x64)
+  Microsoft .NET Host - 9.0.7 (x64)
+  Microsoft ASP.NET Core 9.0.7 Targeting Pack (x64)
+  Microsoft Windows Desktop Runtime - 8.0.0 (x64)
+  Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft .NET Runtime - 9.0.7 (x64)
+  Microsoft .NET Host FX Resolver - 9.0.7 (x64)
+  Autodesk Genuine Service
+  Autodesk Save to Web and Mobile
+  AutoCAD 2020
+  ACAD Private
+  AutoCAD 2020 Language Pack - English
+  AutoCAD 2020 - English
+  ACA & MEP 2020 Object Enabler
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+  Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)
+  Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)
+  Microsoft .NET Host FX Resolver - 8.0.0 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)
+  Autodesk Network License Manager
+  Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)
+  NVIDIA mental ray and IRay feature plugins for 3ds Max 2020
+  Microsoft Windows Desktop Runtime - 9.0.7 (x64)
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660
+  Microsoft .NET Targeting Pack - 9.0.7 (x64)
+  D5 Live Sync for 3ds Max version 1.3.2.0053
+  Autodesk Inventor Server Engine for 3ds Max 2020
+  Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)
+  Microsoft .NET AppHost Pack - 9.0.7 (x64)
+  Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)
+  Microsoft .NET Runtime - 8.0.0 (x64)
+  MAXtoA for 3ds Max 2020
+  Zoom Workplace (64-bit)
+  Microsoft .NET Toolset 9.0.303 (x64)
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  SketchUpPro 2022
+  Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)
+  Microsoft .NET 9.0 Templates 9.0.303 (x64)
+  Novabench
+  Autodesk Access
+  Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+  Microsoft .NET AppHost Pack - 9.0.7 (x64_arm64)
+  Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)
+  Microsoft Windows Desktop Targeting Pack - 9.0.7 (x64)
+  NVIDIA Graphics Driver 591.86
+  NVIDIA App 11.0.5.245
+  NVIDIA MessageBus 3 for NvApp
+  NVIDIA Backend
+  NvCpl
+  NVIDIA PhysX System Software 9.23.1019
+  NVIDIA FrameView SDK 1.5.11504.36206172
+  NVIDIA Install Application
+  NVIDIA Container
+  NVIDIA AIUser Container
+  NVIDIA LocalSystem Container
+  NVIDIA Session Container
+  NVIDIA User Container
+  NVIDIA NvDLISR
+  NVIDIA Watchdog Plugin for NvContainer
+  NVIDIA Telemetry Client
+  NVIDIA ShadowPlay 11.0.5.0
+  NVIDIA Virtual Audio 4.65.0.3
+  Autodesk 3ds Max 2020
+  Google Chrome
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+  Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)
+  Microsoft .NET Host - 8.0.0 (x64)
+  D5 LiveSync for SketchUp version 1.7.0.0001
+  Microsoft .NET AppHost Pack - 9.0.7 (x64_x86)
+  Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)
+  Autodesk Single Sign On Component
+  Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438

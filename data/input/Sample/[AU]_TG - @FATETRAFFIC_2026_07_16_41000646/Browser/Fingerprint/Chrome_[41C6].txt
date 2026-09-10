@@ -1,0 +1,15 @@
+﻿Browser: Chrome
+===============
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Languages: en-GB,en-US,en
+Profile Name: Person 1
+
+[Metadata]
+Extraction Time: 1783272086

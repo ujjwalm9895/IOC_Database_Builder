@@ -1,0 +1,242 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 103.189.159.44
+Country: BD
+Date: 11.07.2026 20:34:49
+MachineID: 5ca34a96-34a9-b18a-7c04-20a758565d56
+GUID: {9faa7175-c0f6}
+HWID: 4BF2ABF9473E31D8BB4A-9faa7175-c0f6-CEC9D8F
+Path: C:\Users\noobg\AppData\Local\Temp\13121310101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-LTJGPFB
+User Name: noobg
+Display Resolution: 1920x1080
+Local Time: 11.07.2026 20:34:49
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz
+Cores: 4
+Threads: 4
+RAM: 8109 MB
+VideoCard: Microsoft Basic Display Adapter
+[Processes]
+  [4] System
+  [108] Registry
+  [444] smss.exe
+  [644] csrss.exe
+  [720] wininit.exe
+  [796] services.exe
+  [816] lsass.exe
+  [1020] svchost.exe
+  [480] fontdrvhost.exe
+  [932] svchost.exe
+  [1080] svchost.exe
+  [1164] svchost.exe
+  [1240] svchost.exe
+  [1364] svchost.exe
+  [1376] svchost.exe
+  [1448] svchost.exe
+  [1552] svchost.exe
+  [1624] svchost.exe
+  [1720] svchost.exe
+  [1760] svchost.exe
+  [1792] svchost.exe
+  [1836] gxxsvc.exe
+  [1832] QMEmulatorService.exe
+  [1876] svchost.exe
+  [1948] svchost.exe
+  [1976] svchost.exe
+  [1776] svchost.exe
+  [2132] svchost.exe
+  [2244] svchost.exe
+  [2252] svchost.exe
+  [2260] svchost.exe
+  [2400] svchost.exe
+  [2408] Memory Compression
+  [2460] svchost.exe
+  [2468] svchost.exe
+  [2592] svchost.exe
+  [2624] svchost.exe
+  [2744] svchost.exe
+  [2860] svchost.exe
+  [2864] svchost.exe
+  [2900] svchost.exe
+  [2952] svchost.exe
+  [1044] spoolsv.exe
+  [2620] svchost.exe
+  [3084] svchost.exe
+  [3228] svchost.exe
+  [3240] svchost.exe
+  [3248] svchost.exe
+  [3256] svchost.exe
+  [3264] svchost.exe
+  [3276] svchost.exe
+  [3292] RtkAudUService64.exe
+  [3348] svchost.exe
+  [3356] MpDefenderCoreService.exe
+  [3408] svchost.exe
+  [3452] svchost.exe
+  [3496] MsMpEng.exe
+  [3588] svchost.exe
+  [3604] svchost.exe
+  [3636] svchost.exe
+  [3696] dasHost.exe
+  [3732] svchost.exe
+  [4728] svchost.exe
+  [4756] svchost.exe
+  [4908] dllhost.exe
+  [3476] svchost.exe
+  [5016] QuickShareService.exe
+  [4192] SearchIndexer.exe
+  [3804] svchost.exe
+  [5208] svchost.exe
+  [5976] AggregatorHost.exe
+  [4116] svchost.exe
+  [5304] svchost.exe
+  [5684] svchost.exe
+  [5852] svchost.exe
+  [6328] NisSrv.exe
+  [8224] svchost.exe
+  [8552] SecurityHealthService.exe
+  [6824] svchost.exe
+  [8764] svchost.exe
+  [10948] svchost.exe
+  [12932] svchost.exe
+  [8104] svchost.exe
+  [2784] svchost.exe
+  [8356] svchost.exe
+  [3796] svchost.exe
+  [3844] audiodg.exe
+  [17832] svchost.exe
+  [9836] svchost.exe
+  [9844] WmiPrvSE.exe
+  [2184] svchost.exe
+  [1076] csrss.exe
+  [17300] winlogon.exe
+  [16644] dwm.exe
+  [16524] fontdrvhost.exe
+  [10252] svchost.exe
+  [11412] MicrosoftEdgeUpdate.exe
+  [15416] sihost.exe
+  [15192] svchost.exe
+  [5620] svchost.exe
+  [896] taskhostw.exe
+  [4572] MicrosoftEdgeUpdate.exe
+  [12620] explorer.exe
+  [4440] svchost.exe
+  [13096] StartMenuExperienceHost.exe
+  [11808] RuntimeBroker.exe
+  [15752] SearchApp.exe
+  [8364] RuntimeBroker.exe
+  [10424] ctfmon.exe
+  [6376] RuntimeBroker.exe
+  [7520] AppMarket.exe
+  [15428] wmpf_installer.exe
+  [16244] syzs_dl_svr.exe
+  [14996] conhost.exe
+  [5316] PhoneExperienceHost.exe
+  [492] cef_frame_render.exe
+  [5552] cef_frame_render.exe
+  [16112] cef_frame_render.exe
+  [5688] TextInputHost.exe
+  [10976] smartscreen.exe
+  [13596] SecurityHealthSystray.exe
+  [16708] RtkAudUService64.exe
+  [7584] OneDrive.exe
+  [16736] svchost.exe
+  [18144] Avro Keyboard.exe
+  [17436] OneDrive.Sync.Service.exe
+  [3036] Dllhost.exe
+  [11156] msedge.exe
+  [9048] Client.exe
+  [14300] msedge.exe
+  [7528] svchost.exe
+  [6432] msedge.exe
+  [7968] msedge.exe
+  [17164] msedge.exe
+  [10200] Wihnup.exe
+  [13800] schtasks.exe
+  [17016] conhost.exe
+  [13236] taskhostw.exe
+  [9784] svchost.exe
+  [2216] e4b8ac51ae.exe
+  [1996] pythonw.exe
+  [3620] updater.exe
+  [9100] updater.exe
+  [7424] MicrosoftEdgeUpdate.exe
+  [11248] WhatsApp.Root.exe
+  [17336] RuntimeBroker.exe
+  [10220] msedgewebview2.exe
+  [16372] msedgewebview2.exe
+  [17700] msedgewebview2.exe
+  [4068] msedgewebview2.exe
+  [12004] msedgewebview2.exe
+  [9748] jusched.exe
+  [8776] pythonw.exe
+  [1676] msedgewebview2.exe
+  [16504] svchost.exe
+  [10896] chrome.exe
+  [7288] chrome.exe
+  [11524] chrome.exe
+  [7596] chrome.exe
+  [5216] chrome.exe
+  [14344] chrome.exe
+  [8468] chrome.exe
+  [16692] chrome.exe
+  [6116] hostmanager.exe
+  [8472] SearchProtocolHost.exe
+  [3272] SearchFilterHost.exe
+  [14628] chrome.exe
+  [4600] svchost.exe
+  [15796] svchost.exe
+  [13084] SearchApp.exe
+  [11896] msedgewebview2.exe
+  [14816] msedgewebview2.exe
+  [8860] msedgewebview2.exe
+  [2032] msedgewebview2.exe
+  [7412] msedgewebview2.exe
+  [8896] msedgewebview2.exe
+  [4596] b32b72d2.exe
+  [4764] chrome.exe
+  [13884] chrome.exe
+  [16492] chrome.exe
+  [14904] updater.exe
+  [7172] updater.exe
+  [13932] updater.exe
+  [5524] updater.exe
+  [11028] updater.exe
+  [728] updater.exe
+  [10304] updater.exe
+  [16980] CompatTelRunner.exe
+  [17020] updater.exe
+  [128] conhost.exe
+  [10740] chrome.exe
+  [18352] sppsvc.exe
+  [6176] CompatTelRunner.exe
+  [12788] WmiPrvSE.exe
+  [16756] TrustedInstaller.exe
+  [11008] TiWorker.exe
+  [10884] msedgewebview2.exe
+  [12116] chrome.exe
+  [18264] chrome.exe
+  [1516] s0907.exe
+  [4688] 4BtqZz1.exe
+[Software]
+  WinRAR 7.01 (64-bit)
+  Microsoft Update Health Tools
+  Java 8 Update 401 (64-bit)
+  Microsoft Office 64-bit Components 2016
+  Microsoft Office Shared 64-bit MUI (English) 2016
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2016

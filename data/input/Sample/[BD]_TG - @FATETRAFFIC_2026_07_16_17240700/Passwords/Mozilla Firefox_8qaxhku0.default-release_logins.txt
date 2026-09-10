@@ -1,0 +1,4 @@
+Soft: Mozilla Firefox (8qaxhku0.default-release)
+Host: https://www.facebook.com
+Login: 01892855493
+Password: asib::++??

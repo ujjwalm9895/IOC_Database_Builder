@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 07/07/26 23:15
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: 070269a59b19d08b
+Country: AL
+IP: 185.85.155.49
+System Language: English
+Processor: AMD Ryzen 5 5600 6-Core Processor  (6 cores, 12 threads)
+Installed RAM: 15.92 GB
+Operation System: Windows 10 (Build 19045) (64 Bit)
+Graphics card: NVIDIA GeForce GTX 1660 SUPER
+Computer Name: DESKTOP-F74DQC7
+Domain Name: WORKGROUP
+-------------
+User Name: m n
+Admin Group: FALSE
+Integrity: Medium
+TimeZone: UTC+1
+UserLanguage: English
+Keyboard Language: English
+Display Resolution: 1920x1080

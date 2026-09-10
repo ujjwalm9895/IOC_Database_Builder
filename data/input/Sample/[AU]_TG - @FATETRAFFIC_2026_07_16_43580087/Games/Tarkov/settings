@@ -1,0 +1,22 @@
+{
+  "games": [],
+  "tempFolder": "C:\\Battlestate Games\\BsgLauncher\\Temp",
+  "gamesRootDir": "C:\\Battlestate Games",
+  "sysInfCheck": "175786b8283119c01d3e491745f38eb63b0d",
+  "login": "trehyway@gmail.com",
+  "atet": "0001-01-01T00:00:00",
+  "keepLoggedIn": false,
+  "saveLogin": true,
+  "language": "en",
+  "launchOnStartup": false,
+  "launchMinimized": false,
+  "closeBehavior": 1,
+  "gameStartBehavior": 2,
+  "maxDownloadSpeed": 0,
+  "maxUploadSpeed": 0,
+  "queueNotifyWithSound": false,
+  "queueAutoLogIn": true,
+  "volumeValue": 80,
+  "lastSendingLogsTime": "2025-05-22T02:11:48.8510019+10:00",
+  "settingsVersion": 2
+}

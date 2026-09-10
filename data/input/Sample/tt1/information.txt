@@ -1,0 +1,258 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 123.253.65.129
+Country: BD
+Date: 12.07.2026 00:44:58
+MachineID: 7986fb97-6fb9-861f-1034-69b2fb73fc7b
+GUID: {5a705b31-74c0}
+HWID: 52C2094D9C02057C6F4E-5a705b31-74c0-31EE590
+Path: C:\Users\Shihab\AppData\Local\Temp\13122210101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: IPADE
+User Name: Shihab
+Display Resolution: 1366x768
+Local Time: 12.07.2026 00:44:58
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+Cores: 4
+Threads: 4
+RAM: 8035 MB
+VideoCard: Intel(R) HD Graphics 620
+[Processes]
+  [4] System
+  [100] Registry
+  [408] smss.exe
+  [548] csrss.exe
+  [636] wininit.exe
+  [708] services.exe
+  [716] lsass.exe
+  [840] svchost.exe
+  [868] fontdrvhost.exe
+  [936] svchost.exe
+  [984] svchost.exe
+  [8] WUDFHost.exe
+  [1040] WUDFHost.exe
+  [1104] WUDFHost.exe
+  [1316] svchost.exe
+  [1324] svchost.exe
+  [1332] svchost.exe
+  [1408] svchost.exe
+  [1424] svchost.exe
+  [1548] IntelCpHDCPSvc.exe
+  [1588] svchost.exe
+  [1656] svchost.exe
+  [1816] IntelCpHeciSvc.exe
+  [1892] svchost.exe
+  [1952] svchost.exe
+  [2024] svchost.exe
+  [2032] svchost.exe
+  [2040] svchost.exe
+  [1964] svchost.exe
+  [2244] svchost.exe
+  [2288] svchost.exe
+  [2308] svchost.exe
+  [2328] svchost.exe
+  [2336] svchost.exe
+  [2356] svchost.exe
+  [2516] svchost.exe
+  [2524] svchost.exe
+  [2544] Memory Compression
+  [2644] igfxCUIService.exe
+  [2676] svchost.exe
+  [2748] svchost.exe
+  [2756] svchost.exe
+  [2768] svchost.exe
+  [3064] svchost.exe
+  [2736] HotKeyServiceUWP.exe
+  [3136] svchost.exe
+  [3148] svchost.exe
+  [3164] svchost.exe
+  [3196] svchost.exe
+  [3284] svchost.exe
+  [3460] svchost.exe
+  [3568] svchost.exe
+  [3684] svchost.exe
+  [3768] spoolsv.exe
+  [3812] svchost.exe
+  [3824] svchost.exe
+  [3844] svchost.exe
+  [3928] svchost.exe
+  [4028] wlanext.exe
+  [4044] conhost.exe
+  [4168] CxAudioSvc.exe
+  [4176] CxUtilSvc.exe
+  [4192] svchost.exe
+  [4184] svchost.exe
+  [4208] svchost.exe
+  [4228] esif_uf.exe
+  [4240] fpCSEvtSvc.exe
+  [4340] ibtsiva.exe
+  [4364] OneApp.IGCC.WinService.exe
+  [4388] svchost.exe
+  [4404] svchost.exe
+  [4516] svchost.exe
+  [4552] RstMwService.exe
+  [4592] SynTPEnhService.exe
+  [4652] valWBFPolicyService.exe
+  [4672] svchost.exe
+  [4684] svchost.exe
+  [4692] XtuService.exe
+  [5020] svchost.exe
+  [5084] svchost.exe
+  [5116] LanWlanWwanSwitchingServiceUWP.exe
+  [5592] SearchIndexer.exe
+  [6128] dllhost.exe
+  [6496] WmiPrvSE.exe
+  [6904] AggregatorHost.exe
+  [6704] svchost.exe
+  [4712] svchost.exe
+  [3312] svchost.exe
+  [3596] svchost.exe
+  [6276] svchost.exe
+  [6952] svchost.exe
+  [1052] svchost.exe
+  [2436] svchost.exe
+  [7024] SecurityHealthService.exe
+  [1648] MpDefenderCoreService.exe
+  [5236] MsMpEng.exe
+  [4372] NisSrv.exe
+  [3472] PresentationFontCache.exe
+  [5780] svchost.exe
+  [2904] svchost.exe
+  [7628] svchost.exe
+  [10296] svchost.exe
+  [8968] svchost.exe
+  [9716] csrss.exe
+  [1020] winlogon.exe
+  [10856] fontdrvhost.exe
+  [6916] dwm.exe
+  [6024] svchost.exe
+  [5308] HPHotkeyNotification.exe
+  [11856] sihost.exe
+  [11544] svchost.exe
+  [2428] svchost.exe
+  [10896] svchost.exe
+  [11616] igfxEM.exe
+  [7544] taskhostw.exe
+  [2688] explorer.exe
+  [12080] unsecapp.exe
+  [11036] svchost.exe
+  [9060] SynTPEnh.exe
+  [7412] ctfmon.exe
+  [10408] SynTPHelper.exe
+  [3424] svchost.exe
+  [1356] SearchApp.exe
+  [8440] RuntimeBroker.exe
+  [6232] msedgewebview2.exe
+  [8108] StartMenuExperienceHost.exe
+  [6104] RuntimeBroker.exe
+  [1924] SearchApp.exe
+  [10684] LockApp.exe
+  [11408] RuntimeBroker.exe
+  [3724] SecurityHealthSystray.exe
+  [8800] HPAudioAnalytics.exe
+  [1284] M365Copilot.exe
+  [2172] RuntimeBroker.exe
+  [4748] msedgewebview2.exe
+  [5812] msedgewebview2.exe
+  [12988] MicTray64.exe
+  [12960] SmartAudio3.exe
+  [13024] Flow.exe
+  [12616] svchost.exe
+  [6136] dllhost.exe
+  [10356] OneDrive.exe
+  [12924] OneDrive.Sync.Service.exe
+  [12248] chrome.exe
+  [6320] chrome.exe
+  [11220] TextInputHost.exe
+  [2476] MusNotifyIcon.exe
+  [792] CompPkgSrv.exe
+  [8704] svchost.exe
+  [11632] smartscreen.exe
+  [108] powershell.exe
+  [3220] conhost.exe
+  [4888] audiodg.exe
+  [7084] svchost.exe
+  [12384] svchost.exe
+  [4728] powershell.exe
+  [7492] conhost.exe
+  [4776] systemruntime.exe
+  [4284] WmiPrvSE.exe
+  [10500] s0907.exe
+  [8096] svchost.exe
+  [12732] Bwale.exe
+  [8324] ShellExperienceHost.exe
+  [1028] 1oUmfGw5ibsFf.exe
+  [7352] RuntimeBroker.exe
+  [6900] 1oUmfGw5ibsFf.tmp
+  [2652] h2testdrive.exe
+  [7680] ApplicationFrameHost.exe
+  [5512] 9R4QCkpix.exe
+  [8492] jHsof8TrJm.exe
+  [2716] RYR66O.exe
+  [4604] jHsof8TrJm.tmp
+  [6540] PbMPmv2cguaq.exe
+  [14120] CompatTelRunner.exe
+  [14128] conhost.exe
+  [10980] b7tswMyHvfVDN.exe
+  [14004] b7tswMyHvfVDN.tmp
+  [13860] dialer.exe
+  [13764] dialer.exe
+  [13576] backgroundTaskHost.exe
+  [13484] 4BtqZz1.exe
+  [4576] msedge.exe
+  [13344] msedge.exe
+  [14160] msedge.exe
+  [13748] msedge.exe
+  [12268] msedge.exe
+  [14024] chrome.exe
+  [12964] svchost.exe
+  [9564] wermgr.exe
+  [11084] dialer.exe
+  [13432] dialer.exe
+  [6724] taskhostw.exe
+  [15040] dialer.exe
+  [13316] dialer.exe
+  [7300] dialer.exe
+  [8368] dialer.exe
+  [9468] systemruntime.exe
+  [6516] msedge.exe
+  [1256] msedge.exe
+  [9696] msedge.exe
+  [5728] msedge.exe
+  [8132] MusNotification.exe
+  [15136] MusNotification.exe
+  [11156] msedge.exe
+  [15280] msedge.exe
+  [8420] msedge.exe
+  [8708] msedge.exe
+  [15028] msedge.exe
+  [632] msedge.exe
+  [8076] msedge.exe
+  [10136] msedge.exe
+  [2348] msedge.exe
+  [12524] msedge.exe
+  [5880] file.exe
+  [14644] acb2d872.exe
+  [11428] file.exe
+  [13332] powershell.exe
+  [5068] conhost.exe
+  [7392] msedge.exe
+  [1888] conhost.exe
+[Software]
+  Bang & Olufsen Audio
+  Synaptics Pointing Device Driver
+  Microsoft Update Health Tools

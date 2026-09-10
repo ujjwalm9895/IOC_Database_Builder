@@ -1,0 +1,275 @@
+IP: 37.111.207.38
+Country: BD
+Date: 11.07.2026 03:10:57
+MachineID: 720a1663-a166-c63b-8435-f63fda4ee290
+GUID: {502138eb-ad4c}
+HWID: 06EBD562E6F3BAE5DC4F-502138eb-ad4c-296CE77
+Path: C:\Users\Liaquat\cQ8jLC.exe
+MD5: 7def6882cd38fe92ff13936a9f0741dd
+Work Dir: In memory
+Windows: Windows 11 Pro 25H2 (Build 26200)
+Computer Name: FOREST-2024
+User Name: Liaquat
+Display Resolution: 1280x720
+Local Time: 11.07.2026 03:10:58
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+Cores: 8
+Threads: 8
+RAM: 8006 MB
+VideoCard: Intel(R) UHD Graphics 620
+[Processes]
+  [4] System
+  [176] Registry
+  [680] smss.exe
+  [968] csrss.exe
+  [784] wininit.exe
+  [1088] services.exe
+  [1108] lsass.exe
+  [1252] svchost.exe
+  [1284] WUDFHost.exe
+  [1292] fontdrvhost.exe
+  [1416] svchost.exe
+  [1464] svchost.exe
+  [1640] svchost.exe
+  [1720] svchost.exe
+  [1728] svchost.exe
+  [1860] svchost.exe
+  [1868] IntelCpHDCPSvc.exe
+  [1884] svchost.exe
+  [1892] svchost.exe
+  [1928] svchost.exe
+  [2012] svchost.exe
+  [1184] svchost.exe
+  [2060] svchost.exe
+  [2068] svchost.exe
+  [2080] svchost.exe
+  [2100] IntelCpHeciSvc.exe
+  [2264] igfxCUIService.exe
+  [2612] svchost.exe
+  [2768] svchost.exe
+  [2968] svchost.exe
+  [3028] svchost.exe
+  [2596] svchost.exe
+  [2300] svchost.exe
+  [3204] dasHost.exe
+  [3332] svchost.exe
+  [3388] SynaMonApp.exe
+  [3816] svchost.exe
+  [3892] svchost.exe
+  [4080] svchost.exe
+  [3840] svchost.exe
+  [4172] svchost.exe
+  [4380] svchost.exe
+  [4784] svchost.exe
+  [4880] svchost.exe
+  [5032] svchost.exe
+  [4104] svchost.exe
+  [6172] svchost.exe
+  [7036] svchost.exe
+  [7632] SynTPEnhService.exe
+  [7688] svchost.exe
+  [7736] svchost.exe
+  [7744] svchost.exe
+  [7816] svchost.exe
+  [7824] svchost.exe
+  [7832] NetworkCap.exe
+  [7840] TouchpointAnalyticsClientService.exe
+  [7848] DiagsCap.exe
+  [7856] SysInfoCap.exe
+  [7864] AppHelperCap.exe
+  [7892] Memory Compression
+  [8124] hpsvcsscan.exe
+  [8164] svchost.exe
+  [8448] unsecapp.exe
+  [8596] WmiPrvSE.exe
+  [9068] HotKeyServiceUWP.exe
+  [9132] svchost.exe
+  [3940] svchost.exe
+  [5248] svchost.exe
+  [7220] svchost.exe
+  [9196] svchost.exe
+  [9268] spoolsv.exe
+  [9340] svchost.exe
+  [9388] CxAudioSvc.exe
+  [9396] svchost.exe
+  [9404] svchost.exe
+  [9412] armsvc.exe
+  [9428] svchost.exe
+  [9464] FMService64.exe
+  [9472] HWDeviceService64.exe
+  [9480] HPPrintScanDoctorService.exe
+  [9528] OneApp.IGCC.WinService.exe
+  [9548] OfficeClickToRun.exe
+  [9576] svchost.exe
+  [9584] ibtsiva.exe
+  [9688] jhi_service.exe
+  [9732] svchost.exe
+  [9744] svchost.exe
+  [9780] ThunderboltService.exe
+  [9816] SECOMN64.exe
+  [9880] svchost.exe
+  [9900] svchost.exe
+  [9912] svchost.exe
+  [9928] WMIRegistrationService.exe
+  [9972] RtkAudUService64.exe
+  [9980] MpDefenderCoreService.exe
+  [10024] XtuService.exe
+  [10052] TbtP2pShortcutService.exe
+  [10064] esif_uf.exe
+  [10196] MsMpEng.exe
+  [9856] svchost.exe
+  [10264] svchost.exe
+  [10724] LanWlanWwanSwitchingServiceUWP.exe
+  [11000] svchost.exe
+  [2980] wlanext.exe
+  [10936] ouc.exe
+  [11548] AggregatorHost.exe
+  [12220] svchost.exe
+  [1552] SecurityHealthService.exe
+  [7516] svchost.exe
+  [4652] NisSrv.exe
+  [13532] SearchIndexer.exe
+  [15064] BrYNSvc.exe
+  [13536] svchost.exe
+  [1696] svchost.exe
+  [12040] svchost.exe
+  [7524] svchost.exe
+  [13776] svchost.exe
+  [14980] svchost.exe
+  [704] svchost.exe
+  [11452] svchost.exe
+  [12008] dasHost.exe
+  [2484] svchost.exe
+  [8996] svchost.exe
+  [20092] svchost.exe
+  [16724] svchost.exe
+  [19684] svchost.exe
+  [8044] csrss.exe
+  [14684] winlogon.exe
+  [7000] fontdrvhost.exe
+  [5144] dwm.exe
+  [9208] sihost.exe
+  [7052] svchost.exe
+  [12704] igfxEM.exe
+  [12732] svchost.exe
+  [13168] svchost.exe
+  [15552] taskhostw.exe
+  [15024] MicTray64.exe
+  [14636] SECOCL64.exe
+  [8896] conhost.exe
+  [21012] explorer.exe
+  [20592] HPAudioAnalytics.exe
+  [11372] CrossDeviceResume.exe
+  [8844] CrossDeviceService.exe
+  [6484] RtkAudUService64.exe
+  [20440] svchost.exe
+  [19400] SynTPEnh.exe
+  [16972] StartMenuExperienceHost.exe
+  [10208] SearchHost.exe
+  [5264] RuntimeBroker.exe
+  [18368] svchost.exe
+  [9176] WhatsApp.Root.exe
+  [11376] ShellExperienceHost.exe
+  [6352] msedgewebview2.exe
+  [11176] msedgewebview2.exe
+  [7128] msedgewebview2.exe
+  [12688] msedgewebview2.exe
+  [6880] msedgewebview2.exe
+  [10772] msedgewebview2.exe
+  [6504] RuntimeBroker.exe
+  [16924] Widgets.exe
+  [5044] WidgetService.exe
+  [3612] RuntimeBroker.exe
+  [13036] ctfmon.exe
+  [13128] RuntimeBroker.exe
+  [17764] SecurityHealthSystray.exe
+  [10704] RtkAudUService64.exe
+  [3812] IDMan.exe
+  [3380] AdobeCollabSync.exe
+  [17552] AdobeCollabSync.exe
+  [7888] ms-teams.exe
+  [20792] RuntimeBroker.exe
+  [2724] msedgewebview2.exe
+  [13996] msedgewebview2.exe
+  [15408] msedgewebview2.exe
+  [20448] msedgewebview2.exe
+  [14840] msedgewebview2.exe
+  [12712] msedgewebview2.exe
+  [15776] ms-teams.exe
+  [12308] MemuService.exe
+  [17316] msedgewebview2.exe
+  [15440] msedgewebview2.exe
+  [14440] msedgewebview2.exe
+  [4036] msedgewebview2.exe
+  [14436] msedgewebview2.exe
+  [17652] msedgewebview2.exe
+  [13276] BijoyBayanno.exe
+  [328] Flow.exe
+  [14820] msedgewebview2.exe
+  [12860] msedgewebview2.exe
+  [2740] msedgewebview2.exe
+  [19344] msedgewebview2.exe
+  [13760] msedgewebview2.exe
+  [19180] msedgewebview2.exe
+  [2964] msedgewebview2.exe
+  [17856] svchost.exe
+  [18236] svchost.exe
+  [12812] svchost.exe
+  [14120] SystemSettings.exe
+  [2528] ApplicationFrameHost.exe
+  [15300] svchost.exe
+  [11296] RuntimeBroker.exe
+  [16112] backgroundTaskHost.exe
+  [22676] svchost.exe
+  [23020] RuntimeBroker.exe
+  [22800] adb.exe
+  [18628] chrome.exe
+  [22536] chrome.exe
+  [19744] chrome.exe
+  [14452] chrome.exe
+  [15640] chrome.exe
+  [11436] chrome.exe
+  [14244] chrome.exe
+  [9284] chrome.exe
+  [7012] chrome.exe
+  [16092] chrome.exe
+  [12124] chrome.exe
+  [22776] audiodg.exe
+  [22952] svchost.exe
+  [23104] taskhostw.exe
+  [22244] svchost.exe
+  [1608] WmiPrvSE.exe
+  [19724] svchost.exe
+  [23388] svchost.exe
+  [18944] svchost.exe
+  [17744] svchost.exe
+  [12056] svchost.exe
+  [1944] smartscreen.exe
+  [4504] WindowsTerminal.exe
+  [21636] OpenConsole.exe
+  [11240] powershell.exe
+  [9076] SearchProtocolHost.exe
+  [21388] ShellHost.exe
+  [3280] setup.exe
+  [17404] WmiPrvSE.exe
+  [16032] svchost.exe
+  [2160] svchost.exe
+  [19164] chrome.exe
+  [1064] cQ8jLC.exe
+  [6540] dllhost.exe
+  [5780] svchost.exe
+  [18728] rviIgq4Q.exe
+  [13940] taskmanager.exe
+[Software]
+  Bang & Olufsen Audio
+  Mozilla Maintenance Service
+  Microsoft Office LTSC Professional Plus 2024 - en-us
+  WinRAR 5.20 (64-bit)
+  Windows PC Health Check
+  Update for Windows 10 for x64-based Systems (KB5001716)
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  ESET Security
+  Microsoft Teams Meeting Add-in for Microsoft Office

@@ -1,0 +1,5 @@
+[INFO] Cookie : Chrome_Default_[4E5A].txt
+[INFO] Email : almansoorihamed6@gmail.com
+[INFO] Hits : 16
+[INFO] Queries : @epicgames.com(10), Riot Purchase Confirmation Receipt(1), battle.net(5)
+

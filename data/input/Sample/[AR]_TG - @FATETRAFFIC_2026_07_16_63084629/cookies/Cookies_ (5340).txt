@@ -1,0 +1,13 @@
+.twitch.tv	TRUE	/	TRUE	1815147447	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	TRUE	1814691998	api_token	a1e92bbce4d651c9f75663b87ec284b5
+.twitch.tv	TRUE	/	TRUE	1786440469	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5ODY4MTQzNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNzgzODQ3MTk5LCJpYXQiOjE3ODMyNDIzOTl9.5-d-54BNbj7x5-fXFQ1qh8_y9BHGJV9j5eUZqlheo0ag_Xk7yOEd6yjEu3W6JoFPNPVKve6lPFi9Ehb3tk6maw==
+.twitch.tv	TRUE	/	FALSE	1814691998	last_login	2026-07-05T09:06:39Z
+.twitch.tv	TRUE	/	FALSE	1814691998	name	deps0ff
+.twitch.tv	TRUE	/	TRUE	1814691998	persistent	986814358%3A%3Amaamlfseyfyiq7lo752djg179kowoc
+.twitch.tv	TRUE	/	TRUE	1798794398	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjk4NjgxNDM1OFwiXSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE3OTg3OTQzOTksImlhdCI6MTc4MzI0MjM5OSwibm9uY2UiOiIwMVd3eHRrc2FSYXdXWS1pd3FHSUE4Um0zWUZVa0dUMl9BSE9ySVkzMTNFPSJ9.lj8cPpKgeJcouevLn-9P45wmme4Er6YUa76zjo5tHjrQlaH9J6RMC7dn-tO3kNfS5yQOtDC4AJpZ1Kowk3Jh0g%3D%3D
+.twitch.tv	TRUE	/	TRUE	1817555053	unique_id	79c7f8c42251426a96bcaf54bb47c524
+.twitch.tv	TRUE	/	TRUE	1817555053	unique_id_durable	79c7f8c42251426a96bcaf54bb47c524
+.twitch.tv	TRUE	/	TRUE	1817555072	login	deps0ff
+.twitch.tv	TRUE	/	TRUE	1817555072	twilight-user	{%22authToken%22:%22amio9lho5boma4msmdzkc719i0e0hw%22%2C%22displayName%22:%22deps0ff%22%2C%22id%22:%22986814358%22%2C%22login%22:%22deps0ff%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	1817555072	auth-token	amio9lho5boma4msmdzkc719i0e0hw
+.twitch.tv	TRUE	/	FALSE	1817036659	twitch.lohp.countryCode	FR

@@ -1,0 +1,8 @@
+﻿URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: trehyway2@gmail.com
+Password: Deezenuts2@
+===============
+URL: https://www.chess.com/register
+Username: 1hvMygGLRK+2Ymym
+Password: i8Z96wuvcARsPZQ
+===============

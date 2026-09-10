@@ -1,0 +1,24 @@
+﻿Browser: Chrome
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: false
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Languages: es-419,es,es-AR
+Download Dir: C:\Users\matut\OneDrive\Desktop
+Profile Name: Your Chrome
+
+[Metadata]
+Extraction Time: 1783232855

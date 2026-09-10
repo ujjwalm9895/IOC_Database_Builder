@@ -1,0 +1,2 @@
+﻿.static-assets-prod.epicgames.com	TRUE	/	TRUE	1814808066	__cf_bm	okk5tdxKKpg-1783250728.35917-1.0.1.1-jKnFmt9HBPC0.XivjgSXDQgboDHe_LNk6uvtsRFtRsSawAmyW6AvPi1be9tmPbKdyKzsi2tjVW5g.AsKC_bxo_udY1giKKfUATwmWZ8uJ5REe8lrRxGPHYSlvdGHZSrc
+.epicgames.dev	TRUE	/	TRUE	1814808066	__cf_bm	dMdRQN7SldU-1783251628.568354-1.0.1.1-yULZpclgljqeWGUCqJHazAaEoUZGZpjTXOS6dDbp8bwtVL9iACrRGmcVr_vk2ESLD4AoABbrMnB1fHjs6v.Fcf4FHVQPbmiPp_tWTgRLqWnd0.PW0lphhFMaybSr6dKI

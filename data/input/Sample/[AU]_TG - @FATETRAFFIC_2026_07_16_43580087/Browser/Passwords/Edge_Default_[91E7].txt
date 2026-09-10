@@ -1,0 +1,192 @@
+﻿URL: https://www.facebook.com/login.php
+Username: trehyhancock22@gmail.com
+Password: Deezenuts2
+===============
+URL: https://steamcommunity.com/openid/login
+Username: Dripz_xo
+Password: Deezenuts2
+===============
+URL: https://discord.com/login
+Username: trehyway@gmail.com
+Password: Deezenuts2@
+===============
+URL: https://my.cloud.gg/register
+Username: vDripzx
+Password: Deezenuts2
+===============
+URL: https://auth.tafensw.edu.au/as/authorization.oauth2
+Username: TREHYCHRISTOPHER.HANCOCK
+Password: Deezenuts2
+===============
+URL: http://192.168.1.1/
+Username: admin
+Password: admin@VR1600
+===============
+URL: https://www.roblox.com/NewLogin
+Username: trehyhancock2@gmail.com
+Password: Deezenuts2
+===============
+URL: https://showstar.tv/
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://auth.cloud.gg/login
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://heydos.cc/
+Username: trehyway2322
+Password: Deezenuts2
+===============
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: trehyway@gmail.com
+Password: Ch
+===============
+URL: https://my.account.sony.com/sonyacct/signin/
+Username: Lord_skrrt__
+Password: Deezenuts2
+===============
+URL: https://my.account.sony.com/sonyacct/signin/
+Username: lord_skrrt_@outlook.com
+Password: Champion2
+===============
+URL: https://www.wizard101.com/auth/popup/Login/8ad6a4041b4fd6c1011b5160b0670010
+Username: trehy2003
+Password: Deezenuts2
+===============
+URL: https://account.riotgames.com/
+Username: vDrippzzz
+Password: Deezenuts2
+===============
+URL: https://sso-v2.crunchyroll.com/login
+Username: trehyway2@gmail.com
+Password: Deezenuts2
+===============
+URL: https://steamcommunity.com/openid/loginform/
+Username: SryhIlL
+Password: topSeb-9wivve-zekfuw
+===============
+URL: https://steamcommunity.com/openid/loginform
+Username: Dripz_vv
+Password: Deezenuts2
+===============
+URL: https://sso-v2.crunchyroll.com/login
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://id.logi.com/
+Username: trehyway@gmail.com
+Password: Deezenuts22
+===============
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: 
+Password: Champion2
+===============
+URL: https://www.luckyblock.com/en
+Username: trehyway
+Password: Deezenuts2
+===============
+URL: https://royalreels5.com/
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://www.rsa3dsauth.co.uk/3ds2/challengeSubmit
+Username: 
+Password: 074011
+===============
+URL: https://www.twitch.tv/
+Username: vdripz_ttv
+Password: Deezenuts2
+===============
+URL: https://connect.ubisoft.com/oauth/login
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://royalreels6.com/
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://kick.com/
+Username: trehyhancock2@gmail.com
+Password: Deezenuts2@
+===============
+URL: https://sso.crunchyroll.com/login
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://albiononline.com/twitch
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://sso.crunchyroll.com/login
+Username: trehyway2@gmail.com
+Password: Deezenuts2
+===============
+URL: https://paymentpage.eziflo.tech/payment-page/1bunxkt0374ur4ve9mcv1gdqpx3n94cqsrjyefbs/payment-details
+Username: 1/27
+Password: 795
+===============
+URL: https://forum.cfx.re/categories
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://survivetheark.com/index.php
+Username: Dripz2322
+Password: Deezenuts2
+===============
+URL: https://www.roblox.com/login
+Username: Dripz_2322
+Password: Deezenuts2
+===============
+URL: https://profile.tarkov.com/login
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://www.amazon.com/ap/forgotpassword
+Username: 
+Password: Deezenuts2
+===============
+URL: https://royalreels18.com/
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============
+URL: https://accounts.palia.com/sign-up
+Username: trehyway@gmail.com
+Password: Deezenuts2@
+===============
+URL: https://id.sonyentertainmentnetwork.com/id/create_account_ca/
+Username: simmolah07@gmail.com
+Password: Gearhead69
+===============
+URL: https://www.inbox.lv/
+Username: anonymous705@inbox.lv
+Password: Deezenuts2
+===============
+URL: https://www.epicgames.com/id/login
+Username: anonymous705@inbox.lv
+Password: ez3ag010G90G1
+===============
+URL: https://login.inbox.lv/profile/authenticate
+Username: anonymous705@inbox.lv
+Password: Deezenuts2
+===============
+URL: https://discord.com/login
+Username: trehyway2@gmail.com
+Password: Deezenuts2
+===============
+URL: https://forum.cfx.re/signup
+Username: trehyhancock2@gmail.com
+Password: Deezenuts2
+===============
+URL: https://forum.cfx.re/signup
+Username: vDripzxx
+Password: Deezenuts2
+===============
+URL: https://api.live.bam.elderscrollsonline.com/register/account-information
+Username: Dripz_bby
+Password: Deezenuts2@
+===============
+URL: https://myaccount.sbs.com.au/sign-in
+Username: trehyway@gmail.com
+Password: Deezenuts2
+===============

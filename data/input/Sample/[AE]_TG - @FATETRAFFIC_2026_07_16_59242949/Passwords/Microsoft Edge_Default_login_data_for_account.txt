@@ -1,0 +1,744 @@
+Soft: Microsoft Edge (Default)
+Host: http://192.168.7.3/
+Login: admin
+Password: aaaa1111
+
+Soft: Microsoft Edge (Default)
+Host: https://www.4shared.com/
+Login: blackscorpiond@yahoo.com
+Password: 123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.10.1/admin/index.html
+Login: admin
+Password: ad123456
+
+Soft: Microsoft Edge (Default)
+Host: https://lms.svuonline.org/
+Login: yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.gns3.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: ghdyrsman@gmail.com
+Password: sawsan@$095681585888
+
+Soft: Microsoft Edge (Default)
+Host: https://svuis.svuonline.org/
+Login: yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://svuis.svuonline.org/
+Login: ghadeer_233152
+Password: Ghadeer@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://app.barmej.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://jobs.unrwa.org/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.netlanguages.com/
+Login: Yahia_215508
+Password: Yahia!123321
+
+Soft: Microsoft Edge (Default)
+Host: https://yout.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: yahia.kyahia.1993
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://my.syriatel.sy/
+Login: 0937738971
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://secure.imdb.com/
+Login: blackscorpion_1993@hotmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.trendyol.com/
+Login: ali.koorali@gmail.com
+Password: a.A5731
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.10.1/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://eservices.cbs-bank.sy/
+Login: EH.KWRL1
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.sarahah.com/
+Login: alaliahmad858@gmail.com
+Password: joudjoud
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.8.1/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://forum.kooora.com/
+Login: blackscorpion_1993@hotmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: blackscorpion12399@gmail.com
+Password: bigsurr99
+
+Soft: Microsoft Edge (Default)
+Host: https://requestsystem.svuonline.org/sysworkflow/ar/classic/login/login
+Login: Yaman_253976
+Password: Yaman!123321
+
+Soft: Microsoft Edge (Default)
+Host: https://digishi.net/ar/login
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.amazon.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://receive-smss.com/
+Login: yahiakoorali-1993
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://arabhardware.net/
+Login: yahiakoorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://ar-ar.facebook.com/
+Login: ali.koorali
+Password: yahia.yahia.123321
+
+Soft: Microsoft Edge (Default)
+Host: https://dualpaste.net/
+Login: 
+Password: PCGames-Download.com
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: m.sumai@tarassul.sy
+Password: 6472105
+
+Soft: Microsoft Edge (Default)
+Host: https://twinstrangers.net/
+Login: yahia_alali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://me.liveuamap.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://identity.sling.com/
+Login: kooraliali@gmail.com
+Password: aliALI015759040167
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.0.1/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://login.live.com/
+Login: blackscorpion_1993@hotmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://app.wirexapp.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://account-uplay.ubi.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://pepplays.com/
+Login: BLAckscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://iforgot.apple.com/
+Login: 
+Password: YaYa@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.firefox.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://en.wikipedia.org/
+Login: yahia.koorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://mail.svuonline.org/
+Login: Yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://svuis.svuonline.org/SVUIS/index.php
+Login: Yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://zpn.im/
+Login: yahiakoorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: http://eservices.cbs-bank.sy/ar/customers/home
+Login: Eh.kwrl1
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.3.1/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://sarahah.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://mega.nz/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.kooora.com/
+Login: yahia koorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: ali.koorali
+Password: yahia.yahia.123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: blackscorpion1231
+Password: bigsurr99
+
+Soft: Microsoft Edge (Default)
+Host: https://sarahah.top/
+Login: 
+Password: شاةشيشاةشي
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: kmalkwrly@gmail.com
+Password: kamal@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://sarhny.com/
+Login: yahiakoorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: https://www.paypal.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: ghadeersamman2004
+Password: Ghadeer@123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.9.1/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: android://2Q82TiAojrruN4q56Ttwb9pRQAkZ73TAEh2r0iatwKG7k2pb9_aRB1c9XJKShM5Dyc-tFk3cdk7gxb7FTpaKrw==@com.duolingo/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://social.takamol.sy/
+Login: 0934903294
+Password: 123321
+
+Soft: Microsoft Edge (Default)
+Host: http://class4.svuonline.org/
+Login: Yahia_215508
+Password: Yahia!123321
+
+Soft: Microsoft Edge (Default)
+Host: http://www.downloads-expert.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.job.sy/jobseeker/signUp.php
+Login: Ghadeersamman
+Password: Ghadeer@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://socialclub.rockstargames.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia.12332
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.0.1/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: blackscorpion1233
+Password: bigsurr99
+
+Soft: Microsoft Edge (Default)
+Host: https://ar.m.wikipedia.org/
+Login: yahiaalali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://musics247.com/
+Login: blackscorpiond@gmail.com
+Password: yahia13321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: a.ahamad73@tarassul.sy
+Password: 0931456265
+
+Soft: Microsoft Edge (Default)
+Host: https://mail.svuonline.org/
+Login: ghadeer_233152
+Password: Ghadeer@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://replit.com/
+Login: yahiakoorali
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.amazon.com/
+Login: 
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.8.1/admin/index.html
+Login: admin
+Password: ad123456
+
+Soft: Microsoft Edge (Default)
+Host: https://signup.live.com/
+Login: blackangel_1993
+Password: sss123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.jawaker.com/
+Login: blackscorpiond@yahoo.com
+Password: s8n3b6
+
+Soft: Microsoft Edge (Default)
+Host: https://requestsystem.svuonline.org/sysworkflow/ar/classic/login/login
+Login: ghadeer_233152
+Password: Ghadeer@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://mobile.twitter.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://eservices.cbs-bank.sy/ar/customers/login
+Login: Eh.kwrl1
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: blackscorpion1239@gmail.com
+Password: bigsurr99
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: kooraliali@yahoo.com
+Password: aliALI134679976431
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: kwralee145@tarassul.sy
+Password: 0115615731
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: https://help.steampowered.com/en/wizard/Login
+Login: yahiakoorali
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://gns3.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://lms.svuonline.org/login/index.php
+Login: ghadeer_233152
+Password: Ghadeer@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: yahiaaa
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: http://shamra.sy/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://account.live.com/
+Login: 
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.7/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: sozanali1989
+Password: sozan123321
+
+Soft: Microsoft Edge (Default)
+Host: https://login.yahoo.com/
+Login: suzankourali@yahoo.com
+Password: 123456789@@
+
+Soft: Microsoft Edge (Default)
+Host: https://tbbs.turkiyeburslari.gov.tr/
+Login: BLACKSCORPIOND@GMAIL.COM
+Password: YAHIA123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: https://connect.bein.net/
+Login: zam.zam-89@hotmail.com
+Password: غشاهش123321
+
+Soft: Microsoft Edge (Default)
+Host: https://mail.svuonline.org/
+Login: yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://m.facebook.com/login.php
+Login: blackscorpiond@gmail.com
+Password: Yahia!123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: mahasomaia1974
+Password: 0992652478
+
+Soft: Microsoft Edge (Default)
+Host: https://saifalmarifa.triviador.net/
+Login: blackscorpiond@gmail.com
+Password: Ya123321
+
+Soft: Microsoft Edge (Default)
+Host: https://requestsystem.svuonline.org/sysworkflow/ar/classic/login/login
+Login: Yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://twitter.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://help.steampowered.com/
+Login: 
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: 
+Password: yAHIA!123321
+
+Soft: Microsoft Edge (Default)
+Host: http://vb.moon15.com/
+Login: ydhid
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://myaccount.google.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://yts.mx/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://signup.funmarten.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: http://syriantelecom.com.sy/
+Login: a.ahamad73@tarassul.sy
+Password: 0931456265
+
+Soft: Microsoft Edge (Default)
+Host: https://www.dropbox.com/
+Login: blackscorpion_1993@hotmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: 0997976759
+Password: مممممم
+
+Soft: Microsoft Edge (Default)
+Host: http://www.law-uni.net/
+Login: ali.koorali
+Password: aliALI134679976431
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia!123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/login_security.html
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/wizard/wizardInternet.html
+Login: ganem73@tarassul.sy
+Password: 6472885
+
+Soft: Microsoft Edge (Default)
+Host: http://www.twinstrangers.net/
+Login: yahiakoorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://svuis.svuonline.org/SVUIS/index.php
+Login: Yaman_253976
+Password: Yaman!123321
+
+Soft: Microsoft Edge (Default)
+Host: https://alqarii.com/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: ali.koorali@gmail.com
+Password: ali.ALI134679976431
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: jodalali858
+Password: ilovejod
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: admin
+Password: admin
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.2/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: chrome://firefoxaccounts/
+Login: 54673f1c07a94fa3808f2d56580ff029
+Password: {"version":1,"accountData":{"scopedKeys":{"https://identity.mozilla.com/apps/oldsync":{"kid":"1497313055299-fyJt-wMIoEq54Y6fcHKWKg","k":"wuTH__nnqhvH17z9QZ7_Jlu4IZJwWyZBdMK6tzMZv1floscLtv2FLpi4EvNcqfeYKUg2svhZxJctEmErS44Glw","kty":"oct"},"sync:addon_storage":{"kid":"1497313055299-_Ajd0BG9ew7yWAMdkQrBUm6y0P4kaqgKlaSyhQaqHbk","k":"7OnpIwa9Zsoy2o8njxucc6i4geZr1fdx3J6QaWKTVCyAKtJwUWEXCnzJ50mraIAFEGC37mqszlNq41uiySflvw","kty":"oct"}},"kSync":"c2e4c7fff9e7aa1bc7d7bcfd419eff265bb82192705b264174c2bab73319bf57e5a2c70bb6fd852e98b812f35ca9f798294836b2f859c4972d12612b4b8e0697","kXCS":"7f226dfb0308a04ab9e18e9f7072962a","kExtSync":"ece9e92306bd66ca32da8f278f1b9c73a8b881e66bd5f771dc9e90696293542c802ad2705161170a7cc9e749ab6880051060b7ee6aacce536ae35ba2c927e5bf","kExtKbHash":"fc08ddd011bd7b0ef258031d910ac1526eb2d0fe246aa80a95a4b28506aa1db9"}}
+
+Soft: Microsoft Edge (Default)
+Host: https://www.sarahah.com/
+Login: joud.joud.joud.858@gmail.com
+Password: 5615731
+
+Soft: Microsoft Edge (Default)
+Host: https://connect.bein.net/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://lms.svuonline.org/login/index.php
+Login: Yahia_215508
+Password: Yahia#123321
+
+Soft: Microsoft Edge (Default)
+Host: https://jobs.unrwa.org/
+Login: koorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://accounts.google.com/
+Login: blackscorpion1232
+Password: bigsurr99
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.1.1/
+Login: korali@tarassul.sy
+Password: 5615731
+
+Soft: Microsoft Edge (Default)
+Host: https://signin.rockstargames.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://codeforces.com/register
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.jawaker.com/
+Login: 
+Password: yahiayahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://signup.movieloving.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: http://my.jude.edu.sy/
+Login: 1811013
+Password: 0937738971
+
+Soft: Microsoft Edge (Default)
+Host: https://connect.bein.com/
+Login: yahiakoorali
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.linkedin.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: https://myaccount.google.com/
+Login: 
+Password: yahia.yahia.123321
+
+Soft: Microsoft Edge (Default)
+Host: https://www.akhtaboot.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: http://www.syriantelecom.com.sy/
+Login: A.ahamad73@tarassul.sy
+Password: 0931456265
+
+Soft: Microsoft Edge (Default)
+Host: http://twinstrangers.net/
+Login: yahiakoorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: http://www.bakaloria.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://ar.wikipedia.org/
+Login: yahia.koorali
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://forum.kooora.com/
+Login: blackscorpiond@gmail.com
+Password: yahia123321
+
+Soft: Microsoft Edge (Default)
+Host: https://xboters.com/
+Login: blackscorpiond@gmail.com
+Password: Yahia@123321
+
+Soft: Microsoft Edge (Default)
+Host: http://www.4shared.com/
+Login: blackscorpiond@yahoo.com
+Password: 123321
+
+Soft: Microsoft Edge (Default)
+Host: http://192.168.0.3/
+Login: 
+Password: 
+
+Soft: Microsoft Edge (Default)
+Host: https://www.facebook.com/
+Login: kamal.koorali
+Password: 123..321
+
+Soft: Microsoft Edge (Default)
+Host: https://plarium.com/
+Login: 
+Password: yahia123321

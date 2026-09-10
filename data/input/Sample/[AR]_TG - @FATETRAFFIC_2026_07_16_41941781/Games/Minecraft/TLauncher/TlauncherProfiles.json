@@ -1,0 +1,27 @@
+{
+  "clientToken": "6a770973-4c34-4724-9aa2-df9e505bd6be",
+  "accounts": {
+    "da8fb5e9027611efb069f02f74958d22": {
+      "username": "viturro09",
+      "userID": "viturro09",
+      "displayName": "viturro09",
+      "accessToken": "c00b0970-e47d-4b54-a59b-6dc5a63c3147",
+      "uuid": "da8fb5e9-0276-11ef-b069-f02f74958d22",
+      "type": "tlauncher",
+      "skinType": "tlauncher",
+      "premiumAccount": false,
+      "profiles": [
+        {
+          "id": "da8fb5e9-0276-11ef-b069-f02f74958d22",
+          "name": "viturro09"
+        }
+      ],
+      "selectedProfile": {
+        "id": "da8fb5e9-0276-11ef-b069-f02f74958d22",
+        "name": "viturro09"
+      }
+    }
+  },
+  "selectedAccountUUID": "da8fb5e9027611efb069f02f74958d22",
+  "freeAccountUUID": "2a9cb5996aea4cd9b4184e8baa2eec6d"
+}

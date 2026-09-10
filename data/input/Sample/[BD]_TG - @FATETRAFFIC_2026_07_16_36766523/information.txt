@@ -1,0 +1,265 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 114.130.180.206
+Country: BD
+Date: 10.07.2026 18:23:20
+MachineID: 922b3cc1-b3cc-7c46-62d3-f0f86bbb943b
+GUID: {54648556-4235}
+HWID: 1AFF9B2B5B88A3D25D34-54648556-4235-E3A7E20
+Path: C:\Users\MOINBH~1\AppData\Local\Temp\13115950101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: MOIN
+User Name: Moin Bhai
+Display Resolution: 1920x1080
+Local Time: 10.07.2026 18:23:20
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz
+Cores: 8
+Threads: 8
+RAM: 8024 MB
+VideoCard: Intel(R) UHD Graphics 630
+[Processes]
+  [4] System
+  [124] Registry
+  [504] smss.exe
+  [680] csrss.exe
+  [764] wininit.exe
+  [772] csrss.exe
+  [860] winlogon.exe
+  [884] services.exe
+  [924] lsass.exe
+  [608] svchost.exe
+  [632] fontdrvhost.exe
+  [620] fontdrvhost.exe
+  [1032] svchost.exe
+  [1080] svchost.exe
+  [1188] dwm.exe
+  [1212] svchost.exe
+  [1216] svchost.exe
+  [1228] svchost.exe
+  [1256] svchost.exe
+  [1372] svchost.exe
+  [1380] svchost.exe
+  [1476] IntelCpHDCPSvc.exe
+  [1484] svchost.exe
+  [1516] svchost.exe
+  [1548] svchost.exe
+  [1556] svchost.exe
+  [1676] svchost.exe
+  [1684] svchost.exe
+  [1772] svchost.exe
+  [1848] IntelCpHeciSvc.exe
+  [1896] svchost.exe
+  [1912] igfxCUIService.exe
+  [1924] svchost.exe
+  [1932] svchost.exe
+  [8] svchost.exe
+  [2072] svchost.exe
+  [2168] svchost.exe
+  [2176] svchost.exe
+  [2268] svchost.exe
+  [2276] svchost.exe
+  [2284] svchost.exe
+  [2364] svchost.exe
+  [2408] Memory Compression
+  [2516] svchost.exe
+  [2540] svchost.exe
+  [2660] svchost.exe
+  [2800] svchost.exe
+  [2904] svchost.exe
+  [2912] svchost.exe
+  [2920] svchost.exe
+  [2968] svchost.exe
+  [2040] svchost.exe
+  [3112] svchost.exe
+  [3148] svchost.exe
+  [3204] svchost.exe
+  [3340] spoolsv.exe
+  [3376] svchost.exe
+  [3408] wlanext.exe
+  [3432] conhost.exe
+  [3468] svchost.exe
+  [3644] Intel_PIE_Service.exe
+  [3828] svchost.exe
+  [3840] svchost.exe
+  [3848] svchost.exe
+  [3884] svchost.exe
+  [3904] svchost.exe
+  [3916] svchost.exe
+  [3932] svchost.exe
+  [3952] OneApp.IGCC.WinService.exe
+  [3972] GooglePlayGamesServices.exe
+  [3984] jhi_service.exe
+  [4008] WMIRegistrationService.exe
+  [4044] MsMpEng.exe
+  [4084] warp-svc.exe
+  [4092] MpDefenderCoreService.exe
+  [4380] svchost.exe
+  [4428] svchost.exe
+  [4544] svchost.exe
+  [4608] svchost.exe
+  [4208] svchost.exe
+  [6032] svchost.exe
+  [5332] dllhost.exe
+  [6300] crashpad_handler.exe
+  [6488] svchost.exe
+  [6508] SearchIndexer.exe
+  [6732] WmiPrvSE.exe
+  [6768] SearchProtocolHost.exe
+  [6892] AggregatorHost.exe
+  [4280] dialer.exe
+  [6952] dialer.exe
+  [6460] dialer.exe
+  [6564] dialer.exe
+  [3724] WmiPrvSE.exe
+  [3444] svchost.exe
+  [3768] NisSrv.exe
+  [6876] sihost.exe
+  [4952] svchost.exe
+  [6908] svchost.exe
+  [2960] PresentationFontCache.exe
+  [3448] svchost.exe
+  [5460] taskhostw.exe
+  [4996] svchost.exe
+  [7272] svchost.exe
+  [7324] ctfmon.exe
+  [7420] explorer.exe
+  [7484] svchost.exe
+  [7576] svchost.exe
+  [7820] igfxEM.exe
+  [7840] svchost.exe
+  [7748] svchost.exe
+  [8300] svchost.exe
+  [8440] svchost.exe
+  [8504] svchost.exe
+  [8632] SearchProtocolHost.exe
+  [8700] svchost.exe
+  [8832] StartMenuExperienceHost.exe
+  [8968] RuntimeBroker.exe
+  [9020] UserOOBEBroker.exe
+  [9156] SearchApp.exe
+  [9232] RuntimeBroker.exe
+  [9312] svchost.exe
+  [9708] RuntimeBroker.exe
+  [10056] Bwale.exe
+  [8216] TextInputHost.exe
+  [1184] smartscreen.exe
+  [9888] SecurityHealthSystray.exe
+  [9580] SecurityHealthService.exe
+  [7000] OneDrive.exe
+  [5780] msedge.exe
+  [5788] msedge.exe
+  [2556] msedge.exe
+  [2672] msedge.exe
+  [4668] msedge.exe
+  [7408] EpicOnlineServicesUserHelper.exe
+  [10392] EpicOnlineServicesUserHelper.exe
+  [10404] conhost.exe
+  [10584] Grammarly.Desktop.exe
+  [10764] EpicGamesLauncher.exe
+  [10964] EpicWebHelper.exe
+  [11248] EpicWebHelper.exe
+  [5856] runtimeprovider.exe
+  [8516] svchost.exe
+  [5100] chrome.exe
+  [10536] chrome.exe
+  [5908] GDFwAdmin.exe
+  [11324] chrome.exe
+  [11336] chrome.exe
+  [11400] msedge.exe
+  [11444] chrome.exe
+  [11740] chrome.exe
+  [11940] chrome.exe
+  [11948] chrome.exe
+  [12232] msedge.exe
+  [12244] Chrome.exe
+  [10288] svchost.exe
+  [6888] GDFwAdmin.exe
+  [12352] svchost.exe
+  [12404] WhatsApp.Root.exe
+  [12476] m365copilot_autostarter.exe
+  [12640] Cloudflare WARP.exe
+  [12768] PC1500DiskAnalyzer.exe
+  [12804] jusched.exe
+  [12916] msedgewebview2.exe
+  [13208] msedgewebview2.exe
+  [556] msedgewebview2.exe
+  [12636] msedgewebview2.exe
+  [872] msedgewebview2.exe
+  [2928] msedgewebview2.exe
+  [13032] RuntimeBroker.exe
+  [12180] msedge.exe
+  [5196] msedge.exe
+  [13440] CompPkgSrv.exe
+  [13716] msedgewebview2.exe
+  [13788] msedgewebview2.exe
+  [14036] msedgewebview2.exe
+  [14044] msedgewebview2.exe
+  [14108] msedgewebview2.exe
+  [7624] chrome.exe
+  [13856] audiodg.exe
+  [13728] chrome.exe
+  [5748] msedgewebview2.exe
+  [11172] svchost.exe
+  [13256] chrome.exe
+  [11732] chrome.exe
+  [10172] nearby_share.exe
+  [1716] crashpad_handler.exe
+  [14712] msedge.exe
+  [9700] svchost.exe
+  [11728] SearchApp.exe
+  [12540] msedgewebview2.exe
+  [15288] msedgewebview2.exe
+  [13468] msedgewebview2.exe
+  [6604] msedgewebview2.exe
+  [9028] msedgewebview2.exe
+  [2144] msedgewebview2.exe
+  [14144] msedge.exe
+  [7132] sppsvc.exe
+  [14784] svchost.exe
+  [1724] svchost.exe
+  [1312] SearchFilterHost.exe
+  [12456] WMIADAP.exe
+  [12932] powershell.exe
+  [14992] conhost.exe
+  [7768] msedge.exe
+  [4508] chrome.exe
+  [7548] RuntimeBroker.exe
+  [7296] backgroundTaskHost.exe
+  [13940] backgroundTaskHost.exe
+  [12300] backgroundTaskHost.exe
+  [14536] backgroundTaskHost.exe
+  [14932] backgroundTaskHost.exe
+  [14368] svchost.exe
+  [9704] RuntimeBroker.exe
+  [9324] RuntimeBroker.exe
+  [15032] LocationNotificationWindows.exe
+  [2580] RuntimeBroker.exe
+  [4348] zz4Sj5M.exe
+  [9944] 16dd2365f5.exe
+  [11820] 4BtqZz1.exe
+  [12712] powershell.exe
+  [15144] conhost.exe
+  [9344] EpicOnlineServicesInstallHelper.exe
+[Software]
+  Google Play Games
+  WinRAR 7.11 (64-bit)
+  Microsoft Update Health Tools
+  Cloudflare WARP
+  Java 8 Update 401 (64-bit)
+  Windows PC Health Check
+  Epic Games Launcher
+  Update for x64-based Windows Systems (KB5001716)

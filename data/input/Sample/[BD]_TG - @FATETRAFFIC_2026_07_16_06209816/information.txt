@@ -1,0 +1,262 @@
+IP: 27.147.186.158
+Country: BD
+Date: 11.07.2026 07:38:02
+MachineID: fb43e9a8-3e9a-7cd8-4276-b935d69928d9
+GUID: {bd226940-a69d}
+HWID: A48006167B97EE69F033-bd226940-a69d-2FDA48C
+Path: C:\Users\Aminul Haque\AppData\Local\Temp\13115390101\f080fcc4fa.exe
+MD5: 9dd5b2c901390e1b8bfafee9bbcbbeb5
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-FL5JV6E
+User Name: Aminul Haque
+Display Resolution: 1366x768
+Local Time: 11.07.2026 07:38:02
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
+Cores: 4
+Threads: 4
+RAM: 8089 MB
+VideoCard: Intel(R) HD Graphics
+[Processes]
+  [4] System
+  [100] Registry
+  [376] smss.exe
+  [488] csrss.exe
+  [564] csrss.exe
+  [584] wininit.exe
+  [636] winlogon.exe
+  [708] services.exe
+  [752] lsass.exe
+  [880] svchost.exe
+  [908] fontdrvhost.exe
+  [912] fontdrvhost.exe
+  [1000] svchost.exe
+  [420] svchost.exe
+  [568] svchost.exe
+  [8] svchost.exe
+  [1064] svchost.exe
+  [1060] svchost.exe
+  [1132] svchost.exe
+  [1180] svchost.exe
+  [1260] dwm.exe
+  [1300] svchost.exe
+  [1312] svchost.exe
+  [1408] svchost.exe
+  [1416] svchost.exe
+  [1424] svchost.exe
+  [1436] svchost.exe
+  [1532] svchost.exe
+  [1576] svchost.exe
+  [1584] svchost.exe
+  [1596] svchost.exe
+  [1640] Memory Compression
+  [1696] svchost.exe
+  [1704] svchost.exe
+  [1720] svchost.exe
+  [1848] svchost.exe
+  [1940] svchost.exe
+  [2016] svchost.exe
+  [1760] svchost.exe
+  [2112] svchost.exe
+  [2156] svchost.exe
+  [2204] svchost.exe
+  [2212] svchost.exe
+  [2232] svchost.exe
+  [2308] svchost.exe
+  [2360] svchost.exe
+  [2532] spoolsv.exe
+  [2564] svchost.exe
+  [2608] svchost.exe
+  [2616] svchost.exe
+  [2680] svchost.exe
+  [2708] svchost.exe
+  [2844] svchost.exe
+  [2784] svchost.exe
+  [2788] svchost.exe
+  [3092] svchost.exe
+  [3100] svchost.exe
+  [3112] svchost.exe
+  [3132] svchost.exe
+  [3152] mDNSResponder.exe
+  [3160] svchost.exe
+  [3168] svchost.exe
+  [3180] AdobeUpdateService.exe
+  [3200] svchost.exe
+  [3208] RaAutoInstSrv.exe
+  [3216] RaRegistry.exe
+  [3348] svchost.exe
+  [3396] MsMpEng.exe
+  [3444] MpDefenderCoreService.exe
+  [3484] TeamViewer_Service.exe
+  [3556] svchost.exe
+  [3692] svchost.exe
+  [3768] svchost.exe
+  [3884] svchost.exe
+  [3932] svchost.exe
+  [3952] svchost.exe
+  [4288] svchost.exe
+  [5064] dasHost.exe
+  [3384] svchost.exe
+  [4320] dllhost.exe
+  [5408] svchost.exe
+  [5532] svchost.exe
+  [5580] SearchIndexer.exe
+  [5744] WmiPrvSE.exe
+  [6128] AggregatorHost.exe
+  [2392] NisSrv.exe
+  [4736] sihost.exe
+  [4724] svchost.exe
+  [4868] svchost.exe
+  [4904] OneDrive.exe
+  [3108] taskhostw.exe
+  [3440] svchost.exe
+  [1540] svchost.exe
+  [5084] ctfmon.exe
+  [4204] svchost.exe
+  [6200] explorer.exe
+  [6372] svchost.exe
+  [6572] WhatsApp.Root.exe
+  [6604] svchost.exe
+  [7004] StartMenuExperienceHost.exe
+  [7012] TextInputHost.exe
+  [6764] RuntimeBroker.exe
+  [7176] svchost.exe
+  [7392] SearchApp.exe
+  [7584] RuntimeBroker.exe
+  [7784] svchost.exe
+  [7856] backgroundTaskHost.exe
+  [8088] audiodg.exe
+  [8108] RuntimeBroker.exe
+  [8036] ShellExperienceHost.exe
+  [5556] RuntimeBroker.exe
+  [8924] svchost.exe
+  [3840] powershell.exe
+  [5104] conhost.exe
+  [2812] smartscreen.exe
+  [3196] SecurityHealthSystray.exe
+  [3272] SecurityHealthService.exe
+  [3800] OneDrive.exe
+  [3776] Avro Keyboard.exe
+  [8364] screenrec.exe
+  [8120] crashpad_handler.exe
+  [9924] SecurityHealthService.exe
+  [9400] svchost.exe
+  [6480] svchost.exe
+  [9688] svchost.exe
+  [9640] Dllhost.exe
+  [8084] svchost.exe
+  [10228] Client.exe
+  [10036] svchost.exe
+  [8312] runtimehost.exe
+  [6336] Wihnup.exe
+  [10368] fd032c888a.exe
+  [10472] 17e2a85e22.exe
+  [11076] 8ddd0bacec.exe
+  [10676] 8abe7033bc.exe
+  [10192] fff7076959.exe
+  [9452] f080fcc4fa.exe
+  [4864] f6c1a380a3.exe
+  [9148] 8715d8e286.exe
+  [9684] 2bd2f2ff9a.exe
+  [10644] b3668b2f7a.exe
+  [11340] dd9bf1f04a.exe
+  [4300] 2a166d0fb4.exe
+  [10032] 0c83f2432e.exe
+  [12156] svchost.exe
+  [12012] 91185c4e18.exe
+  [6768] 8f7569ce7b.exe
+  [10912] f36e47f188.exe
+  [5248] BijoyBayanno.exe
+  [10784] Chrome.exe
+  [7116] SecurityHealthService.exe
+  [4756] CCXProcess.exe
+  [9164] node.exe
+  [7700] SecurityHealthService.exe
+  [5156] conhost.exe
+  [11132] Lightshot.exe
+  [6588] Creative Cloud.exe
+  [11672] v49922.exe
+  [3020] Creative Cloud UI Helper.exe
+  [5524] Creative Cloud UI Helper.exe
+  [10016] Creative Cloud UI Helper.exe
+  [9184] svchost.exe
+  [8584] AdobeIPCBroker.exe
+  [9648] Creative Cloud UI Helper.exe
+  [6552] Adobe Desktop Service.exe
+  [11636] sppsvc.exe
+  [9832] SearchApp.exe
+  [10488] msedgewebview2.exe
+  [4936] msedgewebview2.exe
+  [9940] msedgewebview2.exe
+  [5884] msedgewebview2.exe
+  [10540] msedgewebview2.exe
+  [8664] msedgewebview2.exe
+  [8376] svchost.exe
+  [3632] chrome.exe
+  [8132] chrome.exe
+  [604] chrome.exe
+  [11036] chrome.exe
+  [11032] chrome.exe
+  [9260] chrome.exe
+  [10364] Creative Cloud Helper.exe
+  [12540] chrome.exe
+  [7520] chrome.exe
+  [8456] svchost.exe
+  [12196] CoreSync.exe
+  [12824] WmiPrvSE.exe
+  [2828] chrome.exe
+  [2452] chrome.exe
+  [10200] CompPkgSrv.exe
+  [7440] msedge.exe
+  [7736] msedge.exe
+  [5380] msedge.exe
+  [3528] msedge.exe
+  [8700] msedge.exe
+  [13420] svchost.exe
+  [13580] Creative Cloud UI Helper.exe
+  [14220] svchost.exe
+  [13404] Adobe Crash Processor.exe
+  [8512] WMIADAP.exe
+  [9304] WmiPrvSE.exe
+  [9952] file.exe
+  [6856] file.exe
+  [704] file.exe
+  [10180] cmd.exe
+  [9372] conhost.exe
+  [6316] 5c84677498.exe
+  [2560] cmd.exe
+  [10568] conhost.exe
+  [7540] conhost.exe
+  [11604] Adobe Crash Processor.exe
+  [13388] sc.exe
+  [11528] conhost.exe
+  [14136] svchost.exe
+  [11328] SecurityHealthService.exe
+  [11524] WerFault.exe
+  [13964] powershell.exe
+  [4616] conhost.exe
+  [4432] conhost.exe
+  [8288] powercfg.exe
+  [14012] powercfg.exe
+  [3620] powercfg.exe
+  [13780] powercfg.exe
+  [10232] conhost.exe
+  [1912] conhost.exe
+  [9224] conhost.exe
+[Software]
+  Clownfish Voice Changer
+  EaseUS VoiceWave 3.4.1
+  TeamViewer
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Update Health Tools
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Bonjour
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Microsoft Office Office 64-bit Components 2010
+  Microsoft Office Shared 64-bit MUI (English) 2010
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010

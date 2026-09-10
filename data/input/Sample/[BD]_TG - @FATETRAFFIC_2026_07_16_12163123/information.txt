@@ -1,0 +1,324 @@
+IP: 103.107.161.49
+Country: BD
+Date: 11.07.2026 03:38:59
+MachineID: 7bb1f781-1f78-d527-4618-3da993515c51
+GUID: {cdaca77c-7c46}
+HWID: 0FFA7CC98FCE01E80BDA-cdaca77c-7c46-5D78AD6
+Path: C:\Users\Anvii\DCrcpT.exe
+MD5: 7def6882cd38fe92ff13936a9f0741dd
+Work Dir: In memory
+Windows: Windows 11 Pro 25H2 (Build 26200)
+Computer Name: DESKTOP-50BKV7G
+User Name: Anvii
+Display Resolution: 1920x1080
+Local Time: 11.07.2026 03:38:59
+Antivirus: Windows Defender
+[Hardware]
+Processor: AMD Ryzen 5 7500F 6-Core Processor             
+Cores: 12
+Threads: 12
+RAM: 15989 MB
+VideoCard: NVIDIA GeForce RTX 5060
+[Processes]
+  [4] System
+  [188] Secure System
+  [232] Registry
+  [792] smss.exe
+  [1204] csrss.exe
+  [1288] wininit.exe
+  [1296] csrss.exe
+  [1368] services.exe
+  [1412] LsaIso.exe
+  [1420] lsass.exe
+  [1476] winlogon.exe
+  [1648] svchost.exe
+  [1680] fontdrvhost.exe
+  [1688] fontdrvhost.exe
+  [1724] svchost.exe
+  [1820] svchost.exe
+  [1828] svchost.exe
+  [1936] dwm.exe
+  [1080] svchost.exe
+  [1364] svchost.exe
+  [1776] svchost.exe
+  [1868] svchost.exe
+  [2060] svchost.exe
+  [2068] svchost.exe
+  [2076] svchost.exe
+  [2204] svchost.exe
+  [2244] svchost.exe
+  [2256] svchost.exe
+  [2332] svchost.exe
+  [2432] svchost.exe
+  [2608] svchost.exe
+  [2720] svchost.exe
+  [2740] svchost.exe
+  [2808] helperservice.exe
+  [2824] vmms.exe
+  [2928] svchost.exe
+  [3036] svchost.exe
+  [3044] svchost.exe
+  [2752] NVDisplay.Container.exe
+  [3104] svchost.exe
+  [3152] svchost.exe
+  [3160] svchost.exe
+  [3228] svchost.exe
+  [3248] svchost.exe
+  [3256] svchost.exe
+  [3304] svchost.exe
+  [3368] svchost.exe
+  [3376] svchost.exe
+  [3388] Memory Compression
+  [3508] svchost.exe
+  [3548] svchost.exe
+  [3660] svchost.exe
+  [3688] svchost.exe
+  [3696] svchost.exe
+  [3760] svchost.exe
+  [3772] svchost.exe
+  [4020] spoolsv.exe
+  [4072] audiodg.exe
+  [4104] svchost.exe
+  [4260] svchost.exe
+  [4268] svchost.exe
+  [4276] svchost.exe
+  [4284] AmdPpkgSvc.exe
+  [4308] svchost.exe
+  [4320] svchost.exe
+  [4332] GameInputRedistService.exe
+  [4340] svchost.exe
+  [4348] nvcontainer.exe
+  [4356] svchost.exe
+  [4364] svchost.exe
+  [4404] MsMpEng.exe
+  [4412] MpDefenderCoreService.exe
+  [4420] RtkAudUService64.exe
+  [4428] SignalRgbService.exe
+  [4440] SMSvcHost.exe
+  [4468] NVDisplay.Container.exe
+  [4920] conhost.exe
+  [5304] svchost.exe
+  [5388] GigabyteUpdateService.exe
+  [5684] SMSvcHost.exe
+  [6716] WmiPrvSE.exe
+  [6888] vmcompute.exe
+  [4948] svchost.exe
+  [7400] svchost.exe
+  [7580] gamingservicesnet.exe
+  [7588] gamingservices.exe
+  [7596] svchost.exe
+  [8024] AggregatorHost.exe
+  [8152] svchost.exe
+  [7276] svchost.exe
+  [7216] svchost.exe
+  [4256] svchost.exe
+  [864] nvcontainer.exe
+  [8432] NisSrv.exe
+  [8712] svchost.exe
+  [8772] svchost.exe
+  [8508] GameInputSvc.exe
+  [9004] GameInputSvc.exe
+  [5892] svchost.exe
+  [7040] GameInputRedistService.exe
+  [8480] nvcontainer.exe
+  [8076] sihost.exe
+  [9184] nvcontainer.exe
+  [9248] svchost.exe
+  [9288] svchost.exe
+  [9348] svchost.exe
+  [9444] taskhostw.exe
+  [9456] svchost.exe
+  [9924] svchost.exe
+  [10020] explorer.exe
+  [10048] SearchIndexer.exe
+  [10084] ShellHost.exe
+  [10244] svchost.exe
+  [10384] CrossDeviceResume.exe
+  [10684] svchost.exe
+  [11008] CrossDeviceService.exe
+  [10732] SearchHost.exe
+  [2576] StartMenuExperienceHost.exe
+  [11296] Widgets.exe
+  [11444] RuntimeBroker.exe
+  [11468] svchost.exe
+  [11584] nvsphelper64.exe
+  [11612] NVIDIA Overlay.exe
+  [12992] msedgewebview2.exe
+  [13124] msedgewebview2.exe
+  [10472] msedgewebview2.exe
+  [12620] msedgewebview2.exe
+  [13256] msedgewebview2.exe
+  [13440] msedgewebview2.exe
+  [13496] NVIDIA Overlay.exe
+  [13540] NVIDIA Overlay.exe
+  [13800] NVIDIA Overlay.exe
+  [9388] RuntimeBroker.exe
+  [7884] NVIDIA Overlay.exe
+  [15060] PhoneExperienceHost.exe
+  [15328] ctfmon.exe
+  [14388] SecurityHealthSystray.exe
+  [10328] SecurityHealthService.exe
+  [15012] RtkAudUService64.exe
+  [10840] OneDrive.exe
+  [15472] fdm.exe
+  [15492] ApplicationFrameHost.exe
+  [16048] svchost.exe
+  [16188] svchost.exe
+  [16204] svchost.exe
+  [17008] svchost.exe
+  [17244] svchost.exe
+  [17344] TextInputHost.exe
+  [16608] svchost.exe
+  [18224] RuntimeBroker.exe
+  [18328] XboxPcAppFT.exe
+  [17636] steam.exe
+  [18288] Discord.exe
+  [17756] Discord.exe
+  [18312] Discord.exe
+  [18452] Discord.exe
+  [19304] steamwebhelper.exe
+  [19416] steamservice.exe
+  [19000] steamwebhelper.exe
+  [19188] steamwebhelper.exe
+  [19132] steamwebhelper.exe
+  [19324] steamwebhelper.exe
+  [21368] steamwebhelper.exe
+  [6252] XboxPcTray.exe
+  [20836] XboxPcApp.exe
+  [2140] svchost.exe
+  [16480] SignalRgbLauncher.exe
+  [1628] SignalRgb.exe
+  [22356] crashpad_handler.exe
+  [21880] svchost.exe
+  [14788] Discord.exe
+  [23180] QtWebEngineProcess.exe
+  [23188] QtWebEngineProcess.exe
+  [11332] Discord.exe
+  [19016] ShellExperienceHost.exe
+  [1856] RuntimeBroker.exe
+  [3264] QtWebEngineProcess.exe
+  [1444] DiscordSystemHelper.exe
+  [16064] DiscordSystemHelper.exe
+  [15996] WidgetService.exe
+  [19728] msedgewebview2.exe
+  [7288] msedgewebview2.exe
+  [23100] msedgewebview2.exe
+  [6844] msedgewebview2.exe
+  [9500] RuntimeBroker.exe
+  [2056] msedgewebview2.exe
+  [16196] msedgewebview2.exe
+  [9020] svchost.exe
+  [16780] svchost.exe
+  [17652] svchost.exe
+  [24408] svchost.exe
+  [23664] steamwebhelper.exe
+  [4612] SystemSettings.exe
+  [5916] UserOOBEBroker.exe
+  [22776] LCD-CS.exe
+  [10332] svchost.exe
+  [2684] WmiApSrv.exe
+  [6596] steamwebhelper.exe
+  [9048] xgamehelper.exe
+  [9556] chrome.exe
+  [21992] chrome.exe
+  [3312] msedgewebview2.exe
+  [17168] chrome.exe
+  [6776] chrome.exe
+  [11828] chrome.exe
+  [3112] chrome.exe
+  [12960] chrome.exe
+  [22248] chrome.exe
+  [11192] cmd.exe
+  [2220] conhost.exe
+  [12916] wenativehost.exe
+  [6852] chrome.exe
+  [4028] taskhostw.exe
+  [1152] chrome.exe
+  [4292] msedge.exe
+  [17276] msedge.exe
+  [24056] msedge.exe
+  [6424] msedge.exe
+  [23828] msedge.exe
+  [8212] msedge.exe
+  [19564] msedge.exe
+  [13088] identity_helper.exe
+  [17860] cmd.exe
+  [9068] conhost.exe
+  [14652] wenativehost.exe
+  [6168] msedge.exe
+  [13004] msedge.exe
+  [9712] nvfvsdksvc_x64.exe
+  [2840] FvContainer.System.exe
+  [6140] FvContainer.exe
+  [21260] PresentMon_x64.exe
+  [3792] nvrla.exe
+  [23484] svchost.exe
+  [22268] svchost.exe
+  [9852] FileCoAuth.exe
+  [7904] chrome.exe
+  [17896] chrome.exe
+  [396] chrome.exe
+  [24384] chrome.exe
+  [22628] chrome.exe
+  [7704] chrome.exe
+  [8236] chrome.exe
+  [23416] chrome.exe
+  [24528] chrome.exe
+  [9636] chrome.exe
+  [13292] smartscreen.exe
+  [24556] WindowsTerminal.exe
+  [1896] OpenConsole.exe
+  [13324] powershell.exe
+  [20364] OpenConsole.exe
+  [3844] powershell.exe
+  [24256] SearchProtocolHost.exe
+  [3280] OpenConsole.exe
+  [2652] powershell.exe
+  [24464] WmiPrvSE.exe
+  [17556] svchost.exe
+  [10572] DCrcpT.exe
+  [16852] svchost.exe
+  [6128] backgroundTaskHost.exe
+  [4384] backgroundTaskHost.exe
+  [20008] kVonUXK.exe
+  [23152] powershell.exe
+  [8388] runtimeprovider.exe
+[Software]
+  DT Control version 1.1.1.0
+  Forza Horizon 6
+  SteamTools
+  WinRAR 7.23 (64-bit)
+  ENE_AIC_Marvell_HAL
+  Free Download Manager
+  Microsoft GameInput
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  ENE_External_Device_HAL
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+  Verbatim_SureFireGaming_Product
+  ENE_EHD_M2_HAL
+  Corsair Device Control Service
+  Patriot Viper M2 SSD RGB
+  ENE_MousePad_HAL
+  ENE Video Capture Box HAL
+  NVIDIA Graphics Driver 610.74
+  NVIDIA App 11.0.8.299
+  NVIDIA MessageBus 3 for NvApp
+  NVIDIA Backend
+  NVIDIA App driver settings
+  NVIDIA PhysX System Software 9.23.1019
+  NVIDIA FrameView SDK 1.8.12612.38276700
+  NVIDIA HD Audio Driver 1.4.5.7
+  NVIDIA Install Application
+  NVIDIA Container
+  NVIDIA AIUser Container
+  NVIDIA LocalSystem Container
+  NVIDIA Session Container
+  NVIDIA User Container
+  NVIDIA NvDLISR
+  NVIDIA Watchdog Plugin for NvContainer
+  NVIDIA Telemetry Client
+  NVIDIA ShadowPlay 11.0.8.0
+  NVIDIA Virtual Audio 4.65.0.12
+  ENE_X_AIC_HAL
+  ENE_DRAM_RGB_AIO
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438

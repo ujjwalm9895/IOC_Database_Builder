@@ -1,0 +1,63 @@
+﻿Name: answer
+Value: Call Of Duty
+===============
+Name: email
+Value: Moha-7-3-1_@hotmail.com
+===============
+Name: email
+Value: alshansimohammed00@gmail.com
+===============
+Name: email
+Value: buang67@lsmna.com
+===============
+Name: email
+Value: hamdan_4477_@hotmail.com
+===============
+Name: email
+Value: mmk98uae@gmail.com
+===============
+Name: f_bc7ea3cb-30b5-4a21-8571-308d57fa27e5
+Value: voice
+===============
+Name: f_ca749b71-c2e8-41a9-abbd-0045f85726f7
+Value: 1
+===============
+Name: f_cc01b4cf-9416-45f6-a59f-312f2eefc57a
+Value: 0509309020
+===============
+Name: identifier
+Value: mmk98uae@gmail.com
+===============
+Name: identifier
+Value: mrmjhool556@gmail.com
+===============
+Name: identifier
+Value: rashedalshamsi954@gmail.com
+===============
+Name: username
+Value: x4u
+===============
+Name: address
+Value: Bu
+===============
+Name: address
+Value: Saif
+===============
+Name: address
+Value: Bu Saif
+===============
+Name: address
+Value: mrmjhool556@gmail.com
+===============
+Name: address
+Value: أبو ظبي
+===============
+Name: address
+Value: AE
+===============
+Name: address
+Value: الغربية
+===============
+Name: address
+Value: Saif
+===============

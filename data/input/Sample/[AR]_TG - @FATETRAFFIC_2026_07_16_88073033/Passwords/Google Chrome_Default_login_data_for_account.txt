@@ -1,0 +1,89 @@
+Soft: Google Chrome (Default)
+Host: android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/
+Login: natiaraujo1973
+Password: maqui2008
+
+Soft: Google Chrome (Default)
+Host: android://0mxF7gRbL1Erv-6PlnR82jAP6lGaonT58okn_6fDdiqJuSFgX4aVoIyNFwhPQzm2smYltWO3qwuGjil466nBIQ==@com.disney.disneyplus/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.parairnos.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://m.facebook.com/
+Login: demacacos97@gmail.com
+Password: macacosopa
+
+Soft: Google Chrome (Default)
+Host: android://6dhNkLSJwvJmNzuWfnH8Q-mLbBWW7s0A2b_x8_MpdFdUebGtjLfeV0Ed2EEJ4G7BbdV3o1quT8wKfwTDU82SjA==@com.disney.starplus/
+Login: sofibertelsen@gmail.com
+Password: Sofia123
+
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.lite/
+Login: 100020253541015
+Password: maqui2008?
+
+Soft: Google Chrome (Default)
+Host: https://www.instagram.com/accounts/signup/name
+Login: Natalia veronica araujo
+Password: 0436
+
+Soft: Google Chrome (Default)
+Host: https://www.parairnos.com/login
+Login: natiaraujo1973@gmaim.com
+Password: Macarena2008
+
+Soft: Google Chrome (Default)
+Host: android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/
+Login: natiaraujo1973@gmail.com
+Password: 0436
+
+Soft: Google Chrome (Default)
+Host: android://TZ96pynyCee_HWQkeSqjJITbuhU9C3OQPUaAVwnnBIzM86sc1L5jPtfkhBD17N4gx0zYeWkVp6aAgjoWt6TcFg==@com.tarjetanaranja.ncuenta/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.eventbrite.com.ar/
+Login: natiaraujo1973@gmail.com
+Password: calle73609
+
+Soft: Google Chrome (Default)
+Host: android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login: 2262505857
+Password: Maqui2008
+
+Soft: Google Chrome (Default)
+Host: android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/
+Login: macarena_chiarle_08
+Password: macarenachiarle1999
+
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.lite/
+Login: AYgOC5i1DkJhc2f_k600obvHkNEZw87KwlVCgvFzT7JXGCPJezsAioJ2cO2esqZ6ZeYMN7bIBjj0zJmDsPVHkGjjTg73QWAa5kGVrCBpTjOePw0JSCflVUweUdzLyNf7Fr_M2FSRsAy0AL613hA9_fHRIrir7bUbwd1RxN8jOIcgQ3nd1v80gOq_7j9lw8h9LPDmNotzirMNuP7bTgbRcQHK
+Password: maqui2008?
+
+Soft: Google Chrome (Default)
+Host: android://5loASzy0_Gib4YKVz1_EOrLVW4AtH0KDwT9RdcUOpdLUA3gSJ8JqPuO4VSsyEQChFjt2n_BrGAm6IMze2xw_bQ==@ar.com.camuzzigas.oficinavirtual/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://paxmanager.com/TravelRock/
+Login: natiaraujo1973@gmail.com
+Password: nati1973
+
+Soft: Google Chrome (Default)
+Host: https://ingreso.claro.com.ar/auth/realms/claro/login-actions/required-action
+Login: natiaraujo1973@gmail.com
+Password: Macarena08

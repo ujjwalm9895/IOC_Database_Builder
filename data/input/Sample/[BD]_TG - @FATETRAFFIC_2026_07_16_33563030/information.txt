@@ -1,0 +1,227 @@
+IP: 103.107.123.3
+Country: BD
+Date: 11.07.2026 23:31:17
+MachineID: 084f0d98-f0d9-6710-f41d-fc52258535b5
+GUID: {33688216-dbe5}
+HWID: 36111A92FC63EAD58CBF-33688216-dbe5-3A81BA1
+Path: C:\Users\Rahmatullah Bappy\AppData\Local\Temp\13117550101\52a53ae19c.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+Windows: Windows 10 Pro (Build 16299)
+Computer Name: DESKTOP-K21EUEQ
+User Name: Rahmatullah Bappy
+Display Resolution: 1600x900
+Local Time: 11.07.2026 23:31:17
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+Cores: 4
+Threads: 4
+RAM: 8092 MB
+VideoCard: Intel(R) HD Graphics 4400
+[Processes]
+  [4] System
+  [324] smss.exe
+  [516] csrss.exe
+  [624] wininit.exe
+  [632] csrss.exe
+  [696] services.exe
+  [720] lsass.exe
+  [764] winlogon.exe
+  [904] svchost.exe
+  [928] fontdrvhost.exe
+  [932] fontdrvhost.exe
+  [944] svchost.exe
+  [288] svchost.exe
+  [360] svchost.exe
+  [296] dwm.exe
+  [1080] svchost.exe
+  [1088] svchost.exe
+  [1172] svchost.exe
+  [1212] svchost.exe
+  [1220] svchost.exe
+  [1312] svchost.exe
+  [1324] svchost.exe
+  [1340] svchost.exe
+  [1384] svchost.exe
+  [1392] svchost.exe
+  [1452] svchost.exe
+  [1552] svchost.exe
+  [1616] svchost.exe
+  [1624] svchost.exe
+  [1644] svchost.exe
+  [1660] svchost.exe
+  [1692] svchost.exe
+  [1744] svchost.exe
+  [1752] svchost.exe
+  [1760] svchost.exe
+  [1936] Memory Compression
+  [1960] svchost.exe
+  [1972] svchost.exe
+  [2036] igfxCUIService.exe
+  [2076] svchost.exe
+  [2084] svchost.exe
+  [2116] svchost.exe
+  [2184] svchost.exe
+  [2352] svchost.exe
+  [2428] svchost.exe
+  [2476] svchost.exe
+  [2484] svchost.exe
+  [2492] svchost.exe
+  [2568] svchost.exe
+  [2620] svchost.exe
+  [2712] svchost.exe
+  [2796] svchost.exe
+  [2868] spoolsv.exe
+  [2912] svchost.exe
+  [2928] svchost.exe
+  [3092] svchost.exe
+  [3112] svchost.exe
+  [3152] svchost.exe
+  [3168] svchost.exe
+  [3204] svchost.exe
+  [3216] svchost.exe
+  [3244] svchost.exe
+  [3260] MpDefenderCoreService.exe
+  [3268] svchost.exe
+  [3276] svchost.exe
+  [3296] MsMpEng.exe
+  [3308] svchost.exe
+  [3324] svchost.exe
+  [3800] MpCmdRun.exe
+  [3988] svchost.exe
+  [4280] svchost.exe
+  [4336] svchost.exe
+  [5000] dllhost.exe
+  [3164] sihost.exe
+  [3536] svchost.exe
+  [3500] svchost.exe
+  [5192] igfxEM.exe
+  [5212] igfxHK.exe
+  [5220] igfxTray.exe
+  [5292] taskhostw.exe
+  [5300] svchost.exe
+  [5360] explorer.exe
+  [5436] svchost.exe
+  [5612] ctfmon.exe
+  [6028] ShellExperienceHost.exe
+  [5148] WmiPrvSE.exe
+  [5740] SearchUI.exe
+  [6284] RuntimeBroker.exe
+  [6352] RuntimeBroker.exe
+  [6400] RuntimeBroker.exe
+  [6440] svchost.exe
+  [6812] SearchIndexer.exe
+  [6708] SearchProtocolHost.exe
+  [6828] conhost.exe
+  [2396] SearchFilterHost.exe
+  [1808] WmiPrvSE.exe
+  [5032] RuntimeBroker.exe
+  [7312] svchost.exe
+  [7492] svchost.exe
+  [7612] backgroundTaskHost.exe
+  [7716] backgroundTaskHost.exe
+  [3140] svchost.exe
+  [3688] Video.UI.exe
+  [8004] svchost.exe
+  [7880] svchost.exe
+  [7184] svchost.exe
+  [8244] Avro Keyboard.exe
+  [8252] svchost.exe
+  [8388] SecurityHealthService.exe
+  [8436] Dllhost.exe
+  [8464] svchost.exe
+  [8688] SystemSettingsBroker.exe
+  [8484] svchost.exe
+  [8536] svchost.exe
+  [8544] svchost.exe
+  [8964] svchost.exe
+  [7296] svchost.exe
+  [9184] svchost.exe
+  [8400] svchost.exe
+  [4560] dasHost.exe
+  [4624] svchost.exe
+  [9196] RuntimeBroker.exe
+  [9288] Chrome.exe
+  [9332] runtimeprovider.exe
+  [9400] 647eae3b.exe
+  [9492] Client.exe
+  [9608] wermgr.exe
+  [9692] svchost.exe
+  [9812] backgroundTaskHost.exe
+  [10120] chrome.exe
+  [10148] chrome.exe
+  [10204] Wihnup.exe
+  [9344] WmiPrvSE.exe
+  [9432] 5187fc90ea.exe
+  [6696] 700217021a.exe
+  [7840] a107901242.exe
+  [5108] 4cf9c9bb83.exe
+  [9604] 57862afbcf.exe
+  [9236] chrome.exe
+  [9248] chrome.exe
+  [4392] chrome.exe
+  [10200] 0785737f06.exe
+  [6740] chrome.exe
+  [9324] chrome.exe
+  [3576] chrome.exe
+  [3464] 1e116f9c50.exe
+  [8328] chrome.exe
+  [10288] chrome.exe
+  [10296] bc28c801ce.exe
+  [10476] svchost.exe
+  [10540] 3e83ce54a1.exe
+  [10684] dllhost.exe
+  [10736] RuntimeBroker.exe
+  [10836] systemhelper.exe
+  [10928] 52a53ae19c.exe
+  [11072] a7cabff3dc.exe
+  [11160] e5d4653772.exe
+  [10132] e98e5ffd94.exe
+  [10884] svchost.exe
+  [6524] 6gser6r727h5.exe
+  [7768] dllhost.exe
+  [10832] SearchProtocolHost.exe
+  [10808] PC1500DiskAnalyzer.exe
+  [10412] SearchFilterHost.exe
+  [6752] SecurityHealthService.exe
+  [11088] dllhost.exe
+  [10584] Bwale.exe
+  [10076] Chrome.exe
+  [3924] chrome.exe
+  [11196] chrome.exe
+  [1652] SecurityHealthService.exe
+  [5208] updater.exe
+  [10716] updater.exe
+  [968] updater.exe
+  [10852] updater.exe
+  [6416] chrome.exe
+  [6972] chrome.exe
+  [6912] chrome.exe
+  [11320] updater.exe
+  [11340] updater.exe
+  [11460] chrome.exe
+  [11468] updater.exe
+  [11480] updater.exe
+  [11656] updater.exe
+  [11676] updater.exe
+  [11800] audiodg.exe
+  [11852] chrome.exe
+  [12072] chrome.exe
+  [12156] updater.exe
+  [12176] updater.exe
+  [12280] updater.exe
+  [6952] updater.exe
+  [11408] updater.exe
+  [11420] updater.exe
+  [10988] updater.exe
+  [3684] updater.exe
+  [6456] chrome.exe
+[Software]
+  Mozilla Firefox (x64 en-GB)
+  Mozilla Maintenance Service
+  Update for Windows 10 for x64-based Systems (KB4480730)
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+  Microsoft Visual Studio Installer
+  Update for Windows 10 for x64-based Systems (KB4023057)

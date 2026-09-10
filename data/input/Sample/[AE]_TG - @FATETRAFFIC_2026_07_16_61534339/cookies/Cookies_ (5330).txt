@@ -1,0 +1,15 @@
+.twitch.tv	TRUE	/	TRUE	1814821386	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	TRUE	1796245393	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjc4NzA4MDc3MFwiXSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE3OTYyNDUzOTMsImlhdCI6MTc4MDY5MzM5Mywibm9uY2UiOiJtQjZkMUxucGlGTDNJXzZjbk1yZEJ2WG9rMHJSR3BQRGduNVlXN1paeEpJPSJ9.WvI9_sNGdKTi3B4b0vjuwXvcQSrO99KM7xZ_cSiXbItOgfizELanyEvGm0wDNn_mWMHsbS7NjieaVdBJY7KMjA%3D%3D
+.twitch.tv	TRUE	/	TRUE	1812142993	persistent	787080770%3A%3Arxn8qfbxvszy6fesci1y6u4x2ukqw6
+.twitch.tv	TRUE	/	FALSE	1812142993	name	conodeladoo
+.twitch.tv	TRUE	/	FALSE	1812142993	last_login	2026-06-05T21:03:13Z
+.twitch.tv	TRUE	/	TRUE	1812142993	api_token	3e648ddbd197362063f8394c5c28c315
+.twitch.tv	TRUE	/	TRUE	1812229407	language	es-ES
+.twitch.tv	TRUE	/	FALSE	1815253420	_ga	GA1.2.1371059154.1780693420
+.twitch.tv	TRUE	/	FALSE	1815253494	_ga_NQNWDWJXCP	GS2.1.s1780693419$o1$g1$t1780693493$j60$l0$h0
+.twitch.tv	TRUE	/	TRUE	1817374453	unique_id	3883914f89f343f6becd85b8632d0a6a
+.twitch.tv	TRUE	/	TRUE	1817374453	unique_id_durable	3883914f89f343f6becd85b8632d0a6a
+.twitch.tv	TRUE	/	TRUE	1817374471	twilight-user	{%22authToken%22:%22vv3rt9f2cnzx20xow4t9xwq0u6x7bz%22%2C%22displayName%22:%22conodeladoo%22%2C%22id%22:%22787080770%22%2C%22login%22:%22conodeladoo%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	1817374471	auth-token	vv3rt9f2cnzx20xow4t9xwq0u6x7bz
+.twitch.tv	TRUE	/	TRUE	1817374471	login	conodeladoo
+.twitch.tv	TRUE	/	FALSE	1816857686	twitch.lohp.countryCode	AR

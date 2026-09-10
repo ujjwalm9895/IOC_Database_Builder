@@ -1,0 +1,13 @@
+.twitch.tv	TRUE	/	TRUE	1807034616	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	TRUE	1804359987	language	es-ES
+.twitch.tv	TRUE	/	FALSE	1810148135	last_login	2026-05-13T18:55:44Z
+.twitch.tv	TRUE	/	FALSE	1810148135	name	crescy_exe
+.twitch.tv	TRUE	/	TRUE	1810148135	api_token	4944996e5d111fae0184d0deffde5be0
+.twitch.tv	TRUE	/	TRUE	1810148135	persistent	1454903830%3A%3Aqhehp6d1z716gqum5zu5cplgt9n789
+.twitch.tv	TRUE	/	TRUE	1794250535	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjE0NTQ5MDM4MzBcIl0iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNzk0MjUwNTQ0LCJpYXQiOjE3Nzg2OTg1NDQsIm5vbmNlIjoiQ2RDczN3UGRzUW1JZGczdWt5dERhcWFlclgzUG12ak1FODduTElEcGNyST0ifQ%3D%3D.979GyNKempllFM45TNXEtIX7-fG7pFZNighAFncaZxO1WVzwcVHEbiv2xr38vwvhrrxdw9me3-RCPoPC73H0-w%3D%3D
+.twitch.tv	TRUE	/	TRUE	1814081246	auth-token	ifl54bu923mrs1g1rabcjetacq66n0
+.twitch.tv	TRUE	/	TRUE	1814081246	login	crescy_exe
+.twitch.tv	TRUE	/	TRUE	1814081246	twilight-user	{%22authToken%22:%22ifl54bu923mrs1g1rabcjetacq66n0%22%2C%22displayName%22:%22crescy_exe%22%2C%22id%22:%221454903830%22%2C%22login%22:%22crescy_exe%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	1814081242	unique_id	3cce49a86dfd4f1c8c4413fe09580228
+.twitch.tv	TRUE	/	TRUE	1814081242	unique_id_durable	3cce49a86dfd4f1c8c4413fe09580228
+.twitch.tv	TRUE	/	FALSE	1813562849	twitch.lohp.countryCode	DE

@@ -1,0 +1,15 @@
+﻿Name: AuthEmail
+Value: awaedwards@gmail.com
+===============
+Name: card_expiration
+Value: 10/27
+===============
+Name: card_number
+Value: 4645 5417 2600 8007
+===============
+Name: email
+Value: blaydetownsend5@gmail.com
+===============
+Name: login_email
+Value: 0411720860
+===============

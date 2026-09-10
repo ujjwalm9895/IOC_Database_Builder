@@ -1,0 +1,251 @@
+IP: 103.147.106.12
+Country: BD
+Date: 10.07.2026 19:44:56
+MachineID: 4a33785b-3785-088b-7a51-306243a8b44e
+GUID: {9055b2c0-7171}
+HWID: E5CCC0B0DB29C86BBAE5-9055b2c0-7171-2C0C11A
+Path: C:\Users\pc\AppData\Local\Temp\13115890101\a2d3081df6.exe
+MD5: 9dd5b2c901390e1b8bfafee9bbcbbeb5
+Work Dir: In memory
+Windows: Windows 10 Pro (Build 18363)
+Computer Name: DESKTOP-AG7R28F
+User Name: pc
+Display Resolution: 1366x768
+Local Time: 10.07.2026 19:44:56
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+Cores: 4
+Threads: 4
+RAM: 8067 MB
+VideoCard: Intel(R) HD Graphics 620
+[Processes]
+  [4] System
+  [96] Registry
+  [392] smss.exe
+  [588] csrss.exe
+  [676] wininit.exe
+  [752] services.exe
+  [812] lsass.exe
+  [956] svchost.exe
+  [980] svchost.exe
+  [1004] fontdrvhost.exe
+  [272] WUDFHost.exe
+  [672] svchost.exe
+  [612] svchost.exe
+  [1212] svchost.exe
+  [1336] svchost.exe
+  [1344] svchost.exe
+  [1352] svchost.exe
+  [1456] svchost.exe
+  [1500] IntelCpHDCPSvc.exe
+  [1508] svchost.exe
+  [1536] svchost.exe
+  [1572] svchost.exe
+  [1640] svchost.exe
+  [1716] svchost.exe
+  [1748] svchost.exe
+  [1868] svchost.exe
+  [1876] svchost.exe
+  [1884] IntelCpHeciSvc.exe
+  [2020] svchost.exe
+  [1408] svchost.exe
+  [1924] igfxCUIService.exe
+  [2060] svchost.exe
+  [2072] svchost.exe
+  [2084] svchost.exe
+  [2112] svchost.exe
+  [2164] svchost.exe
+  [2252] svchost.exe
+  [2264] svchost.exe
+  [2276] Memory Compression
+  [2440] svchost.exe
+  [2552] svchost.exe
+  [2700] svchost.exe
+  [2808] svchost.exe
+  [2812] svchost.exe
+  [2940] svchost.exe
+  [2028] svchost.exe
+  [2716] svchost.exe
+  [3112] spoolsv.exe
+  [3176] svchost.exe
+  [3216] svchost.exe
+  [3312] wlanext.exe
+  [3320] conhost.exe
+  [3476] CxAudioSvc.exe
+  [3484] svchost.exe
+  [3492] CxUtilSvc.exe
+  [3504] svchost.exe
+  [3512] OfficeClickToRun.exe
+  [3528] svchost.exe
+  [3540] svchost.exe
+  [3596] svchost.exe
+  [3632] ibtsiva.exe
+  [3648] OneApp.IGCC.WinService.exe
+  [3744] svchost.exe
+  [3788] svchost.exe
+  [3804] MpDefenderCoreService.exe
+  [3832] SynTPEnhService.exe
+  [3864] svchost.exe
+  [3872] svchost.exe
+  [3880] svchost.exe
+  [3892] svchost.exe
+  [3920] svchost.exe
+  [3940] HotKeyServiceUWP.exe
+  [3948] MsMpEng.exe
+  [4024] dasHost.exe
+  [4512] svchost.exe
+  [4524] LanWlanWwanSwitchingServiceUWP.exe
+  [4172] svchost.exe
+  [5572] dllhost.exe
+  [6012] WmiPrvSE.exe
+  [5380] WmiPrvSE.exe
+  [6860] PresentationFontCache.exe
+  [6180] svchost.exe
+  [6744] svchost.exe
+  [7096] dialer.exe
+  [7152] dialer.exe
+  [5924] dialer.exe
+  [5188] dialer.exe
+  [3524] svchost.exe
+  [6212] svchost.exe
+  [7100] svchost.exe
+  [7440] SearchIndexer.exe
+  [9084] svchost.exe
+  [600] SecurityHealthService.exe
+  [1580] NisSrv.exe
+  [14992] svchost.exe
+  [6656] dialer.exe
+  [13912] dialer.exe
+  [11364] svchost.exe
+  [7336] svchost.exe
+  [3776] svchost.exe
+  [12528] dllhost.exe
+  [11228] SearchProtocolHost.exe
+  [12252] SearchFilterHost.exe
+  [7584] dllhost.exe
+  [14668] svchost.exe
+  [17152] svchost.exe
+  [15832] svchost.exe
+  [19468] csrss.exe
+  [1932] winlogon.exe
+  [1700] dwm.exe
+  [11012] fontdrvhost.exe
+  [9932] HPHotkeyNotification.exe
+  [18924] sihost.exe
+  [13956] svchost.exe
+  [10708] svchost.exe
+  [2580] ctfmon.exe
+  [8292] MicTray64.exe
+  [16520] taskhostw.exe
+  [6624] igfxEM.exe
+  [13156] WindowsHelper.exe
+  [15604] explorer.exe
+  [6296] unsecapp.exe
+  [10968] svchost.exe
+  [7648] WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.
+  [20868] StartMenuExperienceHost.exe
+  [5992] SynTPEnh.exe
+  [20352] RuntimeBroker.exe
+  [20416] SynTPHelper.exe
+  [5984] RuntimeBroker.exe
+  [18588] SettingSyncHost.exe
+  [17748] SecurityHealthSystray.exe
+  [2520] OneDrive.exe
+  [7800] DeskRest.exe
+  [11948] Flow.exe
+  [18784] Chrome.exe
+  [20572] SearchUI.exe
+  [12548] Dllhost.exe
+  [21188] Client.exe
+  [2756] svchost.exe
+  [21312] schtasks.exe
+  [17084] conhost.exe
+  [20404] pythonw.exe
+  [16372] RuntimeBroker.exe
+  [11476] chrome.exe
+  [1136] svchost.exe
+  [19108] PC1500DiskAnalyzer.exe
+  [11160] pythonw.exe
+  [11940] taskmanager.exe
+  [23316] Bwale.exe
+  [13252] GDFwAdmin.exe
+  [11396] chrome.exe
+  [21440] chrome.exe
+  [16640] chrome.exe
+  [17688] chrome.exe
+  [14340] chrome.exe
+  [12808] chrome.exe
+  [19408] chrome.exe
+  [13020] CompPkgSrv.exe
+  [14672] chrome.exe
+  [23100] WINWORD.EXE
+  [16348] ai.exe
+  [17352] chrome.exe
+  [22416] chrome.exe
+  [15596] Video.UI.exe
+  [11796] Microsoft.Photos.exe
+  [30532] RuntimeBroker.exe
+  [17660] RuntimeBroker.exe
+  [3036] audiodg.exe
+  [12272] svchost.exe
+  [17024] ApplicationFrameHost.exe
+  [14368] SoundRec.exe
+  [14404] RuntimeBroker.exe
+  [8988] svchost.exe
+  [17588] brti8Vz.exe
+  [10936] SecurityHealthHost.exe
+  [16004] svchost.exe
+  [28804] svchost.exe
+  [10940] svchost.exe
+  [21600] svchost.exe
+  [15292] SearchProtocolHost.exe
+  [8832] svchost.exe
+  [22580] svchost.exe
+  [17248] LockApp.exe
+  [29340] backgroundTaskHost.exe
+  [18456] RuntimeBroker.exe
+  [10764] RuntimeBroker.exe
+  [10436] smartscreen.exe
+  [24204] msedge.exe
+  [14724] msedge.exe
+  [27512] msedge.exe
+  [19064] msedge.exe
+  [1320] msedge.exe
+  [23072] GameBar.exe
+  [29688] GameBarFTServer.exe
+  [13792] svchost.exe
+  [16548] RuntimeBroker.exe
+  [896] svchost.exe
+  [26308] a2d3081df6.exe
+  [5944] conhost.exe
+  [6564] powershell.exe
+  [30628] msedge.exe
+  [21492] msedge.exe
+  [28808] chrome.exe
+  [10340] msedge.exe
+  [10784] msedge.exe
+  [30208] b1b6c70b17.exe
+  [25964] msedge.exe
+  [11244] Wihnup.exe
+  [22608] SearchFilterHost.exe
+  [21128] powershell.exe
+  [13084] conhost.exe
+  [13952] backgroundTaskHost.exe
+  [19416] wermgr.exe
+  [29448] RuntimeBroker.exe
+  [25728] conhost.exe
+  [14832] powershell.exe
+  [21308] sppsvc.exe
+  [29288] consent.exe
+  [25232] v49922.exe
+[Software]
+  Bang & Olufsen Audio
+  Audio Controls Application
+  Microsoft Office Professional Plus 2019 - en-us
+  Synaptics Pointing Device Driver
+  WinRAR 5.71 (64-bit)
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  Office 16 Click-to-Run Localization Component
+  Microsoft Update Health Tools

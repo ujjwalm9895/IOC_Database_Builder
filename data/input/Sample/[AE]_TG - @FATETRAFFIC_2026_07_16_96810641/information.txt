@@ -1,0 +1,322 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+Telegram: Qwerty99990000
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 217.165.242.55
+Country: AE
+
+Date: 07.07.2026 01:33:46
+MachineID: f2ad4909-d490-dd1a-ac05-5ea8395ab95c
+GUID: {cd0a2940-48e2}
+HWID: D9BC4D901689A8CB9A45-cd0a2940-48e2-74D103E
+
+Path: C:\Users\ADMINI~1\AppData\Local\Temp\Setup\cache\1783373574125\payload.exe
+MD5: 8667f77f9c233c62f52d9f1d9a1e04ef
+Work Dir: In memory
+
+Windows: Windows Server 2019 Standard (Build 17763)
+Computer Name: WIN-2LBQGI8J7A4
+User Name: 5a3f1c7f389cc1f7
+Display Resolution: 1280x1024
+Local Time: 07.07.2026 01:33:46
+Antivirus: Windows Defender
+
+[Hardware]
+Processor: Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz
+Cores: 4
+Threads: 4
+RAM: 32733 MB
+VideoCard: Microsoft Basic Display Adapter
+
+[Processes]
+  [4] System
+  [104] Registry
+  [348] smss.exe
+  [456] csrss.exe
+  [532] csrss.exe
+  [556] wininit.exe
+  [632] winlogon.exe
+  [676] services.exe
+  [696] lsass.exe
+  [820] svchost.exe
+  [844] svchost.exe
+  [868] fontdrvhost.exe
+  [876] fontdrvhost.exe
+  [964] svchost.exe
+  [1012] svchost.exe
+  [400] dwm.exe
+  [840] svchost.exe
+  [1032] svchost.exe
+  [1036] svchost.exe
+  [1124] svchost.exe
+  [1132] svchost.exe
+  [1280] svchost.exe
+  [1332] svchost.exe
+  [1356] svchost.exe
+  [1392] svchost.exe
+  [1400] svchost.exe
+  [1408] svchost.exe
+  [1416] svchost.exe
+  [1528] svchost.exe
+  [1572] svchost.exe
+  [1648] svchost.exe
+  [1684] svchost.exe
+  [1856] svchost.exe
+  [1860] svchost.exe
+  [1936] svchost.exe
+  [2176] svchost.exe
+  [2232] svchost.exe
+  [2240] svchost.exe
+  [2460] svchost.exe
+  [2484] svchost.exe
+  [2576] svchost.exe
+  [2632] svchost.exe
+  [2668] svchost.exe
+  [2792] svchost.exe
+  [2800] svchost.exe
+  [2852] spoolsv.exe
+  [3004] svchost.exe
+  [3020] svchost.exe
+  [3028] svchost.exe
+  [3036] svchost.exe
+  [3044] svchost.exe
+  [3052] svchost.exe
+  [3060] svchost.exe
+  [2320] svchost.exe
+  [2316] svchost.exe
+  [3164] svchost.exe
+  [3172] sqlwriter.exe
+  [3180] MsMpEng.exe
+  [3188] MpDefenderCoreService.exe
+  [3196] AppleMobileDeviceService.exe
+  [3204] mDNSResponder.exe
+  [3220] UltraViewer_Service.exe
+  [3228] ss_conn_service.exe
+  [3256] ss_conn_service2.exe
+  [3396] WsidService.exe
+  [3524] svchost.exe
+  [3600] svchost.exe
+  [3624] svchost.exe
+  [3728] svchost.exe
+  [4528] svchost.exe
+  [884] svchost.exe
+  [5388] dllhost.exe
+  [5692] svchost.exe
+  [5760] svchost.exe
+  [5824] svchost.exe
+  [5876] sihost.exe
+  [5920] taskhostw.exe
+  [4780] svchost.exe
+  [4912] svchost.exe
+  [4764] ctfmon.exe
+  [2964] explorer.exe
+  [2524] SearchUI.exe
+  [3112] RuntimeBroker.exe
+  [4568] RuntimeBroker.exe
+  [2916] RuntimeBroker.exe
+  [5908] smartscreen.exe
+  [80] svchost.exe
+  [2448] svchost.exe
+  [6000] ollama app.exe
+  [5796] ollama.exe
+  [5896] conhost.exe
+  [5228] svchost.exe
+  [3888] msdtc.exe
+  [6928] svchost.exe
+  [6244] svchost.exe
+  [112] dllhost.exe
+  [4560] ApplicationFrameHost.exe
+  [4320] svchost.exe
+  [7536] taskhostw.exe
+  [3392] OpenHuman.exe
+  [6040] OpenHuman.exe
+  [7712] OpenHuman.exe
+  [5544] OpenHuman.exe
+  [8044] OpenHuman.exe
+  [8140] OpenHuman.exe
+  [5640] svchost.exe
+  [8436] OpenHuman.exe
+  [9048] OpenHuman.exe
+  [9580] OpenHuman.exe
+  [1676] WUDFHost.exe
+  [2408] NisSrv.exe
+  [9596] svchost.exe
+  [3108] Integrator.exe
+  [3440] conhost.exe
+  [7708] VBoxSVC.exe
+  [4732] VBoxSDS.exe
+  [11096] VirtualBox.exe
+  [9740] ShellExperienceHost.exe
+  [3984] OfficeClickToRun.exe
+  [10348] chrome.exe
+  [10472] chrome.exe
+  [5776] chrome.exe
+  [3296] chrome.exe
+  [4728] chrome.exe
+  [4800] chrome.exe
+  [11120] chrome.exe
+  [11140] chrome.exe
+  [7804] chrome.exe
+  [1172] chrome.exe
+  [9584] chrome.exe
+  [5036] chrome.exe
+  [5584] chrome.exe
+  [8320] chrome.exe
+  [6752] chrome.exe
+  [2376] chrome.exe
+  [3636] chrome.exe
+  [9952] chrome.exe
+  [5600] chrome.exe
+  [10852] chrome.exe
+  [4516] studio64.exe
+  [6748] svchost.exe
+  [10152] fsnotifier.exe
+  [10824] conhost.exe
+  [5304] adb.exe
+  [10684] svchost.exe
+  [2344] chrome.exe
+  [1352] chrome.exe
+  [2276] chrome.exe
+  [11200] chrome.exe
+  [9036] chrome.exe
+  [1592] chrome.exe
+  [464] chrome.exe
+  [3584] chrome.exe
+  [9768] svchost.exe
+  [944] chrome.exe
+  [8380] chrome.exe
+  [8020] chrome.exe
+  [11212] chrome.exe
+  [8120] chrome.exe
+  [800] cmd.exe
+  [9416] conhost.exe
+  [6844] node.exe
+  [4812] chrome.exe
+  [2652] chrome.exe
+  [10156] chrome.exe
+  [9468] chrome.exe
+  [8072] chrome.exe
+  [11172] chrome.exe
+  [8696] chrome.exe
+  [8928] BackgroundDownload.exe
+  [10412] WmiPrvSE.exe
+  [7248] svchost.exe
+  [9324] powershell.exe
+  [9172] conhost.exe
+  [1568] Release.exe
+  [3908] Installer.exe
+  [11160] chrome.exe
+  [6452] Installer.exe
+  [9424] Installer.exe
+  [10024] Installer.exe
+  [10932] WmiPrvSE.exe
+  [656] payload.exe
+  [10432] payload.exe
+  [10880] explorer.exe
+  [1104] payload.exe
+  [1520] payload.exe
+  [6128] cmd.exe
+  [5624] conhost.exe
+  [6856] powershell.exe
+[Software]
+  Android Studio
+  LM Studio 0.4.18+1
+  Git
+  IntelliJ IDEA 2026.1.1
+  Mozilla Firefox (x64 en-GB)
+  Mozilla Maintenance Service
+  Notepad++ (64-bit x64)
+  WinRAR 7.22 (64-bit)
+  XAMPP
+  Python 3.14.6 Documentation (64-bit)
+  IIS Express Application Compatibility Database for x64
+  Microsoft Visual C++ 2022 X64 Debug Runtime - 14.51.36247
+  DiagnosticsHub_CollectionService
+  Microsoft ODBC Driver 17 for SQL Server
+  Microsoft .NET AppHost Pack - 10.0.8 (x64)
+  Oracle VirtualBox 7.2.6
+  Python 3.14.6 Tcl/Tk Support (64-bit)
+  Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64)
+  Application Verifier x64 External Package (DesktopEditions)
+  Python 3.14.6 Standard Library (64-bit)
+  Microsoft .NET Targeting Pack - 10.0.8 (x64)
+  Microsoft .NET 10.0 Templates 10.0.300 x64
+  Python 3.14.6 Executables (64-bit)
+  Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64)
+  Microsoft Command Line Utilities 15 for SQL Server
+  Microsoft .NET Runtime - 10.0.8 (x64)
+  OpenHuman
+  Microsoft.NET.Sdk.macOS.Manifest-10.0.100 (x64)
+  Application Verifier x64 External Package (OnecoreUAP)
+  Microsoft System CLR Types for SQL Server 2019
+  Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64)
+  Node.js
+  Microsoft Windows Desktop Targeting Pack - 10.0.8 (x64)
+  Microsoft.NET.Sdk.iOS.Manifest-10.0.100 (x64)
+  Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100 (x64)
+  Microsoft .NET Toolset 10.0.300 (x64)
+  VS JIT Debugger
+  Genymotion version 3.10.0
+  Bonjour
+  Microsoft Visual Studio Installer
+  Python 3.14.6 Core Interpreter (64-bit)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247
+  Microsoft .NET SDK 10.0.300 (x64) from Visual Studio
+  Intel Hardware Accelerated Execution Manager
+  Python 3.14.6 Development Libraries (64-bit)
+  Windows App Certification Kit Native Components
+  vs_communityx64msi
+  Microsoft .NET AppHost Pack - 10.0.8 (x64_arm64)
+  Universal CRT Tools x64
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247
+  Microsoft.NET.Sdk.tvOS.Manifest-10.0.100 (x64)
+  Windows SDK DirectX x64 Remote
+  ALPS Touch Pad Driver
+  Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64)
+  Python 3.14.6 Test Suite (64-bit)
+  Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+  Java(TM) SE Development Kit 22.0.2 (64-bit)
+  IIS Express Application Compatibility Database for x86
+  Python 3.14.6 Add to Path (64-bit)
+  Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64)
+  Microsoft .NET Host - 10.0.8 (x64)
+  Microsoft.NET.Sdk.Android.Manifest-10.0.100 (x64)
+  IIS 10.0 Express
+  Microsoft.NET.Sdk.Maui.Manifest-10.0.100 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64)
+  vs_minshellx64msi
+  Samsung USB Driver for Mobile Phones
+  Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64)
+  Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64)
+  Microsoft .NET AppHost Pack - 10.0.8 (x64_x86)
+  Microsoft .NET Host FX Resolver - 10.0.8 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64)
+  Java(TM) SE Development Kit 17.0.12 (64-bit)
+  Microsoft ASP.NET Core Runtime - 10.0.8 (x64)
+  Microsoft Web Deploy 4.0
+  Python 3.14.6 pip Bootstrap (64-bit)
+  vs_minshellinteropx64msi
+  Microsoft SQL Server 2025 LocalDB 
+  Apple Mobile Device Support
+  iTunes
+  Microsoft ASP.NET Core Module V2 for IIS Express
+  VS Script Debugging Common
+  IntelliTraceProfilerProxy
+  vs_devenx64vmsi
+  Microsoft ASP.NET Core Module for IIS Express
+  Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64)
+  Microsoft Windows Desktop Runtime - 10.0.8 (x64)
+  Microsoft ASP.NET Core Targeting Pack - 10.0.8 (x64)

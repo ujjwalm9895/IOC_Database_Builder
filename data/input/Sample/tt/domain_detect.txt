@@ -1,0 +1,8 @@
+[Social]
+Passwords: facebook.com (4), instagram.com (10), twitter.com (2)
+Cookies: youtube.com (101), facebook.com (4), instagram.com (6), twitter.com (5)
+History: instagram.com (5), youtube.com (35)
+
+[Paypal]
+Passwords: paypal.com (2)
+Cookies: paypal.com (3)

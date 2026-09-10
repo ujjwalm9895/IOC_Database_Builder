@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 05/07/26 06:27
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: 178a33d0231f256d
+Country: AR
+IP: 181.116.91.247
+System Language: Spanish
+Processor: AMD Ryzen 5 7520U with Radeon Graphics  (4 cores, 8 threads)
+Installed RAM: 7.21 GB
+Operation System: Windows 11 (Build 22631) (64 Bit)
+Graphics card: AMD Radeon(TM) Graphics
+Computer Name: MATUTINIO
+Domain Name: WORKGROUP
+-------------
+User Name: matut
+Admin Group: FALSE
+Integrity: Medium
+TimeZone: UTC-3
+UserLanguage: Spanish
+Keyboard Language: Spanish
+Display Resolution: 1536x864

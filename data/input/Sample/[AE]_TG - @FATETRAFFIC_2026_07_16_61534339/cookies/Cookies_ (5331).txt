@@ -1,0 +1,10 @@
+.twitch.tv	TRUE	/	TRUE	1807943319	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	TRUE	1809487715	persistent	1374660700%3A%3Anns2sjaf7ngcl7795n24fnzgm221f3
+.twitch.tv	TRUE	/	TRUE	1793590115	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjEzNzQ2NjA3MDBcIl0iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNzkzNTkwMTE0LCJpYXQiOjE3NzgwMzgxMTQsIm5vbmNlIjoiUmdqV2puREpBWjgyZVhxblZBZFZGaDZCWGFKTnZtYVF1NXl5UkZWVFg0TT0ifQ%3D%3D.VksVvZ8yySagT3p-cmhlghLkDKbxBvtUKyJ7g_a1Eo5-241H0FEsH5SfnLq9uwM4OQkVkJBXHwBPJlyQ_bYBlA%3D%3D
+.twitch.tv	TRUE	/	TRUE	1816651075	api_token	twilight.6bc6869c761f4b0ba0f6c53f29f6c3b1
+.twitch.tv	TRUE	/	TRUE	1816651076	auth-token	wuvj5msmgxnxrjcx770qdr2a2sjjc3
+.twitch.tv	TRUE	/	TRUE	1816651076	login	corona_gamer20
+.twitch.tv	TRUE	/	TRUE	1786440473	referrer_url	https://elblojdeneojin.blogspot.com/
+.twitch.tv	TRUE	/	TRUE	1816651076	twilight-user	{%22authToken%22:%22wuvj5msmgxnxrjcx770qdr2a2sjjc3%22%2C%22displayName%22:%22corona_gamer20%22%2C%22id%22:%221374660700%22%2C%22login%22:%22corona_gamer20%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	1816651076	unique_id	350b71747fb32f4f
+.twitch.tv	TRUE	/	TRUE	1816651076	unique_id_durable	350b71747fb32f4f

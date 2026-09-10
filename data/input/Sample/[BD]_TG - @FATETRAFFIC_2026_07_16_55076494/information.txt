@@ -1,0 +1,284 @@
+IP: 103.141.64.16
+Country: BD
+Date: 11.07.2026 10:26:16
+MachineID: c844138c-4138-923a-d66d-1e29c5a5e9b5
+GUID: {bc4b90e5-75e9}
+HWID: D0BADDAE974F8661C86B-bc4b90e5-75e9-55EF8E3
+Path: C:\Users\SAMSUN~1\AppData\Local\Temp\13119310101\1966ffcbfc.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+Windows: Windows 11 Home 25H2 (Build 26200)
+Computer Name: SHADAT-PC
+User Name: S A M S U N G
+Display Resolution: 1280x720
+Local Time: 11.07.2026 10:26:16
+Antivirus: Windows Defender
+[Hardware]
+Processor: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+Cores: 8
+Threads: 8
+RAM: 7882 MB
+VideoCard: Intel(R) Iris(R) Xe Graphics
+[Processes]
+  [4] System
+  [140] Secure System
+  [184] Registry
+  [664] smss.exe
+  [928] csrss.exe
+  [1016] wininit.exe
+  [1068] services.exe
+  [1076] LsaIso.exe
+  [1096] lsass.exe
+  [1244] svchost.exe
+  [1272] WUDFHost.exe
+  [1300] fontdrvhost.exe
+  [1412] svchost.exe
+  [1460] svchost.exe
+  [1528] WUDFHost.exe
+  [1608] svchost.exe
+  [1636] svchost.exe
+  [1668] svchost.exe
+  [1684] svchost.exe
+  [1696] svchost.exe
+  [1864] svchost.exe
+  [1888] svchost.exe
+  [1896] svchost.exe
+  [636] svchost.exe
+  [1432] IntelCpHDCPSvc.exe
+  [1544] svchost.exe
+  [1824] svchost.exe
+  [2088] svchost.exe
+  [2100] svchost.exe
+  [2140] svchost.exe
+  [2148] svchost.exe
+  [2268] svchost.exe
+  [2324] svchost.exe
+  [2556] svchost.exe
+  [2604] svchost.exe
+  [2612] svchost.exe
+  [2664] svchost.exe
+  [2800] svchost.exe
+  [2792] svchost.exe
+  [2952] igfxCUIServiceN.exe
+  [3016] svchost.exe
+  [3028] svchost.exe
+  [3040] svchost.exe
+  [3052] svchost.exe
+  [3244] svchost.exe
+  [3272] svchost.exe
+  [3292] svchost.exe
+  [3380] Memory Compression
+  [3556] svchost.exe
+  [3596] svchost.exe
+  [3716] svchost.exe
+  [3772] svchost.exe
+  [3796] svchost.exe
+  [3828] svchost.exe
+  [3956] spoolsv.exe
+  [4092] svchost.exe
+  [2496] svchost.exe
+  [3608] svchost.exe
+  [4128] svchost.exe
+  [4200] AnyDesk.exe
+  [4220] svchost.exe
+  [4228] svchost.exe
+  [4236] OfficeClickToRun.exe
+  [4268] DAX3API.exe
+  [4276] svchost.exe
+  [4296] svchost.exe
+  [4484] IntelAudioService.exe
+  [4492] svchost.exe
+  [4500] esif_uf.exe
+  [4564] svchost.exe
+  [4588] LiveWallpaperWindowsService.exe
+  [4600] LMS.exe
+  [4792] mc-fw-host.exe
+  [4832] QuickSearchService.exe
+  [4840] SystemPlatformEngine.exe
+  [4848] RtkAudUService64.exe
+  [4892] BulletService.exe
+  [4932] SamsungSecuritySupportService.exe
+  [4940] WUDFHost.exe
+  [4960] SamsungSystemSupportService.exe
+  [4992] svchost.exe
+  [5016] qvWindowsService.exe
+  [5104] StudiomodeSvc.exe
+  [5112] sServiceAgentLauncherSvc.exe
+  [3228] svchost.exe
+  [5208] svchost.exe
+  [5332] WMIRegistrationService.exe
+  [5352] svchost.exe
+  [5452] svchost.exe
+  [5648] svchost.exe
+  [5780] jhi_service.exe
+  [8048] svchost.exe
+  [7692] svchost.exe
+  [7860] IntelGraphicsSoftware.Service.exe
+  [8608] PresentationFontCache.exe
+  [9088] svchost.exe
+  [9124] wlanext.exe
+  [9284] svchost.exe
+  [9424] Intel_PIE_Service.exe
+  [9652] AggregatorHost.exe
+  [9676] svchost.exe
+  [9388] svchost.exe
+  [9320] svchost.exe
+  [10212] svchost.exe
+  [10032] svchost.exe
+  [9268] svchost.exe
+  [10612] PresentMonService.exe
+  [10712] svchost.exe
+  [10752] conhost.exe
+  [13984] SearchIndexer.exe
+  [9024] SearchProtocolHost.exe
+  [5064] SecurityHealthService.exe
+  [6856] svchost.exe
+  [2572] svchost.exe
+  [1424] svchost.exe
+  [4140] svchost.exe
+  [12504] svchost.exe
+  [5388] svchost.exe
+  [8244] svchost.exe
+  [5068] sppsvc.exe
+  [11500] svchost.exe
+  [5316] svchost.exe
+  [4732] svchost.exe
+  [12756] svchost.exe
+  [9488] svchost.exe
+  [10424] svchost.exe
+  [1660] svchost.exe
+  [9712] mc-neo-host.exe
+  [12800] QuickShareService.exe
+  [8796] WmiPrvSE.exe
+  [368] SearchFilterHost.exe
+  [6920] SearchFilterHost.exe
+  [15596] MpDefenderCoreService.exe
+  [11100] MsMpEng.exe
+  [9688] NisSrv.exe
+  [9760] csrss.exe
+  [16152] winlogon.exe
+  [6444] fontdrvhost.exe
+  [6528] dwm.exe
+  [13372] svchost.exe
+  [3532] svchost.exe
+  [6072] svchost.exe
+  [3548] svchost.exe
+  [9236] audiodg.exe
+  [10448] dptf_helper.exe
+  [13976] DAX3API.exe
+  [15932] mc-fw-host.exe
+  [16004] sihost.exe
+  [19096] svchost.exe
+  [18288] svchost.exe
+  [13004] svchost.exe
+  [18440] svchost.exe
+  [7628] igfxEMN.exe
+  [15676] svchost.exe
+  [16860] taskhostw.exe
+  [780] MicrosoftEdgeUpdate.exe
+  [2748] SamsungSystemSupportEngine.exe
+  [17980] SamsungSecuritySupporter.exe
+  [5940] svchost.exe
+  [13296] explorer.exe
+  [16804] sServiceKeyMonitor.exe
+  [17292] ShellHost.exe
+  [5468] svchost.exe
+  [13744] CrossDeviceResume.exe
+  [800] StartMenuExperienceHost.exe
+  [18328] SearchHost.exe
+  [11156] svchost.exe
+  [5984] Widgets.exe
+  [5052] WidgetService.exe
+  [18064] CrossDeviceService.exe
+  [5060] TextInputHost.exe
+  [7152] RtkAudUService64.exe
+  [6888] ctfmon.exe
+  [1820] TabTip.exe
+  [11076] RuntimeBroker.exe
+  [13432] RuntimeBroker.exe
+  [19244] RuntimeBroker.exe
+  [5504] msedgewebview2.exe
+  [18052] msedgewebview2.exe
+  [11528] msedgewebview2.exe
+  [18828] msedgewebview2.exe
+  [8428] msedgewebview2.exe
+  [180] msedgewebview2.exe
+  [14272] smartscreen.exe
+  [10952] SecurityHealthSystray.exe
+  [12324] setup.exe
+  [14896] Bwale.exe
+  [4720] hostmanager.exe
+  [1872] GDFwAdmin.exe
+  [13668] AdobeGCClient.exe
+  [12048] msedgewebview2.exe
+  [10656] msedgewebview2.exe
+  [13704] msedgewebview2.exe
+  [10056] msedgewebview2.exe
+  [3976] msedgewebview2.exe
+  [8044] msedgewebview2.exe
+  [14748] WhatsApp.Root.exe
+  [16104] RuntimeBroker.exe
+  [10068] svchost.exe
+  [17164] svchost.exe
+  [14908] NgcIso.exe
+  [16960] OneDrive.exe
+  [3952] TrustedInstaller.exe
+  [13056] TiWorker.exe
+  [8904] Avro Keyboard.exe
+  [15008] 122bde5e.exe
+  [6536] ms-teams.exe
+  [18172] RuntimeBroker.exe
+  [6396] msedgewebview2.exe
+  [13448] msedgewebview2.exe
+  [2820] msedgewebview2.exe
+  [14292] msedgewebview2.exe
+  [12108] msedgewebview2.exe
+  [9520] msedgewebview2.exe
+  [2452] Dllhost.exe
+  [18816] c509e136.exe
+  [14008] Client.exe
+  [11300] s0907.exe
+  [7204] Wihnup.exe
+  [18284] 4BtqZz1.exe
+  [6676] 1966ffcbfc.exe
+  [1092] msedge.exe
+  [7200] msedge.exe
+  [14448] msedge.exe
+  [5756] msedge.exe
+  [13804] msedge.exe
+  [9248] v49922.exe
+  [17532] OneDrive.Sync.Service.exe
+  [2688] RuntimeBroker.exe
+[Software]
+  Windows Driver Package - CanvasBio (WUDFRd) Biometric  (07/04/2021 2.4.1.882)
+  McAfee
+  Microsoft 365 - en-us
+  Microsoft OneNote - en-us
+  Microsoft Office LTSC Professional Plus 2021 - en-us
+  VLC media player
+  WinRAR 6.11 (64-bit)
+  Galaxy Book Smart Switch service
+  Dynamic Application Loader Host Interface Service
+  ColorEngine
+  Intel(R) Management Engine Components
+  Samsung PC Cleaner 2 Service
+  Online Support(S Service) Agent
+  Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.24.28127
+  Intel(R) LMS
+  Microsoft Visual C++ 2019 X64 Additional Runtime - 14.24.28127
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  Intel(R) Chipset Device Software
+  Quick Search Service
+  Intel(R) Management Engine Components
+  ISS_Drivers_x64
+  Live Wallpaper Service
+  Intel(R) Serial IO
+  Intel(R) LMS
+  Intel(R) Serial IO
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+  Microsoft Teams Meeting Add-in for Microsoft Office
+  Samsung Recovery Service
+  Microsoft Update Health Tools
+  Studio mode
+  Update for x64-based Windows Systems (KB5001716)

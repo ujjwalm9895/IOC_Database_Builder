@@ -1,0 +1,356 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 122.152.48.33
+Country: BD
+Date: 11.07.2026 01:06:16
+MachineID: 5baf8b1e-f8b1-4101-1a57-41f8659479a8
+GUID: {f5fae7da-38c1}
+HWID: 8ADACCFBF11873E2ADC4-f5fae7da-38c1-A9ED1D8
+Path: C:\Users\USER\AppData\Local\Temp\13117330101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 11 Home 25H2 (Build 26200)
+Computer Name: DESKTOP-7SRFEGK
+User Name: USER
+Display Resolution: 1536x864
+Local Time: 11.07.2026 01:06:16
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+Cores: 8
+Threads: 8
+RAM: 16067 MB
+VideoCard: Intel(R) UHD Graphics
+[Processes]
+  [4] System
+  [176] Registry
+  [688] smss.exe
+  [424] csrss.exe
+  [664] wininit.exe
+  [1124] services.exe
+  [1176] lsass.exe
+  [1352] svchost.exe
+  [1388] fontdrvhost.exe
+  [1404] WUDFHost.exe
+  [1428] svchost.exe
+  [1552] svchost.exe
+  [1580] svchost.exe
+  [1880] svchost.exe
+  [1888] svchost.exe
+  [1900] svchost.exe
+  [1980] svchost.exe
+  [1992] svchost.exe
+  [2020] svchost.exe
+  [1272] svchost.exe
+  [2120] svchost.exe
+  [2136] svchost.exe
+  [2148] svchost.exe
+  [2284] svchost.exe
+  [2356] igfxCUIServiceN.exe
+  [2568] svchost.exe
+  [2576] svchost.exe
+  [2664] svchost.exe
+  [2724] NetworkCap.exe
+  [2732] svchost.exe
+  [2740] DiagsCap.exe
+  [2748] TouchpointAnalyticsClientService.exe
+  [2756] AppHelperCap.exe
+  [2764] SysInfoCap.exe
+  [2776] svchost.exe
+  [2792] Memory Compression
+  [2248] svchost.exe
+  [2916] svchost.exe
+  [3236] svchost.exe
+  [3320] svchost.exe
+  [3460] svchost.exe
+  [3508] svchost.exe
+  [3516] svchost.exe
+  [3608] svchost.exe
+  [3656] svchost.exe
+  [3760] svchost.exe
+  [3772] svchost.exe
+  [3824] svchost.exe
+  [3900] spoolsv.exe
+  [3932] svchost.exe
+  [4024] svchost.exe
+  [4276] unsecapp.exe
+  [4308] cer_service.exe
+  [4320] svchost.exe
+  [4332] AdskLicensingService.exe
+  [4340] IntelCpHDCPSvc.exe
+  [4356] svchost.exe
+  [4364] ETDService.exe
+  [4404] FNPLicensingService64.exe
+  [4412] OneApp.IGCC.WinService.exe
+  [4500] IQOptionUpdater.exe
+  [4548] svchost.exe
+  [4556] esif_uf.exe
+  [4584] LMS.exe
+  [4592] MpDefenderCoreService.exe
+  [4716] svchost.exe
+  [4724] AdskAccessServiceHost.exe
+  [4740] RtkAudUService64.exe
+  [4792] shareitservice.exe
+  [4808] SECOMN64.exe
+  [4816] svchost.exe
+  [4828] RstMwService.exe
+  [4876] svchost.exe
+  [4884] RtkBtManServ.exe
+  [4896] WmiPrvSE.exe
+  [4904] svchost.exe
+  [4916] svchost.exe
+  [5028] MsMpEng.exe
+  [5076] svchost.exe
+  [5776] jhi_service.exe
+  [5940] svchost.exe
+  [5964] svchost.exe
+  [6940] crashpad_handler.exe
+  [7676] AdskAccessService.exe
+  [7356] svchost.exe
+  [5380] AggregatorHost.exe
+  [4444] PresentationFontCache.exe
+  [8048] svchost.exe
+  [4348] svchost.exe
+  [8652] svchost.exe
+  [9040] svchost.exe
+  [9436] svchost.exe
+  [9472] svchost.exe
+  [10172] SearchIndexer.exe
+  [11332] NisSrv.exe
+  [12908] SecurityHealthService.exe
+  [14008] svchost.exe
+  [15176] svchost.exe
+  [16160] svchost.exe
+  [5048] svchost.exe
+  [18964] svchost.exe
+  [2144] svchost.exe
+  [16200] svchost.exe
+  [7224] svchost.exe
+  [7788] svchost.exe
+  [13232] svchost.exe
+  [10076] svchost.exe
+  [8840] svchost.exe
+  [10312] svchost.exe
+  [18804] svchost.exe
+  [12800] svchost.exe
+  [22284] WmiPrvSE.exe
+  [180] csrss.exe
+  [6920] winlogon.exe
+  [18072] fontdrvhost.exe
+  [9592] dwm.exe
+  [13872] ETDCtrl.exe
+  [22044] sihost.exe
+  [20660] svchost.exe
+  [13956] igfxEMN.exe
+  [21788] svchost.exe
+  [23712] svchost.exe
+  [18420] taskhostw.exe
+  [20820] SECOCL64.exe
+  [3580] conhost.exe
+  [12812] explorer.exe
+  [20624] ShellHost.exe
+  [16536] CrossDeviceResume.exe
+  [22956] svchost.exe
+  [4660] svchost.exe
+  [2436] svchost.exe
+  [17596] SearchHost.exe
+  [1916] StartMenuExperienceHost.exe
+  [7940] Widgets.exe
+  [12856] svchost.exe
+  [16832] RuntimeBroker.exe
+  [11892] audiodg.exe
+  [18576] msedgewebview2.exe
+  [24112] msedgewebview2.exe
+  [18044] msedgewebview2.exe
+  [6072] msedgewebview2.exe
+  [16908] msedgewebview2.exe
+  [1616] msedgewebview2.exe
+  [16604] ctfmon.exe
+  [12376] TextInputHost.exe
+  [16240] PhoneExperienceHost.exe
+  [8628] WhatsApp.Root.exe
+  [21780] RuntimeBroker.exe
+  [816] ShellExperienceHost.exe
+  [11352] SecurityHealthSystray.exe
+  [10260] RtkAudUService64.exe
+  [22736] AdskAccessService.exe
+  [12256] AdskIdentityManager.exe
+  [16648] AdSSO.exe
+  [14844] AdskAccessCore.exe
+  [24404] AdskAccessUIHost.exe
+  [1304] AdskAccessUIHost.exe
+  [19060] AdskAccessUIHost.exe
+  [23392] AdskAccessUIHost.exe
+  [13672] terabox.exe
+  [13148] chrome.exe
+  [13696] chrome.exe
+  [5836] chrome.exe
+  [12524] chrome.exe
+  [16640] chrome.exe
+  [4228] chrome.exe
+  [20988] chrome.exe
+  [10588] teraboxunite.exe
+  [18672] teraboxunite.exe
+  [13576] teraboxunite.exe
+  [3128] chrome.exe
+  [24092] teraboxunite.exe
+  [11256] chrome.exe
+  [16244] WidgetService.exe
+  [21384] svchost.exe
+  [8244] msedgewebview2.exe
+  [22036] msedgewebview2.exe
+  [10164] msedgewebview2.exe
+  [14136] msedgewebview2.exe
+  [3304] msedgewebview2.exe
+  [24196] msedgewebview2.exe
+  [19460] teraboxunite.exe
+  [20192] teraboxunite.exe
+  [14904] teraboxhost.exe
+  [5912] crashpad_handler.exe
+  [22212] OneDrive.exe
+  [16176] OneDrive.Sync.Service.exe
+  [2328] svchost.exe
+  [11260] svchost.exe
+  [15348] ms-teams.exe
+  [16684] RuntimeBroker.exe
+  [7500] msedgewebview2.exe
+  [16416] msedgewebview2.exe
+  [7456] msedgewebview2.exe
+  [12668] msedgewebview2.exe
+  [22488] msedgewebview2.exe
+  [9832] msedgewebview2.exe
+  [9144] ms-teams.exe
+  [14308] chrome.exe
+  [10252] Chrome.exe
+  [8532] runtimehost.exe
+  [13092] Dllhost.exe
+  [21104] schtasks.exe
+  [12544] conhost.exe
+  [15860] RuntimeBroker.exe
+  [23564] Chrome.exe
+  [10304] StoreDesktopExtension.exe
+  [1560] backgroundTaskHost.exe
+  [18900] firefox.exe
+  [9696] crashhelper.exe
+  [12948] firefox.exe
+  [4200] firefox.exe
+  [24416] svchost.exe
+  [716] msedge.exe
+  [22984] msedge.exe
+  [16316] msedge.exe
+  [7568] msedge.exe
+  [14832] msedge.exe
+  [19672] Wihnup.exe
+  [16824] svchost.exe
+  [20132] svchost.exe
+  [17084] a95c57aa.exe
+  [8908] Client.exe
+  [11204] DqIJqPVltYW1.exe
+  [20960] PFy2l9EU0htl.exe
+  [4800] svchost.exe
+  [7512] msedge.exe
+  [15688] msedge.exe
+  [12672] msedge.exe
+  [6540] msedge.exe
+  [16020] msedge.exe
+  [15316] msedge.exe
+  [22896] msedge.exe
+  [14292] RuntimeBroker.exe
+  [3260] hu8Xy3i7ZbnO.exe
+  [7496] wHskUUQhe51m.exe
+  [660] msedge.exe
+  [12240] TzySoyWja5xw.exe
+  [17976] 2rLApHJ7N5vM.exe
+  [15708] 3E+2eksLqlCD.exe
+  [15356] AKZmaHIQnSwg.exe
+  [11056] msedge.exe
+  [21980] chrome.exe
+  [4488] chrome.exe
+  [3332] msedge.exe
+  [11172] chrome.exe
+  [10800] MoNotificationUx.exe
+  [9856] A01lvI5ry8u4.exe
+  [14512] 34QJmUez7OoZ.exe
+  [12652] n34E6zJTKR1F.exe
+  [14348] Vbl4+VyAPETT.exe
+  [16348] msedge.exe
+  [16756] U7K6CIGurYa+.exe
+  [17888] 2shXNkD5CfEG.exe
+  [22376] kZ6hP90vE9Mm.exe
+  [16652] z4xMbATqRQ3C.exe
+  [23236] MoUsoCoreWorker.exe
+  [21748] svchost.exe
+  [14096] VSSVC.exe
+  [8996] TrustedInstaller.exe
+  [16412] TiWorker.exe
+  [18668] WyPRxzQJBcwp.exe
+  [11180] jsPFndHSwnc8.exe
+  [7276] wuaucltcore.exe
+  [19100] WmiPrvSE.exe
+  [13068] svchost.exe
+  [22148] OLVa6hyZVZr3.exe
+  [24300] mv0HVFgCW2rg.exe
+  [10848] RvOgMyWROGlt.exe
+  [21944] Rw5g93X6vd1R.exe
+  [21116] zz4Sj5M.exe
+  [13708] 4BtqZz1.exe
+  [17436] vdsldr.exe
+  [21464] vds.exe
+  [11668] WindowsTerminal.exe
+  [7364] chrome.exe
+  [6576] chrome.exe
+  [22808] firefox.exe
+  [12372] msedge.exe
+  [20400] firefox.exe
+[Software]
+  Autodesk Identity Manager
+  DWG FastView - English
+  Mozilla Firefox (x64 en-US)
+  Mozilla Maintenance Service
+  WinRAR 7.13 (64-bit)
+  Microsoft Windows Desktop Runtime - 8.0.0 (x64)
+  Autodesk CER
+  Microsoft Update Health Tools
+  Autodesk Interoperability Engine Manager
+  ACAD Private
+  AutoCAD 2023 Shared
+  AutoCAD 2023 - English
+  AutoCAD 2023 Shared Language Pack - English
+  Microsoft .NET Host - 8.0.11 (x64)
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433
+  Microsoft .NET Core Runtime - 3.1.10 (x64)
+  Microsoft .NET Host FX Resolver - 8.0.0 (x64)
+  Microsoft .NET Core Host - 3.1.10 (x64)
+  Autodesk Save to Web and Mobile
+  Autodesk AutoCAD 2023 - English
+  Microsoft .NET Core Host FX Resolver - 3.1.10 (x64)
+  Microsoft .NET Runtime - 8.0.0 (x64)
+  Microsoft ASP.NET Core 3.1.10 Shared Framework (x64)
+  Autodesk Genuine Service
+  Autodesk Single Sign On Component
+  ACA & MEP 2023 Object Enabler
+  Microsoft Office Office 64-bit Components 2010
+  Microsoft Office Shared 64-bit MUI (English) 2010
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010
+  Microsoft .NET Runtime - 8.0.11 (x64)
+  Autodesk Access
+  Microsoft ASP.NET Core 8.0.11 Shared Framework (x64)
+  Microsoft Teams Meeting Add-in for Microsoft Office
+  Autodesk Inventor Interoperability 2023
+  Microsoft Windows Desktop Runtime - 8.0.11 (x64)
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+  Update for x64-based Windows Systems (KB5001716)
+  AutoCAD Open in Desktop
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433
+  Autodesk AutoCAD 2023.1.8 Update

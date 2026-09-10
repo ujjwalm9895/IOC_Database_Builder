@@ -1,0 +1,16 @@
+{
+  "clientToken": "84b44761-8608-4989-b0da-66d11122a43b",
+  "accounts": {
+    "33cd408e5dca4104b78d3fbb6ce523a0": {
+      "username": "Nikos69",
+      "userID": "Nikos69",
+      "displayName": "Nikos69",
+      "uuid": "33cd408e5dca4104b78d3fbb6ce523a0",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "33cd408e5dca4104b78d3fbb6ce523a0",
+  "freeAccountUUID": "33cd408e5dca4104b78d3fbb6ce523a0"
+}

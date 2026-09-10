@@ -1,0 +1,386 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 45.181.45.207
+Country: AR
+
+Date: 27.05.2026 02:28:33
+MachineID: f3f7b871-7b87-ddfc-dadb-292c9235e2b5
+GUID: {d6beb767-fe50}
+HWID: EAC9E72D5462E5DC4FAE-d6beb767-fe50-6ADEA79
+
+Path: C:\WINDOWS\system32\nslookup.exe
+Work Dir: In memory
+
+Windows: Windows 11 Home Single Language 25H2 (Build 26200)
+Computer Name: USER-PC
+User Name: usuario
+Display Resolution: 1536x864
+Local Time: 27.05.2026 02:28:33
+
+[Hardware]
+Processor: AMD Ryzen 5 4600H with Radeon Graphics         
+Cores: 12
+Threads: 12
+RAM: 7540 MB
+VideoCard: AMD Radeon(TM) Graphics
+
+[Processes]
+  [4] System
+  [224] Registry
+  [824] smss.exe
+  [1204] csrss.exe
+  [1344] wininit.exe
+  [1352] csrss.exe
+  [1444] winlogon.exe
+  [1464] services.exe
+  [1496] lsass.exe
+  [1640] svchost.exe
+  [1672] fontdrvhost.exe
+  [1676] fontdrvhost.exe
+  [1776] svchost.exe
+  [1824] svchost.exe
+  [1896] dwm.exe
+  [2036] svchost.exe
+  [1208] svchost.exe
+  [1340] svchost.exe
+  [1768] svchost.exe
+  [2060] svchost.exe
+  [2108] svchost.exe
+  [2144] svchost.exe
+  [2176] svchost.exe
+  [2300] svchost.exe
+  [2368] svchost.exe
+  [2612] WUDFHost.exe
+  [2624] OmenCap.exe
+  [2632] svchost.exe
+  [2776] svchost.exe
+  [2836] NVDisplay.Container.exe
+  [2980] amdfendrsr.exe
+  [2988] atiesrxx.exe
+  [2996] svchost.exe
+  [3128] svchost.exe
+  [3148] svchost.exe
+  [3252] atieclxx.exe
+  [3260] svchost.exe
+  [3264] svchost.exe
+  [3268] svchost.exe
+  [3368] Memory Compression
+  [3408] svchost.exe
+  [3460] svchost.exe
+  [3468] svchost.exe
+  [3476] TouchpointAnalyticsClientService.exe
+  [3484] NetworkCap.exe
+  [3488] AppHelperCap.exe
+  [3500] DiagsCap.exe
+  [3508] SysInfoCap.exe
+  [3712] svchost.exe
+  [3868] svchost.exe
+  [4004] NVDisplay.Container.exe
+  [3652] svchost.exe
+  [4404] WmiPrvSE.exe
+  [4416] WmiPrvSE.exe
+  [4588] svchost.exe
+  [4668] unsecapp.exe
+  [4724] svchost.exe
+  [5012] svchost.exe
+  [5080] svchost.exe
+  [5088] svchost.exe
+  [1412] svchost.exe
+  [5140] svchost.exe
+  [5224] svchost.exe
+  [5292] ctfmon.exe
+  [5308] svchost.exe
+  [5316] svchost.exe
+  [5928] sihost.exe
+  [5976] svchost.exe
+  [5996] svchost.exe
+  [6056] svchost.exe
+  [6108] svchost.exe
+  [5648] OverlayHelper.exe
+  [6160] OmenInstallMonitor.exe
+  [6192] svchost.exe
+  [6580] taskhostw.exe
+  [6728] svchost.exe
+  [6796] explorer.exe
+  [6916] svchost.exe
+  [7120] svchost.exe
+  [6400] svchost.exe
+  [6664] CrossDeviceResume.exe
+  [6116] svchost.exe
+  [7292] svchost.exe
+  [7364] spoolsv.exe
+  [7420] mDNSResponder.exe
+  [7432] armsvc.exe
+  [7444] AnyDesk.exe
+  [7456] CommonHKFPModuleSvr.exe
+  [7464] svchost.exe
+  [7476] svchost.exe
+  [7504] OfficeClickToRun.exe
+  [7512] svchost.exe
+  [7520] svchost.exe
+  [7532] ETDService.exe
+  [7676] HPCommRecovery.exe
+  [7720] HPPrintScanDoctorService.exe
+  [7736] svchost.exe
+  [7752] svchost.exe
+  [7808] svchost.exe
+  [7860] WsNativePushService.exe
+  [8012] servicehost.exe
+  [8120] RtkAudUService64.exe
+  [8144] SECOMN64.exe
+  [8152] RtkBtManServ.exe
+  [7484] svchost.exe
+  [8208] svchost.exe
+  [8280] svchost.exe
+  [8424] svchost.exe
+  [8480] svchost.exe
+  [8512] WsToastNotification.exe
+  [8760] ETDCtrl.exe
+  [8800] conhost.exe
+  [8812] TeamViewer_Service.exe
+  [10396] svchost.exe
+  [10464] CrossDeviceService.exe
+  [10512] svchost.exe
+  [10596] AggregatorHost.exe
+  [10968] uihost.exe
+  [8560] svchost.exe
+  [11212] svchost.exe
+  [11344] SearchHost.exe
+  [11352] StartMenuExperienceHost.exe
+  [11660] Widgets.exe
+  [11696] RuntimeBroker.exe
+  [11728] svchost.exe
+  [12032] WidgetService.exe
+  [11540] svchost.exe
+  [12580] svchost.exe
+  [12940] msedgewebview2.exe
+  [13048] msedgewebview2.exe
+  [13328] msedgewebview2.exe
+  [13340] msedgewebview2.exe
+  [13492] msedgewebview2.exe
+  [13728] msedgewebview2.exe
+  [14396] RuntimeBroker.exe
+  [14544] SearchIndexer.exe
+  [14676] svchost.exe
+  [14952] crashpad_handler.exe
+  [13748] svchost.exe
+  [15316] SecurityHealthSystray.exe
+  [15088] SecurityHealthService.exe
+  [15472] RtkAudUService64.exe
+  [11564] Discord.exe
+  [1924] Discord.exe
+  [14248] Discord.exe
+  [9524] Discord.exe
+  [16632] AdobeCollabSync.exe
+  [16672] AdobeCollabSync.exe
+  [17864] svchost.exe
+  [18000] svchost.exe
+  [18308] RuntimeBroker.exe
+  [18316] svchost.exe
+  [18416] svchost.exe
+  [18612] HP.ContextAware.exe
+  [18544] Canva.exe
+  [3884] Canva.exe
+  [2024] WhatsApp.Root.exe
+  [2216] RuntimeBroker.exe
+  [5148] msedgewebview2.exe
+  [6696] msedgewebview2.exe
+  [19676] msedgewebview2.exe
+  [19684] msedgewebview2.exe
+  [19716] msedgewebview2.exe
+  [20284] svchost.exe
+  [19896] AnyDesk.exe
+  [3180] WSHelper.exe
+  [20108] jusched.exe
+  [20436] PENotify.exe
+  [20596] LocalServiceControl.exe
+  [20816] PWRISOVM.EXE
+  [20872] svchost.exe
+  [21120] HPSystemEventUtilityBackground.exe
+  [21224] unsecapp.exe
+  [20576] HPMediaNetwork.exe
+  [15980] HPAudioSwitch.exe
+  [6912] ApplicationFrameHost.exe
+  [20840] OmenCommandCenterBackground.exe
+  [17928] DesktopExtension.exe
+  [8420] HP.HPX.exe
+  [2652] svchost.exe
+  [17840] svchost.exe
+  [19396] svchost.exe
+  [20176] svchost.exe
+  [13296] svchost.exe
+  [17800] svchost.exe
+  [20916] msedgewebview2.exe
+  [21204] msedgewebview2.exe
+  [15884] msedgewebview2.exe
+  [15944] msedgewebview2.exe
+  [14380] msedgewebview2.exe
+  [21388] msedgewebview2.exe
+  [16968] svchost.exe
+  [5248] svchost.exe
+  [22088] msedgewebview2.exe
+  [16988] Discord.exe
+  [22908] Discord.exe
+  [23120] svchost.exe
+  [13756] jucheck.exe
+  [22516] svchost.exe
+  [17344] ShellExperienceHost.exe
+  [24284] RuntimeBroker.exe
+  [23464] explorer.exe
+  [14848] SystemSettings.exe
+  [17736] UserOOBEBroker.exe
+  [9236] MpDefenderCoreService.exe
+  [10248] MsMpEng.exe
+  [17272] NisSrv.exe
+  [22096] svchost.exe
+  [10280] PhoneExperienceHost.exe
+  [10260] svchost.exe
+  [8676] taskhostw.exe
+  [21784] gamingservices.exe
+  [19248] gamingservicesnet.exe
+  [23216] GameInputSvc.exe
+  [8600] GameInputSvc.exe
+  [9668] GameInputRedistService.exe
+  [4460] GameInputRedistService.exe
+  [2188] svchost.exe
+  [23316] WINWORD.EXE
+  [22024] ai.exe
+  [6308] chrome.exe
+  [24280] chrome.exe
+  [20080] chrome.exe
+  [9568] chrome.exe
+  [18948] chrome.exe
+  [16064] msedgewebview2.exe
+  [15720] chrome.exe
+  [19800] chrome.exe
+  [9592] chrome.exe
+  [10548] chrome.exe
+  [12504] cmd.exe
+  [20520] conhost.exe
+  [17852] OpenConsole.exe
+  [6080] WindowsTerminal.exe
+  [15304] OneDrive.exe
+  [24760] BridgeCommunication.exe
+  [27896] svchost.exe
+  [30732] backgroundTaskHost.exe
+  [12068] RuntimeBroker.exe
+  [36188] svchost.exe
+  [30372] svchost.exe
+  [33108] OneDrive.Sync.Service.exe
+  [35588] svchost.exe
+  [33616] svchost.exe
+  [26972] DismHost.exe
+  [5912] EXCEL.EXE
+  [34436] splwow64.exe
+  [5096] svchost.exe
+  [29672] FileCoAuth.exe
+  [36560] LockApp.exe
+  [7916] RuntimeBroker.exe
+  [37660] chrome.exe
+  [37128] cmd.exe
+  [21664] conhost.exe
+  [24216] browserhost.exe
+  [6516] chrome.exe
+  [30660] svchost.exe
+  [38120] msedge.exe
+  [28984] msedge.exe
+  [28264] msedge.exe
+  [31856] msedge.exe
+  [34968] msedge.exe
+  [26528] HPSystemEventUtilityHost.exe
+  [24564] chrome.exe
+  [28476] svchost.exe
+  [38884] chrome.exe
+  [28692] chrome.exe
+  [8320] chrome.exe
+  [35320] ShellHost.exe
+  [32232] dllhost.exe
+  [35920] svchost.exe
+  [28464] chrome.exe
+  [29424] smartscreen.exe
+  [25224] WinRAR.exe
+  [29584] audiodg.exe
+  [31272] svchost.exe
+  [28920] svchost.exe
+  [28256] chrome.exe
+  [12728] SearchProtocolHost.exe
+  [31128] WinRAR.exe
+  [31940] nslookup.exe
+  [33368] WinRAR.exe
+[Software]
+  AnycubicSlicerNext 1.3.9.4
+  Git
+  HP Documentation
+  Magic Bullet Suite
+  Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+  Microsoft Office Mondo 2016 - es-es
+  Mozilla Firefox (x64 es-ES)
+  Mozilla Maintenance Service
+  VRChat
+  VLC media player
+  WinRAR 6.02 (64-bit)
+  Wondershare Filmora9(Build 9.3.0)
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  Microsoft GameInput
+  msi_scan_essentials_su
+  msi_scan_essentials_lo
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  SketchUp Language Pack [es]
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.50.35719
+  Wondershare PDFelement ( Version 11.4.6 )
+  Liberica JDK 21 (64-bit)
+  PDFgear 2.1.12
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  Office 16 Click-to-Run Localization Component
+  Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+  Microsoft Application Error Reporting
+  SketchUp 2023
+  Microsoft Teams Meeting Add-in for Microsoft Office
+  Adobe Acrobat (64-bit)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.50.35719
+  NVIDIA Controlador de grficos 581.83
+  NVIDIA GeForce Experience 3.23.0.74
+  NVIDIA Software del sistema PhysX 9.20.0221
+  NVIDIA FrameView SDK 1.1.4923.29968894
+  NVIDIA SHIELD Streaming
+  GPX Common OSS (POCO, OpenSSL) and libprotobuf binaries
+  NVIDIA Install Application
+  NVIDIA ABHub
+  NVIDIA Backend
+  NVIDIA Container
+  NVIDIA TelemetryApi helper for NvContainer
+  NVIDIA LocalSystem Container
+  NVIDIA Message Bus for NvContainer
+  NVAPI Monitor plugin for NvContainer
+  NVIDIA NetworkService Container
+  NVIDIA Session Container
+  NVIDIA User Container
+  NvModuleTracker
+  NVIDIA NodeJS
+  NVIDIA Watchdog Plugin for NvContainer
+  NVIDIA Telemetry Client
+  NVIDIA Virtual Host Controller
+  Nvidia Share
+  NVIDIA ShadowPlay 3.23.0.74
+  NVIDIA SHIELD Wireless Controller Driver
+  NVIDIA Update Core
+  NVIDIA Virtual Audio 4.13.0.0
+  Microsoft Update Health Tools
+  msi_revit_importer
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+  AMD Ryzen Master SDK
+  MSVCRT110_amd64
+  Node.js
+  Epic Games Launcher Prerequisites (x64)

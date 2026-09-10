@@ -1,0 +1,16 @@
+HWID: 90c0ccd266394d68
+Country: AU
+IP: 115.70.50.172
+System Language: English
+Installed RAM: 15.73 GB
+Operation System: Windows 11 (Build 26200) (64 Bit)
+Graphics card: NVIDIA GeForce RTX 4060
+Computer Name: MY_PC
+Domain Name: WORKGROUP
+User Name: trehy
+Admin Group: FALSE
+Integrity: Medium
+TimeZone: UTC+10
+UserLanguage: English
+Keyboard Language: English
+Display Resolution: 1920x1080

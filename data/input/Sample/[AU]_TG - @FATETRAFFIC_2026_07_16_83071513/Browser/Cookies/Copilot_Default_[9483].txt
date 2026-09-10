@@ -1,0 +1,7 @@
+﻿.microsoft.com	TRUE	/	TRUE	1809838398	MC1	
+.bing.com	TRUE	/	TRUE	1811998398	MUID	
+copilot.microsoft.com	FALSE	/	TRUE	1811998393	MUID	
+copilot.microsoft.com	FALSE	/	FALSE	1811998393	MUIDB	
+copilot.microsoft.com	FALSE	/	FALSE	1811998393	_EDGE_V	
+copilot.microsoft.com	FALSE	/	TRUE	1812862393	userSidebarOpen_wchromium	
+copilot.microsoft.com	FALSE	/	TRUE	1786086961	hasBeenMsalAuthenticated	

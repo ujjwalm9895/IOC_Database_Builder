@@ -1,0 +1,366 @@
+sht_no_edit N/A
+forest_block_edit N/A
+forest_camp_edit N/A
+sht_no N/A
+forest_block N/A
+LoginID tabibacf
+forest_camp N/A
+gazette_no_edit Gazette No-XIV-107/61/31-11th January 1962
+gazette_no Gazette No-XIV-107/61/31-11th January 1962
+forest_beat_edit Tarabunia
+phoneNumber 01309263696
+forest_union_edit 3 No. Kobakhali
+forest_union_edit 1 No. Merung
+email tabibur@bfd.com.bd
+gazette_no_edit Agriculture ministry notification no. 13/Forest-92/83/562 dated : 15/08/1983
+id_edit 47
+m_name_edit 53 No. Kobakhali
+m_name_bn_edit ৫৩ নং কবাখালী
+JL_no_edit 53
+forest_union_edit 1 No. Betbunia
+gazette_no_edit Notification No. শা-২/পবম-৮৮/৯১/৬২, তারিখ-০৪/০১/১৯৯২
+m_name_edit 122 No. Kutubdia
+m_name_bn_edit ১২২ নং কুতুবদিয়া
+JL_no_edit 122
+JL_no_edit 95(A)
+m_name 122 No. Kutubdia
+m_name_bn ১২২ নং কুতুবদিয়া
+JL_no 122
+nothi_no ০০০১.
+id_edit 44
+forest_beat_edit Sadar
+m_name_edit 30 No. Baro Merung
+m_name_bn_edit ৩০ নং বড় মেরুং
+JL_no_edit 30
+id_edit 45
+m_name_edit 54 No, Tarabunia
+m_name_bn_edit ৫৪ নং তারাবুনিয়া
+JL_no_edit 54
+id_edit 46
+m_name_edit 55 No, Chotohazachara
+m_name_bn_edit ৫৫ নং ছোট হাজাছড়া
+JL_no_edit 55
+gazette_no Notification No. শা-২/পবম-৮৮/৯১/৬২, তারিখ-০৪/০১/১৯৯২
+q tesaa tesaa
+q korean beauties
+designation_structure_tree_search হাফি
+designation_structure_tree_search জিল
+id_edit 17
+forest_union_edit 1 No. Merung 
+m_name_edit 56 No. Hazachara
+m_name_bn_edit ৫৬ নং হাজাছড়া
+JL_no_edit ৫৬
+forest_beat Tarabunia
+id_edit 67
+forest_beat_edit Adrokchara
+id_edit 63
+forest_beat_edit Ultachari Sador Beat.
+forest_union_edit 1 No. Atarokchara
+m_name_edit 57 No. Ultachari
+m_name_bn_edit ৫৭নং উল্টাছড়ি
+JL_no_edit 57
+id_edit 14
+forest_beat_edit Khaskhali Sador
+m_name_edit 95(A) No. Khaskhali
+m_name_bn_edit ৯৫(ক) নং খাসখালী
+m_name 130 No. Barudgola
+m_name_bn ১৩০ নং বারুদগোলা
+JL_no 130
+gazette_no_edit Gazette No-XIV-107/61/31-11th January 1962, Notification No. পবম(শা-৩)-৫৪/৯৭/১৫৭, তারিখ-০১/০৩/১৯৯৯ খ্রিঃ
+gazette_no_edit Agriculture ministry notification no. 13/Forest-92/83/562 dated : 15/08/1983, Notification No. পবম(শাঈ-৩) ১৫/৯৪/২৩৮, তারিখ-১২/০৫/১৯৯৮ খ্রিঃ
+m_name_edit 130 No. Barudgola
+m_name_bn_edit ১৩০ নং বারুদগোলা
+JL_no_edit 130
+s Rukhsar
+q xxx rukhsar 
+officer_input_sender_name জনাব মো: আমীর হোসাইন চৌধুরী
+officer_input_sender_officer_designation_label প্রধান বন সংরক্ষক
+default_title_onulipi সদয় জ্ঞাতার্থে/জ্ঞাতার্থে(জ্যেষ্ঠতার ক্রমানুসারে নয়):
+option_edit_designation বিভাগীয় বন কর্মকর্তা
+forest_union 1 No. Merung
+forest_beat Adrokchara
+forest_union 1 No. Atarokchara and Mynimukh
+m_name 27 No. Atarokchara, Sonai and Mynimukh
+forest_union_edit 1 No. Atarokchara and 6 No. Mynimukh
+m_name_edit 27 No. Atarokchara, 25 No.Sonai and 24 No. Mynimukh
+m_name_bn_edit ২৭ নং আটারকছড়া, ২৫ নং সোনাই এবং ২৪ নং মাইনিমুখ।
+JL_no_edit 27, 25 and 24
+id_edit 66
+forest_beat_edit Earingchari
+forest_union_edit 01 No. Atarokchara
+m_name_edit 26 No. Earingchari
+m_name_bn_edit ২৬ নং ইয়ারিংছড়ি
+JL_no_edit 26
+id_edit 64
+forest_beat_edit Vangajura
+forest_union_edit 1 No. Atarokchara and 2 No. Kalapakujjha
+m_name_edit 57 No. Ultachari and 390 No. Kalapakujjha
+m_name_bn_edit ৫৭ নং উল্টাছড়ি এবং ৩৯০ নং কালাপাকুজ্জ্যা
+JL_no_edit 57 & 390
+forest_union 1 No. Betbunia
+id_edit 132
+forest_beat_edit Fulgazi Sador
+forest_union_edit 6 No. Balukhali
+m_name_edit 123 No. Hemonta, 125 No. Fulgazi Baperchara, 128 No. Basanta and 129 No. Kayanda
+m_name_bn_edit ১২৩ নং হেমন্ত, ১২৫ নং ফুলগাজী বাপেরছড়া, ১২৮ নং বসন্ত  এবং ১২৯ নং কাইন্দ্যা
+JL_no_edit 123, 125, 128 ‍and 129
+gazette_no_edit Gazette No-XIV-107/61/31-11th January 1962, Notification No.  পবম(শা-৩)-৫৪/৯৭/১৫৭, তারিখ-০১/০৩/১৯৯৯ খ্রিঃ
+id_edit 119
+forest_beat_edit Pomra
+m_name_edit 95 No. Khaskhali
+m_name_bn_edit ৯৫ নং খাসখালী
+JL_no_edit 95
+id_edit 120
+forest_beat_edit Kalampoti
+m_name_edit 95 (A) No. Betbunia
+m_name_bn_edit ৯৫(ক) নং বেতবুনিয়া
+gazette_no_edit Agriculture ministry notification no. 13/Forest-932/83/562 dated : 15/08/1983, Notification No. পবম (শাঈ-৩) ১৫/৯৪/২৩৮, তারিখ: ০৮/১০/১৯৯৮ খ্রিঃ
+id_edit 43
+gazette_no_edit Notification No. পবম(শাঈ-৩) ১৫/৯৪/২৩৮, তারিখ-১২/০৫/১৯৯৮ খ্রিঃ, Gazette No-XIV-107/61/31-11th January 1962
+forest_beat_edit Sangrachari
+m_name_edit 29 No. Choto Merung
+m_name_bn_edit ২৯ নং ছোট মেরুং
+JL_no_edit 29
+id_edit 42
+gazette_no_edit Gazette No-XIV-107/61/31-11th January 1962, Notification No. পবম (শাঈ-৩)১৫/৯৪/২৩৮, তারিখ:১২/০৫/১৯৯৮ খ্রিঃ
+forest_beat_edit Lemuchari
+m_name_edit 28 No. Rangkarja
+m_name_bn_edit ২৮ নং রেংকার্য্যা
+JL_no_edit 28
+gazette_no_edit Gazette No-XIV-107/61/31-11th January 1962, Notification No. পবম (শাঈ-৩) ১৫/৯৪/২৩৮, তারিখ:১২/০৫/১৯৯৮ খ্রিঃ
+forest_beat_edit Sadar/Panchari
+id_edit 16
+gazette_no_edit Gazette No-XIV-107/61/31, dated: 11/01/1962
+m_name_edit 53 No. Ultachari
+m_name_bn_edit ৫৩ নং উল্টাছড়ি
+id_edit 15
+gazette_no_edit Gazette No-XIV-107/61/31, dated:11/01/1962
+m_name_edit 112 No. Kutubdia
+m_name_bn_edit ১১২ নং কুতুবদিয়া
+JL_no_edit 112
+id_edit 145
+forest_beat_edit Ghagra
+forest_union_edit 3 No. Ghagra
+m_name_edit 99 No. Ghagra
+m_name_bn_edit ৯৯ নং ঘাগড়া
+JL_no_edit 99
+id_edit 144
+forest_beat_edit Manikchari
+forest_union_edit 2 No. Moghban
+m_name_edit 108 No. Manikchari
+m_name_bn_edit ১০৮ নং মানিকছড়ি
+JL_no_edit 108
+id_edit 123
+forest_beat_edit Vajhyatoli
+q xxx rukhsar viral video
+q brazzers
+q korean
+NID_NO 19748524903037539
+s lucky rajor
+phoneNumber 1309263696
+father_name_bng মরহুম করিম বক্স
+father_name_eng Late Karim Baksh
+mother_name_bng মরহুমা নুরজাহান বেগম
+mother_name_eng Late Noorjahan Begum
+personal_email tabibacf@gmail.com
+personal_mobile 01712666319
+user_alias 200000056720
+dak[attachment][29740][user_file_name] আগর বাগান.pdf
+dak[sarok_no] ২২.০১.০০০০.০১১.১৮.০০২.২০.২২৫
+dak[sending_date] 2025-04-09
+dak[dak_subject] আগর বাগান সৃজনের তথ্যাদি প্রেরণ।
+dak_action সদয় সিদ্ধান্তের জন্যে প্রেরণ করা হলো
+search_val শে
+dak_action সদয় সিদ্ধান্তের জন্য প্রেরণ করা হলো।
+search_val শেখ 
+edited_sarok_no ৮৩৪৭৫৩৯৭
+PINNumber 272364
+PINNumber 226886
+P_TOKEN_NO 0017258
+officer_input_sender_name রেঞ্জ কর্মকর্তা
+officer_input_sender_officer_designation_label রেঞ্জ কর্মকর্তা
+officer_input_sender_office_name সদর রেঞ্জ, পার্বত্য চট্টগ্রাম দক্ষিণ বন বিভাগ, রাঙ্গামাটি।
+option_edit_officer এস. এম. সাজ্জাদ হোসেন
+option_edit_office বিভাগীয় বন কর্মকর্তার কার্যালয়,  পার্বত্য চট্টগ্রাম দক্ষিণ বন বিভাগ, রাঙ্গামাটি
+forest_beat_edit  Sadar/Panchari
+forest_beat Lemuchari
+m_name 28 No. Rangkarja
+m_name_bn ২৮ নং রেংকার্য্যা
+JL_no 28 
+forest_beat Sangrachari
+m_name 29 No. Choto Merung
+m_name_bn ২৯ নং ছোট মেরুং
+JL_no 29
+forest_beat Sadar 
+m_name 30 No. Baro Merung
+m_name_bn ৩০ নং বড় মেরুং
+JL_no 30
+m_name 54 No, Tarabunia
+m_name_bn ৫৪ নং তারাবুনিয়া
+JL_no 54
+gazette_no Of Agricultural ministry 13/ফরেস্ট-৯২/৮৩/৫৬২ তারিখ-১৫/০৮/১০৮৩(বাংলাদেশ গেজেটে ১ম খণ্ডে ৮ই সেপ্টেম্বর ১৯৮৩ তারিখে প্রকাশিত)
+m_name 55 No, Chotohazachara
+m_name_bn ৫৫ নং ছোট হাজাছড়া
+JL_no 55
+m_name 53 No. Kobakhali
+m_name_bn ৫৩ নং কবাখালী
+JL_no 53
+name Md. Tabibur Rahman
+father_name Late Karim Bakesh
+mother_name Late Nurjahan Begum
+religion Islam
+blood_group A (+Ve)
+national_id 6449438727
+home_phone 0130 926 3696
+email_id tabibacf@gmail.com
+spouse_name Nishat Afroz Yasmin
+present_address Champok Nagar, Banorupa, Rangamati.
+permanent_address Madhyakul, Keshabpur, Jashore.
+ssc_grade Ist Division
+ssc_year 1989
+hsc_grade Ist Division
+hsc_year 1991
+bach_grade 2nd Class
+mobile_no ০১৩০৯-২৬৩৬৯৬
+forest_beat Ultachari Sador Beat.
+forest_union 1 No. Atarokchara
+m_name 57 No. Ultachari
+m_name_bn ৫৭নং উল্টাছড়ি
+JL_no 57
+forest_beat Vangajura
+forest_union 1 No. Atarokchara and 2 No. Kalapakujjha
+m_name 57 No. Ultachari and 390 No. Kalapakujjha
+m_name_bn ৫৭ নং উল্টাছড়ি এবং ৩৯০ নং কালাপাকুজ্জ্যা
+forest_beat Barobunia
+forest_union 3 No. Longadu 
+m_name 03 No. Longadu
+m_name_bn ০৩ নং. লংগদু
+JL_no 03 No.
+forest_beat Earingchari
+forest_union 01 No. Atarokchara
+m_name 26 No. Earingchari
+m_name_bn ২৬ নং ইয়ারিংছড়ি
+JL_no 26
+m_name_bn ২৭ নং আটারকছড়া, সোনাই এবং মাইনিমুখ
+JL_no 27, 
+m_name_bn ২৭ নং আটারকছড়া, সোনাই এবং মাইনিমুখ।
+JL_no 27, 00 and 00
+forest_union_edit 1 No. Atarokchara and Mynimukh
+m_name_edit 27 No. Atarokchara, Sonai and Mynimukh
+m_name_bn_edit ২৭ নং আটারকছড়া, সোনাই এবং মাইনিমুখ।
+JL_no_edit 27, 00 and 00
+forest_beat Pomra
+m_name 95 No. Khaskhali
+m_name_bn ৯৫ নং খাসখালী
+JL_no 95
+forest_beat Kalampoti
+m_name 95 (A) No. Betbunia
+m_name_bn ৯৫(ক) নং বেতবুনিয়া
+JL_no 95(A)
+forest_beat Kutubdia Sador
+forest_union Waggha
+forest_beat Harinchara
+forest_union 4 No. Kaptai
+forest_beat Vajhyatoli
+forest_beat Golokdhon
+forest_beat S. Band Tahal Fari
+forest_camp S. Band Tahal Fari
+forest_beat Tinkunia Sador
+m_name 131 No. Bollalchari
+m_name_bn ১৩১ নং বল্লালছড়ি
+JL_no 131
+forest_beat Suvodhon Para
+forest_beat Bahaltoli
+forest_beat Bahaltoli Nursery
+forest_beat Fulgazi Sador
+forest_union 6 No. Balukhali
+m_name 123 No. Hemonta
+m_name_bn ১২৩ নং হেমন্ত
+JL_no 123
+forest_beat Sapchari
+forest_union Sapchari
+m_name 109 No. Sapchari
+m_name_bn ১০৯ নং সাপছড়ি
+JL_no 109
+forest_beat Manikchari
+forest_union 2 No. Moghban
+m_name 108 No. Manikchari
+m_name_bn ১০৮ নং মানিকছড়ি
+JL_no 108
+forest_beat Ghagra
+forest_union 3 No. Ghagra
+m_name 99 No. Ghagra
+m_name_bn ৯৯ নং ঘাগড়া
+JL_no 99
+gazette_no_edit Gazette No-XIV-107/61/31-11th January 1962, Notification No. পবম(শা-৩)-৫৪/৯৭/১৫৭, তারিখ-০১/০৩/১৯৯৯ খ্রিঃ 
+gazette_no_edit Agriculture ministry notification no. 13/Forest-92/83/562 dated : 15/08/1983, Notification No. পবম(শাঈ-৩) ১৫/৯৪/২৩৮, তারিখ-১২/০৫/১৯৯৮ খ্রিঃ 
+id_edit 135
+forest_beat_edit Sapchari
+forest_union_edit Sapchari
+m_name_edit 109 No. Sapchari
+m_name_bn_edit ১০৯ নং সাপছড়ি
+JL_no_edit 109
+id_edit 127
+forest_beat_edit Suvodhon Para
+id_edit 129
+forest_beat_edit Bahaltoli Nursery
+id_edit 128
+forest_beat_edit Bahaltoli
+id_edit 126
+forest_beat_edit Tinkunia Sador
+m_name_edit 131 No. Bollalchari
+m_name_bn_edit ১৩১ নং বল্লালছড়ি
+JL_no_edit 131
+id_edit 125
+forest_beat_edit S. Band Tahal Fari
+forest_camp_edit S. Band Tahal Fari
+id_edit 124
+forest_beat_edit Golokdhon
+id_edit 122
+forest_beat_edit Harinchara
+forest_union_edit 4 No. Kaptai
+id_edit 121
+forest_beat_edit Kutubdia Sador
+forest_union_edit Waggha
+id_edit 65
+forest_beat_edit Barobunia
+forest_union_edit 3 No. Longadu
+m_name_edit 03 No. Longadu
+m_name_bn_edit ০৩ নং. লংগদু
+JL_no_edit 03 No.
+nothi_no ০০১৫.
+nothi_no ০০১৬.
+nothi_no ০০০৫.
+email zahid_mia@bfd.com.bd
+PINNumber 817499
+new-email tabibacf@gmail.com
+new-account tabibacf@gmail.com
+q xmue lay nude
+q japanese actress
+officer_input_sender_name জনাব মো: তমিজ উদ্দিন
+officer_input_sender_officer_designation_label ডেপুটি রেঞ্জার
+default_title_receiver বিতরণ (জ্যেষ্ঠতার ক্রমানুসারে নয়):
+option_edit_officer জনাব মো: তমিজ উদ্দিন
+option_edit_designation ডেপুটি রেঞ্জার
+option_edit_office স্টেশন অফিসার, জামতলী বন শুল্ক ও পরীক্ষণ ‍ফাাঁড়ি, ঝুম নিয়ন্ত্রণ বন বিভাগ, রাঙ্গামাটি
+option_edit_officer মোহাম্মদ গোলাম কুদ্দুছ ভূঁইয়া
+option_edit_office বিভাগীয় বন কর্মকর্তার কার্যালয়,  ঝুম নিয়ন্ত্রণ বন বিভাগ, রাঙ্গামাটি
+s tesaa tesaa, maynmar
+q Tesaa lavever, maynmar
+q tesaa
+PINNumber 502150
+PINNumber 289646
+P_TOKEN_NO 00084672
+PINNumber 236437
+PINNumber 996487
+P_TOKEN_NO 022308
+PINNumber 792337
+PINNumber 315068
+PINNumber 181221
+text Georgia andriani xxx
+model yuuki mita
+PINNumber 796795
+PINNumber 580008
+PINNumber 114113
+q kei fubuki
+PINNumber 600622

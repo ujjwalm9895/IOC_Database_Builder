@@ -1,0 +1,240 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+⤷ Жирные логи с вебмастеров, лендов и Youtube 
+⤷ Количество логов в базах: 3 350 000+ | Имеем отзывы на форумах 
+⤷ Регулярные заливы свежего материала
+⤷ Льем уникальный трафик без дублей в одни руки по индивидуальной подписке. 
+
+⦁Budget(1 week)-208$ | Budget(1 month)-422$ | Budget(Lifetime)-4875$ | Secret(1 month)-487$ 
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 154.71.244.224
+Country: AO
+
+Date: 06.06.2026 03:50:36
+MachineID: a8715a36-15a3-356f-3061-98101e039e6b
+GUID: {b87e9f8d-60cd}
+HWID: 723060CAF23B22ED0417-b87e9f8d-60cd-4910FF5
+
+Path: C:\Windows\System32\rundll32.exe
+MD5: 10f08638e7c04d15ba4b4a740087a826
+Work Dir: In memory
+
+Windows: Windows 11 Pro 21H2 (Build 22000)
+Computer Name: DESKTOP-V9F1GV9
+User Name: NELSON - MICHA
+Display Resolution: 1366x768
+Local Time: 06.06.2026 03:50:36
+
+[Hardware]
+Processor: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+Cores: 4
+Threads: 4
+RAM: 8067 MB
+VideoCard: Intel(R) HD Graphics 5500
+
+[Processes]
+  [4] System
+  [116] Registry
+  [400] smss.exe
+  [524] csrss.exe
+  [596] wininit.exe
+  [668] services.exe
+  [696] lsass.exe
+  [884] svchost.exe
+  [912] fontdrvhost.exe
+  [88] svchost.exe
+  [464] svchost.exe
+  [1092] svchost.exe
+  [1284] svchost.exe
+  [1376] svchost.exe
+  [1388] svchost.exe
+  [1448] svchost.exe
+  [1500] svchost.exe
+  [1508] svchost.exe
+  [1512] svchost.exe
+  [1572] svchost.exe
+  [1580] svchost.exe
+  [1588] svchost.exe
+  [1596] svchost.exe
+  [1624] svchost.exe
+  [1728] svchost.exe
+  [1756] Memory Compression
+  [1792] svchost.exe
+  [1800] svchost.exe
+  [1912] svchost.exe
+  [2016] svchost.exe
+  [616] svchost.exe
+  [2084] svchost.exe
+  [2292] svchost.exe
+  [2300] svchost.exe
+  [2308] svchost.exe
+  [2440] svchost.exe
+  [2516] svchost.exe
+  [2540] svchost.exe
+  [2808] svchost.exe
+  [2860] svchost.exe
+  [2896] svchost.exe
+  [2948] spoolsv.exe
+  [3132] svchost.exe
+  [3184] svchost.exe
+  [3192] svchost.exe
+  [3204] svchost.exe
+  [3212] svchost.exe
+  [3220] svchost.exe
+  [3228] MsMpEng.exe
+  [3240] svchost.exe
+  [3552] AggregatorHost.exe
+  [3696] svchost.exe
+  [3880] svchost.exe
+  [1748] NisSrv.exe
+  [2448] svchost.exe
+  [4172] svchost.exe
+  [4368] svchost.exe
+  [4780] SearchIndexer.exe
+  [3960] svchost.exe
+  [5628] SecurityHealthService.exe
+  [6008] svchost.exe
+  [5980] svchost.exe
+  [4988] svchost.exe
+  [4188] SgrmBroker.exe
+  [4280] svchost.exe
+  [3104] svchost.exe
+  [1652] csrss.exe
+  [3788] winlogon.exe
+  [5820] dwm.exe
+  [3172] fontdrvhost.exe
+  [5152] sihost.exe
+  [4696] svchost.exe
+  [4488] svchost.exe
+  [5896] taskhostw.exe
+  [1896] explorer.exe
+  [4668] svchost.exe
+  [748] StartMenuExperienceHost.exe
+  [4328] RuntimeBroker.exe
+  [1684] ctfmon.exe
+  [1908] SecurityHealthSystray.exe
+  [5036] OneDrive.exe
+  [4212] ApplicationFrameHost.exe
+  [4408] svchost.exe
+  [5320] svchost.exe
+  [6284] svchost.exe
+  [6292] svchost.exe
+  [4576] svchost.exe
+  [5240] svchost.exe
+  [3912] SystemSettings.exe
+  [588] UserOOBEBroker.exe
+  [6828] ShellExperienceHost.exe
+  [544] RuntimeBroker.exe
+  [4692] svchost.exe
+  [6432] Widgets.exe
+  [6932] SystemSettingsBroker.exe
+  [6812] svchost.exe
+  [6680] svchost.exe
+  [3560] WUDFHost.exe
+  [5512] svchost.exe
+  [7388] MoUsoCoreWorker.exe
+  [7648] svchost.exe
+  [8588] msedge.exe
+  [8604] msedge.exe
+  [8768] msedge.exe
+  [8780] msedge.exe
+  [8796] msedge.exe
+  [8992] msedge.exe
+  [10168] svchost.exe
+  [2680] svchost.exe
+  [2916] taskhostw.exe
+  [1076] msedge.exe
+  [9436] msedge.exe
+  [1812] msedge.exe
+  [1708] msedge.exe
+  [9960] msedge.exe
+  [3168] msedge.exe
+  [2616] msedge.exe
+  [9724] msedge.exe
+  [4672] msedge.exe
+  [9172] msedge.exe
+  [9444] igfxCUIService.exe
+  [1904] PresentationFontCache.exe
+  [5880] igfxHK.exe
+  [4888] igfxTray.exe
+  [9248] TrustedInstaller.exe
+  [5336] msedge.exe
+  [8732] wuauclt.exe
+  [8740] valWBFPolicyService.exe
+  [10116] fpCSEvtSvc.exe
+  [2728] WUDFHost.exe
+  [7592] msedge.exe
+  [9872] TiWorker.exe
+  [9644] SynTPEnhService.exe
+  [2876] SynTPEnh.exe
+  [1156] ibtsiva.exe
+  [8032] svchost.exe
+  [7368] svchost.exe
+  [12040] msedge.exe
+  [12004] msedge.exe
+  [10536] msedge.exe
+  [6864] msedge.exe
+  [8200] msedge.exe
+  [12228] msedge.exe
+  [11612] msedge.exe
+  [11220] msedge.exe
+  [13296] svchost.exe
+  [11536] msedge.exe
+  [13212] msedge.exe
+  [15096] RtkAudioService64.exe
+  [15124] RAVBg64.exe
+  [15144] RAVBg64.exe
+  [10136] msedge.exe
+  [2112] msedgewebview2.exe
+  [11200] msedgewebview2.exe
+  [10892] msedgewebview2.exe
+  [7740] msedgewebview2.exe
+  [14304] msedgewebview2.exe
+  [14240] msedgewebview2.exe
+  [5260] svchost.exe
+  [14860] UsoClient.exe
+  [17372] svchost.exe
+  [17396] dllhost.exe
+  [17532] audiodg.exe
+  [17744] MicrosoftEdgeUpdate.exe
+  [9776] MicrosoftEdgeUpdate.exe
+  [17608] msedge.exe
+  [17168] Notepad.exe
+  [16976] dllhost.exe
+  [16480] MicrosoftEdgeUpdate.exe
+  [7780] msedge.exe
+  [8820] msedge.exe
+  [9296] WmiPrvSE.exe
+  [17588] CompatTelRunner.exe
+  [14472] conhost.exe
+  [14404] CompatTelRunner.exe
+  [15088] svchost.exe
+  [18000] smartscreen.exe
+  [6824] svchost.exe
+  [17000] WmiPrvSE.exe
+  [15972] msedge.exe
+  [15468] msedge.exe
+  [16772] svchost.exe
+  [16140] msedge.exe
+  [17888] svchost.exe
+  [17876] svchost.exe
+  [344] svchost.exe
+  [16524] dllhost.exe
+  [16044] WinRAR.exe
+  [13468] msedge.exe
+  [13284] rundll32.exe
+[Software]
+  Synaptics Pointing Device Driver
+  WinRAR 7.22 (64-bit)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33135
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.38.33135

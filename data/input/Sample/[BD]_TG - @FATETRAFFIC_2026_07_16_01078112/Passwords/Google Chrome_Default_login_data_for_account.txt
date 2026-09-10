@@ -1,0 +1,56 @@
+Soft: Google Chrome (Default)
+Host: https://aniwatchtv.to/
+Login: 
+Password: 
+Soft: Google Chrome (Default)
+Host: https://www.torrentbd.net/account-login.php
+Login: tabbasssum180@gmail.com
+Password: @@Yagami@@12
+Soft: Google Chrome (Default)
+Host: https://hianime.to/watch/bleach-806
+Login: muinbondhon@gmail.com
+Password: mitsurifubuki
+Soft: Google Chrome (Default)
+Host: https://anikai.to/watch/the-quintessential-quintuplets-l2kl
+Login: muinbondhon@gmail.com
+Password: mitsurifubuki
+Soft: Google Chrome (Default)
+Host: https://steadfast.com.bd/
+Login: 
+Password: 
+Soft: Google Chrome (Default)
+Host: https://www.instagram.com/
+Login: 
+Password: 
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login: 01717725703
+Password: mitsurifubuki
+Soft: Google Chrome (Default)
+Host: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.google.android.gms/
+Login: 
+Password: 
+Soft: Google Chrome (Default)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login: 
+Password: 
+Soft: Google Chrome (Default)
+Host: https://anizen.me/watch/yowayowa-teacher-joeuk
+Login: muinbondhon
+Password: mitsurifubuki
+Soft: Google Chrome (Default)
+Host: https://anizen.tr/home
+Login: muinbondhon@gmail.com
+Password: mitsurifubuki
+Soft: Google Chrome (Default)
+Host: https://accounts.google.com/
+Login: 
+Password: 
+Soft: Google Chrome (Default)
+Host: https://hentaiera.com/register/
+Login: bondhon
+Password: DgMSjST#r6au49R
+Soft: Google Chrome (Default)
+Host: https://signin.ea.com/p/juno/login
+Login: mu
+Password: Mitsurichizuru1

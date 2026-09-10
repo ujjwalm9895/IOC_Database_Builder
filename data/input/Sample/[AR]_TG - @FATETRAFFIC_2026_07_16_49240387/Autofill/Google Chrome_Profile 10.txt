@@ -1,0 +1,12 @@
+identifier Contrataciones@ncnlaplata.com.ar
+:168 12 de noviembre de 2025
+identifier Contratacionesncdn@gmail.com
+:157 iddlaplatafacturacion@gmail.com,
+:15h 2025/07/19
+c444 OSPEDYC
+c456 OSPEDYC
+c460 contrataciones@ospedyc.org.ar
+c131 Juan
+c133 Antinori (hemisferio)
+c143 HEMISFERIO SALUD
+c147 jcantinori@mandatariasalud.com.ar

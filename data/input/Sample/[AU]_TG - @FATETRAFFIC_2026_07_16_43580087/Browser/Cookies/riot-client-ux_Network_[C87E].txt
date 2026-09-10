@@ -1,0 +1,2 @@
+﻿api.hcaptcha.com	FALSE	/	TRUE	1813808672	hmt_id	3e3f9e3c-6dde-4bc7-ab0d-2182263cb596
+.hcaptcha.com	TRUE	/	TRUE	1813808672	__cf_bm	ylzKccdDuC9qJMHQRLB0BZtdEAVq0NcrlHYuVdaIN6Q-1767661171-1.0.1.1-ezxWJwzSKqwI_l_RVhROAMsuD5jC.dMog0.aPwmtToIonMtg1IWqNz7sRf.VbfrQQgImJjj2RP15BIpzG0HJyaDiRQ_z8yxrb9TyFlJHgC4

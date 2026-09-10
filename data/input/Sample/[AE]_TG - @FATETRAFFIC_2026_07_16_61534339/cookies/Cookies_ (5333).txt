@@ -1,0 +1,6 @@
+.twitch.tv	TRUE	/	TRUE	1786358774	auth-token	ufl8brqz9v2mb4aia7qnmk6eqhy3ec
+.twitch.tv	TRUE	/	TRUE	1786358774	login	cubbyk7920
+.twitch.tv	TRUE	/	TRUE	1786358774	twilight-user	{%22authToken%22:%22ufl8brqz9v2mb4aia7qnmk6eqhy3ec%22%2C%22displayName%22:%22cubbyk7920%22%2C%22id%22:%221019243311%22%2C%22login%22:%22cubbyk7920%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	1801604100	twitch.lohp.countryCode	GG
+.twitch.tv	TRUE	/	TRUE	1802122500	unique_id	6JfuOsFak7jxvZfPFQ6X3GWnggsGqubX
+.twitch.tv	TRUE	/	TRUE	1802122500	unique_id_durable	6JfuOsFak7jxvZfPFQ6X3GWnggsGqubX

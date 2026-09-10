@@ -1,0 +1,28 @@
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: chrome://FirefoxAccounts
+Login: 4a1ca6ffc8894b33b4a8ebf70377ac42
+Password: {"version":1,"accountData":{"scopedKeys":{"https://identity.mozilla.com/apps/oldsync":{"kid":"1594708672769-b2KCg4bPXbYgzzVaHdMhWw","k":"UsoMaVrqmDrUwaixVy4WkTYD56NySG-p7pIThDULWsA1JQyzC52H97DXs2ztU3wntiNtnEfP6IWi8capyZRDUA","kty":"oct"}}}}
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: https://accounts.firefox.com
+Login: liaquatali.fd@gmail.com
+Password: lipu-1968
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: https://www.facebook.com
+Login: 
+Password: Lipu--1968
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: https://hptt
+Login: liaquat
+Password: lipu-1968
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: https://www.facebook.com
+Login: liaquatali.fd@gmail.com
+Password: 01021968
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: https://www.muktopaath.gov.bd
+Login: liaquatali.fd@gmail.com
+Password: 01021968
+Soft: Mozilla Firefox (z6wo05f3.default)
+Host: https://accounts.google.com
+Login: 
+Password: rangamati23

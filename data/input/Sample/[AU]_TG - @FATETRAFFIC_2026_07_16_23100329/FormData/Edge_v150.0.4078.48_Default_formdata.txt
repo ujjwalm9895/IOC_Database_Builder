@@ -1,0 +1,16 @@
+# Browser: Edge v150.0.4078.48 (Default)
+username | johnsb246@y7mail.com
+identifier | johnsb246@gmail.com
+r | 5SF3KT-Z9M3JU-A46M2T-7X9FF2-7J265R
+email | johnsb246@gmail.com
+
+# Browser: Edge v150.0.4078.48 (Default)
+Bing | {bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
+Yahoo! | https://au.search.yahoo.com/search{google:pathWildcard}?ei={inputEncoding}&fr=crmas&p={searchTerms}
+Google | {google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
+DuckDuckGo | https://duckduckgo.com/?q={searchTerms}
+Copilot | https://copilot.microsoft.com/?q={searchTerms}&form=EDGAAC
+Favorites | edge://favorites/?q={searchTerms}
+History | edge://history/all?q={searchTerms}
+Tabs | edge://history/syncedTabs?q={searchTerms}
+YouTube | https://www.youtube.com/results?search_query={searchTerms}&page={startPage?}&utm_source=opensearch

@@ -1,0 +1,9 @@
+[Social]
+Passwords: facebook.com (1), instagram.com (1)
+Cookies: facebook.com (1), instagram.com (19), twitter.com (5), youtube.com (173)
+History: instagram.com (51), youtube.com (67)
+
+[GAMES]
+Passwords: battle.net (1), epicgames.com (2)
+Cookies: store.steampowered.com (3)
+History: store.steampowered.com (2)

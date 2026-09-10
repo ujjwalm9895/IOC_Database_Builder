@@ -1,0 +1,219 @@
+Soft: Google Chrome (Profile 1)
+Host: https://demo.dolibarr.org/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://saleserplatest.bdtask-demo.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://signin.autodesk.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://sim.tecd.top/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://posly.getstocky.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://mbt4-my.sharepoint.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://login.yahoo.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://makkahpoultry.net/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://invoice.bestsmoke.ae/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://dot-accounts-lite.appbusket.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://business.facebook.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://id.vk.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://invoices-saas.infyom.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://login.sophos.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://demo.stockifly.in/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://cvtremote:8383/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://acculance.codeshaper.net/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://fo-usba.ttinteractive.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://www.mysonicwall.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://demo.workdo.io/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://192.168.168.66/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://cloud.sophos.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://192.168.168.28:5000/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://dubai.dubizzle.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://ais-dev-mimuu6wpjsrjozrxlx6lxo-605556523137.europe-west2.run.app/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://indiavisa.blsinternational.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://g6823254pa.eu.ruijiecloud.net/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://dot-accounts-saas.appbusket.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://accounts.zoho.in/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://app.invest.dubai.ae/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://invoices.infyom.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://sbm.tecd.top/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://192.168.168.65/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://192.168.168.7/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://credit-lite-saas.appbusket.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://www.facebook.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://mylocatorplus.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://56374951pb.eu.ruijiecloud.net/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://erp.makkahpoultry.net/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://mportal.passportindia.gov.in/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://pospro.acnoo.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://myaccount.du.ae/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: https://sellercentral.amazon.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 1)
+Host: http://192.168.168.17/
+Login: 
+Password: 

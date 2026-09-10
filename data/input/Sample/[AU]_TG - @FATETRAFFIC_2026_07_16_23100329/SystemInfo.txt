@@ -1,0 +1,33 @@
+Storm Stealer
+https://storm-project.biz/support
+
+Remote IP: 180.150.80.201
+Location: Australia (AU)
+State/Region: Western Australia (WA)
+Coordinates: -31.964300, 115.859500
+Location Accuracy: ±1000 km
+Timezone: Australia/Perth
+ISP: Aussie Broadband
+AS Number: AS4764 - Aussie Broadband
+
+─────────────────────────────────────────────────────────
+
+OS:       Windows 11 (Build 26200) [x64]
+Computer: DELL
+User:     johns [User]
+AV:       WinDefender
+
+CPU:      12C / 24T
+RAM: 16145 MB (15.77 GB)
+GPU:      Intel(R) UHD Graphics
+Display:  1920x1080 [1 mon]
+
+[1]  IP     192.168.20.11
+MAC    0C-37-96-45-51-40
+GW     192.168.20.1
+Name   DisplayLink Network Adapter NCM
+
+Launch:   Memory
+
+
+─────────────────────────────────────────────────────────

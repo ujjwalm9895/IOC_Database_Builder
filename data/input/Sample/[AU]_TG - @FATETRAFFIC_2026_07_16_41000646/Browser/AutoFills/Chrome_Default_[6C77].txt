@@ -1,0 +1,912 @@
+﻿Name: 2YXdEmZkxBbCWJkfN8AwFEy3i3ufvXbVOj1ZRu2TW0jCo-JftlUAZNwcd7hjapuoyQ4ohohNJKqEuaosIJXmnl2D-aHxPI0
+Value: https://www.tiktok.com/@blcyde
+===============
+Name: :r4:
+Value: 875032
+===============
+Name: :r4:
+Value: 894812
+===============
+Name: ADDRESS_LINE_1
+Value: 30 reginald dr
+===============
+Name: Account
+Value: blaydetownsend6@gmail.com
+===============
+Name: AccountEmail
+Value: blaydetownsend6@gmail.com
+===============
+Name: AccountEmail
+Value: tamicatownsend@gmail.com
+===============
+Name: AfHGx8OfMdB-II0CWfHKzQPqCbrj1V5poj907ifQfhuBnxwLkuYCx
+Value: https://www.tiktok.com/@blcyde/video/7562368460345462024?is_from_webapp=1&sender_device=pc&web_id=7406505460357039624
+===============
+Name: AssociatedIdEasi
+Value: blaydepull@outlook.com
+===============
+Name: AssociatedIdLive
+Value: blaydegunr
+===============
+Name: AssociatedIdLive
+Value: blaydepull
+===============
+Name: AuthEmail
+Value: Goncalo.1pk@gmail.com
+===============
+Name: AuthEmail
+Value: barrandrew197@gmail.com
+===============
+Name: AuthEmail
+Value: blaydetownsend6@gmail.com
+===============
+Name: AuthEmail
+Value: tamicatownsend@gmail.com
+===============
+Name: DisplayPhoneNumber
+Value: 0411720860
+===============
+Name: FirstName
+Value: blayde
+===============
+Name: FirstName
+Value: deegan
+===============
+Name: FormField[1][1]
+Value: blaydetownsend6@gmail.com
+===============
+Name: FormField[2][10]
+Value: Kootingal
+===============
+Name: FormField[2][13]
+Value: 2352
+===============
+Name: FormField[2][4]
+Value: blayde
+===============
+Name: FormField[2][5]
+Value: townsend
+===============
+Name: FormField[2][7]
+Value: 0411720860
+===============
+Name: LOCALITY
+Value: Kootingal
+===============
+Name: LanguageSuggest
+Value: search for more languages
+===============
+Name: LastName
+Value: glazic
+===============
+Name: LastName
+Value: townsend
+===============
+Name: POSTAL_CODE
+Value: 2352
+===============
+Name: TagSuggest
+Value: search for more tags
+===============
+Name: ZWstABaa
+Value: az2c9
+===============
+Name: _user
+Value: elkingfx1@inbox.lv
+===============
+Name: accountIdentifier
+Value: jaceenashh
+===============
+Name: addh
+Value: d
+===============
+Name: additionalDisplayNames.0
+Value: TikTok blcyde
+===============
+Name: address-level1
+Value: NSW
+===============
+Name: address-level2
+Value: Kootingal
+===============
+Name: address1
+Value: 30 reginald dr
+===============
+Name: ai_input
+Value: blaydetownsend6@gmail.com
+===============
+Name: ai_input
+Value: blcyde
+===============
+Name: amount
+Value: 2000
+===============
+Name: bcc
+Value: d
+===============
+Name: billingCity
+Value: Kootingal
+===============
+Name: billingLine1
+Value: 30 Reginald Drive
+===============
+Name: billingPostalCode
+Value: 2352
+===============
+Name: cardDetails.cardholder
+Value: blayde townsend
+===============
+Name: cardDetails.expiryDate
+Value: 10/27
+===============
+Name: cc
+Value: d
+===============
+Name: cc-family-name
+Value: townsend
+===============
+Name: cc-given-name
+Value: blayde
+===============
+Name: ccname
+Value: blayde townsend
+===============
+Name: ciBasic-0
+Value: 9
+===============
+Name: ciBasic-1
+Value: 1
+===============
+Name: ciBasic-2
+Value: 2
+===============
+Name: ciBasic-3
+Value: 2
+===============
+Name: ciBasic-4
+Value: 7
+===============
+Name: ciBasic-5
+Value: 9
+===============
+Name: city
+Value: Kootingal
+===============
+Name: confirmd
+Value: d
+===============
+Name: confirmr
+Value: d
+===============
+Name: connectedAccountDisplayName
+Value: bIcyde
+===============
+Name: connectedAccountDisplayName
+Value: bicyde
+===============
+Name: country
+Value: AU
+===============
+Name: coupon
+Value: RYZE
+===============
+Name: coupon
+Value: dolpho
+===============
+Name: coupon
+Value: dolpho ryzee
+===============
+Name: coupon
+Value: rappz
+===============
+Name: currentEpicAccountEmail
+Value: blaydetownsend6@gmail.com
+===============
+Name: currentEpicAccountEmail
+Value: heathwoodward17@icloud.com
+===============
+Name: currentEpicAccountEmail
+Value: sashaw1d7eft@rambler.ru
+===============
+Name: currentEpicDisplayName
+Value: bicyde
+===============
+Name: currentEpicDisplayName
+Value: blcyde
+===============
+Name: customxm
+Value: d
+===============
+Name: date
+Value: Wed, 10 Jun 2026 07:01:00 +0000 (UTC)
+===============
+Name: date-input
+Value: Today
+===============
+Name: dateOfBirth
+Value: 13/06/89
+===============
+Name: dwfrm_shipping_shippingAddress_addressFields_firstName
+Value: blayde
+===============
+Name: dwfrm_shipping_shippingAddress_addressFields_lastName
+Value: townsend
+===============
+Name: dwfrm_shipping_shippingAddress_addressFields_phone
+Value: 0411720860
+===============
+Name: dwfrm_shipping_shippingAddress_addressFields_pndShippingEmail
+Value: blaydetownsend6@gmail.com
+===============
+Name: email
+Value: amiemt@hotmai.com
+===============
+Name: email
+Value: blaydealt67@outlook.com
+===============
+Name: email
+Value: blaydepull@outlook.com
+===============
+Name: email
+Value: blaydepulls94@outlook.com
+===============
+Name: email
+Value: blayderunss@outlook.com
+===============
+Name: email
+Value: blayderunsurq@outlook.com
+===============
+Name: email
+Value: blaydetik@outlook.com
+===============
+Name: email
+Value: blaydetownsend6@gmail.com
+===============
+Name: email
+Value: sashaw1d7eft@rambler.ru
+===============
+Name: email
+Value: teezebreeze@gmail.com
+===============
+Name: email-input
+Value: blcydeg@outlook.com
+===============
+Name: email-prefix
+Value: 8oq6xk96fdxuksrg
+===============
+Name: email-prefix
+Value: 8oq6xk96fdxuksrghacktivc.com
+===============
+Name: email-prefix
+Value: darkhawk355
+===============
+Name: errors
+Value: d
+===============
+Name: exp-date
+Value: 01 / 26
+===============
+Name: expirationDate
+Value: 10/27
+===============
+Name: expiry
+Value: 10 / 27
+===============
+Name: f_05092802-a062-4a12-adb1-51d383f3b122
+Value: playstation
+===============
+Name: f_0638d019-0e18-40ba-b4d5-614ad76c66c3
+Value: rainbow six siege
+===============
+Name: f_08cb468c-e076-459a-9bc4-08878b8755d7
+Value: https://www.tiktok.com/@blcyde/video/7562853612729273618?is_from_webapp=1&sender_device=pc&web_id=7406505460357039624
+===============
+Name: f_0b892b01-7d8f-42e0-a3fc-7d7e99ba292c
+Value: 20$
+===============
+Name: f_11984bd0-c32c-48b7-adaf-eaf4afd30a36
+Value: rainbow
+===============
+Name: f_182ccb5f-2f48-495b-881d-89897af631be
+Value: tiktok
+===============
+Name: f_25086a3d-d39e-4b72-b41d-6c18f1f526a7
+Value: blaydetownsend6@gmail.com
+===============
+Name: f_3b23098a-0ba9-4db2-87cc-058d78cb3960
+Value: fn
+===============
+Name: f_446208a7-74e4-48bd-8db1-177804fafb97
+Value: 0411720860
+===============
+Name: f_51bfd4f2-97bb-4321-8c33-97bae3208e83
+Value: playstation
+===============
+Name: f_5385bb05-bb2d-40d2-9004-850baff14527
+Value: level 50
+===============
+Name: f_5433a4c1-46c2-4f8e-a268-644b3bd3623b
+Value: tiktok
+===============
+Name: f_5f6a10dd-9dbd-4b55-a65e-d39cfdc7695a
+Value: 1
+===============
+Name: f_64d7fae4-933e-4421-b9ea-3c697fd180f8
+Value: tiktok
+===============
+Name: f_6c8e52d7-acfe-45a9-b3f0-6a4668ff23ed
+Value: https://www.twitch.tv/blcyde2k
+===============
+Name: f_6e29073a-721c-4150-8534-e774fa562ba9
+Value: PLAYSTATION
+===============
+Name: f_7a83cdf1-796b-4c60-8a0d-ed6068dab252
+Value: tikto
+===============
+Name: f_7b17003c-e3a6-4828-9d11-65f750e1f3e2
+Value: https://www.tiktok.com/@blcyde
+===============
+Name: f_8f36da91-2f9a-4862-891d-49dbf5b1ebb9
+Value: 1
+===============
+Name: f_9752ac33-c71e-4aa7-acb6-653f7331034d
+Value: playstation 
+===============
+Name: f_98b2b092-a308-4e3c-906d-c9b73680dba6
+Value: 20$
+===============
+Name: f_9b322820-de5e-4afa-a84c-0326b9c2f0fe
+Value: Angels10
+===============
+Name: f_9c6134c1-704f-4688-b810-646e85b50026
+Value: https://www.tiktok.com/@blcyde
+===============
+Name: f_a0adc20a-217a-4172-984d-a5d7ca70669f
+Value: apex
+===============
+Name: f_a3617f2a-d1da-41d4-aebc-1d0edd0404d3
+Value: 1
+===============
+Name: f_a6cc9334-d106-4684-b26d-e3855ffd9e7b
+Value: 1
+===============
+Name: f_a937a2bf-6363-4596-95b2-c7a1ee27c018
+Value: tiktok
+===============
+Name: f_aa04af94-aa02-4702-b957-880c3cb7338c
+Value: rainbow
+===============
+Name: f_b5a54128-898d-4bbe-a49f-3a2e307f4df3
+Value: fortnite
+===============
+Name: f_b9c12913-ebba-4250-b79d-378ae8cbaf54
+Value: tiktok
+===============
+Name: f_c4324d06-ad28-4088-8ece-1694da694e6b
+Value: gbp
+===============
+Name: f_cc9008a8-008d-4419-9dc7-d66fa979b06e
+Value: fortnite
+===============
+Name: f_cd7dd289-ceae-4b81-b6c0-09b946ac6c18
+Value: 50$
+===============
+Name: f_d1c874a9-87bf-41f9-b19f-652916550581
+Value: https://www.tiktok.com/@doctorlry
+===============
+Name: f_da063144-51a0-417b-bc96-811cb1e07ab9
+Value: 100
+===============
+Name: f_dee8ffa6-b7a7-465d-8cd9-8bb76d48fed3
+Value: 1
+===============
+Name: f_e0414631-5acf-4a65-b9c0-be92bf6235b2
+Value: 1
+===============
+Name: f_e0a20262-faf6-49a2-9b97-9e47c3fa7ea8
+Value: tiktok
+===============
+Name: f_e1e9c8c8-dc6c-4b77-9200-fe4e30f2ed81
+Value: blaydetownsend6@gmail.com
+===============
+Name: f_e41d1adb-12ea-4b77-8025-3b2d106e6e13
+Value: tiktok
+===============
+Name: f_e6725fba-fa3d-4456-b43e-2d6d9b40e298
+Value: tiktok
+===============
+Name: f_ee8b9c54-0b07-4962-94b1-a2fa35124260
+Value: rainbow
+===============
+Name: f_fb9aead0-efee-4ae5-8ace-a8fd977ead20
+Value: 1
+===============
+Name: f_fe715340-dbae-4c44-b5db-2b1c82a43096
+Value: https://www.tiktok.com/@doctorlry/photo/7617011746946960660?is_from_webapp=1&sender_device=pc&web_id=7559019345754703367
+===============
+Name: f_ff6c0621-776c-4e22-bfda-d83183421c93
+Value:  champion
+===============
+Name: family-name
+Value: townsend
+===============
+Name: firstName
+Value: blayde
+===============
+Name: fname
+Value: amie
+===============
+Name: from
+Value: d
+===============
+Name: fromname
+Value: d
+===============
+Name: given-name
+Value: blayde
+===============
+Name: iOttText
+Value: 498386
+===============
+Name: id
+Value: blaydetownsend6@gmail.com
+===============
+Name: identifier
+Value: drift.net
+===============
+Name: imapuser
+Value: elkingfx1@inbox.lv
+===============
+Name: inputProductTarget
+Value: blcyde
+===============
+Name: input_enter-amount-field
+Value: 100
+===============
+Name: invoiceId
+Value: A1015972424
+===============
+Name: ip-address
+Value: 2001:8003:265c:db00:7932:add5:4980:ecb6
+===============
+Name: labelled-element-917b4c5b-17a7-b4e6-49a4-0b45e17711d5
+Value: blaydetownsend6@gmail.com
+===============
+Name: labelled-element-d9ea996f-b2a3-958f-ff2a-6e97bd45e4ed
+Value: blaydetownsend6@gmail.com
+===============
+Name: lastName
+Value: townsend
+===============
+Name: linkLegalName
+Value: blayde townsend
+===============
+Name: linkMobilePhone
+Value: 0411 720 860
+===============
+Name: linkToShorten
+Value: https://skins.tahirfan.club/profile/4d62aaf0-efbc-4164-b034-ee6d11e4ff45
+===============
+Name: lname
+Value: townsend
+===============
+Name: login
+Value: qqybgvkhaf@rambler.ru
+===============
+Name: login
+Value: sashaw1d7eft@rambler.ru
+===============
+Name: login-username
+Value: blaydetownsend6@gmail.com
+===============
+Name: login-username
+Value: blcyde2k
+===============
+Name: login_email
+Value: 0411720860
+===============
+Name: login_email
+Value: amiemt@hotmail.com
+===============
+Name: loginfmt
+Value: blaydegoat88@outlook.com
+===============
+Name: loginfmt
+Value: blaydetik@outlook.com
+===============
+Name: loginfmt
+Value: jyepoppedu@outlook.com
+===============
+Name: loginfmt
+Value: jyeranked99@outlook.com
+===============
+Name: mycharset
+Value: d
+===============
+Name: name
+Value: blayde townsend
+===============
+Name: newAccountEmail
+Value: blaydegoat@outlook.com
+===============
+Name: newAccountEmail
+Value: blaydepull@outlook.com
+===============
+Name: newAccountEmail
+Value: blaydetownsend6@gmail.com
+===============
+Name: newAccountEmail
+Value: blcydeg@outlook.com
+===============
+Name: newEmailCode
+Value: 728890
+===============
+Name: newEmailCode
+Value: 747391
+===============
+Name: newEmailCode
+Value: 758823
+===============
+Name: newEmailCode
+Value: 892599
+===============
+Name: originalEmailCode
+Value: 817518
+===============
+Name: password
+Value: TamBlaRom021028
+===============
+Name: phone
+Value: +61 411 720 860
+===============
+Name: phone
+Value: 0411 720 860
+===============
+Name: phone
+Value: 0437 378 842
+===============
+Name: postal-code
+Value: 2352
+===============
+Name: postalCode
+Value: 2352
+===============
+Name: province
+Value: NSW
+===============
+Name: rcpt
+Value: d
+===============
+Name: react-aria1810665311-:r1a:
+Value: ARZM85THXR7Q1VGGHHH9
+===============
+Name: react-aria1850089548-_r_4s_
+Value: 0411720860
+===============
+Name: reply
+Value: d
+===============
+Name: request[custom_fields][24281229]
+Value: jaceenashh
+===============
+Name: request[custom_fields][24335325]
+Value: jacenash07@outlook.com
+===============
+Name: request[custom_fields][24369716]
+Value: 0439485248
+===============
+Name: search
+Value: grand champion
+===============
+Name: search
+Value: paypal
+===============
+Name: search
+Value: playstation
+===============
+Name: search-linkEmail
+Value: blaydetownsend6@gmail.com
+===============
+Name: signin-entrance-input-signinId
+Value: blaydegoat88@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: blaydepull@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: blayderunns@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: blayderunss@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: blayderunsurq@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: blaydetik@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: blaydetownsend6@gmail.com
+===============
+Name: signin-entrance-input-signinId
+Value: gunner-f2@outlook.co.nz
+===============
+Name: signin-entrance-input-signinId
+Value: jyeiscool7@outlook.com
+===============
+Name: signin-entrance-input-signinId
+Value: pdiddyfrmdeep@gmail.com
+===============
+Name: smtp
+Value: d
+===============
+Name: smtpp
+Value: d
+===============
+Name: subject
+Value: d
+===============
+Name: telphone
+Value: 0411720860
+===============
+Name: ubisoft-email
+Value: 1033139293@qq.com
+===============
+Name: ubisoft-email
+Value: 1090811704@qq.com
+===============
+Name: ubisoft-email
+Value: 406159265@qq.com
+===============
+Name: ubisoft-email
+Value: baolongnguyen1609@gmail.com
+===============
+Name: ubisoft-email
+Value: boomboomjk553@hotmail.com
+===============
+Name: ubisoft-email
+Value: cpitch469@gmail.com
+===============
+Name: ubisoft-email
+Value: dldnwls520@naver.com
+===============
+Name: ubisoft-email
+Value: elilacki@gmail.com
+===============
+Name: ubisoft-email
+Value: fossumeven@gmail.com
+===============
+Name: ubisoft-email
+Value: huangjiazhen063@sina.com
+===============
+Name: ubisoft-email
+Value: hugo_allezy@icloud.com
+===============
+Name: ubisoft-email
+Value: jacobsolgama@gmail.com
+===============
+Name: ubisoft-email
+Value: jamieawjamie@aol.com
+===============
+Name: ubisoft-email
+Value: karimamer180@gmail.com
+===============
+Name: ubisoft-email
+Value: kegan0311@gmail.com
+===============
+Name: ubisoft-email
+Value: kylebrandondore@gmail.com
+===============
+Name: ubisoft-email
+Value: michaelslu@outlook.com
+===============
+Name: ubisoft-email
+Value: qadsawii17@gmail.com
+===============
+Name: ubisoft-email
+Value: rudals5134@naver.com
+===============
+Name: ubisoft-email
+Value: tayler.darienmk@gmail.com
+===============
+Name: ubisoft-email
+Value: tom.kohlmeyer@outlook.de
+===============
+Name: ubisoft-email
+Value: toynaruto43@gmail.com
+===============
+Name: ubisoft-email
+Value: tyler35greg@icloud.com
+===============
+Name: ubisoft-email
+Value: ugo.leguen@icloud.com
+===============
+Name: ubisoft-email
+Value: wowguy147@rocketmail.com
+===============
+Name: ubisoft-email
+Value: yousef80frwh@icloud.com
+===============
+Name: undefined
+Value: 4 letter
+===============
+Name: undefined
+Value: Heirloom
+===============
+Name: undefined
+Value: Level 50
+===============
+Name: undefined
+Value: Stacked
+===============
+Name: undefined
+Value: ap
+===============
+Name: undefined
+Value: apex 
+===============
+Name: undefined
+Value: blayde townsend
+===============
+Name: undefined
+Value: grand champion epic games
+===============
+Name: undefined
+Value: rock
+===============
+Name: undefined
+Value: tiktok
+===============
+Name: us1
+Value: blcyde
+===============
+Name: userLoginId
+Value: amiemt@hotmail.com
+===============
+Name: username
+Value: 8oq6xk96fdxuksrg@hacktivc.com
+===============
+Name: username
+Value: Atqk
+===============
+Name: username
+Value: Randwn
+===============
+Name: username
+Value: blaydetownsend6@gmail.com
+===============
+Name: username
+Value: blcyde
+===============
+Name: username
+Value: bwt6158
+===============
+Name: username
+Value: fluxwux123456789@gmail.com
+===============
+Name: usernameEntry
+Value: bermudezandres@live.com
+===============
+Name: usernameEntry
+Value: c.ronaldo1111@hotmail.com
+===============
+Name: usernameEntry
+Value: cool.cat.kpytou@mail.ru
+===============
+Name: usernameEntry
+Value: dxynel69420@gmail.com
+===============
+Name: usernameEntry
+Value: eanite.ea@gmail.com:isaac28+
+===============
+Name: usernameEntry
+Value: hesusplay7@gmail.com
+===============
+Name: usernameEntry
+Value: jyeranked99@outlook.com
+===============
+Name: usernameEntry
+Value: skuxx96@outlook.com
+===============
+Name: vb_login_username
+Value: blcyde
+===============
+Name: verify
+Value: 3MQDDJ5M
+===============
+Name: zip
+Value: 2352
+===============
+Name: zone
+Value: NSW
+===============
+Name: address
+Value: Blcyde
+===============
+Name: address
+Value: Blcyde
+===============
+Name: address
+Value: blaydetownsend6@gmail.com
+===============
+Name: address
+Value: Kootingal
+===============
+Name: address
+Value: blayde
+===============
+Name: address
+Value: 2352
+===============
+Name: address
+Value: AU
+===============
+Name: address
+Value: 30 reginald dr
+===============
+Name: address
+Value: reginald dr
+===============
+Name: address
+Value: 30
+===============
+Name: address
+Value: Blcyde
+===============
+Name: address
+Value: 30 reginald dr
+===============
+Name: address
+Value: Blcyde
+===============
+Name: address
+Value: Blcyde
+===============
+Name: address
+Value: blaydetownsend6@gmail.com
+===============
+Name: address
+Value: Blcyde
+===============
+Name: address
+Value: blayde
+===============
+Name: address
+Value: townsend
+===============
+Name: address
+Value: blayde townsend
+===============
+Name: address
+Value: blaydetownsend6@gmail.com
+===============
+Name: address
+Value: +61 411 720 860
+===============
+Name: address
+Value: Kootingal
+===============
+Name: address
+Value: NSW
+===============
+Name: address
+Value: 2352
+===============
+Name: address
+Value: AU
+===============
+Name: address
+Value: 30 reginald dr
+===============
+Name: address
+Value: reginald dr
+===============
+Name: address
+Value: 30
+===============
+Name: address
+Value: townsend
+===============
+Name: address
+Value: 30 reginald dr
+===============

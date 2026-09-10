@@ -1,0 +1,14 @@
+.twitch.tv	TRUE	/	TRUE	1812315045	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	FALSE	1809979074	last_login	2026-05-11T19:57:54Z
+.twitch.tv	TRUE	/	FALSE	1809979074	name	domspennedy
+.twitch.tv	TRUE	/	TRUE	1809979074	persistent	589272612%3A%3Am2urqc7xibbx3b2f22jp1h69g5x943
+.twitch.tv	TRUE	/	TRUE	1794081474	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjU4OTI3MjYxMlwiXSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE3OTQwODE0NzQsImlhdCI6MTc3ODUyOTQ3NCwibm9uY2UiOiJvUzg5bWhFcHFjc3NwbjBWVk5LekwyeTZaYnlYOXhCN3ZVWTBYUjJTNUpzPSJ9.tjG3PdnkX4ySgJ1NU1lOZy71XAp2svu40l5FJcDtWxhAB2GqDMYLQBtvqL9oZBm2u2ivtch6NqFAiovrOmeQSg%3D%3D
+.twitch.tv	TRUE	/	TRUE	1813861228	api_token	twilight.dc00d855152541b7b5fef8109e5b8093
+.twitch.tv	TRUE	/	TRUE	1814819545	id_csrf	IUjDdwqpq+G+IV9iObeaMOTmt2D2BH658HcWqmsj/wY=
+.twitch.tv	TRUE	/	TRUE	1814819545	server_session_id	52ff6ff06ee74b0f9436abe10d09d3ec
+.twitch.tv	TRUE	/	TRUE	1817486062	unique_id	fa8078480999452088d08d927baeafe9
+.twitch.tv	TRUE	/	TRUE	1817486062	unique_id_durable	fa8078480999452088d08d927baeafe9
+.twitch.tv	TRUE	/	TRUE	1817486063	auth-token	7l42xq1xvd0lsnh0bqcblt1x2wabvy
+.twitch.tv	TRUE	/	TRUE	1817486063	login	domspennedy
+.twitch.tv	TRUE	/	TRUE	1817486063	twilight-user	{%22authToken%22:%227l42xq1xvd0lsnh0bqcblt1x2wabvy%22%2C%22displayName%22:%22domspennedy%22%2C%22id%22:%22589272612%22%2C%22login%22:%22domspennedy%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	1816970825	twitch.lohp.countryCode	US

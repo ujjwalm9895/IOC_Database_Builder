@@ -1,0 +1,21 @@
+﻿Browser: discordcanary
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: false
+Update Channel: stable
+Hardware Acceleration: unknown
+Metrics Enabled: false
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: false
+Password Manager: unknown
+Safe Browsing: unknown
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+
+[Metadata]
+Extraction Time: 1783287570

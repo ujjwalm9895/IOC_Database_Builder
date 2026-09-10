@@ -1,0 +1,295 @@
+IP: 103.133.143.223
+Country: BD
+
+Date: 10.07.2026 16:31:00
+MachineID: 46b100c6-100c-c431-9e54-d8e575f775f7
+GUID: {44c814e8-0076}
+HWID: 3A910416A197EE69F033-44c814e8-0076-720D75F
+
+Path: C:\Users\Habib\AppData\Local\Temp\13110530101\f51412ef76.exe
+MD5: 9dd5b2c901390e1b8bfafee9bbcbbeb5
+Work Dir: In memory
+
+Windows: Windows 11 Pro 25H2 (Build 26200)
+Computer Name: HABIBS-COMPUTER
+User Name: Habib
+Display Resolution: 1920x1080
+Local Time: 10.07.2026 16:31:00
+Antivirus: Windows Defender
+
+[Hardware]
+Processor: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+Cores: 12
+Threads: 12
+RAM: 8028 MB
+VideoCard: Intel(R) UHD Graphics 630
+
+[Processes]
+  [4] System
+  [188] Secure System
+  [228] Registry
+  [784] smss.exe
+  [940] csrss.exe
+  [1028] wininit.exe
+  [1036] csrss.exe
+  [1096] winlogon.exe
+  [1172] services.exe
+  [1192] LsaIso.exe
+  [1200] lsass.exe
+  [1332] svchost.exe
+  [1364] fontdrvhost.exe
+  [1372] fontdrvhost.exe
+  [1448] svchost.exe
+  [1512] svchost.exe
+  [1596] dwm.exe
+  [1664] svchost.exe
+  [1672] svchost.exe
+  [1680] svchost.exe
+  [1812] svchost.exe
+  [1828] svchost.exe
+  [1836] svchost.exe
+  [1844] svchost.exe
+  [1852] svchost.exe
+  [2000] svchost.exe
+  [2024] IntelCpHDCPSvc.exe
+  [2032] svchost.exe
+  [1348] svchost.exe
+  [1224] svchost.exe
+  [1220] svchost.exe
+  [2104] svchost.exe
+  [2196] svchost.exe
+  [2264] svchost.exe
+  [2292] igfxCUIService.exe
+  [2360] IntelCpHeciSvc.exe
+  [2556] svchost.exe
+  [2584] AsusCertService.exe
+  [2760] svchost.exe
+  [2824] svchost.exe
+  [2832] svchost.exe
+  [2924] svchost.exe
+  [2916] svchost.exe
+  [2984] svchost.exe
+  [2992] svchost.exe
+  [2516] Memory Compression
+  [3120] svchost.exe
+  [3148] dasHost.exe
+  [3168] svchost.exe
+  [3228] svchost.exe
+  [3272] svchost.exe
+  [3280] svchost.exe
+  [3400] svchost.exe
+  [3476] svchost.exe
+  [3512] svchost.exe
+  [3636] audiodg.exe
+  [3648] svchost.exe
+  [3688] svchost.exe
+  [3768] spoolsv.exe
+  [3796] svchost.exe
+  [3848] svchost.exe
+  [3916] svchost.exe
+  [4108] svchost.exe
+  [4124] svchost.exe
+  [4132] svchost.exe
+  [4140] svchost.exe
+  [4164] svchost.exe
+  [4156] svchost.exe
+  [4180] svchost.exe
+  [4188] svchost.exe
+  [4196] svchost.exe
+  [4264] SurSvc.exe
+  [4280] MsMpEng.exe
+  [4304] ROGLiveService.exe
+  [4316] MpDefenderCoreService.exe
+  [4332] GameSDK.exe
+  [4340] atkexComSvc.exe
+  [4352] AsusFanControlService.exe
+  [4364] ArmouryCrate.Service.exe
+  [4456] jhi_service.exe
+  [4464] OneApp.IGCC.WinService.exe
+  [4472] UltraViewer_Service.exe
+  [4556] SearchIndexer.exe
+  [4608] DSAUpdateService.exe
+  [4620] svchost.exe
+  [4628] DSAService.exe
+  [4644] WMIRegistrationService.exe
+  [4760] LightingService.exe
+  [4928] dragon_updater.exe
+  [4936] OfficeClickToRun.exe
+  [5188] svchost.exe
+  [5444] svchost.exe
+  [6256] svchost.exe
+  [6836] WmiPrvSE.exe
+  [7076] wmpnetwk.exe
+  [7484] WmiPrvSE.exe
+  [7640] extensionCardHal_x86.exe
+  [7836] Aac3572MbHal_x86.exe
+  [7908] svchost.exe
+  [8208] SearchProtocolHost.exe
+  [8240] Aac3572DramHal_x86.exe
+  [8416] ArmouryCrate.UserSessionHelper.exe
+  [8432] conhost.exe
+  [8580] svchost.exe
+  [8572] svchost.exe
+  [7800] svchost.exe
+  [6784] sihost.exe
+  [7772] svchost.exe
+  [8840] svchost.exe
+  [5848] svchost.exe
+  [9556] svchost.exe
+  [9692] svchost.exe
+  [9724] svchost.exe
+  [9780] igfxEM.exe
+  [10000] wlanext.exe
+  [10052] taskhostw.exe
+  [10076] svchost.exe
+  [10144] AcPowerNotification.exe
+  [10220] RevoUninHelper.exe
+  [10216] AacKingstonDramHal_x86.exe
+  [10436] Intel_PIE_Service.exe
+  [10772] AggregatorHost.exe
+  [10800] explorer.exe
+  [10820] svchost.exe
+  [10936] svchost.exe
+  [7392] ShellHost.exe
+  [10616] svchost.exe
+  [10620] CrossDeviceResume.exe
+  [11428] svchost.exe
+  [11488] svchost.exe
+  [11644] svchost.exe
+  [11720] svchost.exe
+  [11856] unsecapp.exe
+  [12056] CrossDeviceService.exe
+  [12280] WmiPrvSE.exe
+  [11396] WmiPrvSE.exe
+  [11524] SearchHost.exe
+  [12268] StartMenuExperienceHost.exe
+  [12368] WidgetBoard.exe
+  [12380] RuntimeBroker.exe
+  [12440] svchost.exe
+  [10536] WidgetService.exe
+  [12892] msedgewebview2.exe
+  [13240] svchost.exe
+  [2160] msedgewebview2.exe
+  [9852] msedgewebview2.exe
+  [5988] msedgewebview2.exe
+  [11928] msedgewebview2.exe
+  [13884] MicrosoftStartFeedProvider.exe
+  [13924] msedgewebview2.exe
+  [14328] AacKingstonDramHal_x64.exe
+  [6152] ctfmon.exe
+  [14488] LockApp.exe
+  [14648] ArmourySocketServer.exe
+  [14744] RuntimeBroker.exe
+  [14812] svchost.exe
+  [15208] svchost.exe
+  [13280] RuntimeBroker.exe
+  [14672] NisSrv.exe
+  [15736] TextInputHost.exe
+  [15980] DSATray.exe
+  [16040] asus_framework.exe
+  [16088] asus_framework.exe
+  [1384] asus_framework.exe
+  [10392] asus_framework.exe
+  [2012] SecurityHealthSystray.exe
+  [2776] smartscreen.exe
+  [10572] SecurityHealthService.exe
+  [5232] ArmourySwAgent.exe
+  [15432] asus_framework.exe
+  [15456] asus_framework.exe
+  [6204] OneDrive.exe
+  [988] Aac3572MbHal_x86.exe
+  [14504] CCXProcess.exe
+  [15992] node.exe
+  [15236] conhost.exe
+  [10720] Chrome.exe
+  [14944] svchost.exe
+  [16428] svchost.exe
+  [16484] AdobeIPCBroker.exe
+  [17116] svchost.exe
+  [16568] Client.exe
+  [11352] Wihnup.exe
+  [15076] Dllhost.exe
+  [17056] servicehelper.exe
+  [17240] svchost.exe
+  [16924] servicehelper.exe
+  [16952] WerFault.exe
+  [15256] svchost.exe
+  [11184] taskhostw.exe
+  [17316] f51412ef76.exe
+  [16564] servicehelper.exe
+  [7284] RuntimeBroker.exe
+[Software]
+  Armoury Crate Service
+  Microsoft Office Professional Plus 2019 - en-us
+  Rebelle 8
+  VLC media player
+  WinRAR 7.13 (64-bit)
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.56336 False
+  WD_BLACK AN1500
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Intel® Software Installer
+  Patriot Viper DRAM RGB
+  Microsoft Update Health Tools
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649 False
+  ASUS AURA Extension Card HAL
+  Intel(R) Computing Improvement Program
+  ROG Live Service
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.0 False
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610 False
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022 False
+  ENE_EHD_M2_HAL
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.51106 False
+  ASUS AURA Motherboard HAL
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729 False
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660 False
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33810
+  Intel® Software Installer
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.51106 False
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+  Documentation Manager
+  Windows PC Health Check
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.59192 False
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.42 False
+  ASUS AURA VGA Component
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610 False
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17 False
+  Universal Holtek RGB DRAM
+  ASUS Ambient HAL
+  Patriot Viper M2 SSD RGB
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component 64-bit Registration
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 False
+  Kingston AURA DRAM Component
+  PHISON HAL
+  AURA DRAM Component
+  Microsoft .NET Runtime - 8.0.28 (x64)
+  Revo Uninstaller 2.5.8
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727 False
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 False
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.51011 False
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649 False
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727 False
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000
+  Windows PC Health Check
+  NVIDIA Graphics Driver 456.71
+  NVIDIA Install Application
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.4053 False
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33810
+  Update for x64-based Windows Systems (KB5001716)
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.218 False
+  AURA lighting effect add-on x64
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660 False
+  Microsoft .NET Host - 8.0.28 (x64)
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+  ASUS Aura SDK
+  Quick Share
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.0 False
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30411 False
+  ENE RGB HAL
+  Microsoft .NET Host FX Resolver - 8.0.28 (x64)
+  ASUS AIOFan HAL
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.57102 False
+  Microsoft Visual C++ 2005 Redistributable - x64 8.0.58298 False

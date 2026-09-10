@@ -1,0 +1,310 @@
+identifier jahangirps631@gmail.com
+email jahangirps631@gmail.com
+doj 04-May-2025
+day 5
+name_english MOHIUDDIN JAHANGIR
+doj 22-Jun-2025
+phone_number 01301332775
+doj 05-May-2025
+mail jahangirps631@gmail.com
+name_bangla মহিউদ্দিন জাহাঙ্গীর
+s adobe illustator
+month 7
+pname2 jakia jannat
+doj 28-Jun-2025
+doj 29-Jul-2025
+gpf_nid 5534568893
+email 01643305656
+min 2200
+max 15800
+job_address 18 BLOCK C LALMATIA 
+username jahangirp
+hour 5
+day 2
+minute 53
+present_post JAMALPUR
+present_pcode 2000
+organization Nionta and Tre-o Architects 
+job_post JUNIOR ARCHITECT
+salary 15000
+job_address 10
+pay_scale 15
+year 2025
+month 10
+day 17
+hour 7
+minute 18
+name MOHIUDDIN JAHANGIR
+fathername MUHAMMAD JAMAL UDDIN
+mothername MUKTA KHATUN
+nid_no 7364762869
+present_care MUHAMMAD JAMAL UDDIN
+mobileno 01301332775
+confirmmobile 01301332775
+roll1 223797
+reg1 1410470743
+result_gpa1 4.95
+roll2 455578
+reg2 1502064422
+result_gpa2 3.10
+bn_name মহিউদ্দিন জাহাঙ্গীর
+bn_mother মুক্তা খাতুন
+bn_father মোহাম্মদ জামাল উদ্দিন 
+present_pcode 1200
+rtsInt 2346
+beaconInt 100
+dtimTh 1
+interval 0
+fragTh 2346
+pskSecret jahangir05
+present_post Mirpur 
+user_id xgmtyfqv
+first_name Mohiuddin
+last_name jahangir
+mobile 8801301332775
+address Fokirbari, Mirpur 10
+permanent_post jamalpur 
+firstName jihad
+account_recovery_password[identifier] jahangirps631@gmail.com
+user_login jahangirps631@gmail.com
+s adobe illistetor
+email 01301332775
+account_login[_username] jahangirps631@gmail.com
+ssid Jahangir
+s Search Website
+inputEmail jahangirps631@gmail.com
+emailAddress jahangirps631@gmail.com
+user_id SU3RXA87
+doj 24-Dec-2025
+doj 26-Dec-2025
+doj 03-Jan-2026
+doj 27-Dec-2025
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEnqfgkBigroAiEm-RjmQWy8Xvw5Hvuvc0A-firstName MOHIUDDIN 
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEnqfgkBigroAiEm-RjmQWy8Xvw5Hvuvc0A-lastName JAHANGIR
+single-typeahead-entity-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEnqfgkBigroAiEm-RjmQWy8Xvw5Hvuvc0A-geoLocation-countryField Bangladesh
+single-typeahead-entity-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEnqfgkBigroAiEm-RjmQWy8Xvw5Hvuvc0A-geoLocation-cityTypeaheadField Dhaka, Dhaka
+username Mohiuddin jahangir
+phone 8801301332775
+by 2001
+bd 18
+ntpB north-america.pool.ntp.org
+username jahangir9
+ntpA us.pool.ntp.org
+idleTime 15
+year 2026
+month 4
+day 14
+minute 36
+hour 22
+second 3
+email_address jahangirps631@gmail.com
+username jahangirps631@gmail.com
+documentName 444444
+filename Gender Inclusive HR & Work Performance_page-0002
+job[0][designation] JUNIOR ARCHITECT
+job[0][organization] BUUNOT DESGIN STUDIO
+job[0][office_address] S-38 NURJAHAN ROAD, SHAYMOLI
+s adobe premiar pro
+doj 20-Jun-2026
+id https://www.tiktok.com/@abdulhannan567/video/7616263299436399892?is_from_webapp=1&sender_device=pc
+doj 04-Jul-2026
+name Mohiuddin jahangir
+name_bn মহিউদ্দিন জাহাঙ্গীর 
+mother mukta khatun 
+mother_bn মুক্তা খাতুন 
+mobile 01301332775
+confirm_mobile 01301332775
+father muhhamad jamal uddin
+present_careof muhhamad jamal uddin
+present_post dhaka
+permanent_careof muhhamad jamal uddin
+passport_no A07339490
+father_bn মোহাম্মদ জামাল উদ্দিন 
+permanent_post jamalpur
+doj 05-Jul-2026
+phoneNumber 1301332775
+doj 06-Jul-2026
+doj 11-Jul-2026
+username 59250100175
+linkAccount_email jahangirps631@gmail.com
+input_email jahangirps631@gmail.com
+c14 mohiuddin jahangir
+s graphis design
+js_9z 833966
+Phone 01301332775
+contact_number ০১৩০১৩৩২৭৭৫
+citta dhaka
+azienda Nionta
+s  premiarpro
+wpdm_profile[display_name] Mohiuddin jahangir
+username mohiuddinjahangirjihad
+as_epq https 3dskymodel com
+second 58
+form_item_5 nionta
+phone +880 1301332775
+doj 16-May-2025
+s skectup 2020
+nid ৭৩৬৪৭৬২৮৬৯
+minute 7
+doj 05-Jun-2025
+cognome jahangir
+father_name মোহাম্মদ জামাল উদ্দিন 
+wpdm_login[log] jaha
+:r9dd:0 Pages 1–14
+s adobe photoshop 2025
+:r8hv:0 Pages 1–14
+minute 6
+doj 26-Jun-2025
+age 23 Years 7 Months 9 Days
+s skectchup pro 2020
+second 17
+pskSecret jahangir01
+doj 14-May-2025
+s adobe illustator2020
+permanent_address_bangla উওর কাচারী পাড়া, জামালপুর সদর, জামালপুর। 
+s adobe photo shop
+givenName JAHANTUL FERDOUS 
+s adobe photo shop cc
+nome Mohiuddin
+wpdm_profile[user_email] jahangirps631@gmail.com
+nationality বাংরাদেশী 
+institute[] 0
+confemail jahangirps631@gmail.com
+familyName CHOMPA
+as_q maxbrute furniture visualization
+birth_date 2001-12-18
+emailOrPhone jahangirps631@gmail.com
+«rs» 603582
+permanent_address_english uTTOR KACHARIPARA, JAMALPUR SADAR, JAMALPUR .
+s adobe premiar pro 2025
+present_address_bangla ফকির বাড়ী, মিরপুর ১০, ঢাকা । 
+mother_name মুক্তা খাতুন
+code 8065
+lavoro architect
+doj 15-May-2025
+district জামালপুর 
+religion ইসলাম 
+email-input-field jahangirps631@gmail.com
+doj 18-May-2025
+s adobe photo shop cs 
+s adobe illustator 2024
+doj 19-May-2025
+s idm
+present_address_english FHOKIR BARI, MIRPUR -10 , DHAKA. 
+identifier smdjamal1977@gmail.com
+gpf_phone 01998554350
+gpf_phone 01914178791
+username 59250100176
+:r2in:0 Pages 1–2
+:r774:0 Pages 1–2
+:r7ef:0 Pages 1–2
+:r2ug:0 Pages 1–9
+loginfmt chompach15@gmail.com
+wordmark civil
+:r4l1:0 Pages 1–2
+:r4p0:0 Pages 1–2
+:r51l:0 Page 1
+:r5af:0 Page 2
+fullName TAHSIN ZAMAN HAYDER
+day 01
+month 01
+year 2008
+phone-number-input 01301332775
+phone-number-input 1301332775
+usernameEntry mo
+min 7400
+max 16000
+doj 21-Sep-2025
+validation HBR6ENTZ
+organization Nionta
+validation YSXC1G4Z
+validation W9W3DD3M
+validation JT329E82
+validation 5ME3HV72
+author Mohiuddin jahangir
+s H215
+macAddr F2:4B:01:84:F4:64
+second 28
+second 30
+validation 9VU31E4L
+second 40
+second 45
+second 47
+organization Nionta 
+validation XQBW117B
+validation 7Z1R1JF2
+validation 7PP8M3I8
+share_link https://xhamster44.desi/videos/devar-ko-bhabhi-ne-muth-marte-huye-pakad-liya-xhZasbd?t=227.733936
+mobileNumber 01301332775
+mobile_number 6
+mobile_number 01301332775
+share_link https://xhamster19.com/videos/devar-ko-bhabhi-ne-muth-marte-huye-pakad-liya-xhZasbd
+identifier mohiuddinjahangir068@gmail.com
+userFullName 01301332755
+roll 455557
+roll 455578
+fullName Saidul 
+pAddress Hijla 
+orgName Cake And Bakari Item 
+email saidulahmed34432244@gmail.com
+mobNo 01777032129
+father muhhamad jamal uddin 
+present_careof muhhamad jamal uddin 
+permanent_careof muhhamad jamal uddin 
+user_id xgmtyfqw
+doj 08-Nov-2025
+doj 2025-11-14
+mobile_varification_code 65209399
+ssc_roll 223797
+ssc_reg 1410470743
+changeLanguageSelector-input English
+sid-country Bangladesh
+sid-first-name Mohiuddin
+sid-last-name jahangir
+sid-birthdate__month December
+sid-birthdate-day 18
+sid-birthdate-year 2001
+sid-email jahangirps631@gmail.com
+phone +880 1301-332775
+sid 59250100175
+_r_qq_ 748867
+doj 2025-12-24
+doj 25-Dec-2025
+doj 04-Jan-2026
+dob|input 05 Mar 1999
+_r_7sj_ Pages 1–2
+doj 18-Mar-2026
+doj 17-Mar-2026
+mobile-number 1301332775
+pppmtu 1480
+ppp_echotime 0
+dns1 1.1.1.1
+dns2 9.9.9.9
+hour 8
+second 1
+documentName Presentation1 Final
+q tank water FREE
+fields[first_name] Mohiuddin
+_r_15ru_ Pages 1–18
+_r_161j_ Pages 1–18
+_r_16hs_ Pages 1–18
+_r_15g_ Pages 1–18
+_r_1a3_ Pages 1–18
+_r_q2a_ Pages 1–18
+_r_27a9_ Pages 1–18
+_r_27jc_ Pages 1–18
+_r_i9r_ Pages 1–18
+_r_irg_ Pages 1–18
+_r_j0u_ Pages 1–18
+present_post mIRPUR
+father Nionta
+s  premiar pro
+id https://www.tiktok.com/@_your_abir_/video/7647569932154080520?is_from_webapp=1&sender_device=pc
+mobile 0130132275
+id https://www.tiktok.com/@mohammed_alif5/video/7235907467551526146?is_from_webapp=1&sender_device=pc
+phoneNumber 1
+phoneNumber 1575788658
+id https://www.tiktok.com/@lyrics_faruk_/video/7631979572476546325?is_from_webapp=1&sender_device=pc
+doj 10-Jul-2026
+id https://www.tiktok.com/@sayemftbl007/video/7657771153909419282?is_from_webapp=1&sender_device=pc
+phone 88013013327

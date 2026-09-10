@@ -1,0 +1,118 @@
+AutoHotkey - 2.0.23
+Equalizer APO - 1.4.2
+HeidiSQL 12.17.0.7270 - 12.17.0.7270
+Notepad++ (64-bit x64) - 8.9.6.1
+A Way Out
+Forza Horizon 6
+Airport Security Sucks! Demo
+MECCHA CHAMELEON
+SteamTools
+TAP-Windows 9.24.2 - 9.24.2
+TeamViewer - 15.79.4
+TikTok LIVE Studio - 1.23.2
+UrbanVPN - 5.1.1.7683
+VBCABLE-A, The Virtual Audio Cable
+VBCABLE-B, The Virtual Audio Cable
+WinRAR 7.20 (64-bit) - 7.20.0
+XAMPP - 8.0.30-0
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664 - 12.0.40664
+Microsoft Windows Desktop Runtime - 8.0.6 (x64) - 64.24.15241
+Microsoft GameInput - 3.3.221.0
+Node.js - 24.14.1
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 - 10.0.40219
+Microsoft Update Health Tools - 3.74.0.0
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211 - 14.44.35211
+Logitech G HUB - 2026.3.880543
+Oracle VirtualBox 7.2.8 - 7.2.8
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664 - 12.0.40664
+Bonjour - 3.1.0.1
+ExitLag version 5.20.0 - 5.20.0
+Microsoft .NET Host FX Resolver - 8.0.6 (x64) - 64.24.15199
+UrbanVPN - 5.1.1.7683
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211 - 14.44.35211
+Revo Uninstaller 2.7.0 - 2.7.0
+Microsoft Teams Meeting Add-in for Microsoft Office - 1.26.16801
+NVIDIA Graphics Driver 610.62 - 610.62
+NVIDIA App 11.0.7.247 - 11.0.7.247
+NVIDIA MessageBus 3 for NvApp - 3.21
+NVIDIA Backend - 11.0.7.247
+NvCpl - 1.0
+NVIDIA PhysX System Software 9.23.1019 - 9.23.1019
+NVIDIA FrameView SDK 1.7.12227.37421622 - 1.7.12227.37421622
+NVIDIA HD Audio Driver 1.4.5.7 - 1.4.5.7
+NVIDIA Install Application - 2.1002.461.0
+NVIDIA Container - 1.48
+NVIDIA AIUser Container - 1.48
+NVIDIA LocalSystem Container - 1.48
+NVIDIA Session Container - 1.48
+NVIDIA User Container - 1.48
+NVIDIA NvDLISR - 1.0
+NVIDIA Watchdog Plugin for NvContainer - 1.48
+NVIDIA Telemetry Client - 19.5.13.0
+NVIDIA ShadowPlay 11.0.7.0 - 11.0.7.0
+NVIDIA Virtual Audio 4.65.0.12 - 4.65.0.12
+Cloudflare One Client - 26.4.1350.0
+Update for x64-based Windows Systems (KB5001716) - 8.94.0.0
+BakkesMod version 3.0 - 3.0
+EA app - 13.735.2.6250
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 - 11.0.61030
+Epic Games Launcher - 1.3.176.0
+Microsoft .NET Host - 8.0.6 (x64) - 64.24.15199
+Microsoft .NET Runtime - 8.0.6 (x64) - 64.24.15199
+Battle.net
+Brave - 150.1.92.134
+Device Control
+Creative EAX Settings
+Google Chrome - 149.0.7827.201
+IQ Optimizer - 6.7.4.0
+Iriun Webcam version 2.9.4 - 2.9.4
+Copilot - 149.0.4022.80
+Microsoft Edge - 150.0.4078.48
+Microsoft Edge WebView2 Runtime - 149.0.4022.98
+OBS Studio - 32.1.1
+OpenAL
+Adobe Photoshop 2020 - 21.2.2.289
+Roblox Player
+Rockstar Games Launcher - 1.0.106.2879
+Rockstar Games SDK - 2.4.0.216
+Creative Speaker Settings
+Steam - 2.10.91.91
+Creative System Information
+Voicemeeter, The Virtual Mixing Console
+X-Mouse Button Control 2.20.5 - 2.20.5
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 - 12.0.40664.0
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211 - 14.44.35211.0
+EA app - 13.735.2.6250
+Redragon K633RGB-PRO - 1.6.6
+Lightshot-5.5.0.7 - 5.5.0.7
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft .NET Runtime - 10.0.5 (x86) - 80.20.50175
+Creative MediaSource
+Microsoft .NET Host - 10.0.5 (x86) - 80.20.50175
+Grand Theft Auto V Legacy - 1.0.3788.0
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660 - 12.0.40660.0
+Epic Online Services - 4.3.1
+LetsView V1.3.9 - 1.3.9
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 - 12.0.40664
+IQ Optimizer - 6.7.4.0
+Microsoft Windows Desktop Runtime 10.0.5 (x86) - 10.0.5.50000
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211 - 14.44.35211
+Microsoft Windows Desktop Runtime - 8.0.6 (x64) - 8.0.6.33720
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 - 9.0.30729
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 - 12.0.40664.0
+Microsoft Windows Desktop Runtime - 10.0.5 (x86) - 80.20.50175
+Microsoft .NET Host FX Resolver - 10.0.5 (x86) - 80.20.50175
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 - 11.0.61030
+Grand Theft Auto V - 1.0.3258.0
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211 - 14.44.35211
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 - 12.0.40664
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211 - 14.44.35211.0
+A Way Out
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660 - 12.0.40660.0
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 - 10.0.40219
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 - 12.0.30501.0
+USB Sound Blaster Audigy 2 NX

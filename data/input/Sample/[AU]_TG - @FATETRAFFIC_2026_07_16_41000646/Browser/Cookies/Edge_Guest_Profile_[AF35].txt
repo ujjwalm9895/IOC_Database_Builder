@@ -1,0 +1,5 @@
+﻿.tiktok.com	TRUE	/	FALSE	1814808118	ak_bmsc	
+.www.tiktok.com	TRUE	/	TRUE	1814808118	tiktok_webapp_theme	
+.www.tiktok.com	TRUE	/	TRUE	1814808118	tiktok_webapp_theme_source	
+.tiktok.com	TRUE	/	TRUE	1814808118	tt_chain_token	
+.tiktok.com	TRUE	/	FALSE	1814808118	ttwid	

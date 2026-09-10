@@ -1,0 +1,377 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 103.139.144.205
+Country: BD
+Date: 12.07.2026 01:41:31
+MachineID: 7f2a1c6c-a1c6-6a1f-6a80-15aa5c6f5c6f
+GUID: {41547c9d-41a0}
+HWID: B16E5B8025B9987B0A75-41547c9d-41a0-215D19B
+Path: C:\Users\wwwth\AppData\Local\Temp\12818950101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 11 Home Single Language 25H2 (Build 26200)
+Computer Name: LAPTOP-UC233JND
+User Name: wwwth
+Display Resolution: 1536x864
+Local Time: 12.07.2026 01:41:31
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Cores: 4
+Threads: 4
+RAM: 12030 MB
+VideoCard: Intel(R) UHD Graphics
+[Processes]
+  [4] System
+  [128] Registry
+  [536] smss.exe
+  [840] csrss.exe
+  [924] wininit.exe
+  [624] services.exe
+  [504] lsass.exe
+  [1108] svchost.exe
+  [1148] fontdrvhost.exe
+  [1216] WUDFHost.exe
+  [1288] svchost.exe
+  [1332] svchost.exe
+  [1376] WUDFHost.exe
+  [1444] WUDFHost.exe
+  [1652] svchost.exe
+  [1768] svchost.exe
+  [1776] svchost.exe
+  [1784] svchost.exe
+  [1820] svchost.exe
+  [1884] svchost.exe
+  [1912] IntelCpHDCPSvc.exe
+  [1948] svchost.exe
+  [2020] svchost.exe
+  [2052] svchost.exe
+  [2156] QMEmulatorService.exe
+  [2280] helperservice.exe
+  [2356] svchost.exe
+  [2448] svchost.exe
+  [2504] svchost.exe
+  [2528] svchost.exe
+  [2632] svchost.exe
+  [2640] svchost.exe
+  [2648] svchost.exe
+  [2724] Memory Compression
+  [2768] svchost.exe
+  [2800] igfxCUIServiceN.exe
+  [2828] svchost.exe
+  [2836] svchost.exe
+  [2968] svchost.exe
+  [3004] svchost.exe
+  [3044] svchost.exe
+  [3056] svchost.exe
+  [3100] conhost.exe
+  [3108] svchost.exe
+  [3176] svchost.exe
+  [3332] svchost.exe
+  [3360] svchost.exe
+  [3404] spoolsv.exe
+  [3440] svchost.exe
+  [3484] svchost.exe
+  [3592] svchost.exe
+  [3600] svchost.exe
+  [3608] svchost.exe
+  [3716] svchost.exe
+  [3776] svchost.exe
+  [3784] svchost.exe
+  [3800] svchost.exe
+  [3812] LenovoVantageService.exe
+  [3968] AgentService.exe
+  [3976] SchedulerService.exe
+  [4000] Lenovo.Modern.ImController.exe
+  [4008] GameInputRedistService.exe
+  [4016] FMService64.exe
+  [4024] LenovoUtilityService.exe
+  [4048] LNBITSSvc.exe
+  [4056] OneApp.IGCC.WinService.exe
+  [4064] RtkAudUService64.exe
+  [4080] esif_uf.exe
+  [4088] DAX3API.exe
+  [4180] RstMwService.exe
+  [4452] LMS.exe
+  [4476] svchost.exe
+  [4668] svchost.exe
+  [4712] jhi_service.exe
+  [5288] svchost.exe
+  [6044] svchost.exe
+  [6052] svchost.exe
+  [5376] svchost.exe
+  [6148] svchost.exe
+  [7060] AggregatorHost.exe
+  [1328] svchost.exe
+  [7096] svchost.exe
+  [1592] svchost.exe
+  [5528] svchost.exe
+  [7180] unsecapp.exe
+  [7248] WmiPrvSE.exe
+  [8308] svchost.exe
+  [8588] svchost.exe
+  [8888] svchost.exe
+  [8896] svchost.exe
+  [7764] svchost.exe
+  [9392] svchost.exe
+  [9452] wlanext.exe
+  [6244] LenovoVantage-(VantageCoreAddin).exe
+  [13064] SearchIndexer.exe
+  [14704] SecurityHealthService.exe
+  [10040] svchost.exe
+  [3876] svchost.exe
+  [13976] svchost.exe
+  [3896] aesm_service.exe
+  [9068] SocketHeciServer.exe
+  [3952] svchost.exe
+  [17472] svchost.exe
+  [17588] svchost.exe
+  [19220] Locator.exe
+  [18356] svchost.exe
+  [15176] svchost.exe
+  [13404] svchost.exe
+  [18400] svchost.exe
+  [13052] svchost.exe
+  [10852] svchost.exe
+  [20788] MsMpEng.exe
+  [4872] NisSrv.exe
+  [7900] svchost.exe
+  [2660] gamingservices.exe
+  [18584] gamingservicesnet.exe
+  [15560] GameInputSvc.exe
+  [4540] svchost.exe
+  [14232] svchost.exe
+  [9116] svchost.exe
+  [11712] MpDefenderCoreService.exe
+  [6896] svchost.exe
+  [7520] WmiPrvSE.exe
+  [568] svchost.exe
+  [17496] csrss.exe
+  [7228] winlogon.exe
+  [21156] fontdrvhost.exe
+  [14288] dwm.exe
+  [3540] GameInputSvc.exe
+  [8688] GameInputRedistService.exe
+  [6912] FnHotkeyCapsLKNumLK.exe
+  [18148] DAX3API.exe
+  [15644] AutoModeDetect.exe
+  [14392] conhost.exe
+  [20684] FnHotkeyUtility.exe
+  [18052] sihost.exe
+  [12044] svchost.exe
+  [5112] svchost.exe
+  [9588] svchost.exe
+  [23484] igfxEMN.exe
+  [15624] taskhostw.exe
+  [17952] taskhostw.exe
+  [4332] MSIAfterburner.exe
+  [8736] unsecapp.exe
+  [11300] explorer.exe
+  [10908] CrossDeviceResume.exe
+  [4752] svchost.exe
+  [4644] StartMenuExperienceHost.exe
+  [13652] CrossDeviceService.exe
+  [18820] SearchHost.exe
+  [14360] WidgetBoard.exe
+  [17316] RuntimeBroker.exe
+  [11248] svchost.exe
+  [21440] WidgetService.exe
+  [3932] UserOOBEBroker.exe
+  [2812] msedgewebview2.exe
+  [12452] msedgewebview2.exe
+  [14432] msedgewebview2.exe
+  [12232] msedgewebview2.exe
+  [13944] msedgewebview2.exe
+  [9936] msedgewebview2.exe
+  [3492] ctfmon.exe
+  [22680] TextInputHost.exe
+  [23160] RuntimeBroker.exe
+  [21016] updatechecker.exe
+  [1896] BatteryWidgetHost.exe
+  [2540] msedgewebview2.exe
+  [7596] msedgewebview2.exe
+  [11832] msedgewebview2.exe
+  [21252] msedgewebview2.exe
+  [15600] msedgewebview2.exe
+  [5996] LenovoVantage-(GenericMessagingAddin).exe
+  [19800] svchost.exe
+  [948] SecurityHealthSystray.exe
+  [18404] AppMarket.exe
+  [3900] syzs_dl_svr.exe
+  [18068] conhost.exe
+  [19952] cef_frame_render.exe
+  [13264] cef_frame_render.exe
+  [14596] cef_frame_render.exe
+  [16592] RtkAudUService64.exe
+  [3168] OneDrive.exe
+  [16364] Avro Keyboard.exe
+  [7664] fdm.exe
+  [15232] backgroundTaskHost.exe
+  [11744] RuntimeBroker.exe
+  [4972] QSHelper.exe
+  [9112] EpicGamesLauncher.exe
+  [13716] EpicWebHelper.exe
+  [4104] EpicWebHelper.exe
+  [12648] BlueStacksServices.exe
+  [21656] BlueStacksServices.exe
+  [6716] BlueStacksServices.exe
+  [22628] BlueStacksServices.exe
+  [7616] Canva.exe
+  [22268] Canva.exe
+  [14240] XboxPcTray.exe
+  [10092] XboxPcAppFT.exe
+  [14436] ChatGPT Classic.exe
+  [11428] ChatGPT Classic.exe
+  [15184] ChatGPT Classic.exe
+  [7868] ChatGPT Classic.exe
+  [16864] ChatGPT Classic.exe
+  [9608] USBGuard.exe
+  [21320] jusched.exe
+  [11736] SystemSettings.exe
+  [16388] ApplicationFrameHost.exe
+  [9288] svchost.exe
+  [22684] chrome.exe
+  [19352] chrome.exe
+  [8464] chrome.exe
+  [11384] chrome.exe
+  [13304] chrome.exe
+  [22796] chrome.exe
+  [4664] chrome.exe
+  [6104] chrome.exe
+  [17256] chrome.exe
+  [23200] svchost.exe
+  [4408] UDClientService.exe
+  [1844] MessagingPlugin.exe
+  [8864] conhost.exe
+  [12332] AppProvisioningPlugin.exe
+  [9684] conhost.exe
+  [16200] jucheck.exe
+  [15236] chrome.exe
+  [21232] chrome.exe
+  [6060] chrome.exe
+  [13904] chrome.exe
+  [17020] WhatsApp.Root.exe
+  [11640] RuntimeBroker.exe
+  [5456] OneDrive.Sync.Service.exe
+  [17672] chrome.exe
+  [11716] chrome.exe
+  [12364] chrome.exe
+  [11404] ShellHost.exe
+  [15036] svchost.exe
+  [10132] smartscreen.exe
+  [22952] svchost.exe
+  [4544] svchost.exe
+  [20696] LenovoVantage-(GenericTelemetryAddin).exe
+  [19876] chrome.exe
+  [21168] chrome.exe
+  [23036] audiodg.exe
+  [19244] chrome.exe
+  [19360] chrome.exe
+  [12812] chrome.exe
+  [6580] chrome.exe
+  [21728] chrome.exe
+  [11852] chrome.exe
+  [18632] WindowsTerminal.exe
+  [12028] OpenConsole.exe
+  [16944] powershell.exe
+  [15024] SearchProtocolHost.exe
+  [15392] WmiPrvSE.exe
+  [23324] setup.exe
+  [12832] svchost.exe
+  [19532] Zrnm1huD.exe
+  [19704] svchost.exe
+  [9888] Lenovo.Modern.ImController.PluginHost.Device.exe
+  [16428] Lenovo.Modern.ImController.PluginHost.Device.exe
+  [22640] runtimeprovider.exe
+  [5664] 4BtqZz1.exe
+  [19152] s0907.exe
+  [9852] Bwale.exe
+  [17388] P2b8LxKkI.exe
+  [14456] P2b8LxKkI.tmp
+  [10280] h2testdrive.exe
+  [8268] N07vNTxrKLM.exe
+  [5768] b4wsczTtz3mM.exe
+  [10196] file.exe
+  [15336] dialer.exe
+  [16888] dialer.exe
+  [15512] RuntimeBroker.exe
+  [3348] file.exe
+  [2816] TfObCQJvo.exe
+  [22032] TfObCQJvo.tmp
+  [18056] backgroundTaskHost.exe
+  [13480] powershell.exe
+  [2152] cmd.exe
+  [18448] conhost.exe
+  [2576] choice.exe
+  [3664] fd1399c4.exe
+  [9816] dialer.exe
+  [14584] dialer.exe
+  [19628] powershell.exe
+  [8876] WgBKKkjjzNNj7.exe
+  [12292] windowsservice.exe
+  [8296] cmd.exe
+  [19040] cmd.exe
+  [4820] conhost.exe
+  [18756] conhost.exe
+  [22820] tasklist.exe
+  [16228] tasklist.exe
+  [1192] s0907.exe
+  [20540] powershell.exe
+  [22900] conhost.exe
+[Software]
+  BlueStacks
+  WinRAR 6.20 (64-bit)
+  Microsoft .NET AppHost Pack - 7.0.20 (x64_arm)
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  MiniTool Partition Wizard Free 12.9
+  Free Download Manager
+  Microsoft GameInput
+  Microsoft .NET AppHost Pack - 7.0.20 (x64)
+  Allgemeine Runtime Files (x86)
+  Microsoft .NET Runtime - 7.0.20 (x64)
+  Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)
+  Microsoft .NET Toolset 7.0.120 (x64)
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+  Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Microsoft.NET.Sdk.iOS.Manifest-7.0.100 (x64)
+  Microsoft.NET.Sdk.macOS.Manifest-7.0.100 (x64)
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+  Microsoft Windows Desktop Targeting Pack - 7.0.20 (x64)
+  Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.29.30133
+  Microsoft.NET.Sdk.tvOS.Manifest-7.0.100 (x64)
+  Microsoft Windows Desktop Runtime - 7.0.20 (x64)
+  Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100 (x64)
+  Microsoft .NET Targeting Pack - 7.0.20 (x64)
+  Microsoft .NET 7.0 Templates 7.0.120 (x64)
+  Microsoft .NET AppHost Pack - 7.0.20 (x64_arm64)
+  Microsoft ASP.NET Core 7.0.20 Targeting Pack (x64)
+  Microsoft Silverlight
+  Microsoft.NET.Sdk.Maui.Manifest-7.0.100 (x64)
+  Microsoft Office Office 64-bit Components 2007
+  Microsoft Office Shared 64-bit MUI (English) 2007
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007
+  Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+  Microsoft Teams Meeting Add-in for Microsoft Office
+  Microsoft Visual C++ 2005 Redistributable (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)
+  Microsoft .NET Host FX Resolver - 7.0.20 (x64)
+  Microsoft .NET AppHost Pack - 7.0.20 (x64_x86)
+  Microsoft ASP.NET Core 7.0.20 Shared Framework (x64)
+  Google Chrome
+  Microsoft Update Health Tools
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+  Microsoft Visual C++ 2019 X64 Additional Runtime - 14.29.30133
+  Microsoft .NET Host - 7.0.20 (x64)
+  Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)
+  Epic Games Launcher Prerequisites (x64)

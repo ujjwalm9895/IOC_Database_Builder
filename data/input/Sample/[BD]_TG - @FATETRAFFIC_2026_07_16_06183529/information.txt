@@ -1,0 +1,190 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 103.107.123.3
+Country: BD
+Date: 11.07.2026 01:56:54
+MachineID: 084f0d98-f0d9-6710-f41d-fc52258535b5
+GUID: {33688216-dbe5}
+HWID: 36111A92FC63EAD58CBF-33688216-dbe5-3A81BA1
+Path: C:\Users\RAHMAT~1\AppData\Local\Temp\13117410101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 10 Pro (Build 16299)
+Computer Name: DESKTOP-K21EUEQ
+User Name: Rahmatullah Bappy
+Display Resolution: 1600x900
+Local Time: 11.07.2026 01:56:54
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+Cores: 4
+Threads: 4
+RAM: 8092 MB
+VideoCard: Intel(R) HD Graphics 4400
+[Processes]
+  [4] System
+  [324] smss.exe
+  [432] csrss.exe
+  [548] wininit.exe
+  [556] csrss.exe
+  [632] services.exe
+  [664] winlogon.exe
+  [688] lsass.exe
+  [844] svchost.exe
+  [864] fontdrvhost.exe
+  [872] fontdrvhost.exe
+  [880] svchost.exe
+  [1012] svchost.exe
+  [360] svchost.exe
+  [772] dwm.exe
+  [1116] svchost.exe
+  [1180] svchost.exe
+  [1276] svchost.exe
+  [1348] svchost.exe
+  [1356] svchost.exe
+  [1400] svchost.exe
+  [1440] svchost.exe
+  [1460] svchost.exe
+  [1468] svchost.exe
+  [1480] svchost.exe
+  [1580] svchost.exe
+  [1616] svchost.exe
+  [1652] svchost.exe
+  [1676] svchost.exe
+  [1712] igfxCUIService.exe
+  [1836] svchost.exe
+  [1844] svchost.exe
+  [1852] svchost.exe
+  [1928] svchost.exe
+  [1996] svchost.exe
+  [416] svchost.exe
+  [2132] Memory Compression
+  [2216] svchost.exe
+  [2248] svchost.exe
+  [2260] svchost.exe
+  [2268] svchost.exe
+  [2388] svchost.exe
+  [2460] svchost.exe
+  [2532] svchost.exe
+  [2592] spoolsv.exe
+  [2668] svchost.exe
+  [2928] svchost.exe
+  [2964] svchost.exe
+  [2972] svchost.exe
+  [2988] svchost.exe
+  [2996] svchost.exe
+  [3004] svchost.exe
+  [3012] svchost.exe
+  [3020] svchost.exe
+  [3032] svchost.exe
+  [3056] svchost.exe
+  [1920] MsMpEng.exe
+  [2224] MpDefenderCoreService.exe
+  [2788] svchost.exe
+  [3648] svchost.exe
+  [3816] svchost.exe
+  [3856] svchost.exe
+  [3448] svchost.exe
+  [4236] dllhost.exe
+  [5032] sihost.exe
+  [5056] svchost.exe
+  [4900] svchost.exe
+  [5180] svchost.exe
+  [5224] taskhostw.exe
+  [5236] igfxEM.exe
+  [5256] igfxHK.exe
+  [5264] igfxTray.exe
+  [5404] svchost.exe
+  [5484] ctfmon.exe
+  [5536] explorer.exe
+  [6084] ShellExperienceHost.exe
+  [4296] SearchUI.exe
+  [6204] RuntimeBroker.exe
+  [6276] svchost.exe
+  [6968] RuntimeBroker.exe
+  [6908] SearchIndexer.exe
+  [7076] WmiPrvSE.exe
+  [4364] svchost.exe
+  [7240] svchost.exe
+  [2732] svchost.exe
+  [8136] svchost.exe
+  [7692] Avro Keyboard.exe
+  [4272] svchost.exe
+  [3992] Dllhost.exe
+  [8540] Chrome.exe
+  [8580] 647eae3b.exe
+  [8612] Client.exe
+  [8828] Wihnup.exe
+  [5892] crashhelper.exe
+  [9456] Bwale.exe
+  [8472] svchost.exe
+  [5684] PC1500DiskAnalyzer.exe
+  [6592] SecurityHealthService.exe
+  [9472] SecurityHealthService.exe
+  [10220] svchost.exe
+  [9548] svchost.exe
+  [5472] svchost.exe
+  [10036] svchost.exe
+  [9852] svchost.exe
+  [9804] svchost.exe
+  [6116] svchost.exe
+  [8100] svchost.exe
+  [10156] dasHost.exe
+  [1644] svchost.exe
+  [2612] dllhost.exe
+  [4632] svchost.exe
+  [9724] runtimeprovider.exe
+  [9052] dllhost.exe
+  [8508] dllhost.exe
+  [4260] audiodg.exe
+  [6848] svchost.exe
+  [9316] svchost.exe
+  [6004] sedsvc.exe
+  [8636] wmpnetwk.exe
+  [7476] chrome.exe
+  [5768] chrome.exe
+  [2544] chrome.exe
+  [7348] chrome.exe
+  [8600] chrome.exe
+  [9908] chrome.exe
+  [3252] chrome.exe
+  [9776] chrome.exe
+  [7112] svchost.exe
+  [9532] chrome.exe
+  [11192] svchost.exe
+  [8768] chrome.exe
+  [1236] SystemSettingsBroker.exe
+  [11252] chrome.exe
+  [8848] chrome.exe
+  [4996] dllhost.exe
+  [4532] ApplicationFrameHost.exe
+  [5564] svchost.exe
+  [4732] RuntimeBroker.exe
+  [7512] chrome.exe
+  [10580] MpCmdRun.exe
+  [11680] conhost.exe
+  [11744] MpCmdRun.exe
+  [3204] conhost.exe
+  [1268] svchost.exe
+  [11396] svchost.exe
+  [10700] 4BtqZz1.exe
+  [11936] zz4Sj5M.exe
+  [6020] chrome.exe
+[Software]
+  Mozilla Firefox (x64 en-GB)
+  Mozilla Maintenance Service
+  Update for Windows 10 for x64-based Systems (KB4480730)
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+  Microsoft Visual Studio Installer
+  Update for Windows 10 for x64-based Systems (KB4023057)

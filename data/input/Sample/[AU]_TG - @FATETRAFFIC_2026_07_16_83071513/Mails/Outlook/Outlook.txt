@@ -1,0 +1,295 @@
+Target: MicrosoftAccount:target=SSO_POP_User:user=bkennard2024@outlook.com
+User: bkennard2024@outlook.com
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_User:user=Forza.prm36@outlook.com
+User: Forza.prm36@outlook.com
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_User:user=pbnapuntd775@outlook.com
+User: pbnapuntd775@outlook.com
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_User:user=bkennard47@gmail.com
+User: bkennard47@gmail.com
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_Device
+User: 02uhpjtzpdzanznt
+Pass: (empty)
+
+Target: LegacyGeneric:target=XblGrts|704208617|00030000763E0D30|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.MR2OTKkfM8d-ofFsYV60EaanbeiJx9BNDAQ082wQRr7CnsBjVVOir3kj27bPS-MuQjE-vjTuQvikc89WLlOtHykPVf3xGAL-2BNHy0KWGeDdGpS9erY3fcRaCUiLHKh5s0Ymj0n1sgn
+
+Target: LegacyGeneric:target=XblGrts|2030093255|0003BFFD79846037|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"0003BFFD79846037","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.NnGSAghLPJGIkji3fxtzLVGGcGNBhNcaVR7S2_WWuOr2Lm-LFIs5uSKOzfXXxdS_G9uvKgayM27LfhWy06-47qmD3O0t18Nfy6X6mPtCOFgE7SMUn06agyG_OEutbGWNVtlMGxbSiTJmZJH9n
+
+Target: LegacyGeneric:target=XblGrts|1794566092|00030000763E0D30|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://playfab.xboxlive.com/","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiI5OUZzTTJhVXc5MFFZM1FZWFRZM1JBZUNySTgifQ.LCnnur9tp-ZWAJsZ4vSprq0pvo1QvzrnK76J7yILfZJapUz4PMgsCQPEj6NyFTlVzoGjzWcmvCp2X6XKscs92kMF3ssW4AHOxokmeY-A823UY_A5H1pXOUHti4SB3cYnALbstfd
+
+Target: LegacyGeneric:target=XblGrts|506671725|00030000763E0D30|Production|RETAIL|Xtoken|http://update.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://update.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiJkU2V2X0lHd2FCODI5UGluOVF0MU1KZFZoRU0ifQ.tQeWsVYZW_ZS87uTMYYELXT4Xfelj8yQ6jLGLiHAiExL1Vf1xFOyYKT_j_NT-fszLW_wXR0u1O2jHMYEGm5oN686XVBybTkbM7vkN50YW9BcJt2VjdjiLedQx6W3CYjYNIQIazNxP
+
+Target: LegacyGeneric:target=XblGrts|1753087315||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+User: N/A
+Pass: A36w","NotAfter":"2025-05-24T01:55:18.7280000Z","IssueInstant":"2025-05-10T01:55:18.7280000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}],"xdi":{"did":"F900D43A4892E2DC"}}}}
+
+Target: LegacyGeneric:target=XblGrts|2030093255||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.qByF8j-dm18Ruv5YzaYW9bRuPWHXxH3AKU-y5XTBtTBaUtsNZbK846vL7OSXcqLChXO-O10PqiTi-LphvogT6fsZkNAulPuBMsjk9kJII3z5al5tN0tkBCTY0xyOrmcFAlK5EvulZ0Iwzvlk9SYbG0zzhITad3IuiXOzVeJ1_R
+
+Target: LegacyGeneric:target=XblGrts|704208617||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Dtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.Axf12MwwN8bUmvE4zMNRlbnKA_yOasw9Kg9DmR9_kMN3DRsO7yY4QYQm4IwQzi6aIPkT6lUK43XY02iVzhXynPxc8wa02NbNiV_VcdaNEiBn5FpZ9LJG1mM8XxsFc42DLNYiroC6dEnr9Gp0uyNMqKWMe5R4nh1DTSIfy67sZ2
+
+Target: LegacyGeneric:target=XblGrts|1794566092|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 30000Z","IssueInstant":"2025-01-15T08:35:13.9730000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"12139559020522754909","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|2030093255|00030000763E0D30|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.knrk_CQBQmIswjfcJG2dCDuHQBrVsGgifvfKKGwneotjMVnIE-HWfK7ihqmRw6dsezkEqQoED1GewbdJpPHkooQFl1NhQULg7zY2xd13hfCwOz_6P4MrvRzXyzMnOWxu5_8G8YXzspi
+
+Target: LegacyGeneric:target=XblGrts|1777860928|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: ":"2024-04-28T04:01:57.1240000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"12109796983538476967","gtg":"Qiuxrz","mgt":"Qiuxrz","mgs":"","umg":"Qiuxrz","xid":"2535415707694229","agg":"Adult","prv":"184 185 186 187 188 190 191 193 195 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1794566092|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.aiaS657NHaAm5NFcE50TL2moryDVJ7SVXu_5uI07EX0YKD0BHEh010aEXPggSU5Y-4yc-tUmxaNnXpzlAdz-Qk3EkOrhPRxfCZICMD8CiMWsCNf_ZXJSlvfSOpjhSVoqu3Iz2wr-MmWzQnFrD
+
+Target: LegacyGeneric:target=XblGrts|2030093255|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.FGQzxkOryh9p78cErpJhmdVeL4k0utSTxnPvfmyDiSxabTC8bRphSa9Yo4Y-C-SlHDv1YlSKL7WASrVVMr7GLg7sW5cS8OlEtEqomlf7HKCD_YkJfHubgBKRWj4ygCRiHZIPhwuOp57KfvuOH
+
+Target: LegacyGeneric:target=XblGrts|1880744816|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 2025-01-21T20:34:35.3980000Z","IssueInstant":"2025-01-21T04:34:35.3980000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"15272525737223796598","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|506671725|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.izLhpUc4IQWfq-kaiBoRmTKfxHglUY7WNxJpe0plyi_1YGdBBuHAfUNSyCkHr3gWbRLqZKVsay7M6st1VswkcUlv7IOjrhA2KyPVA5euwan5GnihVB158XPtTgoYH8ktOJToFQN-9IrlGI4il
+
+Target: LegacyGeneric:target=XblGrts|506671725|00030000763E0D30|Production|RETAIL|DUXtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"DUXtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.FAHPqYGfyd0Bsi2u10zwV54HvAjm3Ho-_DLE6jya_wJDxCryl5Z9SmBn4CblT7QEaK1r-Dd3qv4Cza07S_J80MSmK52KVdO8ks27K4OHUokzGge3zwicNymE4ac1CKFN6MBR0cEpstJTK7
+
+Target: LegacyGeneric:target=XblGrts|1880744816|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: ":"2025-02-18T00:20:59.7220000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"16257925166066918831","gtg":"Qiuxrz","mgt":"Qiuxrz","mgs":"","umg":"Qiuxrz","xid":"2535415707694229","agg":"Adult","prv":"184 185 186 187 188 190 191 193 195 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1777860928||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+User: N/A
+Pass: aDKA","NotAfter":"2024-05-12T04:00:13.4240000Z","IssueInstant":"2024-04-28T04:00:13.4240000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}],"xdi":{"did":"F900D43A4892E2DC"}}}}
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=forza.prm36@outlook.com
+User: Forza.prm36@outlook.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=XblGrts|1794566092|00030000763E0D30|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT|1
+User: N/A
+Pass: GmiX2ty-7NPgS8C9M","NotAfter":"2025-01-16T00:35:17.4730000Z","IssueInstant":"2025-01-15T08:35:17.4730000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"12139559020522754909","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|506671725|000300007346FE2F|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300007346FE2F","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.J4QaKF-SM6jgdzEo7SpqfPbRbPEuX7w-EOtB3V3Y1VVd_3leX5wFHnVb7gRpy9cTs8FYStcZW9nlUWigecXUQjAGsfD4pIrS9JgyENfAgkmK78ga8vrHpzcVPk8yGhaKBaMWs100fzc
+
+Target: LegacyGeneric:target=XblGrts|2030093255|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 90000Z","IssueInstant":"2024-10-29T08:31:47.4090000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"16038173639219519655","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|704208617|00030000763E0D30|Production|RETAIL|Xtoken|https://gameservices.xboxlive.com/||JWT|1
+User: N/A
+Pass: sr":"","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|704208617||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.yEM8F3GOy-rsgFi0WrU2VbllqhBhDXonbRXGaWxs0lwu6ZWF-vd-8jSgH1WVD3z10qKnNOE-yfuO2Y_HAjjexK2ECCUta4-EHf--Jsv69BHlRkTdv9xAkNWF6JMpGOlG_KZdHicq0p9-T4ncJULJ2_DWQDrJgDhNuQBjQvb8qx
+
+Target: LegacyGeneric:target=XblGrts|1717113201|00030000763E0D30|Production|RETAIL|Xtoken|https://gameservices.xboxlive.com/||JWT|1
+User: N/A
+Pass: sr":"","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1794566092||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Dtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.FqhCYEFCSHKN0jjmO6x0WCpwAikp-n3-oZAvrTEsChbdqiz5o1tAfDLIh1LJjvuYSpt91fSc53Ylx88kPNuOUmV911wy9JH3EhHNquazPkO4YDiP4zNSJtKHAhp3OHoIAbq-ZT48mUiQdZ998Gs8ujmZoz-cHFwgebNMNSiA4n
+
+Target: LegacyGeneric:target=XblGrts|506671725|00030000763E0D30|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.f70N5UhIxQQgIVX7CNhFp5IQt2Ap37UP8eA3moAmkf0cSoNWkCemZO2W6YBnPKSavuTjE2RPVMJxrYjZDN6MVRUzVC_ZI-bknu1e-gsn7Gvu-JWqr308oxXeD6_8g4FLuKuHZaRhhy9
+
+Target: LegacyGeneric:target=XblGrts|1753087315||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.BerBLr844mMsoIDRC-ONrbLCMt-blcvOxmqTbpMl27QnpDFFZXWyiLoS2RTrrooNBRUT_Y9OapSR7Gtz2u9LwdOMhn6jk9ZlPy2sVgoGUBvhoTGBRoN6TUdDgLiJXZYzM88sJL-SmNmz97cmZ9brClYUiCrohWDcXSc299lOCe
+
+Target: LegacyGeneric:target=XblGrts|2030093255|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: ":"2025-05-05T08:15:03.1940000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"16297265827450032859","gtg":"Qiuxrz","mgt":"Qiuxrz","mgs":"","umg":"Qiuxrz","xid":"2535415707694229","agg":"Adult","prv":"184 185 186 187 188 190 191 193 195 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1880744816|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.HWFWnxiOJrDRtdWmgHC24B9bJH2m68GrU-S8s3lxnGniQmhGe-Cmgsk76I2_zrSNITGVK-kp-y3Lei2AIN-VqOTPV03GjZo8s89WNPOq3ABJzMYWeHbZkbjOyqLlT1GlMcMUTZVB6xdGCYxbK
+
+Target: LegacyGeneric:target=XblGrts|1794566092|000300000659F562|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.uYim4QidwkaVr9cNPKHKXDo2-5XaSgVMnL78HvMTrebGknQqGHxYOTNE2gRaj_bkBISWWvSmFe-LAlqyCflHGsAk0nK5WiXP9nYDn11bD3cx7IN4mvrpAuK25kuByq6hA-ezQFPt94S
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=bkennard47@gmail.com
+User: bkennard47@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.DQXUJFVg8FvPBHXkhz7oHmEtMZ-SCB_d66bGKqDIFMQwJIDZCXHOubQ6GMtMYw6qwNThtW3ayBGuybe0uYHjxqcQeoYP1zbwvZRUJ4PpEvdx065J51B2D1OdcOfI_sxN2SYgG-OeK5LMfxgoUXI8w4Od6ZyVT4Fp3Vfy2miZyY
+
+Target: LegacyGeneric:target=XblGrts|2030093255|00030000763E0D30|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://playfab.xboxlive.com/","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiI5OUZzTTJhVXc5MFFZM1FZWFRZM1JBZUNySTgifQ.liers0OJn12jQ9RBiVengFwPhp5IcdiErO_uYXYrAgZYAyZOag4tEOSBzlc9TRDOeH0_5_xx_Xq7kDSsapxxwKZ2OX-4KszZ4qHqwAhiccPbHXkneSlXl8iJJ5B5a0IuQ-cgOyE
+
+Target: LegacyGeneric:target=XblGrts|1777860928|000300000659F562|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.kdXFaFbss-kGu7VboIUrLEeq9G5OSAXNV51aD1pr4d9FqkrehhXCGKIRezncVyl4yiGot40OED7u06Hh_VOJMlmkNdSkwc9GhSOpNAMWnhoh5tAX9wkoQtJ2e-YM1gS_GMKgrkj29Ve
+
+Target: LegacyGeneric:target=XblGrts|1777860928||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.Bn1-6GgOJ-fmf42q__DPQe3K7-q47zNI1mhd2-IdrCI6SeviudAKNiYaibQ7hWMrelPfHzo1Z5AyverPKJ-40ZFTulbUgpG_c-nA4eyC8et-rD6FBTCEpw8trqBTYI9uO3aRna3yqGsJhEyaQ-SX_bV9ZdhCQbevBPNkupDDi1
+
+Target: LegacyGeneric:target=XblGrts|2030093255|0003BFFD79846037|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 50000Z","IssueInstant":"2024-04-24T10:23:14.2250000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"16279246273407307005","gtg":"QUIXRZ1714","mgt":"QUIXRZ","mgs":"1714","umg":"QUIXRZ#1714","xid":"2535455935889383","agg":"Adult","prv":"184 185 186 187 188 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1717113201|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 80000Z","IssueInstant":"2024-06-15T06:06:58.4680000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"18313739733886898310","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 189 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1880744816|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.KBkP9kwR8s_xkCWAGiq7Jbv6BPHEye6ed3dVBdK4z1O0gCAmMLU0PRGfikHsIdYlVLoGcukugYqt1ivNVMZqfoca-CCSuUdtQV0IUnVsyey8LPf62NS0ZyJv4RR_30cJKcx1JUZ_sRu2TqMZm
+
+Target: LegacyGeneric:target=XblGrts|2030093255|0003BFFD79846037|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT|1
+User: N/A
+Pass: e7fc5v9hCnic8zRaI","NotAfter":"2024-04-25T02:40:21.6220000Z","IssueInstant":"2024-04-24T10:40:21.6220000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"16279246273407307005","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|506671725|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 2025-06-28T20:08:12.0350000Z","IssueInstant":"2025-06-28T04:08:12.0350000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"2736124358281269524","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=jkiarr33@outlook.com
+User: jkiarr33@outlook.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=XblGrts|1777860928|000300000659F562|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://playfab.xboxlive.com/","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiI5OUZzTTJhVXc5MFFZM1FZWFRZM1JBZUNySTgifQ.ciFH50XlrykpCHu8bxZBrJg3tikpcp4N3pK8WyLRYCQe-Z58GhVDIx2A9tF8Q41HyrYgdPHZYMa02jWZrhcjK4XR01JiKkIJILdrw4QzTmUOC0zWJzAf37VzQekDBwilwIL88Dr
+
+Target: LegacyGeneric:target=XblGrts|1717113201||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Dtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.Y7NkKtKeHNf53tvIRk-8eK2kbugWn9_2m1tXdocLC0WQK9pEDw9vIEQdTfXTnRDqfse7DKA5CCR11g30T4NmBVEgnlXbYqGsmu_mr1M4v-aOxy_igjxAQxsGVhM7TttyzsKO9h0dohTp81HV5eIPp6XzCsZ2UBflgEa0nk9bWM
+
+Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.IxSGo3gcaXmrmsw8xX-6brvBCXYj3ai8s8MgUr0OYTJBugEm0s_uxDHe8IZHOyvaGRSQRPBEe9nztFEUeI-TsEUxRbeGAh1bB6ti2GbZ-eyIA58-9cKAdXQLGYB7h8PwXhaKj51mrO1bXvaMQpamQZTlm-M9uozTv11bZ8QMkE0.oro
+
+Target: LegacyGeneric:target=XblGrts|506671725|00030000763E0D30|Production|RETAIL|DUXtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: uhs":"4021026935292200164","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":"190"}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1880744816||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Dtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.H4f10N6kibLp4htPGmiNjJK4bqEcGUVBAuzugnhPxQjeQS_eQQ0GFnE75HY1D5yxVJtBOD7GNiXm8eW3wPAqy8DQxcuwNUdQHkVxALU5eQsP4UxUkrEogXa9KFFdPWFECbPCztf0fU0bN4bHfBp90LoqtF9z3S4FM0WtBxBekw
+
+Target: LegacyGeneric:target=XblGrts|1753087315|00030000763E0D30|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.V452jF4KreNbwTpRL6xc0H5vrMm-rn-dj0XBNIq_qEVYd3wWVG_z52HXUnzpKQFBwDa18x4L-bWly5SiG_aW9Uah-OHXEe6YfkHyT4rwCUZGQQyOEorKtUTed6i5JrKXoWXf5dqMZjR
+
+Target: LegacyGeneric:target=XblGrts|2030093255|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.GXiej8M-8SdAX0yV3FcPhd8VjXJyXNpjQ4Rsv0voglB-q3zRMadEaQ37Zh-Zv4XYrmQJQQZxhxCjX7U-pF53MaqtgSM27xUOnAMYaoFHFaiv9HqoBeVdWBHmi_MFjkWy4tKhW3yvZkIHdP3CV
+
+Target: LegacyGeneric:target=XblGrts|2030093255||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+User: N/A
+Pass: O_iQ","NotAfter":"2025-05-19T08:15:01.3630000Z","IssueInstant":"2025-05-05T08:15:01.3630000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}],"xdi":{"did":"F900D43A4892E2DC"}}}}
+
+Target: LegacyGeneric:target=XblGrts|2030093255|0003BFFD79846037|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"0003BFFD79846037","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.aB3uIJ4IqJ7dJOp84rgt_D_DhqbLHhwbkH-EVZ6y4nyQ38DiQCX50Fh9vi40kixS5GbZjRMXHvP40XiBedSh7G_RwcJ8OtENytpHyiOdy7GV8yxs9OTGdCpPNLoEVbc1sFaNLeOyQu4
+
+Target: LegacyGeneric:target=XblGrts|1880744816||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.eJZuQsCXiZksZHTy3K5QCa8o7rYZ-nSQxzmaniM0GEcE0TkkS_uNfOg_MyAKVk-xMcJ4syU2lHUZVjsyf9_CFfrOklw3vM6PVAaaHUJ4wGm5a2uPiDU-3OMZC1bRLqEFAaaL55pp-XhAM5_hqX3fgMBDcxoyLzM6oiYG-cOjXG
+
+Target: LegacyGeneric:target=XblGrts|1753087315|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.FAHPqYGfyd0Bsi2u10zwV54HvAjm3Ho-_DLE6jya_wJDxCryl5Z9SmBn4CblT7QEaK1r-Dd3qv4Cza07S_J80MSmK52KVdO8ks27K4OHUokzGge3zwicNymE4ac1CKFN6MBR0cEpstJTK7Wym
+
+Target: LegacyGeneric:target=XblGrts|1794566092|000300000659F562|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT|1
+User: N/A
+Pass: GXvhzDVWB__loG9QY","NotAfter":"2024-08-25T18:05:23.5370000Z","IssueInstant":"2024-08-25T02:05:23.5370000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"7921424295739898294","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1794566092||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+User: N/A
+Pass: 7Ffw","NotAfter":"2025-03-09T04:37:03.5300000Z","IssueInstant":"2025-02-23T04:37:03.5300000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}],"xdi":{"did":"F900D43A4892E2DC"}}}}
+
+Target: LegacyGeneric:target=XblGrts|1794566092|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 4.5170000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"1293338016654864495","gtg":"Qiuxrz","mgt":"Qiuxrz","mgs":"","umg":"Qiuxrz","xid":"2535415707694229","agg":"Adult","prv":"184 185 186 187 188 190 191 193 195 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1794566092|000300000659F562|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://playfab.xboxlive.com/","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiI5OUZzTTJhVXc5MFFZM1FZWFRZM1JBZUNySTgifQ.aCJPCPB0DgLqpiOFRZSf5lRo4MR8NKqdkZTg_oClP4TnZ5YRyv4Zd6iwPtsxSpQyhULA5gYq8dpb0IEWpTNoNzG6NvKNDzNcrLs_9IAiHNsSIjseQ_KDhyCqvEe6xFSKZI3061e
+
+Target: LegacyGeneric:target=XblGrts|704208617|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: iolf2A.URKb6Qg7nEXQyNO5YkhrTZONF5NuRuJgzSh0Fg_QOyQ","NotAfter":"2025-06-28T20:10:56.3730000Z","IssueInstant":"2025-06-28T04:10:56.3730000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"3622625836078100511","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":"190"}]}}}
+
+Target: LegacyGeneric:target=XblGrts|1753087315|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT|1
+User: N/A
+Pass: 50000Z","IssueInstant":"2025-05-21T09:03:45.2350000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"5810312791830535379","gtg":"slowfgxr","mgt":"slowfgxr","mgs":"","umg":"slowfgxr","xid":"2535458972979851","agg":"Adult","prv":"184 185 186 187 188 190 191 193 196 198 199 200 201 203 204 205 206 208 211 217 220 224 227 228 235 238 245 247 249 252 254 255","usr":"195 234","uer":"","utr":""}]}}}
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=bkennard2024@outlook.com
+User: bkennard2024@outlook.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=XblGrts|704208617|00030000763E0D30|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.Fj6oo9j0Yh17gUTD8Y-Zal0kmQYwycQbDv4MVi-PlfULCHcHuf1QsH6g1pKo0RhsIBmaeXJywSss_j7LFieFHJMNpEUNFg3f4KuwuK6F1gMoGPNnCOQxo_Wr8JTfRCoxf2nySP_sGJPFKytqD
+
+Target: LegacyGeneric:target=XblGrts|1794566092|00030000763E0D30|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.xaMMWAbVza4llnQhtrXTIr215nQbdYEWLNef1umvVNtgMtXXN3xi7ECoZa1fPXLGsmaarLc63s5mWa2uobshfiiEPoWVhbs5uSosOiqD6JGXj6UwJAnHzPSJMdlPkE8lBKy0w9EZ7Fe
+
+Target: LegacyGeneric:target=XblGrts|2030093255|000300000659F562|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.d06Didgbh5t8Xjqa-w5CvqjvAbGPSA2IOGpAsZoTtTybuc_IcaJzG4dvhBBx5dyMBSm15fXqamQ_Q8XFJENym563_OX1S0h5utlnETYsO0RiAyemq34c4CSSAsIbb0SAq9vTwCz0Ta5
+
+Target: LegacyGeneric:target=XblGrts|1717113201|00030000763E0D30|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"00030000763E0D30","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.UqdZgjQfa8C5ZK_F8YNiC-AQMCXHt4bEiscMCg9YOQWFFGFxE0XMBjVchd7v-zK7DUg9028mZ8ImuSMq6rD2ir-69piCAB54gRw7Q6xkVc7GvrA1MaNODbqA6hlcQEwQ3U7fs9IHo-t
+
+Target: LegacyGeneric:target=XblGrts|1880744816|000300000659F562|Production|RETAIL|Utoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":false,"IdentityType":"Utoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.ZVppNboUj0zOi0mqjbLz5eJ4_f6_4qx-4pNZuGkEkGyV3zvRK8WxurqfZjPnL4yjyAW5h1FuMLq2LV_CAQZgVi7L0FZA831afHS2T2dlHXualOU6_pU0U6wNcXQbkDC3gr0ZvCQT64H
+
+Target: LegacyGeneric:target=XblGrts|2030093255|0003BFFD79846037|Production|RETAIL|Xtoken|http://playfab.xboxlive.com/||JWT
+User: N/A
+Pass: {"MsaUserId":"0003BFFD79846037","HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://playfab.xboxlive.com/","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiI5OUZzTTJhVXc5MFFZM1FZWFRZM1JBZUNySTgifQ.Jg9RwUu_WeE7iDKnK07-xSiKpFsV3DWVvyFqwMIz7LyQYDhfixcKH6aQg0CKSoENGjft8LyEJ4OTj46fm9Fj6wdlTw6vqz3OZcfhQoenhJreqX3pCKt6BVpAVYQFWrCDespInWm
+
+Target: LegacyGeneric:target=XblGrts|704208617||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+User: N/A
+Pass: TZBA","NotAfter":"2025-07-12T04:10:37.0990000Z","IssueInstant":"2025-06-28T04:10:37.0990000Z","ClientAttested":false,"DisplayClaims":{"xui":[{"uhs":"","gtg":"","mgt":"","mgs":"","umg":"","xid":"0","agg":"","prv":"","usr":"","uer":"","utr":""}],"xdi":{"did":"F900D43A4892E2DC"}}}}
+
+Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Xtoken|http://update.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://update.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiJkU2V2X0lHd2FCODI5UGluOVF0MU1KZFZoRU0ifQ.IzI6YnzMC9_-bevBSsSmG5BpKYWWCotX6xdPvO52o5p_2tCATgBSibIkX0jXnUvexUawUzRh46RqvPIre0ozJb26ECFQ1xz8iJkQrFxH2-5cnHjOTUfbEyyYCMHXM4e394QJ3SUsdllkzH-3auXtDUJ-RK_qDzIqLmF1YeES
+
+Target: LegacyGeneric:target=XblGrts|1717113201||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+User: N/A
+Pass: {"HasSignInDisplayClaims":false,"IdentityType":"Ttoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://auth.xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.QkUWA4EcMAHSCoCnuMzXQHt_6nd8ciojl2OOi5P_egP2o7xnCo3SNur06KxwFhoUk_Df3l4WYMy0jCcgHWI6MGmnvwqr6Hqr0VfkX2L96_NW_Kr7fJf-PvuVsW5sQWhzg46JfwBvHgn1TgdOzYe-YouGzgC0VMiXazJwWW57by
+
+Target: LegacyGeneric:target=XblGrts|1777860928|000300000659F562|Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+User: N/A
+Pass: {"MsaUserId":"000300000659F562","HasSignInDisplayClaims":true,"IdentityType":"Xtoken","Environment":"Production","Sandbox":"RETAIL","TokenType":"JWT","RelyingParty":"http://xboxlive.com","SubRelyingParty":"","TokenData":{"Token":"eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.XgvHbXq76n7sx4IosFAbB3yYRaGi2P0qRKKMO7yRpm-E5f8I6KtrBu7ymnzVLYPK_CYdSqLacE5lYH6ptNyPxu724a1pFGXnUrcb3HQFxu8k12bSqJJXG8kBBqnY8ZE4acnK4lyhn9cEGk2Px

@@ -1,0 +1,16 @@
+chrome://startpage/
+https://hem.mikrof.com/home
+chrome://startpageshared/
+https://hem.mikrof.com/
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwijxq-WqLKIAxVB1TgGHZSCGk8QFnoECAoQAQ&url=https%3A%2F%2Fhem.mikrof.com%2F&usg=AOvVaw3TWmyqagLqCtphQmQM5qNE&opi=89978449
+https://www.google.com/search?client=opera&q=hem.mikrof&sourceid=opera&ie=UTF-8&oe=UTF-8
+https://www.google.com/chrome/next-steps.html?installdataindex=empty&statcb=1&defaultbrowser=0
+https://www.google.com/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0
+https://www.google.com/chrome/
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi7_LDnyq6IAxWORmcHHURTEJkQFnoECAkQAQ&url=https%3A%2F%2Fwww.google.com%2Fchrome%2F&usg=AOvVaw3-tqeRkMFdsPQvPeUxLXEo&opi=89978449
+https://www.google.com/search?client=opera&q=chrome&sourceid=opera&ie=UTF-8&oe=UTF-8
+https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=androidfilehost.com
+https://www.cloudflare.com/5xx-error-landing/?utm_source=errorcode_502&utm_campaign=androidfilehost.com
+https://androidfilehost.com/?fid=7161016148664840558
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT-f-3yq6IAxUWUGcHHV_rFcQQFnoECBYQAQ&url=https%3A%2F%2Fandroidfilehost.com%2F%3Ffid%3D7161016148664840558&usg=AOvVaw1GjXab19cXGAOy4aw-CIe2&opi=89978449
+https://www.google.com/search?client=opera&q=bijoy+bayanno+zip+file&sourceid=opera&ie=UTF-8&oe=UTF-8

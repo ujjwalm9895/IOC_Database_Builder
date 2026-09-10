@@ -1,0 +1,235 @@
+email alvarezconstantino@hotmail.com
+periodoFacturadoDesde 01/02/2025
+periodoFacturadoHasta 28/02/2025
+vencimientoPago 10/03/2025
+fechaEmisionComprobante 21/03/2025
+fechaEmisionHasta 21/03/2025
+nroDocReceptor 30711792186
+email danber1966@gmail.com
+razonSocialReceptor PAGO VIRTUAL DEL SUR S.A.
+fechaEmisionDesde 01/01/2025
+subtotal3 36000.00
+impTotal 36000.00
+fechaEmisionHasta 09/04/2025
+fechaEmisionHasta 13/04/2025
+fechaEmisionComprobante 13/04/2025
+user_id 2262555340
+email natiaraujo1973@gmail.com
+first_name DANIEL
+palabra DS-2CV1023G2-LIDWF
+palabra DS-2CV1F23G2-LIDWF
+palabra DS-2CV1F43G2-LIDWF
+account daniber1966@gmail.com
+nroDocReceptor 30506957970
+razonSocialReceptor COOPERATIVA AGROPECUARIA GENERAL NECOCHEA LTDA
+nroDocReceptor 30545694057
+razonSocialReceptor USINA POPULAR COOPERATIVA DE OBRAS,SERVICIOS PUBLICOS Y SOCI
+nroDocReceptor 20132073237
+razonSocialReceptor ARRATE JOSE LUIS
+detallePrecio 18000
+detalleSubtotal2 18000.00
+subtotal3 18000.00
+impTotal 18000.00
+fechaEmisionComprobante 16/05/2025
+sf_url https://www.youtube.com/watch?v=_sVQ-j1-f-Y
+phone 02262555340
+address 3163 61
+city Necochea
+state_province Buenos Aires
+installation_code K111025157163
+username daniber1966@gmail.com
+email daniber1966@gmail.com
+username daniber1964@gmail.com
+username daniber1966
+hostname nelsondicroche
+name nelsondicroche
+loginfmt daniber1966@hotmail.com
+detalleImporteBonificacion 0.00
+nroDocReceptor 20053826963
+detalleCantidad 1
+detallePorcentajeBonificacion 0
+name DANIEL BERTELSEN
+exp-date 07/28
+login-username daniber1966@gmail.com
+owner_zipcode 7630
+owner_zipcode 7637
+owner_citizenship Argentina
+cuit 20-46010107-8
+owner_cuit 20460101078
+fechaEmisionComprobante 28/02/2025
+fechaEmisionComprobante 10/03/2025
+detallePrecio 1587702.08
+detalleSubtotal2 1587702.08
+subtotal3 1587702.08
+impTotal 1587702.08
+cuit 27-39590991-1
+commerce_name Marea
+commerce_businessName LARA ABIGAIL ZUBIGARAY
+owner_cuit 27395909911
+owner_address 68 - 2932
+owner_email laz_12597@hotmail.com
+owner_phone 2262621254
+fechaEmisionDesde 01/02/2025
+:1se 2018/01/01
+sf_url https://www.youtube.com/watch?v=xyEmLb42EjU
+text teka
+text dakar
+fechaEmisionDesde 01/03/2025
+nroDocumento 2013207
+fechaEmisionComprobante 09/04/2025
+nroDocumento 20132073237
+fechaEmisionComprobante 31/03/2025
+periodoFacturadoDesde 01/03/2025
+periodoFacturadoHasta 31/03/2025
+vencimientoPago 09/04/2025
+detallePrecio 968420.54
+detalleSubtotal2 968420.54
+subtotal3 968420.54
+impTotal 968420.54
+fechaEmisionDesde 01/04/2025
+detallePrecio 49605
+detalleSubtotal2 49605.00
+subtotal3 49605.00
+impTotal 49605.00
+detallePrecio 49000
+detalleSubtotal2 49000.00
+subtotal3 49000.00
+impTotal 49000.00
+email danIber1966@gmail.com
+securityCode 908529
+dpFromDate 01/03/2025
+dpToDate 31/03/2025
+txtDTApellido corvalan
+txtDTApellido corbalan
+loginfmt rjf_contaduria@hotmail.com
+identification_account natidani.araber
+amount-field-input 123.092,95
+account_name CARDABEDA SRL
+email1 daniber1966@gmail.com
+primary_address_city Necochea
+last_name BERTELSEN
+sic_code_c 30710467745
+phone_mobile 2262555340
+primary_address_street 3163 61
+cpatchaTextBox kial8w
+palabra  DS-2CV1043G2-LIDWF
+palabra DS-2CV1043G2-LIDWF
+palabra DS-2CV1F43G2-LIDWF(B).
+dcq_question_subjective_1 necochea
+dcq_question_subjective_1 Daniel Bertelsen
+cvf_phone_num 92262555340
+address-ui-widgets-enterAddressFullName DANIEL BERTELSEN
+address-ui-widgets-enterAddressPhoneNumber 02262555340
+sif_kyc_xborder_ID_NUMBER 17215869
+apellido alme
+apellido coli
+slot-0 07
+slot-1 08
+slot-2 1964
+idsumi 64008001
+username nati
+username natiaraujo1973@gmail.com
+suministro 64008001
+card_holder_name BERTELSEN EDGARDO DANI
+cardholderName BERTELSEN EDGARDO DANI
+detallePrecio 49802.56
+detalleSubtotal2 49802.56
+subtotal3 49802.56
+impTotal 49802.56
+sf_url https://www.youtube.com/watch?v=pQhVg94RAXk
+sf_url https://www.youtube.com/watch?v=w95Cs6fBBKc
+sf_url https://www.youtube.com/watch?v=Tw3n8A6v3uA
+sf_url https://www.youtube.com/watch?v=-qLbB6XfM1M
+sf_url https://www.youtube.com/watch?v=xHwZZ03It8w
+sf_url https://www.youtube.com/watch?v=H9E-Hr6lHws
+sf_url https://www.youtube.com/watch?v=UeVYca1Fy0o
+sf_url https://www.youtube.com/watch?v=16FTl2emrBc
+sf_url https://www.youtube.com/watch?v=cSiH_yRyicY
+sf_url https://www.youtube.com/watch?v=xdKb4XGXagE
+sf_url https://www.youtube.com/watch?v=zBvHMili9e0
+sf_url https://www.youtube.com/watch?v=QsLMeE29Sks
+business_name PUNTO ARCOR
+business_category kiosco
+full_name Rosario Corvalan
+business_name PUNTO ARCOR FE
+business_category KIOSCO
+full_name ROSARIO CORVALAN
+businessName PUNTO ARCOR
+businessCategory KIOSCO
+fullName ROSARIO CORVALAN
+address SAN MARTIN Nº 592
+city TRENQUE LAUQUEN
+stateProvince Buenos Aires
+installationCode K111025157163
+amount 230.000
+motive Andru
+fechaEmisionComprobante 27/05/2025
+nroDocReceptor 30716314215
+razonSocialReceptor MENDOCOR S.R.L.
+detallePrecio 400000
+detalleSubtotal2 400000.00
+subtotal3 400000.00
+impTotal 400000.00
+useremail daniber1966@gmail.com
+useremail daniber1964@gmail.com
+useremail daniber1966@hotmail.com
+username Daniber1966
+emailcf daniber1966@gmail.com
+conf_code Y9VVPH
+target 45.181.45.207
+fechaEmisionComprobante 30/05/2025
+razonSocialReceptor SUCESION DE DE LUCCA RAUL ANTONIO
+detallePrecio 550000
+detalleSubtotal2 550000.00
+subtotal3 550000.00
+impTotal 550000.00
+input-cuit 17215869
+input-email daniber1966@gmail.com
+input-phone 02262555340
+ip 162.120.185.233
+port 80
+cuit 20287188413
+cuit 20-28718841-3
+owner_fullName FRACCHIA LUIS ANTONIO
+owner_documentNumber 28718841
+commerce_name GÜIDO´S
+commerce_businessName FRACCHIA LUIS ANTONIO
+owner_cuit 20287188413
+owner_address 91 - 1850
+owner_email luisfracchia.pas@gmail.com
+owner_phone 2262-597758
+cuit 20-41799076-4
+owner_fullName TALIAVACHI MAYA JULIO JOAQUIN
+owner_documentNumber 41799076
+commerce_name Julius26
+commerce_businessName TALIAVACHI MAYA JULIO JOAQUIN
+owner_cuit 20417990764
+owner_address 24 - 959
+owner_email juliomaya99@hotmail.com
+owner_phone 02262627312
+cuit 27281517630
+cuit 27-28151763-0
+commerce_name Agrosur
+commerce_businessName ANDREA ALEJANDRA VALLEJO
+owner_cuit 27281517630
+owner_address 67 - 1365
+owner_email fernandogatti71@gmail.com
+owner_phone 2262365698
+owner_fullName 20460101078
+owner_fullName BENAVIDES NAHUEL
+owner_documentNumber 46010107
+commerce_name OLA VIOLENTA TANDIL
+commerce_businessName BENAVIDES NAHUEL
+owner_address CHACABUCO 506
+owner_zipcode 7000
+owner_email nahuelbenavides8@gmail.com
+owner_phone 2262-232537
+email araujojorgelina79@gmail.com
+username araujojorgelina79@gmail.com
+PinInput 938606
+identifier NATIARAUJO1973@GMAIL.COM
+identifier daniber1966@gmail.com
+identifier daniber1964@gmail.com
+_r_202_ 150
+_r_2a8_ 200
+_r_2cm_ 200

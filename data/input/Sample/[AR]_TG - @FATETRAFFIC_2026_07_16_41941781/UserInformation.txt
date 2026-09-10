@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 07/07/26 21:58
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: dae562a195769551
+Country: AR
+IP: 200.123.52.44
+System Language: Spanish
+Processor: 11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz (6 cores, 12 threads)
+Installed RAM: 15.79 GB
+Operation System: Windows 11 (Build 26200) (64 Bit)
+Graphics card: Intel(R) UHD Graphics 730
+Computer Name: SSUPRA
+Domain Name: WORKGROUP
+-------------
+User Name: IanTi
+Admin Group: FALSE
+Integrity: Medium
+TimeZone: UTC-3
+UserLanguage: Spanish
+Keyboard Language: Spanish
+Display Resolution: 1920x1080

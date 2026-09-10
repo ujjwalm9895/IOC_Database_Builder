@@ -1,0 +1,3 @@
+Target: WindowsLive:target=virtualapp/didlogical
+User: 02ykhnfkmilzhkju
+Pass: (empty)

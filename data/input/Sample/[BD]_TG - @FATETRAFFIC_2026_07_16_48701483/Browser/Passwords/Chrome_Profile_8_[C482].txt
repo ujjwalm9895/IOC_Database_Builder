@@ -1,0 +1,4 @@
+﻿URL: https://auth.openai.com/log-in/password
+Username: mdnadim@erzi.me
+Password: Nadim1234567
+===============

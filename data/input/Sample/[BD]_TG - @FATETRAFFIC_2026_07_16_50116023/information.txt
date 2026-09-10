@@ -1,0 +1,184 @@
+IP: 103.172.138.251
+Country: BD
+Date: 11.07.2026 23:18:41
+MachineID: 2d8459a8-459a-97c5-0c44-21c04a346d44
+GUID: {5a8bfc26-e2b8}
+HWID: BD9E11A5F97A5D340746-5a8bfc26-e2b8-A9C180D
+Path: C:\Users\User\AppData\Local\Temp\13121830101\e562b66e2d.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-5903S8A
+User Name: User
+Display Resolution: 1366x768
+Local Time: 11.07.2026 23:18:41
+Antivirus: Windows Defender
+[Hardware]
+Processor: 13th Gen Intel(R) Core(TM) i5-13400
+Cores: 16
+Threads: 16
+RAM: 16154 MB
+VideoCard: Intel(R) UHD Graphics 730
+[Processes]
+  [4] System
+  [172] Registry
+  [628] smss.exe
+  [852] csrss.exe
+  [972] wininit.exe
+  [988] csrss.exe
+  [760] services.exe
+  [8] lsass.exe
+  [116] svchost.exe
+  [892] fontdrvhost.exe
+  [1072] svchost.exe
+  [1124] svchost.exe
+  [1180] winlogon.exe
+  [1240] fontdrvhost.exe
+  [1316] svchost.exe
+  [1368] IntelCpHDCPSvc.exe
+  [1376] svchost.exe
+  [1384] svchost.exe
+  [1456] svchost.exe
+  [1496] svchost.exe
+  [1592] dwm.exe
+  [1648] svchost.exe
+  [1668] svchost.exe
+  [1736] svchost.exe
+  [1776] svchost.exe
+  [1788] svchost.exe
+  [1796] svchost.exe
+  [1808] svchost.exe
+  [1920] svchost.exe
+  [1960] svchost.exe
+  [1984] Memory Compression
+  [1092] svchost.exe
+  [984] svchost.exe
+  [1544] svchost.exe
+  [1536] svchost.exe
+  [2080] svchost.exe
+  [2180] svchost.exe
+  [2236] svchost.exe
+  [2440] svchost.exe
+  [2512] svchost.exe
+  [2588] svchost.exe
+  [2608] svchost.exe
+  [2616] svchost.exe
+  [2624] svchost.exe
+  [2784] svchost.exe
+  [2856] svchost.exe
+  [2924] svchost.exe
+  [3000] wlanext.exe
+  [3028] conhost.exe
+  [3036] spoolsv.exe
+  [3044] svchost.exe
+  [3100] svchost.exe
+  [3384] AnyDesk.exe
+  [3396] armsvc.exe
+  [3404] svchost.exe
+  [3416] svchost.exe
+  [3424] svchost.exe
+  [3432] svchost.exe
+  [3440] svchost.exe
+  [3448] UltraViewer_Service.exe
+  [3476] svchost.exe
+  [3484] svchost.exe
+  [3492] jhi_service.exe
+  [3500] svchost.exe
+  [3512] GigabyteUpdateService.exe
+  [3524] OneApp.IGCC.WinService.exe
+  [3556] MsMpEng.exe
+  [3572] OfficeClickToRun.exe
+  [3580] MpDefenderCoreService.exe
+  [3596] WMIRegistrationService.exe
+  [3924] svchost.exe
+  [3984] svchost.exe
+  [3996] svchost.exe
+  [4352] dasHost.exe
+  [4604] svchost.exe
+  [5172] svchost.exe
+  [5276] dllhost.exe
+  [5368] svchost.exe
+  [5620] svchost.exe
+  [5688] SearchIndexer.exe
+  [5516] svchost.exe
+  [6248] sihost.exe
+  [6284] svchost.exe
+  [6352] svchost.exe
+  [6360] svchost.exe
+  [6500] taskhostw.exe
+  [6660] taskhostw.exe
+  [6704] svchost.exe
+  [6744] ctfmon.exe
+  [6820] explorer.exe
+  [6828] logui.exe
+  [6944] svchost.exe
+  [4576] sppsvc.exe
+  [5744] AggregatorHost.exe
+  [5832] svchost.exe
+  [7160] svchost.exe
+  [4548] svchost.exe
+  [7508] svchost.exe
+  [7544] SearchProtocolHost.exe
+  [7580] SearchFilterHost.exe
+  [7688] TextInputHost.exe
+  [7784] StartMenuExperienceHost.exe
+  [7904] TrustedInstaller.exe
+  [7972] TiWorker.exe
+  [8056] RuntimeBroker.exe
+  [6068] SearchApp.exe
+  [8212] RuntimeBroker.exe
+  [8660] svchost.exe
+  [8996] RuntimeBroker.exe
+  [8992] svchost.exe
+  [9368] PhoneExperienceHost.exe
+  [9808] NisSrv.exe
+  [9872] smartscreen.exe
+  [9964] chrome.exe
+  [10020] svchost.exe
+  [10208] audiodg.exe
+  [7440] SecurityHealthSystray.exe
+  [8672] SecurityHealthService.exe
+  [9212] IDMan.exe
+  [6000] svchost.exe
+  [4588] svchost.exe
+  [5100] qbittorrent.exe
+  [8516] chrome.exe
+  [9096] chrome.exe
+  [864] chrome.exe
+  [5116] svchost.exe
+  [2260] svchost.exe
+  [2576] GDFwAdmin.exe
+  [1664] Chrome.exe
+  [7928] svchost.exe
+  [10376] Client.exe
+  [10508] GDFwAdmin.exe
+  [10556] WmiPrvSE.exe
+  [11028] wermgr.exe
+  [11188] chrome.exe
+  [11244] chrome.exe
+  [11252] chrome.exe
+  [3192] svchost.exe
+  [10796] e562b66e2d.exe
+  [11008] GDFwAdmin.exe
+  [10936] WerFault.exe
+  [9904] ada5f7bc3f.exe
+  [5928] taskmanager.exe
+  [8512] taskhostw.exe
+  [10768] msedge.exe
+[Software]
+  Microsoft Office Professional Plus 2016 - en-us
+  VLC media player
+  WinRAR 6.02 (64-bit)
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Update Health Tools
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Windows PC Health Check
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Office 16 Click-to-Run Extensibility Component
+  Adobe Acrobat (64-bit)
+  Microsoft Visual C++ 2005 Redistributable (x64)
+  Update for x64-based Windows Systems (KB5001716)

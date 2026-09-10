@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 05/07/26 21:38
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: 4000ee20e3115875
+Country: AE
+IP: 176.205.246.41
+System Language: English
+Processor: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz (6 cores, 6 threads)
+Installed RAM: 15.92 GB
+Operation System: Windows 10 (Build 19045) (64 Bit)
+Graphics card: NVIDIA GeForce RTX 3050
+Computer Name: DESKTOP-2DA7633
+Domain Name: WORKGROUP
+-------------
+User Name: Bu Saif
+Admin Group: TRUE
+Integrity: High
+TimeZone: UTC+4
+UserLanguage: English
+Keyboard Language: Arabic
+Display Resolution: 1920x1080

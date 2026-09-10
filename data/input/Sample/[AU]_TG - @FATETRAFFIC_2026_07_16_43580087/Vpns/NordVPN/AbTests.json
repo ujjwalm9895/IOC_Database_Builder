@@ -1,0 +1,46 @@
+{
+    "Version": 1,
+    "Configs": [
+      {
+        "Feature": "Onboarding",
+        "Type": "int",
+        "Settings": [
+          {
+            "Value": 100,
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Feature": "EndpointTimeout",
+        "Type": "int",
+        "Settings": [
+          {
+            "Value": 100,
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Feature": "NordLockerTab",
+        "Type": "int",
+        "Settings": [
+          {
+            "Value": 100,
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Feature": "ConnectionTimeouts",
+        "Type": "int",
+        "Settings": [
+          {
+            "Value": 100,
+            "Weight": 1
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,23 @@
+﻿Browser: Chrome
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: false
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Homepage: 8CC218BE0D2FEF40D3BAFE320D9D92BC0AC685143FAE07B7E9187B655E880C8B
+Profile Name: Your Chrome
+
+[Metadata]
+Extraction Time: 1782877616

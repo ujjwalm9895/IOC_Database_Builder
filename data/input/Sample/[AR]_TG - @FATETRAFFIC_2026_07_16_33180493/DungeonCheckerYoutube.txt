@@ -1,0 +1,22 @@
+[INFO] Path : Chrome_Profile_1_[72AD].txt
+[INFO] Title : pesca.savoia
+[INFO] Subscribers : 112
+[INFO] Total_Views : 242015
+[INFO] Join_Date : 2015
+[INFO] Url : https://www.youtube.com/@Riquelme.algrau32332
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+
+[INFO] Path : Chrome_Default_[633A].txt
+[INFO] Title : bixteners
+[INFO] Subscribers : 0
+[INFO] Total_Views : 242024
+[INFO] Join_Date : 2024
+[INFO] Url : https://www.youtube.com/@bixteners
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+

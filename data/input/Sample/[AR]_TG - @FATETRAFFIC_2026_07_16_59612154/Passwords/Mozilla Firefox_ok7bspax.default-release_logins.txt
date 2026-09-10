@@ -1,0 +1,34 @@
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: https://accounts.firefox.com
+Login: l.cammp0ss@gmail.com
+Password: midios12@
+
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: chrome://FirefoxAccounts
+Login: 00280aa46a2446c0977306cadd54c132
+Password: {"version":1,"accountData":{"scopedKeys":{"https://identity.mozilla.com/apps/oldsync":{"kty":"oct","scope":"https://identity.mozilla.com/apps/oldsync","k":"ghyQTaH1qRqmNdu8ico2gYSDYXqoMeKT1ABKvYOmIqGZSxviZ-8WwNMMO_Dhd5wxQECDGqTYYktPx_biPWl3qw","kid":"1777051757266-aTqXJH-YwP4GjbpBNmu0QQ"}}}}
+
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: https://users.nexusmods.com
+Login: campitousa
+Password: Yosoytudios12@
+
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: https://accounts.google.com
+Login: mechivera123@gmail.com
+Password: midios12@
+
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: https://m.caba.codere.bet.ar
+Login: l.cammp0ss@gmail.com
+Password: Yosoytudios12@
+
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: https://www.betano.bet.ar
+Login: l.cammp0ss@gmail.com
+Password: yosoytudios12@
+
+Soft: Mozilla Firefox (ok7bspax.default-release)
+Host: https://idmsa.apple.com
+Login: l.cammp0ss@gmail.com
+Password: Midios12@

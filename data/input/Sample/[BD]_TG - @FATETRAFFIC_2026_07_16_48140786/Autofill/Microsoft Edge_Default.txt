@@ -1,0 +1,377 @@
+query https://youtu.be/LtRq6NJvgbA?si=ii7X-LBkiRhiWvpj
+currentaddresscopy উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+applicant_id 3256500
+currentaddresscopy দেশ :বাংলাদেশ
+hsc_roll 304629
+priceRange 0to14100
+hscpassyearcopy 2023
+applicant_id 3259114
+applicant_id 3286562
+applicant_id 2078830
+name M Rakib Hossain
+currentaddresscopy বিভাগ:খুলনা;দেশ :বাংলাদেশ
+query https://youtu.be/MMFIvUe9WjE?si=eezGbA8UHQLpbC6E
+email 01942656147
+currentaddresscopy গ্রাম:ফতেপুর;অঞ্চল:ফতেপুর;ইউনিয়ন/ওয়ার্ড:সাগরদাড়ী;উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+currentaddresscopy অঞ্চল:ফতেপুর;ইউনিয়ন/ওয়ার্ড:সাগরদাড়ী;উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+currentaddresscopy ইউনিয়ন/ওয়ার্ড:সাগরদাড়ী;উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+ssc_roll 423252
+hscrollcopy 304629
+rst 2346
+pname2 alamin
+email 01795964922
+roll 3306547
+userId 3095041
+email 01736427284
+query https://youtu.be/MqnBS03irMM?si=Xn7OfFVxk7BkEle5
+doj 09-May-2025
+sscrollcopy 423469
+sscrollcopy 423252
+hscrollcopy 305243
+applicant_id 1800728
+applicant_id 1782834
+currentaddresscopy জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+discountRange 0to55
+ssid Habib wifi
+userId 3097286
+cbid.wireless.wlan10.ssid KINGS-11-5G
+cbid.wireless.wlan00.ssid KINGS-11
+cbid.dhcp.lan._leasetime.tvalue 120
+cbid.dhcp.lan.start 10
+cbid.dhcp.lan.limit 241
+value_s 11
+roll 304629
+reg 1818781822
+value_s 15
+hsc_reg 1918787991
+roll 110463
+reg 1818789991
+value_s 13
+changeLanguageSelector-input English
+sid-country Bangladesh
+sid-email mr1977378@gmail.com
+hsc_roll 110463
+mobile 01775714348
+doj 12-Dec-2025
+LED3 -70
+LED1 -90
+rst 2347
+dtim 1
+transmission 3
+LED2 -80
+beacon 100
+fragment 2346
+mobile_no 01775714348
+hsc_roll 305244
+ssc_roll 423573
+hsc_roll 106968
+ssc_roll 101107
+searchInput bl
+typeahead-input-for-school-name Northern University of Business & Technology Khulna
+typeahead-input-for-degree-name Bachelor of Engineering - BE
+typeahead-input-for-fos Electrical and Electronics Engineering
+single-typeahead-entity-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-1-school Northern University of Business & Technology Khulna
+single-typeahead-entity-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-1-degree Bachelor of Engineering - BE
+single-typeahead-entity-form-component-profileEditFormElement-EDUCATION-profileEducation-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-1-fieldsOfStudy Electrical and Electronics Engineering
+ssc_roll 423484
+present_care md abdul bari par
+email arifulislamkhulna110@gmail.com
+present_post 9450
+hsc_reg 1818789991
+hsc_roll 304625
+mobileno 01846224338
+ssc_reg 1818789991
+Result[reg_no] 23240043
+fullName M Rakib Hossen
+phone 01517818170
+tweet https://www.instagram.com/reel/DU2h4lNCOdC/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+id https://www.instagram.com/reel/DU2h4lNCOdC/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+email_collection_email mr1977378@gmail.com
+user_id DYTCUX
+cbid.luci._devname.hostname khalid
+cbid.luci._devname.hostname mahfuz
+academy chingra alim madrasah 
+result 4.61
+department  Electrical and Electronic Engineering (EEE)
+day 1
+preferredClass class 5-10
+preferredSubjects physics,chemistry,biology
+preferredArea sonadanga,shibbari,boyra,gollamari
+additionalNumber +8801517818170
+facebookProfile https://www.facebook.com/profile.php?id=100078371792713
+linkedinProfile www.linkedin.com/in/md-rakib-hossen-0924b33a6
+fatherName Md Abu saiyed Gazi
+motherName Morzina Khatun
+motherNumber 01795964922
+emergencyName 01734422202
+emergencyRelation brother
+emergencyAddress Fatapur
+emergencyNumber 01736427284
+fatherNumber 01795964922
+mac1 74:D4:35:A1:0C:CB
+ip_address 192.168.137.123
+netmask 255.255.255.0
+ip_gateway 192.168.137.1
+dns_address 192.168.137.1
+second_dns 0.0.0.0
+year 1970
+month 1
+hour 0
+minute 48
+second 8
+applicant_id 3518640
+webTimeout 5
+day 01
+month 10
+year 2005
+username 31250320341
+username EEE250320341
+PageNumberUIModern 1
+pwdInterval 0
+startIP 192.168.2.100
+username Habib94
+preDNS 192.168.2.1
+endIP 192.168.2.200
+maxClient 48
+localPort 23
+altDNS 8.8.4.4
+mask 255.255.255.0
+gateway 192.168.2.1
+publicPort 23
+ssid Rakib Network 
+ip 192.168.2.1
+pppoeUser Rakibfotepur
+email 01517818170
+s 0117818170
+email mr1977378@gmail.com
+identifier mr1977378@gmail.com
+userId  3097286
+query https://youtu.be/72u1jxAieV0?si=VxVF8ExBMI2fp4Rz
+_R_1l96tklkqupapd5aqH1_ mrakibhossen8170@gmail.com
+query https://youtu.be/rnfawvSffC0?si=nWDdszjAf6kDUrzE
+global_name m rakib hossen
+query https://youtu.be/guMaZ61cMT0?si=DDCWSVxuKMEGx_x2
+query https://youtu.be/8OGGKjkUmpw?si=qtj9v3QIXPdnkr-a
+hscpassyearcopy 2024
+_r_28_ 038934
+query https://youtu.be/DUOqR9k-AVI?si=1n5Qsfvycy5XbBqs
+query https://youtu.be/BAzhYPQOv10?si=2mQyvcA3h6Emm-kj
+query https://youtu.be/Tah1tre83Xo?si=in-0ogUfbnmfus2g
+tweet https://x.com/aldamu_jo/status/1908373676573048995
+query https://youtu.be/CuFEaclhVcc?si=56zatK7_F6AYbTR-
+otpcodecopy PTMPQQC7
+accNo 20503166700542910
+homeaddresscopy eidgah
+query https://youtu.be/4WEL9RleQq0?si=QdcrRMoLSD-yphBL
+query https://youtu.be/sn6ebIgALAo?si=YVh8I12hXrYadnGt
+query https://youtu.be/LNSLUQFwhWE?si=1vcYaGFGcnphByc1
+usernameUserInput rakibhossen
+q সাথী
+query https://youtu.be/rIZHLD0jjQc?si=4i0GGa3Oles05pSt
+query https://youtu.be/2nyWYP0Y-0Y?si=JPwm8ZsqZln9LXag
+usernameUserInput rakib
+query https://youtu.be/LJ1ng6zXDQM?si=7nM2_7k0XuROu5r_
+query https://youtu.be/Uf9bJgvOdXQ?si=SSNDaMn3x_5zExvr
+query https://youtu.be/Del7SR_dDHo?si=rwlwSPIHD2LNIa7A
+1823304629_1copy PTMPQQC7
+query https://youtu.be/dM5OriINt0A?si=yl-eO1YEZyKxbhPX
+global_name m rakib
+currentaddresscopy গ্রাম:ফতেপুর;অঞ্চল:ফতেপুর;অঞ্চল:ফতেপুর;ইউনিয়ন/ওয়ার্ড:সাগরদাড়ী;উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+mac2 21
+query https://youtu.be/dqTm-LOH4ec?si=5qoLWYfWYVBLkN9p
+query https://youtu.be/TVm40wk8K6k?si=DmYINuY-Uak-XOsa
+query https://youtu.be/1mhpOdv8xEQ?si=nRJpQUIjE1PWtXM_
+query https://youtu.be/uqap9eL9sSA?si=CXIzXJXn5D4Gmeis
+mac0 CC
+query https://youtu.be/72u1jxAieV0?si=v00B-7JcOX6FbbKG
+query https://youtu.be/V9qeYPGyDew?si=Ltb9q21Qxmod1oNl
+query https://youtu.be/r3nlO8DVSgE?si=VkeiKF11-eBosYnV
+mac5 98
+emailcopy mr1977378@gmail.com
+query https://youtu.be/yeK1BhEJZbc?si=ICe1jWFnej-WuW6u
+query https://www.youtube.com/live/ugeRr5HbsU4?si=0QFUJ-xqjgL4R7FM
+usernameUserInput 01517818170
+query https://youtu.be/Fbew4nU-Tds?si=p5CybNELe2bRxMgF
+query https://youtu.be/WSYBMqrGU_E?si=8eqIhWrUR3LBbuV-
+serial 142150
+doj 30-Apr-2025
+query https://youtu.be/S8i7xm3J--4?si=V6KEbw9FXtzfL3tH
+query https://youtu.be/kQCw6VUMwAo?si=INQN8MYklZqqdc8r
+query https://youtu.be/L9S7_engKxo?si=yIcMz77pJb1lld3z
+query https://youtu.be/7RO1WhFHfNk?si=-hXPveVIVkhtRU2_
+query https://youtu.be/jfnLrt9nFns?si=mh1UgSKd5Rdv-Y3L
+query https://youtu.be/2i1Xf1FzZAA?si=N4dtQh3uTNfwNSW1
+query https://youtu.be/3ObwKSfdAS0?si=mWQlpmeU7OIKtKz7
+query https://youtu.be/zPX66kbiDYg?si=RtvK6vngTHBcOHsU
+query https://youtu.be/OmcCuVlpyhs?si=IDi4ZZKb6euHAWhK
+query https://youtu.be/Wx8UB50ZUdE?si=OwwSPtCfmw8eXtSk
+mac1 2D
+currentaddresscopy অঞ্চল:ফতেপুর;অঞ্চল:ফতেপুর;ইউনিয়ন/ওয়ার্ড:সাগরদাড়ী;উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+query https://youtu.be/jn4DHIUS5qE?si=uhVbqCtpUOmiQCME
+query https://youtu.be/Heq8v4FShNc?si=mXGC48y5kmeTScA5
+query https://youtu.be/0uxVP7f_Ky4?si=OskENw8g0bQ5Iy5X
+query https://youtu.be/-iwsXgVwE2s?si=98oIRY0sVM0f3Hbs
+query https://youtu.be/0dZSDBz5BeM?si=RQMQjtZ9tgDj-GhA
+query https://youtu.be/pVV19KkPvjk?si=MozXi69AlRVxQJL1
+query https://youtu.be/Tah1tre83Xo?si=jYuSuGsJZm3Lcm9q
+wifiSSID Tofail
+tweet https://x.com/FabrizioFauna/status/1941541183496519822
+query https://youtu.be/ysfddOhOvJQ?si=dq_uUT46JKbi68Z0
+query https://youtu.be/6K7nlgFLpBE?si=kNXRxVzt3x2dPVmu
+query https://youtu.be/clHuXmkLwUU?si=PASNsYH6-iiLLBkW
+query https://youtu.be/4jV2hMxquIw?si=QcBcMJR1BpG0drN-
+query https://youtu.be/r5dgfUQGbx4?si=cNn3RJ6kdx9nGfX9
+hsc_roll  304629
+mac0 cc
+keyword samsung a 36
+mobile 01736427284
+query https://youtu.be/DB2WqP7pFMA?si=bhdbAjA9YayXTWtm
+query https://youtu.be/HF1nEOdsVfw?si=fNt2CVSSY9aUtPgd
+query https://www.youtube.com/live/ugeRr5HbsU4?si=L23n_icHGeJ7DMFp
+applicant_id 2078874
+mail mrakibhossen8170@gmail.com
+query https://youtu.be/BDUgoK76kRg?si=hxU0XEKqZdytVeTv
+username OXMIGS
+query https://youtu.be/FQlfIJQkDVU?si=mXoUjS0cP72OnuIm
+applicant_id 20788774
+mac3 4E
+query https://youtu.be/1Y1EdTbpOf4?si=2X67FG0mJ37kAmbi
+email 01730976700
+query https://youtu.be/wlmyLiE7dqc?si=TVtGcJZewShgBMZs
+query https://youtu.be/EwzrWjuNVIU?si=o9uRamWSC6zVT-xy
+query https://youtu.be/ipwXLyKSAOo?si=E45BUENeIH50HJFV
+query https://youtu.be/l8VJvu8A8XQ?si=qFgv92dFiM2A_V1H
+:rb: mr1977378@gmail.com
+studphncopy 01517818170
+query https://youtu.be/Mk1NaOjVSBs?si=tHGzRm51-Dbj99Ca
+query https://youtu.be/wRdnLVT1808?si=cZX-kTimbmw3x6kk
+query https://youtu.be/OVYr_PwXIuU?si=Jj-51-uEIhc4jzNv
+mac4 17
+currentaddresscopy eidgah;গ্রাম:ফতেপুর;অঞ্চল:ফতেপুর;অঞ্চল:ফতেপুর;ইউনিয়ন/ওয়ার্ড:সাগরদাড়ী;উপজেলা/থানা:কেশবপুর;জেলা :যশোর;বিভাগ:খুলনা;দেশ :বাংলাদেশ
+query https://youtu.be/KycgTVbF6Kc?si=7BXayhYBg0HM4s4J
+query https://youtu.be/xF-NpJhn544?si=DCPprCcbSvm0NIHQ
+react-aria3825879185-«rj» mr1977378@gmail.com
+ssid Rakib Zone
+c2115 01723-669126
+codeInput 788
+codeInput 252
+global_name sonny vio
+_r_4a3_ Departments of EEE
+_r_4p_ Department of EEE
+_r_1b_ Department of EEE
+_r_3c_ Department of EEE
+cbid.luci._devname.hostname sajol
+cbid.luci._devname.hostname hasib
+cbid.luci._devname.hostname al-amin
+cbid.luci._devname.hostname ahmad
+cbid.luci._devname.hostname alif pc
+cbid.luci._devname.hostname Rakib-DESKTOP
+hero-cta-email mr1977378@gmail.com
+cbid.luci._devname.hostname Alif-DESKTOP
+value_s 8
+value_s 6
+value_s 3
+sid-first-name Md Rakib 
+sid-last-name Hossen
+sid-birthdate__month October
+sid-birthdate-day 1
+sid-birthdate-year 2005
+hsc_reg 1818787991
+input-mail mr1977378@gmail.com
+search-form-input https://www.instagram.com/reel/DRtMMKDkmKB/?utm_source=ig_web_copy_link
+login mr1977378@gmail.com
+email_addr 10hasibur@gmail.com
+search-form-input https://www.instagram.com/reel/DP1PTwuADmJ/?utm_source=ig_web_copy_link
+react-spectrum-151 1103948
+PageNumberUIModern 22
+user_id ry5tyawy
+PageNumberUIModern 2
+pageNum_tafsirquran 154
+pageNum_tafsirquran 12
+aya 154
+pageNum_tafsirquran 15
+sscRoll 423573
+sscReg 1918794388
+hscRoll 305244
+hscReg 1918794388
+mobileNo 01775714348
+emailNo kkhalidhassan971@gmail.com
+PageNumberUIModern 23
+RegistrationForm[email] mr1977378@gmail.com
+Roll_Reg 5165493
+Name Ahmadullah
+Mobile 01870315860
+Amount 1000
+AmountInword  One Thousand taka only.
+s luck
+search-form-input https://www.instagram.com/reel/DQv7TVZjNXK/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+search-form-input https://www.instagram.com/reel/DQUZDYyD7s0/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+search-form-input https://www.instagram.com/reel/DShxc8IjGwp/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+phoneNumber 01517818170
+pin 137103
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNqKZABDc9b3EsrukcH2CJfwFsGjFt6gd4-firstName M
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNqKZABDc9b3EsrukcH2CJfwFsGjFt6gd4-lastName Rakib
+single-typeahead-entity-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNqKZABDc9b3EsrukcH2CJfwFsGjFt6gd4-geoLocation-countryField Bangladesh
+userName mr1977378@gmail.com
+typeahead-input-for-location Jessore, Khulna, Bangladesh
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-firstName Md
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-lastName Rakib Hossen
+single-typeahead-entity-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-industryId Electrical Equipment Manufacturing
+single-typeahead-entity-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-geoLocation-countryField Bangladesh
+single-typeahead-entity-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-geoLocation-cityTypeaheadField Jessore, Khulna
+single-typeahead-entity-form-component-profileEditFormElement-SKILL-AND-ASSOCIATION-skill-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-1-name Communication
+validation 645IU775
+single-line-text-form-component-profileEditFormElement-POSITION-profilePosition-ACoAAGNin64BjRoDzaQHi5mw11PKSzxtIwTCK4s-1-headline Student at Northern University of Business & Technology Khulna
+username DYTCUX
+qualification northern university of business and technology khulna
+cgpa 3.75
+qualification mr1977378@gmail.com
+PageNumberUIModern 18
+single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4353947037-17995489289-phoneNumber-nationalNumber 01517818170
+tweet https://x.com/i/status/2027936036832104740
+cbid.luci._devname.hostname Emon
+cbid.luci._devname.hostname Ahmad
+cbid.luci._devname.hostname V2310
+q haw does current flow throught a wire
+q How does electron flow through a wire?
+doj 2026-03-24
+doj 24-Mar-2026
+firstName md  rakib
+lastName hossen
+ssid TP-LINK_8840
+pskSecret 60716385
+interval 0
+wpaSerPort 1812
+wpainterval 0
+beaconInt 100
+rtsInt 2346
+fragTh 2346
+dtimTh 1
+guestSSID TP-LINK_Guest_8840
+guestMaxstanum 32
+schedule ok
+cbid.wireless.wlan00.ssid KING'S -11
+cbid.wireless.wlan10.ssid KING'S -11-5G
+cbid.luci._devname.hostname Ovi
+sender 01517818170
+trxId DD82WKDWEQ
+First Name Md Rakib
+Last Name (Surname or Family Name) Hossen
+Email address mr1977378@gmail.com
+Alternative Email address mr1977378@gmail.com
+Phone number +8801517818170
+What is the official name of the university you will be attending between August and December 2026? Click here to check the official name of your university. Northern University of Business and Technology Khulna
+Please provide the official website address (URL) of your university. https://nubtkhulna.ac.bd/
+year 2029
+Please mention the name Zahirul Haque
+_r_8id_ mr1977378@gmail.com
+_r_8ih_ M Rakib Hossen
+_r_8il_ 1517818170
+URLz https://www.facebook.com/reel/2445334339254963
+URLz https://www.facebook.com/reel/2195332464571449
+C_EmailAddress mr1977378@gmail.com
+apSsid Rakib Network
+ipAddress 10.20.30.40
+reset_1 Rakibfotepur
+PageNumberUIModern 9
+shareCommentText dst tui

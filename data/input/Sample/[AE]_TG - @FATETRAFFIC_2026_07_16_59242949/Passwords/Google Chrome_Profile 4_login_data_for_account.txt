@@ -1,0 +1,34 @@
+Soft: Google Chrome (Profile 4)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login: ٠٩٥٥٩٠٤٠١٦
+Password: 123.321
+
+Soft: Google Chrome (Profile 4)
+Host: https://login.rta.ae/oauthplugin/pages/uaepassAuthRequest.jsp
+Login: Mahasomia
+Password: Dubai00123@@@
+
+Soft: Google Chrome (Profile 4)
+Host: https://beitalkhair.org/Account/Registration
+Login: 00971502766550
+Password: r9zAU-4pR5SEe-8
+
+Soft: Google Chrome (Profile 4)
+Host: android://gdwo1Al5ZQ9NRO4gWRDvE02ZOHTTuCOb5uNuCbcpr-WYWZLr5JGtf5utMuQ9PWcpRD_b-BXCTS40gm_XUD6P4A==@com.oplus.wirelesssettings/
+Login: Yahia
+Password: 11221122
+
+Soft: Google Chrome (Profile 4)
+Host: android://5z-xrLsdltCK30uvnyK5KyiyinAzFUCQDxC-WT4J5PlUChAxtaxkzSMwHq7M6ADV_AnB7__bNWwoXXsPaR67MQ==@net.openvpn.openvpn/
+Login: 10g66929
+Password: 642
+
+Soft: Google Chrome (Profile 4)
+Host: android://gdwo1Al5ZQ9NRO4gWRDvE02ZOHTTuCOb5uNuCbcpr-WYWZLr5JGtf5utMuQ9PWcpRD_b-BXCTS40gm_XUD6P4A==@com.oplus.wirelesssettings/
+Login: 8.8.8.8
+Password: 20242024abd
+
+Soft: Google Chrome (Profile 4)
+Host: https://shahid.mbc.net/
+Login: 
+Password: 

@@ -1,0 +1,309 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+IP: 103.62.149.17
+Country: BD
+Date: 12.07.2026 01:16:33
+MachineID: ca397a92-97a9-8b84-88e1-42d8c86c2d90
+GUID: {814089a0-c57f}
+HWID: FB16CA5F4CAC57D6F198-814089a0-c57f-6A10D67
+Path: C:\Users\User\AppData\Local\Temp\12818950101\4BtqZz1.exe
+MD5: 61812e78609e5fd2e7cb44a5a494e833
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-U40SPPC
+User Name: User
+Display Resolution: 1536x864
+Local Time: 12.07.2026 01:16:33
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+Cores: 4
+Threads: 4
+RAM: 8071 MB
+VideoCard: Intel(R) HD Graphics 620
+[Processes]
+  [4] System
+  [100] Registry
+  [396] smss.exe
+  [588] csrss.exe
+  [672] wininit.exe
+  [788] services.exe
+  [816] lsass.exe
+  [956] svchost.exe
+  [984] fontdrvhost.exe
+  [436] WUDFHost.exe
+  [848] svchost.exe
+  [1060] svchost.exe
+  [1124] svchost.exe
+  [1160] svchost.exe
+  [1184] svchost.exe
+  [1200] svchost.exe
+  [1268] svchost.exe
+  [1284] svchost.exe
+  [1496] IntelCpHDCPSvc.exe
+  [1564] svchost.exe
+  [1656] svchost.exe
+  [1676] svchost.exe
+  [1728] svchost.exe
+  [1804] IntelCpHeciSvc.exe
+  [1840] svchost.exe
+  [1920] svchost.exe
+  [1960] svchost.exe
+  [1976] svchost.exe
+  [1984] svchost.exe
+  [2064] igfxCUIService.exe
+  [2092] svchost.exe
+  [2176] svchost.exe
+  [2268] svchost.exe
+  [2280] svchost.exe
+  [2288] svchost.exe
+  [2300] svchost.exe
+  [2316] svchost.exe
+  [2400] svchost.exe
+  [2468] svchost.exe
+  [2476] svchost.exe
+  [2484] svchost.exe
+  [2496] svchost.exe
+  [2516] svchost.exe
+  [2580] Memory Compression
+  [2772] svchost.exe
+  [2864] svchost.exe
+  [3064] svchost.exe
+  [2612] HotKeyServiceUWP.exe
+  [3140] svchost.exe
+  [3148] svchost.exe
+  [3156] svchost.exe
+  [3292] svchost.exe
+  [3384] WmiPrvSE.exe
+  [3392] svchost.exe
+  [3616] svchost.exe
+  [3712] svchost.exe
+  [3828] wlanext.exe
+  [3836] conhost.exe
+  [3868] spoolsv.exe
+  [3932] svchost.exe
+  [3980] svchost.exe
+  [4080] svchost.exe
+  [2100] warp-svc.exe
+  [2640] CxAudioSvc.exe
+  [2116] svchost.exe
+  [3112] CxUtilSvc.exe
+  [3056] svchost.exe
+  [3096] OfficeClickToRun.exe
+  [3512] ibtsiva.exe
+  [3560] OneApp.IGCC.WinService.exe
+  [2716] svchost.exe
+  [3552] jhi_service.exe
+  [3528] svchost.exe
+  [4144] svchost.exe
+  [4192] svchost.exe
+  [4200] svchost.exe
+  [4216] XtuService.exe
+  [4232] SynTPEnhService.exe
+  [4244] MpDefenderCoreService.exe
+  [4252] WMIRegistrationService.exe
+  [4264] MsMpEng.exe
+  [4448] svchost.exe
+  [4916] LanWlanWwanSwitchingServiceUWP.exe
+  [4060] SearchIndexer.exe
+  [5216] svchost.exe
+  [5452] svchost.exe
+  [5656] dllhost.exe
+  [5724] WmiPrvSE.exe
+  [1488] svchost.exe
+  [836] svchost.exe
+  [6464] AggregatorHost.exe
+  [7084] svchost.exe
+  [7288] svchost.exe
+  [8072] svchost.exe
+  [6008] svchost.exe
+  [8472] svchost.exe
+  [10032] NisSrv.exe
+  [10600] SecurityHealthService.exe
+  [13520] svchost.exe
+  [14204] svchost.exe
+  [5360] svchost.exe
+  [9564] svchost.exe
+  [14236] svchost.exe
+  [5420] svchost.exe
+  [4516] svchost.exe
+  [15596] audiodg.exe
+  [11784] csrss.exe
+  [9768] winlogon.exe
+  [4224] fontdrvhost.exe
+  [16012] dwm.exe
+  [12716] svchost.exe
+  [15932] sihost.exe
+  [13248] svchost.exe
+  [5436] svchost.exe
+  [2356] svchost.exe
+  [6592] igfxEM.exe
+  [10204] taskhostw.exe
+  [7368] taskhostw.exe
+  [11064] MicTray64.exe
+  [4664] explorer.exe
+  [13960] SynTPEnh.exe
+  [11440] ctfmon.exe
+  [8768] SynTPHelper.exe
+  [15264] svchost.exe
+  [12028] WhatsApp.Root.exe
+  [1692] RuntimeBroker.exe
+  [2980] StartMenuExperienceHost.exe
+  [7300] RuntimeBroker.exe
+  [13300] SearchApp.exe
+  [708] RuntimeBroker.exe
+  [6752] UserOOBEBroker.exe
+  [13752] RuntimeBroker.exe
+  [7952] HPAudioAnalytics.exe
+  [15044] SecurityHealthSystray.exe
+  [7804] opera.exe
+  [420] opera_crashreporter.exe
+  [15004] opera.exe
+  [4848] terabox.exe
+  [5692] opera.exe
+  [3968] opera.exe
+  [9632] opera.exe
+  [7356] lync.exe
+  [2908] opera.exe
+  [13968] BlueStacksServices.exe
+  [9388] msedge.exe
+  [11256] opera.exe
+  [9636] msedge.exe
+  [16280] msedge.exe
+  [9304] msedge.exe
+  [11800] dllhost.exe
+  [8208] BlueStacksServices.exe
+  [3408] Cloudflare WARP.exe
+  [5200] BlueStacksServices.exe
+  [1708] SmartAudio3.exe
+  [8868] Flow.exe
+  [11652] BlueStacksServices.exe
+  [14092] ONENOTEM.EXE
+  [16024] msedgewebview2.exe
+  [15960] msedgewebview2.exe
+  [13864] msedgewebview2.exe
+  [10508] msedgewebview2.exe
+  [15184] teraboxunite.exe
+  [12412] teraboxunite.exe
+  [7396] teraboxunite.exe
+  [12916] teraboxunite.exe
+  [14676] svchost.exe
+  [6388] teraboxunite.exe
+  [10488] wps.exe
+  [6728] CompPkgSrv.exe
+  [8136] PushNotificationsLongRunningTask.exe
+  [692] msedgewebview2.exe
+  [12964] teraboxunite.exe
+  [15876] teraboxhost.exe
+  [12744] crashpad_handler.exe
+  [15604] msedgewebview2.exe
+  [13988] TextInputHost.exe
+  [14040] dllhost.exe
+  [10588] pwahelper.exe
+  [580] msedge.exe
+  [10396] msedge.exe
+  [5508] pwahelper.exe
+  [9976] msedge.exe
+  [256] svchost.exe
+  [14556] msedge.exe
+  [13652] msedge.exe
+  [10120] chrome.exe
+  [10640] chrome.exe
+  [4308] chrome.exe
+  [5288] chrome.exe
+  [1820] chrome.exe
+  [14352] chrome.exe
+  [5280] chrome.exe
+  [8492] Telegram.exe
+  [13148] SystemSettings.exe
+  [7176] ApplicationFrameHost.exe
+  [14020] SDXHelper.exe
+  [9672] svchost.exe
+  [9948] ShellExperienceHost.exe
+  [700] RuntimeBroker.exe
+  [10692] SystemSettingsBroker.exe
+  [4008] svchost.exe
+  [5820] wpscloudsvr.exe
+  [3804] msedge.exe
+  [936] svchost.exe
+  [16172] msedgewebview2.exe
+  [1224] msedgewebview2.exe
+  [12608] msedgewebview2.exe
+  [9416] smartscreen.exe
+  [6964] powershell.exe
+  [8364] conhost.exe
+  [7868] svchost.exe
+  [6340] opera.exe
+  [15256] svchost.exe
+  [10764] windowsservice.exe
+  [3612] 4BtqZz1.exe
+  [4092] s0907.exe
+  [3248] powershell.exe
+  [12240] conhost.exe
+  [15496] 6wtPxecTGLI.exe
+  [13080] 6wtPxecTGLI.tmp
+  [5908] h2testdrive.exe
+  [11056] opera.exe
+  [12272] opera.exe
+  [12972] svchost.exe
+  [12660] 3vyr3q36ekrJ.exe
+  [3372] Bwale.exe
+  [13824] consent.exe
+  [6652] opera.exe
+  [1508] msedgewebview2.exe
+  [10420] 4BtqZz1.exe
+  [8236] Y59IwquXL.exe
+  [6876] Y59IwquXL.tmp
+  [2900] bmw6rnPsH6K.exe
+  [14276] CompatTelRunner.exe
+  [9612] conhost.exe
+  [11552] s0907.exe
+  [15016] dcb4023d5f.exe
+  [12628] msedge.exe
+  [2904] msedge.exe
+  [8668] RhXTwL1UyTk9.exe
+  [6696] RhXTwL1UyTk9.tmp
+  [8332] msedge.exe
+  [13328] backgroundTaskHost.exe
+  [7792] MyboiYjsyA1.exe
+  [14996] opera.exe
+  [7064] UsoClient.exe
+  [9228] LogonUI.exe
+  [14032] MoUsoCoreWorker.exe
+  [2236] SearchApp.exe
+  [11900] LockApp.exe
+  [10752] svchost.exe
+  [14644] RuntimeBroker.exe
+  [6756] backgroundTaskHost.exe
+  [12560] windowsservice.exe
+  [10808] msedge.exe
+  [3116] powershell.exe
+  [11368] conhost.exe
+  [14196] consent.exe
+[Software]
+  BlueStacks App Player
+  Bang & Olufsen Audio
+  Microsoft Office Professional Plus 2024 - en-us
+  Microsoft Office Professional Plus 2016 - en-us
+  Synaptics Pointing Device Driver
+  WinRAR 5.71 (64-bit)
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Office 16 Click-to-Run Extensibility Component 64-bit Registration
+  Update for x64-based Windows Systems (KB5001716)
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030

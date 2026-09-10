@@ -1,0 +1,12 @@
+.twitch.tv	TRUE	/	TRUE	1805839863	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	TRUE	1805035857	api_token	c03bdb35bc87e2c96a3da38f5b1ed5bd
+.twitch.tv	TRUE	/	FALSE	1805035857	last_login	2026-03-15T14:50:57Z
+.twitch.tv	TRUE	/	FALSE	1805035857	name	donjasarp
+.twitch.tv	TRUE	/	TRUE	1805035857	persistent	504448739%3A%3Ahxte6wjaailsw9ebmrq9ux3ml7mae4
+.twitch.tv	TRUE	/	TRUE	1789138257	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjUwNDQ0ODczOVwiXSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE3ODkxMzgyNTcsImlhdCI6MTc3MzU4NjI1Nywibm9uY2UiOiJpS3l3RGRCNHcwN1M2WFhvSWFIa1dCQlZCMXBGMldfLTdIM1pMckRRU244PSJ9.GvK0k0da9xSbMJP46DipfsVwBdr13RUK7Qpb3Tym4MSMbEWMdYrjsAp9lzs7qh-6Nr10d8is0ZBTqbdfmAuoUg%3D%3D
+.twitch.tv	TRUE	/	TRUE	1810759810	auth-token	hl4j717gon82sfdzvehcz58tzc9nn5
+.twitch.tv	TRUE	/	TRUE	1810759810	login	donjasarp
+.twitch.tv	TRUE	/	TRUE	1810759810	twilight-user	{%22authToken%22:%22hl4j717gon82sfdzvehcz58tzc9nn5%22%2C%22displayName%22:%22donjasarp%22%2C%22id%22:%22504448739%22%2C%22login%22:%22donjasarp%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	1810339057	twitch.lohp.countryCode	ES
+.twitch.tv	TRUE	/	TRUE	1813445442	unique_id	15776f537a0a49e8bba82b82e90dd49b
+.twitch.tv	TRUE	/	TRUE	1813445442	unique_id_durable	15776f537a0a49e8bba82b82e90dd49b

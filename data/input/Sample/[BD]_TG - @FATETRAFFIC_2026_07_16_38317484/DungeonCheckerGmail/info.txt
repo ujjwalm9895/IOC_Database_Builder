@@ -1,0 +1,5 @@
+[INFO] Cookie : Chrome_Profile_1_[E7F5].txt
+[INFO] Email : akteruzzamandipto257@gmail.com
+[INFO] Hits : 15
+[INFO] Queries : noreply@steampowered.com(12), ea@e.ea.com(3)
+

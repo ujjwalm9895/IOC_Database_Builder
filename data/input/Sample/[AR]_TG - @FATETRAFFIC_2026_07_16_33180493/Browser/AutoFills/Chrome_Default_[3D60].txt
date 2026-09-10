@@ -1,0 +1,233 @@
+﻿Name: EMAI
+Value: mateorisso78@gmail.com
+===============
+Name: FNAM
+Value: Mateo
+===============
+Name: HPHN
+Value: +542213557019
+===============
+Name: LNAM
+Value: Riquelme
+===============
+Name: _r_1rp_
+Value: DELL INSPIRON 15 3535
+===============
+Name: _r_3lu_
+Value: 💻 Dell Inspiron 3535 Ryzen 5 
+===============
+Name: _r_5s_
+Value: Dell " Inspiron 15 3535 ", 8gb ram, Ryzen 5 7520u, 512GB ssd, Pantalla 15,6" Full HD 
+===============
+Name: _r_7o_
+Value: Dell Inspiron 15 3535
+===============
+Name: _r_7ol_
+Value:  Dell Inspiron 3535 Ryzen 5 
+===============
+Name: _r_fl_
+Value:  Dell Inspiron 3535 Ryzen 5 - Como Nueva PERMUTO POR IPHONE 
+===============
+Name: _r_m_
+Value: Dell Inspiron 15 3535 
+===============
+Name: _r_o_-hidden-input
+Value: AR
+===============
+Name: _r_oj_
+Value: Notebook Dell Inspiron 15 3535 Ryzen 5 7520 u 
+===============
+Name: _r_u_
+Value: (2) 2135 5701
+===============
+Name: _r_ve_
+Value: 💻 Dell Inspiron 3535 Ryzen 5
+===============
+Name: amount
+Value: 2.800
+===============
+Name: email
+Value: NEGRINEGRIN
+===============
+Name: email
+Value: fabiirondo164@gmail.com
+===============
+Name: email
+Value: m4tu123@gmail.com
+===============
+Name: email
+Value: mateoo147z
+===============
+Name: email
+Value: mateorisso78@gmail.com
+===============
+Name: email
+Value: matugelp@outlook.es
+===============
+Name: firstName
+Value: Mateo
+===============
+Name: id
+Value: https://www.tiktok.com/@reeft012/video/7613709155102231829?is_from_webapp=1&sender_device=pc
+===============
+Name: id_number
+Value: 20435999892
+===============
+Name: identifier
+Value: Mateorisso78@gmail.com
+===============
+Name: lastName
+Value: Riquelme
+===============
+Name: lastName
+Value: Riquelme Risso
+===============
+Name: login_email
+Value: m4tu123@gmail.com1
+===============
+Name: number
+Value: 20435999892
+===============
+Name: sf_url
+Value: https://www.tiktok.com/@reeft012/video/7613709155102231829?is_from_webapp=1&sender_device=pc
+===============
+Name: sl_list-search-box
+Value: po
+===============
+Name: slots-search
+Value: princess
+===============
+Name: user_id
+Value: 43599989
+===============
+Name: user_id
+Value: rissotimba@gmail.com
+===============
+Name: username
+Value: BRISA7740S
+===============
+Name: username
+Value: brisa6669m
+===============
+Name: username
+Value: mateo321312
+===============
+Name: username
+Value: mmateo3926
+===============
+Name: address
+Value: CITY BELL
+===============
+Name: address
+Value: Buenos Aires
+===============
+Name: address
+Value: AR
+===============
+Name: address
+Value: 10 E 478 Y 479
+===============
+Name: address
+Value: 10 E 478 Y 479
+===============
+Name: address
+Value: 10 E 478 Y 479
+===============
+Name: address
+Value: BRISA ARIADNA AGUSTINA
+===============
+Name: address
+Value: OLMOS
+===============
+Name: address
+Value: BRISA ARIADNA AGUSTINA OLMOS
+===============
+Name: address
+Value: +54 221 355-7019
+===============
+Name: address
+Value: La Plata
+===============
+Name: address
+Value: Buenos Aires
+===============
+Name: address
+Value: 1896
+===============
+Name: address
+Value: AR
+===============
+Name: address
+Value: Calle 10 e Calle 478 y 479 5663
+barberia
+===============
+Name: address
+Value: Calle 10 e Calle 478 y 479
+===============
+Name: address
+Value: 5663
+===============
+Name: address
+Value: OLMOS
+===============
+Name: address
+Value: Calle 10 e Calle 478 y 479 5663
+===============
+Name: address
+Value: Mateo
+===============
+Name: address
+Value: Risso
+===============
+Name: address
+Value: Mateo Risso
+===============
+Name: address
+Value: mateorisso78@gmail.com
+===============
+Name: address
+Value: Risso
+===============
+Name: address
+Value: mateo
+===============
+Name: address
+Value: risso
+===============
+Name: address
+Value: mateo risso
+===============
+Name: address
+Value: mateorisso78@gmail.com
+===============
+Name: address
+Value: +54 221 355-7019
+===============
+Name: address
+Value: la plata
+===============
+Name: address
+Value: Buenos Aires
+===============
+Name: address
+Value: 1986
+===============
+Name: address
+Value: AR
+===============
+Name: address
+Value: calle 10 e 478 y 479
+5663
+===============
+Name: address
+Value: calle 10 e 478 y
+===============
+Name: address
+Value: 479
+===============
+Name: address
+Value: risso
+===============
+Name: address
+Value: calle 10 e 478 y 479
+===============

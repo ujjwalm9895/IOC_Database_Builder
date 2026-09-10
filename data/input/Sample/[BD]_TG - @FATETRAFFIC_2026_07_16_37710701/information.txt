@@ -1,0 +1,357 @@
+IP: 103.99.129.61
+Country: BD
+
+Date: 11.07.2026 11:55:31
+MachineID: a069b9b0-9b9b-3167-5e36-fe5fe16e128e
+GUID: {502805a3-aa57}
+HWID: C5EBAABF158CB7B65178-502805a3-aa57-0D6926B
+
+Path: C:\Users\ROKIBU~1\AppData\Local\Temp\13119550101\14ee774c17.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+
+Windows: Windows 11 Home 25H2 (Build 26200)
+Computer Name: LAPTOP-M5QTH96U
+User Name: Rokibul Islam
+Display Resolution: 1536x864
+Local Time: 11.07.2026 11:55:31
+Antivirus: Windows Defender
+
+[Hardware]
+Processor: AMD Ryzen 5 7535HS with Radeon Graphics        
+Cores: 12
+Threads: 12
+RAM: 7381 MB
+VideoCard: AMD Radeon(TM) Graphics
+
+[Processes]
+  [4] System
+  [188] Secure System
+  [232] Registry
+  [812] smss.exe
+  [1292] csrss.exe
+  [1496] wininit.exe
+  [1504] csrss.exe
+  [1564] winlogon.exe
+  [1640] services.exe
+  [1648] LsaIso.exe
+  [1668] lsass.exe
+  [1796] svchost.exe
+  [1816] fontdrvhost.exe
+  [1820] fontdrvhost.exe
+  [1932] svchost.exe
+  [1980] svchost.exe
+  [996] dwm.exe
+  [1724] svchost.exe
+  [1920] svchost.exe
+  [1976] svchost.exe
+  [2104] svchost.exe
+  [2236] svchost.exe
+  [2244] svchost.exe
+  [2292] svchost.exe
+  [2300] svchost.exe
+  [2312] svchost.exe
+  [2344] svchost.exe
+  [2388] svchost.exe
+  [2512] svchost.exe
+  [2528] svchost.exe
+  [2576] svchost.exe
+  [2636] svchost.exe
+  [2644] svchost.exe
+  [2900] svchost.exe
+  [3184] svchost.exe
+  [3284] OmenCap.exe
+  [3336] NVDisplay.Container.exe
+  [3380] atiesrxx.exe
+  [3388] amdfendrsr.exe
+  [3396] svchost.exe
+  [3660] svchost.exe
+  [3796] svchost.exe
+  [3912] atieclxx.exe
+  [3920] svchost.exe
+  [3928] svchost.exe
+  [3956] svchost.exe
+  [4092] svchost.exe
+  [3044] svchost.exe
+  [3580] TouchpointAnalyticsClientService.exe
+  [3696] NetworkCap.exe
+  [3608] AppHelperCap.exe
+  [3648] DiagsCap.exe
+  [3600] SysInfoCap.exe
+  [3592] svchost.exe
+  [3892] svchost.exe
+  [4064] Memory Compression
+  [4388] hp-one-agent-service.exe
+  [4396] svchost.exe
+  [4572] audiodg.exe
+  [4740] svchost.exe
+  [4820] svchost.exe
+  [4912] NVDisplay.Container.exe
+  [4668] svchost.exe
+  [5160] ctfmon.exe
+  [5316] WmiPrvSE.exe
+  [5324] WmiPrvSE.exe
+  [5540] svchost.exe
+  [5556] svchost.exe
+  [5644] unsecapp.exe
+  [5756] svchost.exe
+  [5776] svchost.exe
+  [5840] svchost.exe
+  [6064] svchost.exe
+  [6072] svchost.exe
+  [5312] spoolsv.exe
+  [6284] svchost.exe
+  [6352] EwServer.exe
+  [6360] ETDService.exe
+  [6368] svchost.exe
+  [6376] FNPLicensingService.exe
+  [6384] svchost.exe
+  [6392] svchost.exe
+  [6400] svchost.exe
+  [6408] OfficeClickToRun.exe
+  [6452] HPPrintScanDoctorService.exe
+  [6468] FNPLicensingService64.exe
+  [6524] svchost.exe
+  [6576] MpDefenderCoreService.exe
+  [6588] svchost.exe
+  [6632] SMSvcHost.exe
+  [6668] servicehost.exe
+  [6684] remotesolverdispatcherservice.exe
+  [6708] mqsvc.exe
+  [6740] SECOMN64.exe
+  [6768] sqlbrowser.exe
+  [6776] sqlwriter.exe
+  [6792] svchost.exe
+  [6804] svchost.exe
+  [6836] RtkAudUService64.exe
+  [6880] SWVisualize.BoostService.exe
+  [6908] ETDCtrl.exe
+  [7016] SWVisualize.Queue.Server.exe
+  [7024] svchost.exe
+  [7084] svchost.exe
+  [7120] MsMpEng.exe
+  [7136] svchost.exe
+  [7144] wslservice.exe
+  [7524] dispatcher.exe
+  [7652] lmgrd.exe
+  [7780] conhost.exe
+  [8788] conhost.exe
+  [8912] svchost.exe
+  [9032] SECOCL64.exe
+  [9040] conhost.exe
+  [9048] lmgrd.exe
+  [9196] SMSvcHost.exe
+  [9656] uihost.exe
+  [7344] svchost.exe
+  [9772] svchost.exe
+  [9080] svchost.exe
+  [10184] svchost.exe
+  [10436] sihost.exe
+  [10500] svchost.exe
+  [10576] svchost.exe
+  [10628] svchost.exe
+  [10720] taskhostw.exe
+  [10732] AggregatorHost.exe
+  [10780] MATLABStartupAccelerator.exe
+  [10812] svchost.exe
+  [10824] OverlayHelper.exe
+  [10872] OmenInstallMonitor.exe
+  [10924] SystemOptimizer.exe
+  [11092] wlanext.exe
+  [11132] svchost.exe
+  [3464] explorer.exe
+  [1772] svchost.exe
+  [8792] ShellHost.exe
+  [10692] RtkAudUService64.exe
+  [11360] svchost.exe
+  [11432] svchost.exe
+  [11628] CrossDeviceResume.exe
+  [12212] svchost.exe
+  [11452] svchost.exe
+  [12072] svchost.exe
+  [12296] svchost.exe
+  [12472] NgcIso.exe
+  [12560] BridgeCommunication.exe
+  [12600] svchost.exe
+  [12704] svchost.exe
+  [12752] StartMenuExperienceHost.exe
+  [12816] SearchHost.exe
+  [13464] Widgets.exe
+  [13596] RuntimeBroker.exe
+  [13640] svchost.exe
+  [13916] WidgetService.exe
+  [13332] SearchIndexer.exe
+  [11712] dllhost.exe
+  [14684] msedgewebview2.exe
+  [14768] msedgewebview2.exe
+  [15168] svchost.exe
+  [14484] msedgewebview2.exe
+  [12396] msedgewebview2.exe
+  [15408] msedgewebview2.exe
+  [15508] msedgewebview2.exe
+  [16208] svchost.exe
+  [15784] svchost.exe
+  [16196] svchost.exe
+  [16900] svchost.exe
+  [17064] taskhostw.exe
+  [4516] smartscreen.exe
+  [16668] svchost.exe
+  [15748] windowsruntime.exe
+  [16664] sw_d.exe
+  [17752] directxdatabaseupdater.exe
+  [18184] MicrosoftEdgeUpdate.exe
+  [18044] AppActions.exe
+  [18476] OmenCommandCenterBackground.exe
+  [18856] WhatsApp.Root.exe
+  [18808] TextInputHost.exe
+  [16848] NisSrv.exe
+  [19264] FileCoAuth.exe
+  [18924] RuntimeBroker.exe
+  [19624] OneDrive.exe
+  [19524] OneDrive.Sync.Service.exe
+  [20836] svchost.exe
+  [21040] powershell.exe
+  [21048] conhost.exe
+  [19920] consent.exe
+  [19648] RuntimeBroker.exe
+  [17092] SecurityHealthSystray.exe
+  [20152] SecurityHealthService.exe
+  [21324] 14ee774c17.exe
+  [2116] dasHost.exe
+  [16556] svchost.exe
+  [10324] HPSystemEventUtilityBackground.exe
+  [9576] unsecapp.exe
+  [19660] HPSystemEventUtilityHost.exe
+  [17340] HPMediaNetwork.exe
+  [16012] RtkAudUService64.exe
+  [10800] GDFwAdmin.exe
+  [4412] Avro Keyboard.exe
+  [19084] IDMan.exe
+  [16140] a5afea74.exe
+  [18396] Dllhost.exe
+  [17696] Client.exe
+  [6240] cf57e9d1.exe
+  [19980] ms-teams.exe
+  [20180] RuntimeBroker.exe
+  [19540] msedgewebview2.exe
+  [1884] msedgewebview2.exe
+  [8972] msedgewebview2.exe
+  [16888] msedgewebview2.exe
+  [11020] msedgewebview2.exe
+  [13444] msedgewebview2.exe
+  [20424] svchost.exe
+  [21448] ms-teams.exe
+  [18280] msedgewebview2.exe
+  [8896] msedgewebview2.exe
+  [19420] msedgewebview2.exe
+  [9736] svchost.exe
+  [9168] msedgewebview2.exe
+  [21184] RuntimeBroker.exe
+  [15328] msedgewebview2.exe
+  [6936] msedgewebview2.exe
+  [21192] msedgewebview2.exe
+  [4540] Wihnup.exe
+  [19928] MathWorksServiceHost.exe
+  [10712] MathWorksServiceHost-Monitor.exe
+  [13780] dllhost.exe
+[Software]
+  HP Documentation
+  GDR 1130 for SQL Server 2022 (KB5046057) (64-bit)
+  GDR 1135 for SQL Server 2022 (KB5046861) (64-bit)
+  GDR 1140 for SQL Server 2022 (KB5058712) (64-bit)
+  GDR 1145 for SQL Server 2022 (KB5063756) (64-bit)
+  GDR 1150 for SQL Server 2022 (KB5065221) (64-bit)
+  GDR 1160 for SQL Server 2022 (KB5068407) (64-bit)
+  GDR 1165 for SQL Server 2022 (KB5073031) (64-bit)
+  GDR 1170 for SQL Server 2022 (KB5077465) (64-bit)
+  GDR 1175 for SQL Server 2022 (KB5084815) (64-bit)
+  GDR 1180 for SQL Server 2022 (KB5091158) (64-bit)
+  MATLAB R2024b
+  Microsoft SQL Server 2022 (64-bit)
+  Microsoft SQL Server 2022 (64-bit)
+  Microsoft 365 - en-us
+  Microsoft OneNote - en-us
+  WinRAR 7.01 (64-bit)
+  3DEXPERIENCE Marketplace for SOLIDWORKS
+  SQL Server 2022 SQL Diagnostics
+  Microsoft ODBC Driver 17 for SQL Server
+  SQL Server 2022 Shared Management Objects
+  SQL Server 2022 Database Engine Shared
+  SOLIDWORKS Visualize Boost 2024 SP01
+  Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+  HP One Agent
+  HP One Agent
+  SOLIDWORKS Composer 2024 SP01
+  SQL Server 2022 Shared Management Objects Extensions
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  SQL Server 2022 DMF
+  HP One Agent
+  SOLIDWORKS Flow Simulation 2024 SP01 
+  Microsoft SQL Server 2022 RsFx Driver
+  SQL Server 2022 Database Engine Services
+  SQL Server 2022 Common Files
+  Google Drive
+  SQL Server 2022 Shared Management Objects
+  Microsoft OLE DB Driver for SQL Server
+  SQL Server 2022 Connection Info
+  Microsoft Visual Basic for Applications 7.1 (x64)
+  SOLIDWORKS Inspection 2024 SP01
+  HP One Agent
+  SQL Server 2022 Batch Parser
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  SQL Server 2022 Common Files
+  Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support
+  Office 16 Click-to-Run Extensibility Component
+  Windows Subsystem for Linux
+  SQL Server 2022 XEvent
+  SOLIDWORKS Visualize 2024 SP01
+  SQL Server 2022 Shared Management Objects Extensions
+  Microsoft Teams Meeting Add-in for Microsoft Office
+  SOLIDWORKS Electrical 2024 SP01
+  Microsoft VSS Writer for SQL Server 2022
+  Microsoft OLE DB Driver 19 for SQL Server
+  NVIDIA Graphics Driver 592.27
+  NVIDIA GeForce Experience 3.27.0.114
+  NVIDIA PhysX System Software 9.21.0713
+  NVIDIA FrameView SDK 1.3.8513.32290073
+  NVIDIA SHIELD Streaming
+  NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)
+  NVIDIA Install Application
+  NVIDIA Backend
+  NVIDIA Container
+  NVIDIA TelemetryApi helper for NvContainer
+  NVIDIA LocalSystem Container
+  NVIDIA Message Bus for NvContainer
+  NVIDIA NVAPI Monitor plugin for NvContainer
+  NVIDIA NetworkService Container
+  NVIDIA Session Container
+  NVIDIA User Container
+  NVIDIA NvModuleTracker
+  NVIDIA NodeJS
+  NVIDIA Platform Controllers and Framework
+  NVIDIA Watchdog Plugin for NvContainer
+  NVIDIA Telemetry Client
+  NVIDIA Virtual Host Controller
+  Nvidia Share
+  NVIDIA ShadowPlay 3.27.0.114
+  NVIDIA SHIELD Wireless Controller Driver
+  NVIDIA Virtual Audio 4.49.0.0
+  Microsoft SQL Server 2022 Setup (English)
+  CEF for SOLIDWORKS Applications
+  SQL Server 2022 XEvent
+  SQL Server 2022 Database Engine Services
+  Microsoft Update Health Tools
+  SOLIDWORKS Plastics 2024 SP01
+  SOLIDWORKS CAM 2024 SP01
+  HP One Agent
+  Microsoft Visual Basic for Applications 7.1 (x64) English
+  SQL Server 2022 Database Engine Shared
+  3DEXPERIENCE Exchange for SOLIDWORKS
+  AMD Ryzen Master SDK
+  SQL Server 2022 DMF
+  HP One Agent
+  SOLIDWORKS eDrawings 2024 SP01
+  SOLIDWORKS 2024 SP01
+  SQL Server 2022 Connection Info
+  Windows Subsystem for Linux Update
+  SOLIDWORKS File Utilities 2024 SP01

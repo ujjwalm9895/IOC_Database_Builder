@@ -1,0 +1,32 @@
+﻿URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username: hassansaikot28@gmail.com
+Password: Nadim0167*
+===============
+URL: https://www.amazon.com/ap/forgotpassword
+Username: hassansaikot28@gmail.com
+Password: Nadim0167
+===============
+URL: https://www.facebook.com/login.php
+Username: hassansaikot28@gmail.com
+Password: Nadim0167
+===============
+URL: https://offcloud.com/
+Username: hassansaikot28@gmail.com
+Password: Nadim0167
+===============
+URL: https://zbigz.com/login
+Username: hassansaikot28@gmail.com
+Password: Nadim0167
+===============
+URL: https://capsulehub.tilantra.com/register
+Username: Saikot
+Password: Nadim0167
+===============
+URL: https://help.steampowered.com/en/login/
+Username: saikot0167
+Password: Nadim0167
+===============
+URL: http://192.168.0.1/index.html
+Username: NAVI
+Password: 12345678
+===============

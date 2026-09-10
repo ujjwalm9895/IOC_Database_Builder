@@ -1,0 +1,20 @@
+﻿pplx-next-static-public.perplexity.ai	FALSE	/	TRUE	1759541646	CF_AppSession	n889178080f49218a
+perplexity-ai.cloudflareaccess.com	FALSE	/	TRUE	1759469646	CF_Session	nMd8euzzLoxxaZhqh
+www.perplexity.ai	FALSE	/	TRUE	1759538043	__cflb	02DiuDyvFMmK5p9jVbVnMNSKYZhUL9aGmuXtfDRbcScHa
+www.perplexity.ai	FALSE	/	FALSE	1790991246	gov-badge	1
+www.perplexity.ai	FALSE	/	FALSE	1790991243	pplx.visitor-id	210d95ca-0b97-43de-a8ca-9b5790162479
+.doubleclick.net	TRUE	/	TRUE	1794015253	IDE	AHWqTUn_5dgCADwKyGtOs8GBFRWxmCnSTZHdxOJ1FwQZUd_VA6b4-j_fdSwr0FUV
+.perplexity.ai	TRUE	/	FALSE	1767231251	_gcl_au	1.1.300747600.1759455251
+www.perplexity.ai	FALSE	/	FALSE	1794015247	pplx.metadata	{%22qc%22:0%2C%22qcu%22:0%2C%22qcm%22:0%2C%22qcc%22:0%2C%22qcco%22:0%2C%22qccol%22:0%2C%22qcdr%22:0%2C%22qcs%22:0%2C%22qcd%22:0%2C%22hli%22:false%2C%22hcga%22:false%2C%22hcds%22:false%2C%22hso%22:false%2C%22hfo%22:false%2C%22hsco%22:true%2C%22hfco%22:false%2C%22hsma%22:false}
+www.perplexity.ai	FALSE	/	FALSE	1794015249	sidebarHiddenHubs	[]
+.perplexity.ai	TRUE	/	TRUE	1790991250	cf_clearance	qkIE0HT15x4.pXe3gOr_xsX8MdsaogWXj1tob05VRn4-1759455246-1.2.1.1-bKF0WYfInIdmC.lYDLn5GoUSnH7Vxra6gmqFAKdvk8zEjvEPTzMqfrr5sPogvItMdbyVvdNi9cQZTgW2sBa_4qzgSPWz80857dHz3vRhYehNWQ1CwjrXJB._ddGrn16Kh94lQ6KAJu9R0kqWAOWBFfe30VLJryjowuSJrk_2.QcTR6xT98zu1idl1xXBf4bPgFFjV64.K5SXwl3k0aCHhexv.dp9oplmCw87cooRkUA
+.www.perplexity.ai	TRUE	/	TRUE	1790991267	__stripe_mid	320cc41d-2c37-46cf-9cc9-26a9de78669e0b30ad
+m.stripe.com	FALSE	/	TRUE	1794015267	m	b6af6fbe-14a5-4d1f-a665-0f9f1fdb764aa7a66b
+.perplexity.ai	TRUE	/	TRUE	0	comet_browser	{"browser_version": "140.1.7339.21342", "browser_channel": "stable", "extension_version": "1.0.40", "agent_extension_version": "0.0.128", "device_id": "ea9316d90c2fe248e6d8d61470cf6df0a774d2f814c3e39eb9cfbb3b3403c7eb", "is_personal_search_enabled": true, "ui_locale": "es"}
+.perplexity.com	TRUE	/	TRUE	0	comet_browser	{"browser_version": "140.1.7339.21342", "browser_channel": "stable", "extension_version": "1.0.40", "agent_extension_version": "0.0.128", "device_id": "ea9316d90c2fe248e6d8d61470cf6df0a774d2f814c3e39eb9cfbb3b3403c7eb", "is_personal_search_enabled": true, "ui_locale": "es"}
+.pplx.ai	TRUE	/	TRUE	0	comet_browser	{"browser_version": "140.1.7339.21342", "browser_channel": "stable", "extension_version": "1.0.40", "agent_extension_version": "0.0.128", "device_id": "ea9316d90c2fe248e6d8d61470cf6df0a774d2f814c3e39eb9cfbb3b3403c7eb", "is_personal_search_enabled": true, "ui_locale": "es"}
+.pplx.it	TRUE	/	TRUE	0	comet_browser	{"browser_version": "140.1.7339.21342", "browser_channel": "stable", "extension_version": "1.0.40", "agent_extension_version": "0.0.128", "device_id": "ea9316d90c2fe248e6d8d61470cf6df0a774d2f814c3e39eb9cfbb3b3403c7eb", "is_personal_search_enabled": true, "ui_locale": "es"}
+www.perplexity.ai	FALSE	/	FALSE	1760063677	AWSALB	knQ6Hvv4riLZLivsFw+UEV+w04GBE/aYUVUYDRiZJG8sQJn3IAk/J95XUHWRQ39L9plhronFr/p8yPNPWZVzSi3habRz26l6qF57k+/MhCOzx2fQ8XIIBRrfv93WRzYm50VaVVmJtocz730W3trCUv7v6EJAvu6KX+KVErexiwVwcA869i7n0tfPSYxJkA==
+www.perplexity.ai	FALSE	/	TRUE	1760063677	AWSALBCORS	knQ6Hvv4riLZLivsFw+UEV+w04GBE/aYUVUYDRiZJG8sQJn3IAk/J95XUHWRQ39L9plhronFr/p8yPNPWZVzSi3habRz26l6qF57k+/MhCOzx2fQ8XIIBRrfv93WRzYm50VaVVmJtocz730W3trCUv7v6EJAvu6KX+KVErexiwVwcA869i7n0tfPSYxJkA==
+.perplexity.ai	TRUE	/	TRUE	1759461041	__cf_bm	7YxcsJ9nq2VMmjV_ElW6L.OV9bVR6z0jtVcaZmO6x7Y-1759459236-1.0.1.1-Ts2RQRcCEKHIReDNw3RQYSmh9TXqP13k6y1zxew27F89cyy2z74m1xGC6yi2rJgPcWGJvg1H0J.ZMlcAI_ANiDpHDi1kR.jykExIx2ZOeQM
+www.perplexity.ai	FALSE	/	FALSE	1759460518	_dd_s	aid=aac7b6d7-ccc6-4112-aed7-3728bcd74277&rum=2&id=9ea1d2ee-f3b6-475a-904d-20c796222272&created=1759455245374&expire=1759460517384&logs=1

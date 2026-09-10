@@ -1,0 +1,12 @@
+.twitch.tv	TRUE	/	TRUE	1794508233	experiment_overrides	{%22experiments%22:{}%2C%22disabled%22:[]}
+.twitch.tv	TRUE	/	TRUE	1796806848	api_token	8c2688f80af5f1310558cc560b484b30
+.twitch.tv	TRUE	/	FALSE	1796806848	name	dabita121
+.twitch.tv	TRUE	/	FALSE	1796806848	last_login	2026-06-12T01:02:22Z
+.twitch.tv	TRUE	/	TRUE	1796806848	persistent	1329500054%3A%3Aifqfic7p47dg2y769mtr6cir6b9ys3
+.twitch.tv	TRUE	/	TRUE	1796806848	spare_key	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjEzMjk1MDAwNTRcIl0iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNzk2Nzc4MTQyLCJpYXQiOjE3ODEyMjYxNDIsIm5vbmNlIjoiYS1rMXpnZlJET0tzMTdzQ2REUUd1S3ZtaTVybnBNOUI4UXROWFdMOW5KMD0ifQ%3D%3D.rIjebITUapV17e-TQ1xb7_Tj1P3BYyHcRq3260DIFqTJ2CJWGPE3bRZXQhTewDT4kV-h1bHx92vTFKCgSx8u6Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	1797440533	auth-token	e3uihlujmufj5207bo95sr7h3ol4ss
+.twitch.tv	TRUE	/	TRUE	1797440533	login	dabita121
+.twitch.tv	TRUE	/	TRUE	1797440531	unique_id	d0d14246c47a48779e496b2321646cef
+.twitch.tv	TRUE	/	TRUE	1797440533	twilight-user	{%22authToken%22:%22e3uihlujmufj5207bo95sr7h3ol4ss%22%2C%22displayName%22:%22dabita121%22%2C%22id%22:%221329500054%22%2C%22login%22:%22dabita121%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	1797440531	unique_id_durable	d0d14246c47a48779e496b2321646cef
+.twitch.tv	TRUE	/	FALSE	1797440535	twitch.lohp.countryCode	IE

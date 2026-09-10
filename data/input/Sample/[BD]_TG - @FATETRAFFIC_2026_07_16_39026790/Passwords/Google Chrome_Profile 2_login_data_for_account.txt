@@ -1,0 +1,4 @@
+Soft: Google Chrome (Profile 2)
+Host: android://XBmFhjEFm5dcVWkEVTeiHIB-SUDbNQPlvLcXm6nJxdrC1fZib0VS7Me1rBc_3UCbiCwFZRu4aBgD1xWAPz9Veg==@com.qarigor.mj.bdcoinv4/
+Login: 
+Password: 

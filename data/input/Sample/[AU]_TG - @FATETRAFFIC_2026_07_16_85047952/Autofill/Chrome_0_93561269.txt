@@ -1,0 +1,232 @@
+﻿21817838233.N-cell_phone:0472840253
+21817838233.U-309604813:33856745
+21817838233.U-309604823:Bernie Meehan
+21817838233.U-309604833:0419323701
+5hq3z5:m0.ie:M2_PhysicalDemo.MOV
+6r0wl2:3hk.ie:MIPS reference sheet.pdf
+:11j.ie:ECE2131 (Analog Circuits)
+:13r.ie:ECE2191 (Probability)
+:15z.ie:ECE2191 (Probability and AI)
+:187.ie:ECE3122 (Electromagnetics)
+:1af.ie:ENG2005 (Advanced Maths)
+:1cn.ie:FIT2085 (IT Algorithms)
+:1gj.ie:ECCE4132 (Control Systems)
+:1ir.ie:ECE3051 (Power Systems)
+:1kz.ie:ECE3073 (Computer Systems)
+:1n7.ie:ECE3141 (Information and Networks)
+:1pf.ie:ECE3142 (Control System Design)
+:1rn.ie:ECE3161 (Analog Circuits)
+:1tv.ie:ECE4191 (Integrated Design)
+:84.ie:Kangaroo
+:9i.ie:E23 R06 Demo Run.mp4
+:a9.ie:Erlang B Table.pdf
+:ac.ie:Bird
+:af.ie:3073 Practical 4
+:an.ie:E23 Proposal.docx
+:bq.ie:E23 R06 Demo Robot.mp4
+:cl.ie:Cockatoo
+:cx.ie:3073 Practical 2
+:f1.ie:(Old Template) Project Proposal
+:ff.ie:3073 Practical 3
+:hd.ie:26/05/2025 Meeting Minutes YWB Establishing Details
+:p9.ie:ECE4191 Sensor FBD - Low Level FBD.pdf
+:r11f::feature/m2-accelerometer_software
+:r17e::feature/m2_task3_full
+:r1d1::feature/m2_single-mode
+:r1j::Merge M3 Task 1 (2 Processor Multiprocessing) changes into main
+:r1q::feature/m2-accelerometer
+:r23::M3 Task 1 - Dual Multiprocessor Implementation
+:r2ee::feature/m3-task2a-outdated
+:r2k::feature/m1_task3
+:r40::feature/m1_Task4
+:r7l::Merge conflict resolution example from Jack-Meehan/feature/m2-accelerometer_software
+:rfd::RGB Packed Data Implementation
+:rk9::Display Parallelism Processor
+:sn.ie:ECE2071 (Code)
+:uv.ie:ECE2071 (C Code)
+:x3.ie:ECE2072 (Digital Logic)
+:zb.ie:ECE2111 (Signals and Systems)
+Email:jackmee64@gmail.com
+LOOKUPADDRESS:138.44.64.221
+LOOKUPADDRESS:146.179.42.148
+LOOKUPADDRESS:203.208.143.189
+LOOKUPADDRESS:211.29.126.230
+LOOKUPADDRESS:64.125.26.160
+LOOKUPADDRESS:64.125.28.253
+LOOKUPADDRESS:64.125.29.127
+LOOKUPADDRESS:64.125.35.189
+PageNumberUIModern:1
+PageNumberUIModern:7
+PageNumberUIModern:9
+Textfield:delete
+a:1000001
+a498dcc1-d4c8-4173-bbfe-fd5e82ea3f7e:Overarching concept Diagram
+aButton:N.A.
+author:Michael Evans
+b:10101
+bButton:Capture Image
+backButton:N.A.
+bsju7n:iu.ie:LED wiring diagram.png
+c1052:M2
+c10807:Labs and Pre-Lim
+c1199:M3
+c17424:Assignment Resources
+c19398:Workshop Resources
+c2895:25
+c3281:Presentation Resources
+c994:M1
+cardholderName:Jack Meehan
+company_name:Monash
+contactemail: Michael.G.Burke@monash.edu
+contactemail:James.Salamy@monash.edu
+contactname:Dr. Michael Burke
+contactname:James Salamy
+contactname:Tim Baxter
+contactphone:  +61 3 9905 3481
+contactphone:+61 3 9905 0846
+contacttitle:Deputy Director of Education (2nd Year) ECSE
+contacttitle:Director - Electrical / Melbourne
+contacttitle:ECE4191 Chief Examiner/Unit Coordinator - Director Graduate Research & Graduate Experience/Culture ECSE
+ctl00$mainContent$FormController$ctl12$ctl104:ECE3093, ECE4045
+d35xzq:p9.ie:Erlang C Table.pdf
+d35xzq:ri.ie:Erlang B, C, and Poisson Tables
+data[emailAddress]:Jackmee64@gmail.com
+document_title:ECE4132_ProjectT1
+document_title:ECE4191 Sensor FBD
+dpadDown:Snap Camera up
+dpadLeft:Snap Camera up
+dpadRight:Snap Camera up
+dpadUp:Snap Camera up
+edition:0
+edition:0th
+editpdf-zoom-input:45%
+elaborate:Jess
+email:I
+email:Jackmee64@gmail.com
+email:jboo0016@student.monash.edu
+email:jkbooth232@gmail.com
+email:jmee0006@student.monash.edu
+email:k.meehan91@hotmail.com
+email:ld 
+email:s te
+emailAddress_seekanz:Jackmee64@gmail.com
+email_address:jmee0006@student.monash.edu
+endmin2:0
+family_name:Meehan
+firstName:Jack
+first_name:Jack
+form-text-input-QID38-1:jmee0006@student.monash.edu
+form-text-input-QID38-2:Improved public transport pathways and interconnections
+geOmniSearch:L
+geOmniSearch:add
+geOmniSearch:sum
+goog_569881522:Stator line-neutral
+goog_569881522:Stator short-circuit current
+hours:171
+hours:20
+hours:622
+identifier: jmee0006@student.monash.edu
+identifier:jmee0006@student.monash.edu
+inline-add-item-form__input:Executive Summary
+inline-add-item-form__input:Memorandum of understanding with partner team (Electrical or Robotic)
+inline-add-item-form__input:Project Plan
+inline-add-item-form__input:Project Proposal
+inline-add-item-form__input:S
+inline-add-item-form__input:System Design (Architecture)
+inline-add-item-form__input:System Specification
+inline-add-item-form__input:User Requirement Analysis
+isbn:9781107567474
+isbn13:9781107567474
+isbn13:9781922268310
+iwcWifiSsid:Urvi's S22
+iwcWifiSsid:vivivivi
+keys:SOP template
+kl-consent-page-0377727c7be342158016d8e69b7fb5c3:jmee0006@student.monash.edu
+lastName:Meehan
+last_name:Meehan
+leftBumper:Decrease Brightness
+leftStick:N.A.
+leftStickClick:Movement
+leftTrigger:N.A.
+location:Clayton
+location:Melbourne Vic CBD
+login:jackmee64@gmail.com
+loginfmt:Jackmee64@gmail.com
+loginfmt:jmee
+minutes:0
+minutes:43
+mobile1:0472840253
+mobile_number:0472840253
+mobile_number_verification_code:5801
+mySTFirstName:Jack
+mySTLastName:Meehan
+name:ECE4191 Team Project
+name:ENG CPD ePortfolio - 33856745 Jack Roger Meehan
+name:Jack M
+name:Jack Roger Meehan
+name:Jack Roger Meehan (33856745) - ENG CPD ePortfolio
+name:Jackmee64@gmail.com
+organisation:LCI Consultants
+organisation:Monash University
+payment.cardExpirationDate:03  /  29
+payment.cardPostalCode:3147
+paymentReference:33856745
+ph_pagebody_0$phthreecolumnmaincontent_0$panel$AddressLine$hfAddressId:95aa3f01-3b30-4a69-ae65-e36b6b188581--2
+ph_pagebody_0$phthreecolumnmaincontent_0$panel$AddressLine$hfAddressId:e0d0acf3-cb93-4ef9-9ebc-52e317279b1d--2
+ph_pagebody_0$phthreecolumnmaincontent_0$phaside_0$sb_marketvalue:2200
+principalAmount:1018.00
+principalAmount:365.00
+q:9781107567474
+question:For the T4 in the project, is it the frame rate, or seconds per frame that should be displayed?
+radio-field-1633759885:Another store
+receiptEmailAddress:Jackmee64@gmail.com
+release[name]:(v3.0) ECE3073 C05 M3 - Final Project Product Release
+response:0.0175
+response:36.3394
+response:Vibrations
+rightBumper:Increase Brightness
+rightStick:Change
+rightStick:Pan/Tilt Camera
+rightStickClick:Reset Camera Position
+rightTrigger:N.A.
+rrp:60.5
+rrp:60.50
+s:Frames
+s:Photo
+s:Photo Frames
+s:electronic
+search-query:Approval and test specifications
+searchInput:early
+search_box:ECE3093
+search_box:ECE4042
+search_box:ECE4081
+search_unit_cd:ECE3093
+search_unit_cd:ECE4024
+search_unit_cd:ECE4043
+search_unit_cd:ECE4045
+search_unit_cd:ECE4053
+search_unit_cd:ECE4071
+search_unit_cd:ECE4191
+search_unit_cd:ENG0001
+search_unit_cd:ENG4084
+search_unit_cd:ENG4701
+search_unit_cd:ENG4801
+search_unit_cd:ENG4804
+sell_price:30
+sell_price:40
+sell_price:50
+session_key:Jackmee64@gmail.com
+startButton:N.A.
+starthour2:10
+startmin2:0
+sudo_email_otp:48246672
+team_size_manager:5
+token:8VGUN6
+token:C6JH2W
+token:FEABXM
+token:R5S7WA
+txtTOAAEmail:Jackmee64@gmail.com
+user[email]:Jackmee64@gmail.com
+username:jmee0006@student.monash.edu
+xButton:N.A.
+yButton:N.A.

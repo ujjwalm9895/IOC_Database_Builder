@@ -1,0 +1,99 @@
+Soft: Google Chrome (Profile 3)
+Host: https://my.account.sony.com/central/verification/
+Login: 
+Password: Salem.alktbi44
+
+Soft: Google Chrome (Profile 3)
+Host: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.instaero.android/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 3)
+Host: https://www.artificialaiming.net/forum/register.php
+Login: 6mbozee
+Password: 74994587
+
+Soft: Google Chrome (Profile 3)
+Host: https://www.artificialaiming.net/forum/profile.php
+Login: altbi769@gmail.com
+Password: Salem.alktbi4
+
+Soft: Google Chrome (Profile 3)
+Host: https://my.account.sony.com/sonyacct/signin/
+Login: alktbi916@gmail.com
+Password: Salem@1090
+
+Soft: Google Chrome (Profile 3)
+Host: https://id.logi.com/
+Login: altbi769@gmail.com
+Password: Salem@1090
+
+Soft: Google Chrome (Profile 3)
+Host: https://sso.crunchyroll.com/es/login
+Login: abdulla.alktbi.0@icloud.com
+Password: @A1122331
+
+Soft: Google Chrome (Profile 3)
+Host: https://store.steampowered.com/
+Login: abdulla7863
+Password: abdulla@0890
+
+Soft: Google Chrome (Profile 3)
+Host: https://eu.account.battle.net/login/en-us/
+Login: salem.alktbi1999@gmail.com
+Password: Salem@1090
+
+Soft: Google Chrome (Profile 3)
+Host: https://s.activision.com/activision/login
+Login: ALTBI769@GMAIL.COM
+Password: Salem2488
+
+Soft: Google Chrome (Profile 3)
+Host: https://marketplace.signalrgb.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 3)
+Host: https://eu.account.battle.net/login/en-us/
+Login: anaaltby@gmail.com
+Password: Salem@1090
+
+Soft: Google Chrome (Profile 3)
+Host: https://us.account.battle.net/login/en/
+Login: saeedbutaweel@gmail.com
+Password: S10112005s
+
+Soft: Google Chrome (Profile 3)
+Host: https://my.account.sony.com/sonyacct/signin/
+Login: zekko2110@gmail.com
+Password: zeko@2002
+
+Soft: Google Chrome (Profile 3)
+Host: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login: 
+Password: 
+
+Soft: Google Chrome (Profile 3)
+Host: https://s.activision.com/activision/login
+Login: abdullaziiz013@gmail.com
+Password: Qwqw@1245
+
+Soft: Google Chrome (Profile 3)
+Host: https://s.activision.com/activision/login
+Login: anaaltby@GMAIL.COM
+Password: Salem@1090
+
+Soft: Google Chrome (Profile 3)
+Host: https://api.diwaniyalabs.com/account/reset-password/5128395/5f096e515515bb00da1f8aaddb655a11/
+Login: 
+Password: Salem@1090
+
+Soft: Google Chrome (Profile 3)
+Host: https://s.activision.com/activision/login
+Login: altbi769@gmail.com
+Password: Salem2488
+
+Soft: Google Chrome (Profile 3)
+Host: https://www.netflix.com/
+Login: 
+Password: 

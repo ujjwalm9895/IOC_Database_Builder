@@ -1,0 +1,24 @@
+﻿Browser: Chrome
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: false
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: enabled
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Languages: en-AU,en-GB,en-US,en
+Download Dir: C:\Users\bkenn\Pictures
+Profile Name: Person 1
+
+[Metadata]
+Extraction Time: 1783230232

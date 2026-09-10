@@ -1,0 +1,23 @@
+﻿Browser: Edge
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: true
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Languages: es-419,es,es-ES,en,en-GB,en-US
+Profile Name: Perfil 1
+
+[Metadata]
+Extraction Time: 1783461563

@@ -1,0 +1,5887 @@
+{
+  "report_generated_at": "2026-07-22T14:54:24.401469+00:00",
+  "filters": {
+    "email": "mdsajjadhossan34@gmail.com",
+    "domain": null
+  },
+  "summary": {
+    "total_cases": 1,
+    "total_unique_emails": 1,
+    "total_domains": 1,
+    "total_credentials": 24,
+    "total_google_tokens": 2,
+    "risk_breakdown": {
+      "critical": 1,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "unique_services_compromised": [
+      "app.gala.games",
+      "artgrid.io",
+      "banglatask.com",
+      "com.duolingo",
+      "com.facebook.katana",
+      "com.nildolcash.easycash",
+      "cutt.ly",
+      "epicgames.com",
+      "globalgt.com",
+      "myaccount.google.com",
+      "tkwin99.com",
+      "tunnelbear.com"
+    ]
+  },
+  "cases": [
+    {
+      "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+      "path": "D:\\IOC_Database_Builder\\data\\input\\Sample\\[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+      "machine_info": {
+        "stealer": null,
+        "system": {
+          "ip_address": "123.253.65.129",
+          "country": "BD",
+          "infection_date": "12.07.2026 00:44:58",
+          "machine_id": "7986fb97-6fb9-861f-1034-69b2fb73fc7b",
+          "guid": "{5a705b31-74c0}",
+          "hwid": "52C2094D9C02057C6F4E-5a705b31-74c0-31EE590",
+          "malware_path": "C:\\Users\\Shihab\\AppData\\Local\\Temp\\13122210101\\4BtqZz1.exe",
+          "malware_md5": "61812e78609e5fd2e7cb44a5a494e833",
+          "work_dir": "In memory",
+          "os": "Windows 10 Pro 22H2 (Build 19045)",
+          "computer_name": "IPADE",
+          "user_name": "Shihab",
+          "display_resolution": "1366x768",
+          "local_time": "12.07.2026 00:44:58",
+          "antivirus": "Windows Defender"
+        },
+        "hardware": {
+          "Processor": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+          "Cores": "4",
+          "Threads": "4",
+          "RAM": "8035 MB",
+          "VideoCard": "Intel(R) HD Graphics 620"
+        },
+        "process_count": 220
+      },
+      "credentials": [
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://artgrid.io/signup",
+          "service_domain": "artgrid.io",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "#HBI6251#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://app.gala.games/games/town-star/",
+          "service_domain": "app.gala.games",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "*68BPS72$",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "Shihab Shihab",
+          "login_type": "username",
+          "login_normalized": "shihab shihab",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://nXxUwksuBW-xpm_pDimSZNjHqjCFJpaViYrbEDdXvAuiEhdQUTuoHRUD8mgpnJ1V594g6EyTWuts-Y_F4DxUGA==@com.casht.eidbonus/",
+          "service_domain": "com.casht.eidbonus",
+          "login": "MD.Habib",
+          "login_type": "username",
+          "login_normalized": "md.habib",
+          "password": "otHB_biK4YHF7PE",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://globalgt.com/en/promotions",
+          "service_domain": "globalgt.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "AT3CTaWUsV9CTjb",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "kamlaofficial83@gmail.com",
+          "login_type": "email",
+          "login_normalized": "kamlaofficial83@gmail.com",
+          "password": "@shihab12421",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://thetechpro.xyz/",
+          "service_domain": "thetechpro.xyz",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "0912",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "01316942510",
+          "login_type": "phone",
+          "login_normalized": "01316942510",
+          "password": "m1nx1234",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://watch.plex.tv/",
+          "service_domain": "watch.plex.tv",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://client.globalgt.com/register/1",
+          "service_domain": "client.globalgt.com",
+          "login": "shifatshifat790@gmail.com",
+          "login_type": "email",
+          "login_normalized": "shifatshifat790@gmail.com",
+          "password": "AT3CTaWUsV9CTjb",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://www.instagram.com/accounts/signup/",
+          "service_domain": "instagram.com",
+          "login": "shifathabibur",
+          "login_type": "username",
+          "login_normalized": "shifathabibur",
+          "password": "Q8-J6v4EHYx4HtJ",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://jjZUUaLdWxvgkuQJFI_J7xrC2zPz8-dXIpz-nFy3p1cWW03UyQY3oqp07qP2odyonm_gq20YcyXHDI557xlp0w==@com.nildolcash.easycash/",
+          "service_domain": "com.nildolcash.easycash",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "BD6251",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://lCMya3K4OclYFPfXtJrB6Kbyh2GkJVXP60zP0_q126lW20ILSulYph3EOt0fr7yihDX1ij6mWUo8PSfXmUxpnQ==@com.dts.freefireth/",
+          "service_domain": "com.dts.freefireth",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://_8cay8VJ373-o8WtHfJddbd0sAvjnEuCOy3kkwG-HsbRBkNVIuDoU5ywv1ePYKAuoQ3R-F_BS41mwg2EgVWJPQ==@org.xbet.client1/",
+          "service_domain": "org.xbet.client1",
+          "login": "422450523",
+          "login_type": "username",
+          "login_normalized": "422450523",
+          "password": "8tbya75y",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/",
+          "service_domain": "com.roblox.client",
+          "login": "Janll239",
+          "login_type": "username",
+          "login_normalized": "janll239",
+          "password": "p9lEUz5aNV-Xo4h",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://www.banglatask.com/register",
+          "service_domain": "banglatask.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "#Sajjad#123",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://dil-amazon.com/index/user/register",
+          "service_domain": "dil-amazon.com",
+          "login": "Habib356",
+          "login_type": "username",
+          "login_normalized": "habib356",
+          "password": "421143",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://www.instagram.com/accounts/emailsignup/",
+          "service_domain": "instagram.com",
+          "login": "shifat.habibur08",
+          "login_type": "username",
+          "login_normalized": "shifat.habibur08",
+          "password": "Amijanina",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://cutt.ly/register",
+          "service_domain": "cutt.ly",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "AT3CTaWUsV9CTjb",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/",
+          "service_domain": "com.roblox.client",
+          "login": "mgxgmfu",
+          "login_type": "username",
+          "login_normalized": "mgxgmfu",
+          "password": "p9lEUz5aNV-Xo4h",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "majeda123",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://myaccount.google.com/u/1/signinoptions/password",
+          "service_domain": "myaccount.google.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "shihab34",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/",
+          "service_domain": "com.instagram.android",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "genzgamer2007",
+          "login_type": "username",
+          "login_normalized": "genzgamer2007",
+          "password": "shihabbhi",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://1ieE5XRyUrI4k6rF1dud7FHnm0cTp2FZWueDeB8-xYGNfv4xMBN_a_mfeanv615490J2Osth6MbVnNDuO64G0g==@com.ninexgen.wifi.password.recovery/",
+          "service_domain": "com.ninexgen.wifi.password.recovery",
+          "login": "Forid",
+          "login_type": "username",
+          "login_normalized": "forid",
+          "password": "qgV5c0-t$XA2!vi",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "I",
+          "login_type": "username",
+          "login_normalized": "i",
+          "password": "Y-@bJfh5LlnKF@v",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://rx1M7HNclOtlTbka8IqBM_RA-PPzS-htzHtHBJQcOM2oNQSOsZxZF1j1MPteckITXrJ7xKh6mEC2HmKZpBwBrg==@com.snapchat.android/",
+          "service_domain": "com.snapchat.android",
+          "login": "'jkdmdjxhfkskddmjf",
+          "login_type": "username",
+          "login_normalized": "'jkdmdjxhfkskddmjf",
+          "password": "nksjjddkfhfkdjdhh",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://xtOqdMhBIAvh1SK_afwr1yyBdMWwXPSLaKlqpC61N020KTek84KNpvh92spmOlh31f4CrVxB1m3KaqGTR2AQ9Q==@com.instabridge.android/",
+          "service_domain": "com.instabridge.android",
+          "login": "Forid",
+          "login_type": "username",
+          "login_normalized": "forid",
+          "password": "34567890",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "shihqn",
+          "login_type": "username",
+          "login_normalized": "shihqn",
+          "password": "T$34l@4BwXPbGwa",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "jmd439908@gmail.com",
+          "login_type": "email",
+          "login_normalized": "jmd439908@gmail.com",
+          "password": "Jama1212",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://Dyuy9fi89lOiHE7Y9omxzS8r_oLSLRg9ieQYKYqcLXWiHenDyUcx_I_YWcraPecuLIpGcFN5mZOta-Zz4IitZQ==@app.tikfollowers.com.fans.free/",
+          "service_domain": "app.tikfollowers.com.fans.free",
+          "login": "shifatshifat790@gmail.com",
+          "login_type": "email",
+          "login_normalized": "shifatshifat790@gmail.com",
+          "password": "#HBI6251#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.lite/",
+          "service_domain": "com.facebook.lite",
+          "login": "1316942510",
+          "login_type": "phone",
+          "login_normalized": "1316942510",
+          "password": "@shihab12421",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://wincash24.net/signup",
+          "service_domain": "wincash24.net",
+          "login": "Habib987",
+          "login_type": "username",
+          "login_normalized": "habib987",
+          "password": "01799948480",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://_8cay8VJ373-o8WtHfJddbd0sAvjnEuCOy3kkwG-HsbRBkNVIuDoU5ywv1ePYKAuoQ3R-F_BS41mwg2EgVWJPQ==@org.xbet.client1/",
+          "service_domain": "org.xbet.client1",
+          "login": "422790225",
+          "login_type": "username",
+          "login_normalized": "422790225",
+          "password": "dt5ffys7",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://remotedesktop.google.com/access",
+          "service_domain": "remotedesktop.google.com",
+          "login": "Shihab",
+          "login_type": "username",
+          "login_normalized": "shihab",
+          "password": "01316942510",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://3arBfRv1DcyNVKakosaXBPZsk4DgOOY62roRu1pdMtDVMwShrWbOVeZ5nlCB_-g4DYny76VlZUTbGzDeqlW6sQ==@com.getepic.Epic/",
+          "service_domain": "com.getepic.epic",
+          "login": "jmd439908@gmail.com",
+          "login_type": "email",
+          "login_normalized": "jmd439908@gmail.com",
+          "password": "jama1212",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://oauth.vk.com/",
+          "service_domain": "oauth.vk.com",
+          "login": "jmd439908@gmail.com",
+          "login_type": "email",
+          "login_normalized": "jmd439908@gmail.com",
+          "password": "Jama1212",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "Shihab@123",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://www.tkwin99.com/index.php",
+          "service_domain": "tkwin99.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "*72SBP68$",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "https://www.facebook.com/juhaina.juhaina.714049",
+          "login_type": "username",
+          "login_normalized": "https://www.facebook.com/juhaina.juhaina.714049",
+          "password": "Juhina1234",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "01933707052",
+          "login_type": "phone",
+          "login_normalized": "01933707052",
+          "password": "708533",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://m.facebook.com/",
+          "service_domain": "m.facebook.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "#HBI6251#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "https://himumoni.xyz/",
+          "service_domain": "himumoni.xyz",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "poiu0987",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://L1TRxRU1nefBasvpUeL3c2GtPorqDYd3RrKiayPQweHLcmwXAwiu00ZbHu00Hhl7FL1Qg4IywNF6uP9wS6v3BA==@com.duolingo/",
+          "service_domain": "com.duolingo",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "@#shifat1@#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "Google Chrome_Default_passwords.txt",
+          "host": "android://iNVomlcGmaewqb8W6fcF3T3uBBmHQ_3aFagLF6S62Qh7acLqtXqP37dIvazWK2eU6hSAs7nsp06VCC8ubVQfOg==@sg.bigo.live/",
+          "service_domain": "sg.bigo.live",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.tunnelbear.com/account/login",
+          "service_domain": "tunnelbear.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "Amijanina",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.bullvpn.com/signup",
+          "service_domain": "bullvpn.com",
+          "login": "shihab34",
+          "login_type": "username",
+          "login_normalized": "shihab34",
+          "password": "Amijanina",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://signin.autodesk.com/",
+          "service_domain": "signin.autodesk.com",
+          "login": "Habibur",
+          "login_type": "username",
+          "login_normalized": "habibur",
+          "password": "Jonybai.com1",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.instagram.com/",
+          "service_domain": "instagram.com",
+          "login": "01833576296",
+          "login_type": "phone",
+          "login_normalized": "01833576296",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "http://www.msftconnecttest.com/quickset.html",
+          "service_domain": "msftconnecttest.com",
+          "login": "Shawon",
+          "login_type": "username",
+          "login_normalized": "shawon",
+          "password": "12shawon34",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.facebook.com/login/device-based/regular/login/",
+          "service_domain": "facebook.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "shihab34",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.instagram.com/accounts/login/",
+          "service_domain": "instagram.com",
+          "login": "shifatshifat790@gmail.com",
+          "login_type": "email",
+          "login_normalized": "shifatshifat790@gmail.com",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.facebook.com/",
+          "service_domain": "facebook.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.facebook.com/",
+          "service_domain": "facebook.com",
+          "login": "01735421030",
+          "login_type": "phone",
+          "login_normalized": "01735421030",
+          "password": "qwert1234@#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://www.epicgames.com/id/link/google/existing",
+          "service_domain": "epicgames.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "Microsoft Edge_Default_passwords.txt",
+          "host": "https://quiz.sheikhrussel.gov.bd/login",
+          "service_domain": "quiz.sheikhrussel.gov.bd",
+          "login": "01735421030",
+          "login_type": "phone",
+          "login_normalized": "01735421030",
+          "password": "qwer1234",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.tunnelbear.com/account/login",
+          "service_domain": "tunnelbear.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "Amijanina",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.bullvpn.com/signup",
+          "service_domain": "bullvpn.com",
+          "login": "shihab34",
+          "login_type": "username",
+          "login_normalized": "shihab34",
+          "password": "Amijanina",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://signin.autodesk.com/",
+          "service_domain": "signin.autodesk.com",
+          "login": "Habibur",
+          "login_type": "username",
+          "login_normalized": "habibur",
+          "password": "Jonybai.com1",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.instagram.com/",
+          "service_domain": "instagram.com",
+          "login": "01833576296",
+          "login_type": "phone",
+          "login_normalized": "01833576296",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "http://www.msftconnecttest.com/quickset.html",
+          "service_domain": "msftconnecttest.com",
+          "login": "Shawon",
+          "login_type": "username",
+          "login_normalized": "shawon",
+          "password": "12shawon34",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.facebook.com/login/device-based/regular/login/",
+          "service_domain": "facebook.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "shihab34",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.instagram.com/accounts/login/",
+          "service_domain": "instagram.com",
+          "login": "shifatshifat790@gmail.com",
+          "login_type": "email",
+          "login_normalized": "shifatshifat790@gmail.com",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.facebook.com/",
+          "service_domain": "facebook.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.facebook.com/",
+          "service_domain": "facebook.com",
+          "login": "01735421030",
+          "login_type": "phone",
+          "login_normalized": "01735421030",
+          "password": "qwert1234@#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.epicgames.com/id/link/google/existing",
+          "service_domain": "epicgames.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Microsoft Edge (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://quiz.sheikhrussel.gov.bd/login",
+          "service_domain": "quiz.sheikhrussel.gov.bd",
+          "login": "01735421030",
+          "login_type": "phone",
+          "login_normalized": "01735421030",
+          "password": "qwer1234",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://artgrid.io/signup",
+          "service_domain": "artgrid.io",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "#HBI6251#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://app.gala.games/games/town-star/",
+          "service_domain": "app.gala.games",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "*68BPS72$",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "Shihab Shihab",
+          "login_type": "username",
+          "login_normalized": "shihab shihab",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://nXxUwksuBW-xpm_pDimSZNjHqjCFJpaViYrbEDdXvAuiEhdQUTuoHRUD8mgpnJ1V594g6EyTWuts-Y_F4DxUGA==@com.casht.eidbonus/",
+          "service_domain": "com.casht.eidbonus",
+          "login": "MD.Habib",
+          "login_type": "username",
+          "login_normalized": "md.habib",
+          "password": "otHB_biK4YHF7PE",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://globalgt.com/en/promotions",
+          "service_domain": "globalgt.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "AT3CTaWUsV9CTjb",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "kamlaofficial83@gmail.com",
+          "login_type": "email",
+          "login_normalized": "kamlaofficial83@gmail.com",
+          "password": "@shihab12421",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://thetechpro.xyz/",
+          "service_domain": "thetechpro.xyz",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "0912",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "01316942510",
+          "login_type": "phone",
+          "login_normalized": "01316942510",
+          "password": "m1nx1234",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://watch.plex.tv/",
+          "service_domain": "watch.plex.tv",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://client.globalgt.com/register/1",
+          "service_domain": "client.globalgt.com",
+          "login": "shifatshifat790@gmail.com",
+          "login_type": "email",
+          "login_normalized": "shifatshifat790@gmail.com",
+          "password": "AT3CTaWUsV9CTjb",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.instagram.com/accounts/signup/",
+          "service_domain": "instagram.com",
+          "login": "shifathabibur",
+          "login_type": "username",
+          "login_normalized": "shifathabibur",
+          "password": "Q8-J6v4EHYx4HtJ",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://jjZUUaLdWxvgkuQJFI_J7xrC2zPz8-dXIpz-nFy3p1cWW03UyQY3oqp07qP2odyonm_gq20YcyXHDI557xlp0w==@com.nildolcash.easycash/",
+          "service_domain": "com.nildolcash.easycash",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "BD6251",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://lCMya3K4OclYFPfXtJrB6Kbyh2GkJVXP60zP0_q126lW20ILSulYph3EOt0fr7yihDX1ij6mWUo8PSfXmUxpnQ==@com.dts.freefireth/",
+          "service_domain": "com.dts.freefireth",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://_8cay8VJ373-o8WtHfJddbd0sAvjnEuCOy3kkwG-HsbRBkNVIuDoU5ywv1ePYKAuoQ3R-F_BS41mwg2EgVWJPQ==@org.xbet.client1/",
+          "service_domain": "org.xbet.client1",
+          "login": "422450523",
+          "login_type": "username",
+          "login_normalized": "422450523",
+          "password": "8tbya75y",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/",
+          "service_domain": "com.roblox.client",
+          "login": "Janll239",
+          "login_type": "username",
+          "login_normalized": "janll239",
+          "password": "p9lEUz5aNV-Xo4h",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.banglatask.com/register",
+          "service_domain": "banglatask.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "#Sajjad#123",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://dil-amazon.com/index/user/register",
+          "service_domain": "dil-amazon.com",
+          "login": "Habib356",
+          "login_type": "username",
+          "login_normalized": "habib356",
+          "password": "421143",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.instagram.com/accounts/emailsignup/",
+          "service_domain": "instagram.com",
+          "login": "shifat.habibur08",
+          "login_type": "username",
+          "login_normalized": "shifat.habibur08",
+          "password": "Amijanina",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://cutt.ly/register",
+          "service_domain": "cutt.ly",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "AT3CTaWUsV9CTjb",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/",
+          "service_domain": "com.roblox.client",
+          "login": "mgxgmfu",
+          "login_type": "username",
+          "login_normalized": "mgxgmfu",
+          "password": "p9lEUz5aNV-Xo4h",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "majeda123",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://myaccount.google.com/u/1/signinoptions/password",
+          "service_domain": "myaccount.google.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "shihab34",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/",
+          "service_domain": "com.instagram.android",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "password": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "genzgamer2007",
+          "login_type": "username",
+          "login_normalized": "genzgamer2007",
+          "password": "shihabbhi",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://1ieE5XRyUrI4k6rF1dud7FHnm0cTp2FZWueDeB8-xYGNfv4xMBN_a_mfeanv615490J2Osth6MbVnNDuO64G0g==@com.ninexgen.wifi.password.recovery/",
+          "service_domain": "com.ninexgen.wifi.password.recovery",
+          "login": "Forid",
+          "login_type": "username",
+          "login_normalized": "forid",
+          "password": "qgV5c0-t$XA2!vi",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "I",
+          "login_type": "username",
+          "login_normalized": "i",
+          "password": "Y-@bJfh5LlnKF@v",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://rx1M7HNclOtlTbka8IqBM_RA-PPzS-htzHtHBJQcOM2oNQSOsZxZF1j1MPteckITXrJ7xKh6mEC2HmKZpBwBrg==@com.snapchat.android/",
+          "service_domain": "com.snapchat.android",
+          "login": "'jkdmdjxhfkskddmjf",
+          "login_type": "username",
+          "login_normalized": "'jkdmdjxhfkskddmjf",
+          "password": "nksjjddkfhfkdjdhh",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://xtOqdMhBIAvh1SK_afwr1yyBdMWwXPSLaKlqpC61N020KTek84KNpvh92spmOlh31f4CrVxB1m3KaqGTR2AQ9Q==@com.instabridge.android/",
+          "service_domain": "com.instabridge.android",
+          "login": "Forid",
+          "login_type": "username",
+          "login_normalized": "forid",
+          "password": "34567890",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "shihqn",
+          "login_type": "username",
+          "login_normalized": "shihqn",
+          "password": "T$34l@4BwXPbGwa",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "jmd439908@gmail.com",
+          "login_type": "email",
+          "login_normalized": "jmd439908@gmail.com",
+          "password": "Jama1212",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://Dyuy9fi89lOiHE7Y9omxzS8r_oLSLRg9ieQYKYqcLXWiHenDyUcx_I_YWcraPecuLIpGcFN5mZOta-Zz4IitZQ==@app.tikfollowers.com.fans.free/",
+          "service_domain": "app.tikfollowers.com.fans.free",
+          "login": "shifatshifat790@gmail.com",
+          "login_type": "email",
+          "login_normalized": "shifatshifat790@gmail.com",
+          "password": "#HBI6251#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.lite/",
+          "service_domain": "com.facebook.lite",
+          "login": "1316942510",
+          "login_type": "phone",
+          "login_normalized": "1316942510",
+          "password": "@shihab12421",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://wincash24.net/signup",
+          "service_domain": "wincash24.net",
+          "login": "Habib987",
+          "login_type": "username",
+          "login_normalized": "habib987",
+          "password": "01799948480",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://_8cay8VJ373-o8WtHfJddbd0sAvjnEuCOy3kkwG-HsbRBkNVIuDoU5ywv1ePYKAuoQ3R-F_BS41mwg2EgVWJPQ==@org.xbet.client1/",
+          "service_domain": "org.xbet.client1",
+          "login": "422790225",
+          "login_type": "username",
+          "login_normalized": "422790225",
+          "password": "dt5ffys7",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://remotedesktop.google.com/access",
+          "service_domain": "remotedesktop.google.com",
+          "login": "Shihab",
+          "login_type": "username",
+          "login_normalized": "shihab",
+          "password": "01316942510",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://3arBfRv1DcyNVKakosaXBPZsk4DgOOY62roRu1pdMtDVMwShrWbOVeZ5nlCB_-g4DYny76VlZUTbGzDeqlW6sQ==@com.getepic.Epic/",
+          "service_domain": "com.getepic.epic",
+          "login": "jmd439908@gmail.com",
+          "login_type": "email",
+          "login_normalized": "jmd439908@gmail.com",
+          "password": "jama1212",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://oauth.vk.com/",
+          "service_domain": "oauth.vk.com",
+          "login": "jmd439908@gmail.com",
+          "login_type": "email",
+          "login_normalized": "jmd439908@gmail.com",
+          "password": "Jama1212",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "Shihab@123",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://www.tkwin99.com/index.php",
+          "service_domain": "tkwin99.com",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "*72SBP68$",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "https://www.facebook.com/juhaina.juhaina.714049",
+          "login_type": "username",
+          "login_normalized": "https://www.facebook.com/juhaina.juhaina.714049",
+          "password": "Juhina1234",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "service_domain": "com.facebook.katana",
+          "login": "01933707052",
+          "login_type": "phone",
+          "login_normalized": "01933707052",
+          "password": "708533",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://m.facebook.com/",
+          "service_domain": "m.facebook.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "jonybai.com",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://accounts.google.com/",
+          "service_domain": "accounts.google.com",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "#HBI6251#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "https://himumoni.xyz/",
+          "service_domain": "himumoni.xyz",
+          "login": "01799948480",
+          "login_type": "phone",
+          "login_normalized": "01799948480",
+          "password": "poiu0987",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://L1TRxRU1nefBasvpUeL3c2GtPorqDYd3RrKiayPQweHLcmwXAwiu00ZbHu00Hhl7FL1Qg4IywNF6uP9wS6v3BA==@com.duolingo/",
+          "service_domain": "com.duolingo",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "login_normalized": "mdsajjadhossan34@gmail.com",
+          "password": "@#shifat1@#",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "browser": "Google Chrome (Default)",
+          "source_file": "passwords.txt",
+          "host": "android://iNVomlcGmaewqb8W6fcF3T3uBBmHQ_3aFagLF6S62Qh7acLqtXqP37dIvazWK2eU6hSAs7nsp06VCC8ubVQfOg==@sg.bigo.live/",
+          "service_domain": "sg.bigo.live",
+          "login": "",
+          "login_type": "username",
+          "login_normalized": "",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        }
+      ],
+      "autofill_identities": [],
+      "google_tokens": [
+        {
+          "token_id": "1//0eILrHL77F7RjCgYIARAAGA4SNwF-L9Irz1t_d7Wka1D1JhOS5va-9Hek1enrji5jwHc5wPnjkhpWKze2ymQXZqMUsWvKr3Igvu4",
+          "token_preview": "102359427876832995678",
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "risk": "critical",
+          "note": "Active Google OAuth refresh token — account takeover possible",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "token_id": "fake-1623b7f3-c308-421d-9293-b04c1d99dc50",
+          "token_preview": "000300006718CF09",
+          "browser": "Microsoft Edge Default",
+          "source_file": "Microsoft Edge_Default.txt",
+          "risk": "critical",
+          "note": "Active Google OAuth refresh token — account takeover possible",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        }
+      ],
+      "session_cookies": [
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "OTZ",
+          "cookie_value_preview": "8678402_32_32__32_",
+          "expires": "1785600142",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "ACCOUNT_CHOOSER",
+          "cookie_value_preview": "AFx_qI545AVnz68zc6LRC5kkWx7vjU7Xp3RhruJ6X1_-PFvRAOSGxmhQZG57E4BNnmtE22WxOP9oU-nv...",
+          "expires": "1817568266",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "__Host-GAPS",
+          "cookie_value_preview": "1:REXlLRPSDSUJG4_8jRA22UrI9jcnx53V1pDSyKWhHUIfvF7Kd3qTllQ0MOrEkogwB1VRguQ58DLnzP...",
+          "expires": "1817827255",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "datr",
+          "cookie_value_preview": "QoBKagQOmwpWHn3XYPCOl6dy",
+          "expires": "1817827392",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "ig_did",
+          "cookie_value_preview": "6A4FA8FC-7986-4EEA-86A2-5A43755BDAE6",
+          "expires": "1814803395",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "ig_nrcb",
+          "cookie_value_preview": "1",
+          "expires": "1814803395",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "mid",
+          "cookie_value_preview": "akqARAALAAERcf4EvV7st3mNQk5n",
+          "expires": "1817827394",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "csrftoken",
+          "cookie_value_preview": "jX1VhBQBfuexYf5kAsb25V",
+          "expires": "1818163199",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "wd",
+          "cookie_value_preview": "1366x607",
+          "expires": "1784207998",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "__Host-GAPSTS",
+          "cookie_value_preview": "gapsts-Ci0BtKsiLEwCfngLXomCyXD2EuUaR94rJZeTJifDN5gts3Zz2BOD8FKNXIcuMU0QAQ==",
+          "expires": "1818355511",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "OTZ",
+          "cookie_value_preview": "8691524_32_32__32_",
+          "expires": "1786387436",
+          "secure": true,
+          "browser": "Microsoft Edge Default",
+          "source_file": "Microsoft Edge_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "__Host-GAPS",
+          "cookie_value_preview": "1:lVVosTdcbhLJkRvFOFhS1w-NdjDnmQ:KkWMUd0YoxBfBDZN",
+          "expires": "1818355430",
+          "secure": true,
+          "browser": "Microsoft Edge Default",
+          "source_file": "Microsoft Edge_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673"
+        }
+      ],
+      "browsing_profile": {
+        "cookies": [
+          {
+            "domain": "youtube.com",
+            "count": 30,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "pornhub.com",
+            "count": 23,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "stripchatgirls.com",
+            "count": 23,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "stake.mba",
+            "count": 22,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "xhamster.com",
+            "count": 19,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "leakgallery.com",
+            "count": 17,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "secrets.ai",
+            "count": 16,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "janitorprecisiontrio.com",
+            "count": 14,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "chaturbate.com",
+            "count": 11,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "1xlite-98366.pro",
+            "count": 10,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "bing.com",
+            "count": 10,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "google.com.bd",
+            "count": 10,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "ng88a.com",
+            "count": 10,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "pimpbunny.com",
+            "count": 10,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "thothd.com",
+            "count": 10,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "sex.com",
+            "count": 9,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "xhaccess.com",
+            "count": 8,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "bgb88.club",
+            "count": 7,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "epawg.com",
+            "count": 7,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "google.com",
+            "count": 7,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "hitomi.la",
+            "count": 7,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "accounts.google.com",
+            "count": 6,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "dateseni.su",
+            "count": 6,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "instagram.com",
+            "count": 6,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "xorgasmo.com",
+            "count": 6,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "en.joporn.space",
+            "count": 5,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "watchhentai.net",
+            "count": 4,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "hentaistream.com",
+            "count": 3,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "ad.twinrdengine.com",
+            "count": 2,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "covidhometrial.harlock.co.uk",
+            "count": 2,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "go.awdeliverynet.com",
+            "count": 2,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "happyleafmotion.com",
+            "count": 2,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "lens.google.com",
+            "count": 2,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "msn.com",
+            "count": 2,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "1rmphysio.co.nz",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "cambaddies.com",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "coosync.com",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "discord.com",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "go.bluetrafficstream.com",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "ogs.google.com",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "st15.pimpbunny.com",
+            "count": 1,
+            "log_type": "cookies"
+          },
+          {
+            "domain": "st16.pimpbunny.com",
+            "count": 1,
+            "log_type": "cookies"
+          }
+        ],
+        "history": [
+          {
+            "domain": "google.com",
+            "count": 2161,
+            "log_type": "history"
+          },
+          {
+            "domain": "xfree.com",
+            "count": 1011,
+            "log_type": "history"
+          },
+          {
+            "domain": "nhentai.net",
+            "count": 580,
+            "log_type": "history"
+          },
+          {
+            "domain": "youtube.com",
+            "count": 502,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaifox.com",
+            "count": 237,
+            "log_type": "history"
+          },
+          {
+            "domain": "hitomi.la",
+            "count": 201,
+            "log_type": "history"
+          },
+          {
+            "domain": "nhentai.xxx",
+            "count": 186,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai.name",
+            "count": 170,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentairead.com",
+            "count": 134,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhamster.com",
+            "count": 127,
+            "log_type": "history"
+          },
+          {
+            "domain": "watchhentai.net",
+            "count": 126,
+            "log_type": "history"
+          },
+          {
+            "domain": "nhentai.to",
+            "count": 104,
+            "log_type": "history"
+          },
+          {
+            "domain": "txnhh.com",
+            "count": 103,
+            "log_type": "history"
+          },
+          {
+            "domain": "doujins.com",
+            "count": 95,
+            "log_type": "history"
+          },
+          {
+            "domain": "letterrecoveryunplanted.com",
+            "count": 80,
+            "log_type": "history"
+          },
+          {
+            "domain": "manhwaclan.co.uk",
+            "count": 79,
+            "log_type": "history"
+          },
+          {
+            "domain": "eporner.com",
+            "count": 78,
+            "log_type": "history"
+          },
+          {
+            "domain": "stripchatgirls.com",
+            "count": 68,
+            "log_type": "history"
+          },
+          {
+            "domain": "tsyndicate.com",
+            "count": 66,
+            "log_type": "history"
+          },
+          {
+            "domain": "novelcrow.com",
+            "count": 61,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhamster.desi",
+            "count": 60,
+            "log_type": "history"
+          },
+          {
+            "domain": "accounts.google.com",
+            "count": 58,
+            "log_type": "history"
+          },
+          {
+            "domain": "3hentai.net",
+            "count": 53,
+            "log_type": "history"
+          },
+          {
+            "domain": "bgtee.com",
+            "count": 53,
+            "log_type": "history"
+          },
+          {
+            "domain": "rm358.com",
+            "count": 47,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaiera.com",
+            "count": 42,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.marzaent.com",
+            "count": 38,
+            "log_type": "history"
+          },
+          {
+            "domain": "cornrowbygone.shop",
+            "count": 37,
+            "log_type": "history"
+          },
+          {
+            "domain": "g2288.com",
+            "count": 37,
+            "log_type": "history"
+          },
+          {
+            "domain": "coosync.com",
+            "count": 33,
+            "log_type": "history"
+          },
+          {
+            "domain": "track1122.malayluck.com",
+            "count": 33,
+            "log_type": "history"
+          },
+          {
+            "domain": "frs2c.com",
+            "count": 31,
+            "log_type": "history"
+          },
+          {
+            "domain": "1xlite-98366.pro",
+            "count": 30,
+            "log_type": "history"
+          },
+          {
+            "domain": "j9track.com",
+            "count": 29,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.pemsrv.com",
+            "count": 28,
+            "log_type": "history"
+          },
+          {
+            "domain": "toongod.org",
+            "count": 28,
+            "log_type": "history"
+          },
+          {
+            "domain": "badlandlispyippee.com",
+            "count": 27,
+            "log_type": "history"
+          },
+          {
+            "domain": "jup9.com",
+            "count": 27,
+            "log_type": "history"
+          },
+          {
+            "domain": "janitorprecisiontrio.com",
+            "count": 25,
+            "log_type": "history"
+          },
+          {
+            "domain": "1xlite-08668.world",
+            "count": 24,
+            "log_type": "history"
+          },
+          {
+            "domain": "nhentai.website",
+            "count": 24,
+            "log_type": "history"
+          },
+          {
+            "domain": "chaturbate.com",
+            "count": 23,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa32010.com",
+            "count": 23,
+            "log_type": "history"
+          },
+          {
+            "domain": "xvideos.com",
+            "count": 23,
+            "log_type": "history"
+          },
+          {
+            "domain": "jaya9bangladesh.com",
+            "count": 22,
+            "log_type": "history"
+          },
+          {
+            "domain": "pimpbunny.com",
+            "count": 20,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.xlivrdr.com",
+            "count": 18,
+            "log_type": "history"
+          },
+          {
+            "domain": "xxxbule.com",
+            "count": 18,
+            "log_type": "history"
+          },
+          {
+            "domain": "apoplead.com",
+            "count": 17,
+            "log_type": "history"
+          },
+          {
+            "domain": "app.adjust.com",
+            "count": 17,
+            "log_type": "history"
+          },
+          {
+            "domain": "financefreedomquiz.com",
+            "count": 17,
+            "log_type": "history"
+          },
+          {
+            "domain": "nagad88f.com",
+            "count": 17,
+            "log_type": "history"
+          },
+          {
+            "domain": "docs.google.com",
+            "count": 16,
+            "log_type": "history"
+          },
+          {
+            "domain": "excavatenearbywand.com",
+            "count": 16,
+            "log_type": "history"
+          },
+          {
+            "domain": "thothd.com",
+            "count": 16,
+            "log_type": "history"
+          },
+          {
+            "domain": "ul.jiggleroctene.cyou",
+            "count": 16,
+            "log_type": "history"
+          },
+          {
+            "domain": "bbengal77.com",
+            "count": 15,
+            "log_type": "history"
+          },
+          {
+            "domain": "crittereasilyhangover.com",
+            "count": 15,
+            "log_type": "history"
+          },
+          {
+            "domain": "jcphi.com",
+            "count": 15,
+            "log_type": "history"
+          },
+          {
+            "domain": "shareanynudes.com",
+            "count": 15,
+            "log_type": "history"
+          },
+          {
+            "domain": "xxxbp.tv",
+            "count": 15,
+            "log_type": "history"
+          },
+          {
+            "domain": "dkfokllre.win",
+            "count": 14,
+            "log_type": "history"
+          },
+          {
+            "domain": "facebook.com",
+            "count": 14,
+            "log_type": "history"
+          },
+          {
+            "domain": "winvip88.club",
+            "count": 14,
+            "log_type": "history"
+          },
+          {
+            "domain": "anym8.com",
+            "count": 13,
+            "log_type": "history"
+          },
+          {
+            "domain": "stake.com",
+            "count": 13,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhaccess.com",
+            "count": 13,
+            "log_type": "history"
+          },
+          {
+            "domain": "crumpetprankerstench.com",
+            "count": 12,
+            "log_type": "history"
+          },
+          {
+            "domain": "goodimpressioncrboost.com",
+            "count": 12,
+            "log_type": "history"
+          },
+          {
+            "domain": "holahupa.com",
+            "count": 12,
+            "log_type": "history"
+          },
+          {
+            "domain": "leakgallery.com",
+            "count": 12,
+            "log_type": "history"
+          },
+          {
+            "domain": "rankjerryrounion.com",
+            "count": 12,
+            "log_type": "history"
+          },
+          {
+            "domain": "rcdn-web.com",
+            "count": 12,
+            "log_type": "history"
+          },
+          {
+            "domain": "catlinesallicts.com",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "chatgpt.com",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "dailytrendshub.com",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "en.thehentai.net",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "krikya11.club",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "pornhub.com",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "tiava.com",
+            "count": 11,
+            "log_type": "history"
+          },
+          {
+            "domain": "1adr.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "gemini.google.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "gldmel.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "hai8g.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa37630.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "remotedesktop.google.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "visa.mofa.gov.sa",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhamster19.com",
+            "count": 10,
+            "log_type": "history"
+          },
+          {
+            "domain": "chromewebstore.google.com",
+            "count": 9,
+            "log_type": "history"
+          },
+          {
+            "domain": "stake.mba",
+            "count": 9,
+            "log_type": "history"
+          },
+          {
+            "domain": "viiukuhe.com",
+            "count": 9,
+            "log_type": "history"
+          },
+          {
+            "domain": "adv.clickadu.net",
+            "count": 8,
+            "log_type": "history"
+          },
+          {
+            "domain": "dt.powdrycycas.qpon",
+            "count": 8,
+            "log_type": "history"
+          },
+          {
+            "domain": "manga18fx.com",
+            "count": 8,
+            "log_type": "history"
+          },
+          {
+            "domain": "nfrit.com",
+            "count": 8,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.happyleafmotion.com",
+            "count": 8,
+            "log_type": "history"
+          },
+          {
+            "domain": "viiraipj.com",
+            "count": 8,
+            "log_type": "history"
+          },
+          {
+            "domain": "auth.openai.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "beehentai.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "bilibili.tv",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "daraz.com.bd",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "decoratedmulesanta.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "rak8s.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "rokuhentai.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "tiktok.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "v.extrememley.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "yzwtz.com",
+            "count": 7,
+            "log_type": "history"
+          },
+          {
+            "domain": "adultfuns.club",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "banglatask.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "bing.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "cdn.bollywoodmenswear.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "effectivecpmnetwork.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "epassport.gov.bd",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "faphouse2.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "hit2me.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "jaya9ads.store",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "lol49.com.co",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "market-qx.trade",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "oundhertobeconsist.org",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "porntop.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa96041.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "renamereptiliantrance.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "viikqoye.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "xorgasmo.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "yellowishgather.com",
+            "count": 6,
+            "log_type": "history"
+          },
+          {
+            "domain": "151.whireclogomod.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "3xyy.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "ad.twinrdengine.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "admob.google.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "ak.vialotadom.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "bcvip.co",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "bgb88.club",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "bgb99.net",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "click.flamyadsserv.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "crmkt.livejasmin.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "deshislots.net",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "drive.google.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "fry99.cc",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.bluetrafficstream.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.mayzaent.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "gridaisefty.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "javxxx.me",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "lecturepublicationsbd.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "ltljm.voluumtrk2.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "martted.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "my.exness.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "qorno.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "qwkinfo.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "radiancerelaysacred.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "sex.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "sliwn.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "t.me",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "xnxx.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "xozilla.com",
+            "count": 5,
+            "log_type": "history"
+          },
+          {
+            "domain": "2osb.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "acquaintjokinglyscoring.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "adictox.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "astronautlividlyreformer.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "b7510.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "babu88o.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "bb88click.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "bestoffer330.blogspot.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "carbonfeverthink.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "cdn.ox989.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "clicks.trafficworldclass.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "clladss.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "concedederaserskyline.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "countabledawdlerunaudited.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "diagramjawlineunhappy.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "drabimprovement.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "essencereferencetummy.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "getmoviehd.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "hearthquiteparson.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai20.io",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaicity.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaigasm.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaikun.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "hornetfuck.me",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "ii.bulbedcrus.shop",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "improperscrubbedvendor.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "instagram.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "labs.google",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "m.swibe.me",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "monstercockgang.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "nagad88n.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "now.plsgotoasg.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "omegascans.org",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "one.google.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "onlytreon.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "ox989.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "reddit.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa07377.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "rjfnnnoc.win",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.orbsrv.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "see-even-more.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "teenager365.to",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "ukdevilz.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "vid.t0t.online",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "vxxx.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhamster45.desi",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "xml-eu-v4.trabinec.online",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "xxxculonas.com",
+            "count": 4,
+            "log_type": "history"
+          },
+          {
+            "domain": "29634888-1225-37270.tentedienat.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "773ok.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "ad.bcgm1.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "alzom.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "animeporn.tv",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "annexercrash.cfd",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "app-va.tiktokv.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "bb88time.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "borojeetads.space",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "bragislojds.cyou",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "broker-qx.pro",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "c.daraz.com.bd",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "camhub.cc",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "cdn.33apk.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "cdnflex.me",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "ck.juicyads.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "colinextend.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "deephot.link",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "dy.thecabalante.shop",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "egqqk.ttrk.io",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "ekamsply.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "epawg.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "equalfall.pro",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "fapello.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "faphouse.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "fhgte.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "g.clickr.pro",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "hil.xhamster.desi",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "jagonews24.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "jav.guru",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "javdock.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "kaamdesi.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "manga18.club",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "manhwa-raw.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "manhwaclub.net",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "meet.google.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "melbet-10591.today",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "modal.prizdo.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "myaccount.google.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "namastedharma.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "nectsideaments.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "np12mrb.datingmatchstar.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "perversefamily.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "pin-upl90.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "play.google.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "pornoperso.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "pxl-eu.rtb.tsyndicate.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa38551.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.bollywoodmenswear.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "seksohub.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "snssdk1233.onelink.me",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "steam.nutaku.net",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "truyen-hentai.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "usersasa.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "web.whatsapp.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "x.xxxbule.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "xeronid.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "xml-v4.srvqck27.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "xozilla.xxx",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "yandex.com",
+            "count": 3,
+            "log_type": "history"
+          },
+          {
+            "domain": "20rm.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "551ok.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "890956.jetwonder.co",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "898302.jetwonder.co",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "99mb.cx",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "a-yz.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "a.labadena.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "actressx.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "ad.avcorpi.click",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "aki-h.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "allporncomic.io",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "amused-condition.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "api.ometv.chat",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "apps.admob.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "auth.services.adobe.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "avjb.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "best.aliexpress.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "betoholictrack.cloud",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "bonuscaf.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "business-search-partners.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "camstreams.tv",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "capriceberth.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "cartoonpornvideos.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "cdnjs.contentsprinter.xyz",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "chatmate.tv",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "chrome.google.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "click-box-test-teal.vercel.app",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "click.pornuma.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "contentblanksupersede.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "covidhometrial.harlock.co.uk",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "cutt.ly",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "dcfeed.datingsspads.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "dctrk.datingsspads.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "de.thefap.net",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "desitales2.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "detoxifylagoonsnugness.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "distantscience.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "driftmetriclab.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "ebd89.xyz",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "elegantimpose.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "en.hentai-one.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "fapcat.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "fotokiss.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "g0x.online",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "gemini.google",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "getwific.shop",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "glorifynucleitripping.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.awdeliverynet.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.xxxvjmp.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "golzu.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "google.de",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "googleads.g.doubleclick.net",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "googleadservices.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "grabyourluck.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaifc.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaihaven.xxx",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaizap.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "hibt.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "hotmovies.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "ilovepdf.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "in.tgstat.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "inadsexchange.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "jerkychop.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "jumanhsda.store",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "kerivo.lol",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "kettledroopingcontinuation.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "kiki18.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "landingbc.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "ligroin.niobiddozers.qpon",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "liguhayrhe.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "link.boo",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "lustpush.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "m.nuvid.club",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "m.tubeon.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "marchshotgun.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "massive-hall.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "mega45pari12.in",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "melonstube.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "metaporn.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "modal.lukonx.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "nn125.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "omg10.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "onlyfans.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "pcc.police.gov.bd",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "peak-dust.info",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "pornhaven.ai",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "pornstarempire.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "precheck.adsmbdc.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "prosidehustleclub.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "pxl-eu.tsyndicate.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "q01.flp2023.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa2518.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa31380.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa426945.one",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "ruddy-pass.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.chmsrv.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.click.aliexpress.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.magsrv.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.optvz.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "sacredfinalzoology.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "secrets.ai",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "securepath-app.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "share.google",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "signamentswithd.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "snssdk1340.onelink.me",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "sourshaped.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "spokesportsman.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "ssstik.io",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "static.bucketflare.xyz",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "steam.aeonsecho.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "studio.tripo3d.ai",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "t.bopako.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "tbyh5.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "thewifisupreme.bond",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "tidy-status.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "tinyurl.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "tnaflix.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "translate.google.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "traumatictrash.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "trffk.g2afse.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "trialsavourytriumphant.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "trytele-color.sbs",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "tubepornstars.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "u-tk.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "unfoldedclimate.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "v2006.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "videonet-zone.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "viicmkru.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "vww1.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "wattpad.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "webls.net",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "wet-city.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "whatsapp.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "windowscontrols.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "wps.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "x.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "x1hub.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xasiat.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xgroovy.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhamster46.desi",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xhamsterlive.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xmishti.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xnxx.tv",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xxbrits.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "xxlanal.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "youjizz.com",
+            "count": 2,
+            "log_type": "history"
+          },
+          {
+            "domain": "10183.xml.4armn.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "19.jerkychop.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "1rmphysio.co.nz",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "22.jerkychop.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "22.pacificadining.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "24newstech.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602486-36784-36002.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602487-36784-ex.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602488-36784-ex.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602489-36784-ex.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602493-36784-36002.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602493-36784-ex.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29602496-36784-ex.uncocleypercha.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29657602-29121-37270.squitoiages.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "29676498-29121-37270.squitoiages.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "3.pacificadining.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "32.business-search-partners.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "33.jerkychop.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "36.pacificadining.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "37.business-search-partners.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "4.business-search-partners.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "75bd1002.vipyesrtp.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "75bd1007.vipyesrtp.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "836184mp.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "92orb.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "abmilf.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "abmilf.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ac6ylvu.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ace67ae3.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ace703.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "acooqs.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "activemoment.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ad.doubleclick.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ads.thtrck.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "adsupplyads.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "afia.devnetsyncpro.monster",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "api.shubunk.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "api.teratube.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "at1.adtarget.market",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ayhal.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bd.hdvideo.monster",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bdt1005.kjcrtp.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bestjavporn.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bitesized-league.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bitonclick.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bizzvi.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "blog.techpointspot.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "bongoair.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "budapest-fogorvos.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "c.adsco.re",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "campaign.aliexpress.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "canatrace.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "candy.ai",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "candyai.gg",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "cdn.yxrcr.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ceac.state.gov",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "checking-your-browser.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "cisaqauwin.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "co.buttingtempter.click",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "colorfulculture.click",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "crn77.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "cutiecomics.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "cymastariff.cfd",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "daftarfilles.shop",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "damplips.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "daq.world",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "datapointlane.site",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "dateseni.su",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "dcfeed.adsmbdc.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "dctrk.adsmbdc.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "devnetsyncpro.monster",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "diariocambio.com.mx",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "diskwala.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "displayendpointstarring.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "doujinrepublic.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "duckduckgo.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "dz.rheumicprofit.shop",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "edulecture.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "en.eroeronews.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "en.joporn.me",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "en.joporn.space",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "eoghilas4kj.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "eoho5ohoi6k7l.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "eroeronews.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "es.3hentai.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "eu.bestteam.club",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "eu.effic.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "eu.spacefree.space",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "everlustinggoddess.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "everlustinglife.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "exclusive-spin.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "exness.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "faphouse4k.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "febfeed.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "fhvfd.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "fifa.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "filter-eu.revantagex.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "filter.srvqck27.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "flipkart.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "frhiys.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "g.co",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "g.seksohub.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "g777aa.games-lucky.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "gaana.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "go.mnaspm.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hdhentai.tv",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai-for.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai.yoga",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai18.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai2read.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentai4porn.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaijl.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentairead.io",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hentaismile.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hohoj.tv",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hooliredir.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "hotzxgirl.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "iamabsolutely.online",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ilyvo.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ims-na1.adobelogin.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "indoneviler.rest",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "internationaltelemedia.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "intimatediary.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "iryva.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "isaacvargas.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "it.eporner.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ittefaq.com.bd",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ixxx.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "javhard.org",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "javhdporn.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "javlibrary.cc",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "javpost.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "jili5033.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "jili5252.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "jili8189.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "jili8557.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "jlist.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "joywin88.app",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "kalbela.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "kgbd88.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "koreaboo.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "kts.sensitiveclick.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ladykellie-rkxgkct.work",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "le.ekesforay.shop",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "legendsofthemultiuniverse.fandom.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "likentrue.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "m.ome.tv",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "m.vk.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "m.webnovel.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "m1rs.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mangabuddy.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mangadass.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mangadex.org",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "manshil.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "masterlink.store",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "meetchat.chat",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "melbet-10789.today",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mensvaly.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mihiroverseasexports.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "modal.golzu.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "multitrk.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "myintegrityinsurance.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mysexyebook.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "mystici.su",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ndwatch.eunews.website",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "newsonair.gov.in",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "newtonpublications.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "nexttads.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ng88a.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "nsfw.harlock.co.uk",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "nuvid.club",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "nvdvid.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "offers.tapmad.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "oj.bacchiccupule.qpon",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "oktk.kdsad.xyz",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ome.tv",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "one.exnesstrack.org",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "onlyhentaistuff.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "opencomsystem.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "openshield.canatrace.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "otubex.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "p.1ts14.top",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "p.1ts21.top",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "p.a64x.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pacificadining.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pagemaster.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pd.griptrecrowd.shop",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pholef.click",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pinurl.to",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pixhentai.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "platform.pnperf.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "podefr2.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "policies.google.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "porn4fap.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pornhat.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "preview.redd.it",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "proandmodern.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "prodv2.crsdmnlogin841auto.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "prof-nannie-fxsgcgr.work",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "prtnr-pinclick.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "pxl-eu.rtb.runative-syndicate.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "raims.oep.gov.bd",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "re.winnerfound.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "redir.juicyads.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "redirect.admeking.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "redtube.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "redwap-xxx.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "reffpa.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpa14882.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "refpazitag.top",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rewardround.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rexxx.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rokomari.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rtb-6.xgroovy.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rtb.dspretargettraff.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rugfrfji.win",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "rulexporn.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ruseducationbd.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.dsbcks.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.painamour.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.viibjsui.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "s.viihpobo.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "sexpester.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "sg.transporno.info",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "shitjav.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "sivbop.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "smule.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "solopornoitaliani.xxx",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ss.heyserves.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ss03.f222-play.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "sssinstagram.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "static.adsupplyadshost.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "stuins.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "subtitlenexus.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "superpornotop.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "t.yequka.my",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tapmad.gotrackier.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tbnvid.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tgstat.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "theeverydayplay.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "thefreedictionary.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "themoviedb.org",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "theyarehuge.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tik.porn",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "timeanddate.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tkbaazi.live",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "to.adobe.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "toonily.me",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "toxsales1.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "track.exness.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tube.hentaistream.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tubeon.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "tubeorigin.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "u-49332.daleelerah.info",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "u-7105.daleelerah.info",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "u-7121.daleelerah.info",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ua.nudogram.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "upornia.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "us.effic.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "us.spacefree.space",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "usanivery.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "vid-pt.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "vid-xm.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "video.ijavhd.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "viiwinli.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "viralharami.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "visa.gov.bd",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "vk.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "vnmfvnkd.win",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "weathercrave.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "wewo.gotrackier.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "wiinety.pro",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "woedreoparomore.vercel.app",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "wtcbeekendonk.nl",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "www2.hentai2.net",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "x1-p25d.fin.ovh",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "x6y1.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xapi.juicyads.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xh.partners",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xmilf.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xml-eu-v4.revantagex.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xml-v4.qualiclicks.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xoxomka.t0t.online",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "xxnxx.live",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "yahoo.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "youperv.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "yuvideos.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "zakdjf5666kwiad.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "zd.tubabardy.com",
+            "count": 1,
+            "log_type": "history"
+          },
+          {
+            "domain": "ztozomypfh.com",
+            "count": 1,
+            "log_type": "history"
+          }
+        ],
+        "passwords": [
+          {
+            "domain": "com.facebook.katana",
+            "count": 8,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "accounts.google.com",
+            "count": 4,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "instagram.com",
+            "count": 4,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "facebook.com",
+            "count": 3,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.roblox.client",
+            "count": 2,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "org.xbet.client1",
+            "count": 2,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "app.gala.games",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "app.tikfollowers.com.fans.free",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "artgrid.io",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "banglatask.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "bullvpn.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "client.globalgt.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.casht.eidbonus",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.dts.freefireth",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.duolingo",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.facebook.lite",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.getepic.epic",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.instabridge.android",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.instagram.android",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.nildolcash.easycash",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.ninexgen.wifi.password.recovery",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "com.snapchat.android",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "cutt.ly",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "dil-amazon.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "epicgames.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "globalgt.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "himumoni.xyz",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "m.facebook.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "msftconnecttest.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "myaccount.google.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "oauth.vk.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "quiz.sheikhrussel.gov.bd",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "remotedesktop.google.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "sg.bigo.live",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "signin.autodesk.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "thetechpro.xyz",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "tkwin99.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "tunnelbear.com",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "watch.plex.tv",
+            "count": 1,
+            "log_type": "passwords"
+          },
+          {
+            "domain": "wincash24.net",
+            "count": 1,
+            "log_type": "passwords"
+          }
+        ]
+      },
+      "linked_emails": [
+        "jmd439908@gmail.com",
+        "kamlaofficial83@gmail.com",
+        "mdsajjadhossan34@gmail.com",
+        "shifatshifat790@gmail.com"
+      ],
+      "linked_phones": [
+        "01316942510",
+        "01735421030",
+        "01799948480",
+        "01833576296",
+        "01933707052",
+        "1316942510"
+      ],
+      "risk_assessment": {
+        "level": "critical",
+        "score": 426,
+        "credential_count": 114,
+        "unique_services": 40,
+        "high_risk_services": [
+          "accounts.google.com",
+          "facebook.com",
+          "instagram.com"
+        ],
+        "google_tokens_found": 2,
+        "session_cookies_found": 12,
+        "password_reuse_instances": 66
+      }
+    }
+  ],
+  "clients_by_email": {
+    "mdsajjadhossan34@gmail.com": {
+      "identifier": "mdsajjadhossan34@gmail.com",
+      "identifier_type": "email",
+      "email_domain": "gmail.com",
+      "risk_level": "critical",
+      "risk_score": 202,
+      "summary": {
+        "total_credentials": 24,
+        "unique_passwords": 11,
+        "services_compromised": [
+          "app.gala.games",
+          "artgrid.io",
+          "banglatask.com",
+          "com.duolingo",
+          "com.facebook.katana",
+          "com.nildolcash.easycash",
+          "cutt.ly",
+          "epicgames.com",
+          "globalgt.com",
+          "myaccount.google.com",
+          "tkwin99.com",
+          "tunnelbear.com"
+        ],
+        "machines_affected": 1,
+        "google_tokens": 2,
+        "active_sessions": 12,
+        "autofill_fields_leaked": 0,
+        "related_usernames": [
+          "01316942510",
+          "01735421030",
+          "01799948480",
+          "01833576296",
+          "01933707052",
+          "1316942510"
+        ]
+      },
+      "compromised_accounts": [
+        {
+          "service_domain": "artgrid.io",
+          "host": "https://artgrid.io/signup",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "#HBI6251#",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "app.gala.games",
+          "host": "https://app.gala.games/games/town-star/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "*68BPS72$",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "globalgt.com",
+          "host": "https://globalgt.com/en/promotions",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "AT3CTaWUsV9CTjb",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "com.nildolcash.easycash",
+          "host": "android://jjZUUaLdWxvgkuQJFI_J7xrC2zPz8-dXIpz-nFy3p1cWW03UyQY3oqp07qP2odyonm_gq20YcyXHDI557xlp0w==@com.nildolcash.easycash/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "BD6251",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "banglatask.com",
+          "host": "https://www.banglatask.com/register",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "#Sajjad#123",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "cutt.ly",
+          "host": "https://cutt.ly/register",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "AT3CTaWUsV9CTjb",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "myaccount.google.com",
+          "host": "https://myaccount.google.com/u/1/signinoptions/password",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "shihab34",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "com.facebook.katana",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "Shihab@123",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "tkwin99.com",
+          "host": "https://www.tkwin99.com/index.php",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "*72SBP68$",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "com.duolingo",
+          "host": "android://L1TRxRU1nefBasvpUeL3c2GtPorqDYd3RrKiayPQweHLcmwXAwiu00ZbHu00Hhl7FL1Qg4IywNF6uP9wS6v3BA==@com.duolingo/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "@#shifat1@#",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Google Chrome_Default_passwords.txt"
+        },
+        {
+          "service_domain": "tunnelbear.com",
+          "host": "https://www.tunnelbear.com/account/login",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "Amijanina",
+          "browser": "Microsoft Edge (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Microsoft Edge_Default_passwords.txt"
+        },
+        {
+          "service_domain": "epicgames.com",
+          "host": "https://www.epicgames.com/id/link/google/existing",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "jonybai.com",
+          "browser": "Microsoft Edge (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "Microsoft Edge_Default_passwords.txt"
+        },
+        {
+          "service_domain": "tunnelbear.com",
+          "host": "https://www.tunnelbear.com/account/login",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "Amijanina",
+          "browser": "Microsoft Edge (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "epicgames.com",
+          "host": "https://www.epicgames.com/id/link/google/existing",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "jonybai.com",
+          "browser": "Microsoft Edge (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "artgrid.io",
+          "host": "https://artgrid.io/signup",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "#HBI6251#",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "app.gala.games",
+          "host": "https://app.gala.games/games/town-star/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "*68BPS72$",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "globalgt.com",
+          "host": "https://globalgt.com/en/promotions",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "AT3CTaWUsV9CTjb",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "com.nildolcash.easycash",
+          "host": "android://jjZUUaLdWxvgkuQJFI_J7xrC2zPz8-dXIpz-nFy3p1cWW03UyQY3oqp07qP2odyonm_gq20YcyXHDI557xlp0w==@com.nildolcash.easycash/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "BD6251",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "banglatask.com",
+          "host": "https://www.banglatask.com/register",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "#Sajjad#123",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "cutt.ly",
+          "host": "https://cutt.ly/register",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "AT3CTaWUsV9CTjb",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "myaccount.google.com",
+          "host": "https://myaccount.google.com/u/1/signinoptions/password",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "shihab34",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "com.facebook.katana",
+          "host": "android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "Shihab@123",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "tkwin99.com",
+          "host": "https://www.tkwin99.com/index.php",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "*72SBP68$",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        },
+        {
+          "service_domain": "com.duolingo",
+          "host": "android://L1TRxRU1nefBasvpUeL3c2GtPorqDYd3RrKiayPQweHLcmwXAwiu00ZbHu00Hhl7FL1Qg4IywNF6uP9wS6v3BA==@com.duolingo/",
+          "login": "mdsajjadhossan34@gmail.com",
+          "login_type": "email",
+          "password": "@#shifat1@#",
+          "browser": "Google Chrome (Default)",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "source_file": "passwords.txt"
+        }
+      ],
+      "autofill_leaks": [],
+      "google_tokens": [
+        {
+          "token_id": "1//0eILrHL77F7RjCgYIARAAGA4SNwF-L9Irz1t_d7Wka1D1JhOS5va-9Hek1enrji5jwHc5wPnjkhpWKze2ymQXZqMUsWvKr3Igvu4",
+          "token_preview": "102359427876832995678",
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "risk": "critical",
+          "note": "Active Google OAuth refresh token — account takeover possible",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "token_id": "fake-1623b7f3-c308-421d-9293-b04c1d99dc50",
+          "token_preview": "000300006718CF09",
+          "browser": "Microsoft Edge Default",
+          "source_file": "Microsoft Edge_Default.txt",
+          "risk": "critical",
+          "note": "Active Google OAuth refresh token — account takeover possible",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        }
+      ],
+      "active_sessions": [
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "OTZ",
+          "cookie_value_preview": "8678402_32_32__32_",
+          "expires": "1785600142",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "ACCOUNT_CHOOSER",
+          "cookie_value_preview": "AFx_qI545AVnz68zc6LRC5kkWx7vjU7Xp3RhruJ6X1_-PFvRAOSGxmhQZG57E4BNnmtE22WxOP9oU-nv...",
+          "expires": "1817568266",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "__Host-GAPS",
+          "cookie_value_preview": "1:REXlLRPSDSUJG4_8jRA22UrI9jcnx53V1pDSyKWhHUIfvF7Kd3qTllQ0MOrEkogwB1VRguQ58DLnzP...",
+          "expires": "1817827255",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "datr",
+          "cookie_value_preview": "QoBKagQOmwpWHn3XYPCOl6dy",
+          "expires": "1817827392",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "ig_did",
+          "cookie_value_preview": "6A4FA8FC-7986-4EEA-86A2-5A43755BDAE6",
+          "expires": "1814803395",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "ig_nrcb",
+          "cookie_value_preview": "1",
+          "expires": "1814803395",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "mid",
+          "cookie_value_preview": "akqARAALAAERcf4EvV7st3mNQk5n",
+          "expires": "1817827394",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "csrftoken",
+          "cookie_value_preview": "jX1VhBQBfuexYf5kAsb25V",
+          "expires": "1818163199",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "instagram.com",
+          "service": "instagram.com",
+          "cookie_name": "wd",
+          "cookie_value_preview": "1366x607",
+          "expires": "1784207998",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "__Host-GAPSTS",
+          "cookie_value_preview": "gapsts-Ci0BtKsiLEwCfngLXomCyXD2EuUaR94rJZeTJifDN5gts3Zz2BOD8FKNXIcuMU0QAQ==",
+          "expires": "1818355511",
+          "secure": true,
+          "browser": "Google Chrome Default",
+          "source_file": "Google Chrome_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "OTZ",
+          "cookie_value_preview": "8691524_32_32__32_",
+          "expires": "1786387436",
+          "secure": true,
+          "browser": "Microsoft Edge Default",
+          "source_file": "Microsoft Edge_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        },
+        {
+          "domain": "accounts.google.com",
+          "service": "accounts.google.com",
+          "cookie_name": "__Host-GAPS",
+          "cookie_value_preview": "1:lVVosTdcbhLJkRvFOFhS1w-NdjDnmQ:KkWMUd0YoxBfBDZN",
+          "expires": "1818355430",
+          "secure": true,
+          "browser": "Microsoft Edge Default",
+          "source_file": "Microsoft Edge_Default.txt",
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "linked_email": "mdsajjadhossan34@gmail.com"
+        }
+      ],
+      "affected_machines": [
+        {
+          "case_name": "[BD]_TG - @FATETRAFFIC_2026_07_16_60499673",
+          "ip_address": "123.253.65.129",
+          "country": "BD",
+          "computer_name": "IPADE",
+          "user_name": "Shihab",
+          "infection_date": "12.07.2026 00:44:58",
+          "os": "Windows 10 Pro 22H2 (Build 19045)",
+          "risk_level": "critical"
+        }
+      ]
+    }
+  },
+  "clients_by_domain": {
+    "gmail.com": {
+      "domain": "gmail.com",
+      "emails_affected": [
+        "mdsajjadhossan34@gmail.com"
+      ],
+      "total_credentials": 24,
+      "highest_risk_level": "critical"
+    }
+  },
+  "unlinked_credentials": []
+}

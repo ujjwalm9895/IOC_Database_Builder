@@ -1,0 +1,11 @@
+[INFO] Path : Chrome_Default_[5143].txt
+[INFO] Title : Ssupra beyz
+[INFO] Subscribers : 4
+[INFO] Total_Views : 112021
+[INFO] Join_Date : 2021
+[INFO] Url : https://www.youtube.com/@Ssupra_beyz
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+

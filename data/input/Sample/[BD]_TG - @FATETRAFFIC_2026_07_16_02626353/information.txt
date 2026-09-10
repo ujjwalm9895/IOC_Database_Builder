@@ -1,0 +1,220 @@
+IP: 103.89.240.48
+Country: BD
+
+Date: 10.07.2026 09:37:31
+MachineID: ff27aeb0-7aeb-e702-884b-776c6e1c6f5c
+GUID: {5c9f0e3a-38cd}
+HWID: CDFDA175950A2D4457D6-5c9f0e3a-38cd-B7CC786
+
+Path: C:\Users\Inspiron\AppData\Local\Temp\13101100101\d6afc3fdfd.exe
+MD5: a24a23f569cbb3a4701b0475b0a2e7bb
+Work Dir: In memory
+
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-5BDCV25
+User Name: Inspiron
+Display Resolution: 1366x768
+Local Time: 10.07.2026 09:37:31
+Antivirus: Windows Defender
+
+[Hardware]
+Processor: Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
+Cores: 4
+Threads: 4
+RAM: 8101 MB
+VideoCard: Intel(R) HD Graphics 5500
+
+[Processes]
+  [4] System
+  [100] Registry
+  [456] smss.exe
+  [644] csrss.exe
+  [844] wininit.exe
+  [856] csrss.exe
+  [928] services.exe
+  [936] lsass.exe
+  [580] svchost.exe
+  [612] fontdrvhost.exe
+  [712] svchost.exe
+  [772] svchost.exe
+  [628] winlogon.exe
+  [1036] fontdrvhost.exe
+  [1100] svchost.exe
+  [1140] svchost.exe
+  [1260] svchost.exe
+  [1300] svchost.exe
+  [1372] svchost.exe
+  [1404] dwm.exe
+  [1484] svchost.exe
+  [1488] svchost.exe
+  [1500] svchost.exe
+  [1512] svchost.exe
+  [1520] svchost.exe
+  [1620] svchost.exe
+  [1628] svchost.exe
+  [1636] svchost.exe
+  [1668] Memory Compression
+  [1772] svchost.exe
+  [1808] svchost.exe
+  [1824] svchost.exe
+  [1872] svchost.exe
+  [1968] svchost.exe
+  [1996] svchost.exe
+  [2028] igfxCUIService.exe
+  [1568] svchost.exe
+  [2100] svchost.exe
+  [2132] svchost.exe
+  [2188] svchost.exe
+  [2228] powershell.exe
+  [2288] svchost.exe
+  [2320] svchost.exe
+  [2448] svchost.exe
+  [2556] svchost.exe
+  [2604] conhost.exe
+  [2680] RtkAudioService64.exe
+  [2744] svchost.exe
+  [2752] svchost.exe
+  [2760] svchost.exe
+  [2892] svchost.exe
+  [2972] svchost.exe
+  [3044] svchost.exe
+  [2108] RAVBg64.exe
+  [540] RAVBg64.exe
+  [3196] spoolsv.exe
+  [3276] svchost.exe
+  [3320] svchost.exe
+  [3508] jhi_service.exe
+  [3524] svchost.exe
+  [3532] svchost.exe
+  [3540] ibtsiva.exe
+  [3552] armsvc.exe
+  [3560] OfficeClickToRun.exe
+  [3572] svchost.exe
+  [3588] svchost.exe
+  [3656] SynTPEnhService.exe
+  [3684] WavesSysSvc64.exe
+  [3692] MsMpEng.exe
+  [3748] MpDefenderCoreService.exe
+  [3756] svchost.exe
+  [3764] svchost.exe
+  [3772] svchost.exe
+  [3808] WMIRegistrationService.exe
+  [3820] svchost.exe
+  [3880] svchost.exe
+  [3892] SearchIndexer.exe
+  [3904] svchost.exe
+  [3304] svchost.exe
+  [4120] svchost.exe
+  [4176] svchost.exe
+  [4560] svchost.exe
+  [5028] SearchProtocolHost.exe
+  [5064] SearchFilterHost.exe
+  [5160] svchost.exe
+  [5204] wmpnetwk.exe
+  [5224] wermgr.exe
+  [5308] dllhost.exe
+  [5624] AggregatorHost.exe
+  [5648] svchost.exe
+  [5704] svchost.exe
+  [5740] WmiPrvSE.exe
+  [5924] svchost.exe
+  [6104] svchost.exe
+  [4812] svchost.exe
+  [6932] svchost.exe
+  [6748] dialer.exe
+  [6828] powershell.exe
+  [6824] conhost.exe
+  [6892] dialer.exe
+  [5812] NisSrv.exe
+  [6404] WmiPrvSE.exe
+  [6376] SynTPEnh.exe
+  [6492] sihost.exe
+  [6724] svchost.exe
+  [6864] svchost.exe
+  [3484] svchost.exe
+  [3584] igfxEM.exe
+  [3676] igfxHK.exe
+  [3496] igfxTray.exe
+  [6796] svchost.exe
+  [5656] taskhostw.exe
+  [3788] taskhostw.exe
+  [588] SystemUI.exe
+  [1172] explorer.exe
+  [2040] WindowsHelper.exe
+  [5796] svchost.exe
+  [5900] SynTPHelper.exe
+  [5828] svchost.exe
+  [5212] svchost.exe
+  [2332] ctfmon.exe
+  [6448] svchost.exe
+  [6624] svchost.exe
+  [6112] runtimehost.exe
+  [3412] svchost.exe
+  [888] hostmanager.exe
+  [796] GDFwAdmin.exe
+  [6008] svchost.exe
+  [5920] RAVBg64.exe
+  [2116] StartMenuExperienceHost.exe
+  [3632] TextInputHost.exe
+  [7724] TrustedInstaller.exe
+  [7896] TiWorker.exe
+  [8024] RuntimeBroker.exe
+  [7832] SearchApp.exe
+  [8240] RuntimeBroker.exe
+  [8612] backgroundTaskHost.exe
+  [8620] backgroundTaskHost.exe
+  [8664] backgroundTaskHost.exe
+  [8732] backgroundTaskHost.exe
+  [8944] runtimehost.exe
+  [9076] RuntimeBroker.exe
+  [7452] Server.exe
+  [7396] Bwale.exe
+  [7420] Chrome.exe
+  [5832] smartscreen.exe
+  [1424] svchost.exe
+  [8196] SecurityHealthSystray.exe
+  [3668] SecurityHealthService.exe
+  [5436] RtkNGUI64.exe
+  [2376] RAVBg64.exe
+  [6588] WavesSvc64.exe
+  [8388] OneDrive.exe
+  [7140] Avro Keyboard.exe
+  [6320] javaw.exe
+  [1696] BlueStacksServices.exe
+  [5428] RuntimeBroker.exe
+  [5640] msedge.exe
+  [4384] svchost.exe
+  [10116] SecurityHealthService.exe
+  [10136] d6afc3fdfd.exe
+  [10392] 8ac0da2070.exe
+  [10400] SystemSettingsBroker.exe
+  [10456] GDFwAdmin.exe
+  [10656] f79a19af0b.exe
+  [10836] chrome.exe
+  [10852] chrome.exe
+  [10864] Chrome.exe
+  [10904] msedge.exe
+  [10912] msedge.exe
+  [10964] Dllhost.exe
+  [11052] svchost.exe
+  [11156] Client.exe
+  [11252] Wihnup.exe
+  [10416] 947b8a5891.exe
+  [8092] 39b3f1079b.exe
+  [10928] 26e7f03d87.exe
+[Software]
+  BlueStacks
+  Dell Touchpad
+  VLC media player
+  WinRAR 5.60 beta 4 (64-bit)
+  Microsoft Update Health Tools
+  Maxx Audio Installer (x64)
+  Windows Setup Remediations (x64) (KB4023057)
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+  Windows PC Health Check
+  Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+  Microsoft Office Office 64-bit Components 2007
+  Microsoft Office Shared 64-bit MUI (English) 2007
+  Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007
+  Update for x64-based Windows Systems (KB5001716)
+  UpdateAssistant

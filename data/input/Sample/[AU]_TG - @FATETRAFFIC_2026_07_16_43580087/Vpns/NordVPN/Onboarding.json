@@ -1,0 +1,16 @@
+{
+    "Version": 1,
+    "Configs": [
+      {
+        "Feature": "OnboardingPromotionalEnabled",
+        "Type": "bool",
+        "Settings": [
+            {
+                "Value": true,
+                "Weight": 1
+            }
+        ]
+    }
+    ]
+  }
+  

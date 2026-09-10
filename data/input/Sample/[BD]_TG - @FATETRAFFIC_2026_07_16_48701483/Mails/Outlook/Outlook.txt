@@ -1,0 +1,27 @@
+Target: MicrosoftAccount:target=SSO_POP_User:user=mdnadim360880@gmail.com
+User: mdnadim360880@gmail.com
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_User:user=hassansaikot28@gmail.com
+User: hassansaikot28@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=WindowsLive:(token):name=mdnadim360880@gmail.com;serviceuri=scope=service::user.auth.xboxlive.com::mbi_ssl
+User: mdnadim360880@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=hassansaikot28@gmail.com
+User: hassansaikot28@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=mdnadim360880@gmail.com
+User: mdnadim360880@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftOffice16_Data:live:cid=0689a72feeff8a72
+User: N/A
+Pass: M.C533_BAY.0.U.-CuhIAmoZUezExEDpOvYFIY7F5kPsQQ!ilqXuskvAMjmIOLUBg9!wux7g4kifs9H5XxTrV16DzSDKI6k1hBk26YnERb2PUGM09tqWb!ebyj*MZaWAXc1hLyfN0xKG9Kk12Ya2bOrl!g9hWbUozPKusKsnPK0PslpOeQB4zEM20hv8ySudSrj2bcyc*mHEI3yXSmWbua4VPny0WxC9BKauhTW54qcxKhNaBPBfapK*yKxzzLNcyHXJ5ANe77ngTdYZnc70LYjX2nZM9UTvl*UvzbDcSAZTYArB74iYP*Uwuaxp6zmZXJwKb*vyVRnDPngi8ANFwvYF6*sJDGsrvCoKZPwHA!lwy!fzp!ns51irfg2HPRLnSwY117vJE0nXtR21Rsd*5f85ty3ObNmXiZk9rhc$
+
+Target: WindowsLive:target=virtualapp/didlogical
+User: 02qhgclximpouraq
+Pass: (empty)

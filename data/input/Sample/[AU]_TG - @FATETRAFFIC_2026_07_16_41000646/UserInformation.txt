@@ -1,0 +1,23 @@
+https://t.me/dungeon_team_bot
+
+Log date: 05/07/26 17:20
+# Buy now: TG @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT 
+Version Build: 2.0
+HWID: da9e3e4682b0e456
+Country: AU
+IP: 58.164.6.133
+System Language: English
+Processor: AMD Ryzen 5 5500  (6 cores, 12 threads)
+Installed RAM: 31.87 GB
+Operation System: Windows 11 (Build 26200) (64 Bit)
+Graphics card: NVIDIA GeForce RTX 4060
+Computer Name: BLAYDE
+Domain Name: WORKGROUP
+-------------
+User Name: blayd
+Admin Group: TRUE
+Integrity: High
+TimeZone: UTC+10
+UserLanguage: English
+Keyboard Language: English
+Display Resolution: 1920x1080

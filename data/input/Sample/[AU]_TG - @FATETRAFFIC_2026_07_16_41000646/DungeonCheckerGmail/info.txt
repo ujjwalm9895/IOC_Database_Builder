@@ -1,0 +1,5 @@
+[INFO] Cookie : Chrome_Default_[9251].txt
+[INFO] Email : blaydetownsend6@gmail.com
+[INFO] Hits : 194
+[INFO] Queries : epicgames.com v bucks receipt(3), @epicgames.com(51), accounts.riotgames.com(5), noreply@steampowered.com(9), ubisoft.com(51), Thank you for your purchase on Rainbow Six Siege(10), ea@e.ea.com(14), battle.net(51)
+

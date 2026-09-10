@@ -1,0 +1,7 @@
+.facebook.com	TRUE	/	TRUE	1805509072	ps_l	1
+.facebook.com	TRUE	/	TRUE	1805509094	sb	yomOaaM0uWFL-OQPoLwgxahV
+.facebook.com	TRUE	/	TRUE	1805509072	ps_n	1
+.facebook.com	TRUE	/	TRUE	1807346910	datr	yomOaZkdCSacNDm6_iTote7R
+.facebook.com	TRUE	/	TRUE	1812127883	c_user	100008682722118
+.facebook.com	TRUE	/	TRUE	1788367883	fr	1emDZHVETs8jMnnSl.AWdaSNUMpRXgTbQeetowqL-f9bcvB-4WFBdUlI62iZ3W9kh2xyc.BqIa0J..AAA.0.0.BqIa0J.AWcHu3nmlNcCSbRuKIAq7zCbesQ
+.facebook.com	TRUE	/	TRUE	1812127883	xs	48%3ANsuIEITeiruV6A%3A2%3A1770949091%3A-1%3A-1%3A%3AAcxtgMxgyF91y-BsWaeCXNlDuTxcW8SuqotdINsSAA

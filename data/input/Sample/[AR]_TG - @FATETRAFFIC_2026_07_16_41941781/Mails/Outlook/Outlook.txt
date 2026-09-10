@@ -1,0 +1,15 @@
+Target: MicrosoftAccount:target=SSO_POP_Device
+User: 02cpglvvfypovydz
+Pass: (empty)
+
+Target: MicrosoftAccount:target=SSO_POP_User:user=iantiago2410@gmail.com
+User: iantiago2410@gmail.com
+Pass: (empty)
+
+Target: LegacyGeneric:target=MicrosoftAccount:user=iantiago2410@gmail.com
+User: iantiago2410@gmail.com
+Pass: (empty)
+
+Target: WindowsLive:target=virtualapp/didlogical
+User: 02cpglvvfypovydz
+Pass: (empty)

@@ -1,0 +1,11 @@
+[Paypal]
+Passwords: paypal.com (1)
+
+[Social]
+Passwords: facebook.com (2)
+Cookies: youtube.com (261), facebook.com (12), instagram.com (9), twitter.com (5)
+History: youtube.com (2291), facebook.com (2), instagram.com (1)
+
+[GAMES]
+Cookies: store.steampowered.com (4), epicgames.com (8), rockstargames.com (3)
+History: epicgames.com (4)

@@ -1,0 +1,14 @@
+Soft: Google Chrome (Profile 2)
+Host: https://forum.cfx.re/categories
+Login: AlkeTbi-12
+Password: Alk.112233
+
+Soft: Google Chrome (Profile 2)
+Host: https://login.live.com/oauth20_authorize.srf
+Login: alktby471@gmail.com
+Password: Ham@123123
+
+Soft: Google Chrome (Profile 2)
+Host: https://33b2193a_t3zdh64u9a.360tls.com/
+Login: 
+Password: 

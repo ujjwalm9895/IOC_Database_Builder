@@ -1,0 +1,21 @@
+﻿Browser: Opera_GX_Stable
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: false
+Default Search: unknown
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: unknown
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+
+[Metadata]
+Extraction Time: 1783098362

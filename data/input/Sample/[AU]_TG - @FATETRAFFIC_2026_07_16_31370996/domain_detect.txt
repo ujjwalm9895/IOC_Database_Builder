@@ -1,0 +1,7 @@
+[GAMES]
+Passwords: battle.net (2), store.steampowered.com (1)
+
+[Social]
+Passwords: facebook.com (2)
+Cookies: youtube.com (12)
+History: youtube.com (34)

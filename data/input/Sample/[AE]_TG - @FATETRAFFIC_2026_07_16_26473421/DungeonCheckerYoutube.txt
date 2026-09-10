@@ -1,0 +1,11 @@
+[INFO] Path : Chrome_Default_[4E5A].txt
+[INFO] Title : CR7
+[INFO] Subscribers : 1
+[INFO] Total_Views : 92023
+[INFO] Join_Date : 2023
+[INFO] Url : https://www.youtube.com/@CR7_A223
+[INFO] Galka : False
+[INFO] Artist : False
+[INFO] Manager : False
+[INFO] Moneta : False
+

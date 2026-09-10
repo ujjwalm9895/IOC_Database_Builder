@@ -1,0 +1,85 @@
+================
+TROUBLE-SHOOTING
+================
+1. Ensure desired language has been installed, or Illustrator will not launch.
+2. Creative Cloud has been disabled. (for obvious reasons.. i hope)
+3. Hebrew & Arabic are special languages.
+   Read here: http://helpx.adobe.com/illustrator/using/arabic-hebrew.html
+4. Ensure you understand PAF format, how to install, how to use properly, etc.
+   ie. "i get an error when i try to install in ProgramFiles" = NOOB.
+   More information: http://portableapps.com
+5. If problems arise, you can reset by deleting: IllustratorPortable > Data.
+
+=============
+BEST PRACTICE
+=============
+1. I haven't had to tell people how to install in a while.. 
+   but lately, i've seen noobish, ridiculous comments.
+
+   ie. "i get an error when installing into ProgramFiles."
+
+   Anyone that post that, is an idiot, noob, and absolute moron.
+   By now.. everyone should know how to install PAF applications properly.
+   If not, why are you using it?
+
+   - PAF applications will refuse to install into ProgramFiles.
+   - You should create a top-level directory called "PortableApps", and install
+     all your portable applications there.
+
+     ie. C:\PortableApps or D:\PortableApps
+
+2. Do not use simultaneously with other Adobe products.
+   * Adobe has many products which all use the same directory, files, and 
+   registry keys.
+
+   ie. Acrobat, Audition, Dreamweaver, Lightroom, etc.
+
+   * Doing so can cause name collision, which can cause application error and
+     even damage.
+
+   TIP: If you forget, or do it accidentally.. remember "First in, last out".
+        ie. if IllustratorPortable is running, and you launch Dreamweaver, exit
+            Dreamweaver first, then IllustratorPortable.
+
+3. For convenience, i've added support for SendTo shortcuts.
+   - simply right-click a supported file type > SendTo > IllustratorPortable.
+
+=====
+FONTS
+=====
+Illustrator Portable supports portable fonts.
+Simply place in: IllustratorPortable > Data > Fonts.
+
+These fonts are cleaned up after exiting Illustrator Portable.
+* too many fonts can hinder performance.
+
+=============================
+HOW TO INSTALL LANGUAGE PACKS
+=============================
+1. Install IllustratorPortable first.
+2. Launch Language Pack installer > it should detect IllustratorPortable.
+   - if not, navigate to IllustratorPortable and select directory.
+
+	Notes:
+	a. Multiple language packs can be installed.
+	   - Simply select "Preserve installed language packs."
+	b. To switch between languages, edit "IllustratorPortable.ini" next to 
+	   IllustratorPortable.exe.
+
+=================
+WHAT WAS REMOVED?
+=================
+Linguistics dictionaries except en_US.
+If you need them.. you can download them from PortableXApps.
+
+==========
+KNOWN BUGS
+==========
+1. Illlustrator can crash during exit after saving as .svg or .svgz.
+   * Affects both installed & portable versions.
+   * During testing.. it seems to only crash if the document contains 
+         large amounts of sophisticated graphics. 
+
+         ie. if i remove 90% of design then save, it does not crash.
+
+   More info: https://forums.adobe.com/thread/1290694

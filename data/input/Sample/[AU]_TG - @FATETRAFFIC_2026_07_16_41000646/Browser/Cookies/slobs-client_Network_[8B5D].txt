@@ -1,0 +1,6 @@
+﻿.streamlabs.com	TRUE	/	FALSE	1796398005	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+01%3A26%3A45+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aeabc6bb-233e-47a6-b2e6-9979bc03eac7&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fstreamlabs.com%2Flibrary%2F
+.streamlabs.com	TRUE	/	FALSE	1815406005	_ga	GA1.1.2064528119.1780846005
+.streamlabs.com	TRUE	/	FALSE	1815406005	_ga_DXPRHH738Q	GS2.1.s1780846005$o1$g0$t1780846005$j60$l0$h0
+.streamlabs.com	TRUE	/	FALSE	1788622004	_gcl_au	1.1.1207532725.1780846005
+streamlabs.com	FALSE	/	FALSE	1812403604	sl-impact-download	false
+.streamlabs.com	TRUE	/	TRUE	1814808136	__cf_bm	NLdMs2sd25tC.wPrQia7gUmkgPbLwqOVR8_x_jPHNtw-1783121803.1914601-1.0.1.1-qUnJiuicMQz3Y4KPpXU5.sIUMvmWbWdo6t7jIAK_Yn502AczvG2xwGeMiTxBmbOLF8.VEufv3fORRtz8aoZnqymMpXKNeFhGzXf51azkS6UobH.X3rZnYcH1OKF_z83l

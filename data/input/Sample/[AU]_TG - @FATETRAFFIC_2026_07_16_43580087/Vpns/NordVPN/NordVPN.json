@@ -1,0 +1,1380 @@
+{
+  "Version": 1,
+  "Configs": [
+    {
+      "Feature": "IsLeapOnboardingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "MenuBarEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.42",
+          "Weight": 4
+        }
+      ]
+    },
+    {
+      "Feature": "NordPassInstallEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        },
+        {
+          "Value": false,
+          "Weight": 2,
+          "Os": "win7",
+          "Architecture": "x86"
+        }
+      ]
+    },
+    {
+      "Feature": "OnboardingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "OnboardingPromotionalEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IsOnboardingWithQuestionnaireEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.50.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "MFAEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ReferAFriendEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IpInfoIconEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "LibmooseEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.40.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "NudlerRotationEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.40.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "AppDeprecated",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.46",
+          "Weight": 2
+        },
+        {
+          "Value": true,
+          "AppVersion": "<6.45.10.3",
+          "Weight": 3
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=7.42",
+          "Weight": 4
+        }
+      ]
+    },
+    {
+      "Feature": "GrpcUnidirectionalCommunicationEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.44.5",
+          "Weight": 2,
+          "Channel": "channel-1"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.44.6",
+          "Weight": 3,
+          "Channel": "channel-beta, channel-1"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.44.10",
+          "Weight": 4,
+          "Channel": "channel-beta, channel-1, channel-4, channel-5",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=6.45.0",
+          "Weight": 5,
+          "Architecture": "x86"
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=6.45.0",
+          "Weight": 6,
+          "Os": "win7, win8.1"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.46.3.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23",
+          "Weight": 7
+        },
+        {
+          "Value": false,
+          "AppVersion": "6.47.5.0",
+          "Channel": "channel-4, channel-5, channel-23, channel-33",
+          "Weight": 8
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.47.13.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23, channel-33",
+          "Weight": 9
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.48.10.0",
+          "Weight": 10
+        }
+      ]
+    },
+    {
+      "Feature": "GrpcBidirectionalCommunicationEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.44.5",
+          "Weight": 2,
+          "Channel": "channel-1"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.44.6",
+          "Weight": 3,
+          "Channel": "channel-beta, channel-1"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.44.10",
+          "Weight": 4,
+          "Channel": "channel-beta, channel-1, channel-4, channel-5",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=6.45.0",
+          "Weight": 5,
+          "Architecture": "x86"
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=6.45.0",
+          "Weight": 6,
+          "Os": "win7, win8.1"
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.46.3.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23",
+          "Weight": 7
+        },
+        {
+          "Value": false,
+          "AppVersion": "6.47.5.0",
+          "Channel": "channel-4, channel-5, channel-23, channel-33",
+          "Weight": 8
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.47.13.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23, channel-33",
+          "Weight": 9
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.48.10.0",
+          "Weight": 10
+        }
+      ]
+    },
+    {
+      "Feature": "SecurityScoreEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "UpdaterServiceEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=6.46.0.0",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": true,
+          "Weight": 3,
+          "AppVersion": ">=6.47.0.0",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        },
+        {
+          "Value": false,
+          "Weight": 4,
+          "AppVersion": "<7.0.0",
+          "Channel": "channel-beta"
+        }
+      ]
+    },
+    {
+      "Feature": "ServiceRestartCheckEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=6.43.4",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "UpdaterServiceBackgroundUpdatesEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=6.47.8.0",
+          "Architecture": "x64",
+          "Os": "win10, win11"
+        }
+      ]
+    },
+    {
+      "Feature": "ShowUpdateReleaseNotes",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        },
+        {
+          "Value": false,
+          "Weight": 2,
+          "AppVersion": "6.48.19.0"
+        },
+        {
+          "Value": false,
+          "Weight": 3,
+          "AppVersion": ">=7.18.0.0"
+        },
+        {
+          "Value": true,
+          "Weight": 4,
+          "AppVersion": ">=7.19.0.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ShowPatchUpdateReleaseNotes",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ShowManageSubButtonForActiveUser",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ProcessMonitoringEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "Channel": "channel-1, channel-4, channel-5, channel-23"
+        }
+      ]
+    },
+    {
+      "Feature": "RecentInteractionsTrackerLimit",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 20,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "UseServerListV2",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.2.6"
+        }
+      ]
+    },
+    {
+      "Feature": "ThreeMonthPromoEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.5.0"
+        }
+      ]
+    },
+    {
+      "Feature": "UseMsToolkitNotificationToasts",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.5.0"
+        }
+      ]
+    },
+    {
+      "Feature": "DedicatedIPEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        }
+      ]
+    },
+    {
+      "Feature": "SilentBackgroundUpdateEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "LogInfoEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "Channel": "channel-1, channel-4, channel-5, channel-23",
+          "AppVersion": ">=7.10.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.38.0"
+        }
+      ]
+    },
+    {
+      "Feature": "LogErrorEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.38.0"
+        }
+      ]
+    },
+    {
+      "Feature": "LogInfoNoNetEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.15.0"
+        }
+      ]
+    },
+    {
+      "Feature": "TPLogDebugEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        }
+      ]
+    },
+    {
+      "Feature": "TPLogInfoEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        }
+      ]
+    },
+    {
+      "Feature": "TPLogErrorEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        }
+      ]
+    },
+    {
+      "Feature": "TPLogWarningEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        }
+      ]
+    },
+    {
+      "Feature": "TPLogCriticalEventsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.7.0"
+        }
+      ]
+    },
+    {
+      "Feature": "DisabledLanguages",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "pl-pl",
+          "Weight": 1,
+          "AppVersion": "<7.11.0"
+        },
+        {
+          "Value": "sv-se,nl-nl,pl-pl",
+          "Weight": 2,
+          "AppVersion": "<7.10.0"
+        }
+      ]
+    },
+    {
+      "Feature": "OnNetworkChangeDebouncer",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": "<7.14.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NoNetDetectionEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.13.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NoNetDetectionEndpoint",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "v1/servers/count",
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ShowCreditCardExpiredMessage",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.14.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ShowDashboard",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.17.0"
+        }
+      ]
+    },
+    {
+      "Feature": "BypassNc",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        },
+        {
+          "Value": false,
+          "Weight": 2,
+          "AppVersion": ">=7.31.0.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23"
+        }
+      ]
+    },
+    {
+      "Feature": "IsNordLockerTabEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.21.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsNordLockerEnabledForPaidUsersOnly",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IsDashboardV2Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.28.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsNewDarkWebMonitorEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.24",
+          "Weight": 1
+        },
+        {
+          "Value": false,
+          "AppVersion": ">=7.40",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "IsUcpDarkWebMonitorEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.24",
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.40",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "TelioNoNetMitigationEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.21.0",
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.26.0",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "TelioNoNetPingRetryCount",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 3,
+          "AppVersion": ">=7.25.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "TelioNoNetPingTimeoutMs",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 5000,
+          "AppVersion": ">=7.25.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ScheduledAppStartEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.27.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsSettingsMigrationEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.28.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "RotateDomainsForNetworkStatusCheck",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.29.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NetworkStatusCheckRequestTimeoutMs",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 5000,
+          "Weight": 1,
+          "AppVersion": ">=7.29.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NetworkStatusCheckTimeoutMs",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 15000,
+          "Weight": 1,
+          "AppVersion": ">=7.29.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NetworkStatusCheckRetryCount",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 6,
+          "Weight": 1,
+          "AppVersion": ">=7.36.0"
+        }
+      ]
+    },
+    {
+      "Feature": "SailyBannerEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IsNewConnectionStateEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.30.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsNewPreviewNotificationsEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.32.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsDefaultRegisterFlowEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.32.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsTelioCriticalEventHandlingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "ConnectionAttemptAnalyticTimeToLiveSeconds",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 0,
+          "AppVersion": ">=7.35.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "UseStrictConnectionAttemptResolutionChecks",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "AppVersion": ">=7.35.0",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "DedicatedIPNewUpsellEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.36.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.39.0"
+        }
+      ]
+    },
+    {
+      "Feature": "DedicatedIPUpsellBannerEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.36.0"
+        }
+      ]
+    },
+    {
+      "Feature": "LibmooseLoggingV2Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.47.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "UsRegulationDataConsentCountries",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "US,CA,JP,AU",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "DataConsentPopupEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.43.4",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5, channel-23"
+        },
+        {
+          "Value": true,
+          "Weight": 3,
+          "AppVersion": ">=7.45.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NordWhisperTlsHandshakeProbeEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.45.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "PingProbeEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.45.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "RecommendedServersProbeEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.45.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "DnsResolveProbeEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.45.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "DeviceTimeSyncProbeEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.45.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.45.0",
+          "Channel": "channel-beta, channel-1, channel-4, channel-5"
+        }
+      ]
+    },
+    {
+      "Feature": "DeviceTimeSyncProbeNtpServer",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "pool.ntp.org",
+          "Weight": 1,
+          "AppVersion": ">=7.45.0"
+        }
+      ]
+    },
+    {
+      "Feature": "PingServerForNetworkCheckEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.45.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ServerForPingCheck",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "1.1.1.1",
+          "Weight": 1,
+          "AppVersion": ">=7.45.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ThreeLevelSettingsDesignEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.44.0"
+        }
+      ]
+    },
+    {
+      "Feature": "WellKnownProbingHostname",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "www.msftconnecttest.com",
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ThirdPartyInternetConnectivityServiceUrl",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "http://www.msftconnecttest.com/connecttest.txt",
+          "Weight": 1,
+          "AppVersion": ">=7.45.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ThirdPartyNonetCheckEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.45.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsConnectionFlowV2Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.42.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ProblemWindowEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.44.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsMqttErrorReportingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.44.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsMainNavigationViewEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.46.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ProductHubEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.48.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ProductHubV2Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IncogniCountries",
+      "Type": "string",
+      "Settings": [
+        {
+          "Value": "US,UK,EU,CA,CH",
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "IsDashboardV3Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.48.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsDashboardV3IntroductionPopupEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.48.0"
+        },
+        {
+          "Value": false,
+          "Weight": 2,
+          "AppVersion": ">=7.49.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsKillSwitchLiteEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.48.0"
+        },
+        {
+          "Value": false,
+          "Weight": 2,
+          "AppVersion": ">=7.52.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ShowSecureConnectionInsteadQuickConnect",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.49.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsLoginNoNetBannerEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        }
+      ]
+    },
+    {
+      "Feature": "NordApiStatusCheckRequestTimeoutMs",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 5000,
+          "Weight": 1,
+          "AppVersion": ">=7.51.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NordApiStatusCheckTimeoutMs",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 120000,
+          "Weight": 1,
+          "AppVersion": ">=7.51.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NordApiStatusCheckRetryCount",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 3,
+          "Weight": 1,
+          "AppVersion": ">=7.51.0"
+        }
+      ]
+    },
+    {
+      "Feature": "LoginNoNetBannerPollingIntervalMs",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 15000,
+          "Weight": 1,
+          "AppVersion": ">=7.51.0"
+        }
+      ]
+    },
+    {
+      "Feature": "IsTpStayConnectedPopupEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=7.51",
+          "Channel": "channel-23, channel-beta",
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "IsVpnStayConnectedPopupEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "AppVersion": ">=7.51",
+          "Weight": 1
+        }
+      ]
+    }
+  ]
+}

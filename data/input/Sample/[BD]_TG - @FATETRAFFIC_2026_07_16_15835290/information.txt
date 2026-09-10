@@ -1,0 +1,294 @@
+IP: 103.150.64.238
+Country: BD
+Date: 10.07.2026 14:00:56
+MachineID: 19cf912a-f912-1fa1-c492-dd5d411a615a
+GUID: {c88f385f-8bee}
+HWID: A31174A95A2EE148EB3A-c88f385f-8bee-E53BC55
+Path: C:\Users\mahadi\AppData\Local\Temp\13117430101\89dfb80fd5.exe
+MD5: c62f6e558a8cc47381961dbf32fede14
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-2LHHVD3
+User Name: mahadi
+Display Resolution: 1536x864
+Local Time: 10.07.2026 14:00:56
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+Cores: 4
+Threads: 4
+RAM: 8067 MB
+VideoCard: Intel(R) HD Graphics 620
+[Processes]
+  [4] System
+  [100] Registry
+  [460] smss.exe
+  [644] csrss.exe
+  [728] wininit.exe
+  [748] csrss.exe
+  [824] winlogon.exe
+  [832] services.exe
+  [840] lsass.exe
+  [284] svchost.exe
+  [552] fontdrvhost.exe
+  [516] fontdrvhost.exe
+  [884] WUDFHost.exe
+  [1052] WUDFHost.exe
+  [1092] svchost.exe
+  [1152] svchost.exe
+  [1252] svchost.exe
+  [1312] svchost.exe
+  [1352] IntelCpHDCPSvc.exe
+  [1408] svchost.exe
+  [1484] svchost.exe
+  [1532] IntelCpHeciSvc.exe
+  [1544] svchost.exe
+  [1564] svchost.exe
+  [1624] dwm.exe
+  [1680] igfxCUIService.exe
+  [1792] svchost.exe
+  [1884] svchost.exe
+  [1916] svchost.exe
+  [1932] svchost.exe
+  [1976] svchost.exe
+  [2000] svchost.exe
+  [2020] svchost.exe
+  [568] svchost.exe
+  [2072] svchost.exe
+  [2096] Memory Compression
+  [2156] svchost.exe
+  [2176] svchost.exe
+  [2196] svchost.exe
+  [2204] svchost.exe
+  [2252] svchost.exe
+  [2408] svchost.exe
+  [2520] svchost.exe
+  [2592] svchost.exe
+  [2672] HotKeyServiceUWP.exe
+  [2848] ksmNotifier.exe
+  [2912] svchost.exe
+  [2920] svchost.exe
+  [2948] svchost.exe
+  [2324] svchost.exe
+  [2968] svchost.exe
+  [3100] svchost.exe
+  [3176] wlanext.exe
+  [3212] spoolsv.exe
+  [3272] conhost.exe
+  [3304] svchost.exe
+  [3364] svchost.exe
+  [3420] svchost.exe
+  [3580] AppleMobileDeviceService.exe
+  [3592] horizon_client_service.exe
+  [3600] CxAudioSvc.exe
+  [3612] mDNSResponder.exe
+  [3636] CxUtilSvc.exe
+  [3644] svchost.exe
+  [3676] ftnlsv.exe
+  [3684] ftscanmgrhv.exe
+  [3700] hznsprrdpwks.exe
+  [3760] horizon-eucusbarbitrator64.exe
+  [3808] ws1etlm.exe
+  [3816] valWBFPolicyService.exe
+  [3832] fpCSEvtSvc.exe
+  [3840] svchost.exe
+  [3860] svchost.exe
+  [3868] svchost.exe
+  [3880] svchost.exe
+  [3888] OneApp.IGCC.WinService.exe
+  [3908] svchost.exe
+  [3916] svchost.exe
+  [3924] svchost.exe
+  [3976] SynTPEnhService.exe
+  [4064] svchost.exe
+  [4476] svchost.exe
+  [4624] svchost.exe
+  [4676] svchost.exe
+  [4744] svchost.exe
+  [4652] LanWlanWwanSwitchingServiceUWP.exe
+  [5316] svchost.exe
+  [5672] SearchIndexer.exe
+  [5736] dasHost.exe
+  [5792] svchost.exe
+  [5856] svchost.exe
+  [5752] svchost.exe
+  [6496] svchost.exe
+  [6564] svchost.exe
+  [6676] dllhost.exe
+  [6300] AggregatorHost.exe
+  [1692] ws1etlmu.exe
+  [7048] conhost.exe
+  [6644] WmiApSrv.exe
+  [2724] svchost.exe
+  [3436] svchost.exe
+  [6804] svchost.exe
+  [4920] svchost.exe
+  [7020] svchost.exe
+  [7024] sihost.exe
+  [4100] svchost.exe
+  [2344] svchost.exe
+  [5684] igfxEM.exe
+  [3544] MicTray64.exe
+  [4604] svchost.exe
+  [5084] taskhostw.exe
+  [4008] svchost.exe
+  [7104] explorer.exe
+  [3556] SynTPEnh.exe
+  [2420] svchost.exe
+  [5724] svchost.exe
+  [4924] SynTPHelper.exe
+  [3652] svchost.exe
+  [3896] StartMenuExperienceHost.exe
+  [7396] RuntimeBroker.exe
+  [7664] SearchApp.exe
+  [7824] RuntimeBroker.exe
+  [8576] SmartAudio3.exe
+  [8584] Flow.exe
+  [8636] TextInputHost.exe
+  [8776] ctfmon.exe
+  [8820] TabTip.exe
+  [8968] RuntimeBroker.exe
+  [9144] SecurityHealthSystray.exe
+  [9072] OneDrive.exe
+  [1852] SecurityHealthService.exe
+  [2464] CompPkgSrv.exe
+  [720] svchost.exe
+  [7500] svchost.exe
+  [7488] svchost.exe
+  [4504] svchost.exe
+  [1396] WmiPrvSE.exe
+  [1404] browser_assistant.exe
+  [1560] browser_assistant.exe
+  [4124] unsecapp.exe
+  [8056] UserOOBEBroker.exe
+  [8908] SearchApp.exe
+  [4712] svchost.exe
+  [10604] ApplicationFrameHost.exe
+  [9548] Video.UI.exe
+  [10284] RuntimeBroker.exe
+  [5624] dllhost.exe
+  [9536] svchost.exe
+  [12392] WhatsApp.Root.exe
+  [9416] RuntimeBroker.exe
+  [12748] FileCoAuth.exe
+  [10816] svchost.exe
+  [14944] svchost.exe
+  [10468] powershell.exe
+  [7844] conhost.exe
+  [8668] windowsservice.exe
+  [1376] Bwale.exe
+  [6740] w8QT6S9SNvA.exe
+  [15252] w8QT6S9SNvA.tmp
+  [13356] diskanalyzer3678.exe
+  [6840] GDFwAdmin.exe
+  [14288] GDFwAdmin.exe
+  [4220] 1603302a.exe
+  [9760] Dllhost.exe
+  [12948] b394617a.exe
+  [13680] Client.exe
+  [11168] SecurityHealthHost.exe
+  [22928] svchost.exe
+  [15912] svchost.exe
+  [18848] OneDrive.Sync.Service.exe
+  [16672] MpDefenderCoreService.exe
+  [21096] MsMpEng.exe
+  [17056] NisSrv.exe
+  [25080] svchost.exe
+  [19772] svchost.exe
+  [18540] pythonw.exe
+  [13844] pythonw.exe
+  [7412] pythonw.exe
+  [26116] opera.exe
+  [25880] opera_crashreporter.exe
+  [10088] opera.exe
+  [22900] opera.exe
+  [27264] opera.exe
+  [16684] opera.exe
+  [26760] opera.exe
+  [8212] opera.exe
+  [17364] opera.exe
+  [19484] opera.exe
+  [1736] opera.exe
+  [4000] opera.exe
+  [876] svchost.exe
+  [14236] opera.exe
+  [16928] opera.exe
+  [26064] opera.exe
+  [14760] audiodg.exe
+  [30964] msedge.exe
+  [2008] msedge.exe
+  [4776] msedge.exe
+  [15648] msedge.exe
+  [24236] msedge.exe
+  [33580] firefox.exe
+  [11788] crashhelper.exe
+  [2996] firefox.exe
+  [20512] firefox.exe
+  [28440] firefox.exe
+  [11272] firefox.exe
+  [1064] firefox.exe
+  [24936] firefox.exe
+  [17052] firefox.exe
+  [11236] firefox.exe
+  [9544] firefox.exe
+  [3788] firefox.exe
+  [25984] msedge.exe
+  [20080] msedge.exe
+  [33052] msedge.exe
+  [17644] msedge.exe
+  [16176] msedge.exe
+  [9896] msedge.exe
+  [22564] svchost.exe
+  [25060] msedge.exe
+  [30160] firefox.exe
+  [23192] msedge.exe
+  [18156] firefox.exe
+  [31116] msedge.exe
+  [1732] msedge.exe
+  [7480] firefox.exe
+  [33536] firefox.exe
+  [30668] svchost.exe
+  [16036] svchost.exe
+  [8940] firefox.exe
+  [23844] LockApp.exe
+  [30588] MoUsoCoreWorker.exe
+  [20296] svchost.exe
+  [9524] RuntimeBroker.exe
+  [10104] StoreDesktopExtension.exe
+  [24204] backgroundTaskHost.exe
+  [9716] backgroundTaskHost.exe
+  [24300] backgroundTaskHost.exe
+  [14764] StoreDesktopExtension.exe
+  [30236] WmiPrvSE.exe
+  [11056] svchost.exe
+  [26164] svchost.exe
+  [18008] svchost.exe
+  [18648] RuntimeBroker.exe
+  [32800] HPAudioAnalytics.exe
+  [13572] firefox.exe
+  [1384] LogonUI.exe
+  [21304] 89dfb80fd5.exe
+  [24880] opera_autoupdate.exe
+  [23060] opera_autoupdate.exe
+  [18672] wermgr.exe
+  [24232] MicrosoftEdgeUpdate.exe
+  [18184] taskhostw.exe
+  [13216] svchost.exe
+  [24580] opera.exe
+[Software]
+  BlueStacks App Player
+  Bang & Olufsen Audio
+  Synaptics Pointing Device Driver
+  WinRAR 7.01 (64-bit)
+  Microsoft .NET Runtime - 8.0.18 (x64)
+  Microsoft Update Health Tools
+  Microsoft Windows Desktop Runtime - 8.0.18 (x64)
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  Microsoft .NET Host FX Resolver - 8.0.18 (x64)
+  Bonjour
+  Microsoft .NET Host - 8.0.18 (x64)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Horizon HTML5 Multimedia Redirection Client
+  Omnissa Workspace ONE Experience Management
+  Update for x64-based Windows Systems (KB5001716)
+  Apple Mobile Device Support

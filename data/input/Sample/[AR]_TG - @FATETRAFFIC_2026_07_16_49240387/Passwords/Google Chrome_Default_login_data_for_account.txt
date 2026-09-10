@@ -1,0 +1,219 @@
+Soft: Google Chrome (Default)
+Host: https://id.argentina.gob.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://autogestion.apronline.gob.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://auth0.openai.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://id.atlassian.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://drive.google.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: http://clinicadelnino.dyndns.org:8080/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://pacientes.hospitalespanol.org.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://account.live.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.bancoprovincia.bancainternet.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.instagram.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://cursospaises.campusvirtualsp.org/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www2.personas.santander.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://autogestion.guarani.unlp.edu.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.services.online-banking.hsbc.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.security.online-banking.hsbc.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.mercadolibre.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.datamarkets.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.sancorsalud.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://ria.folp.unlp.edu.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: http://diagcamaras.dvrdns.org:8080/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://aulavirtual.folp.unlp.edu.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://24live.pro/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://login.buenosaires.gob.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://oficinavirtual.edelap.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.adidas.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://accounts.google.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://vm.cimed.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://fines.educacion.gob.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://login.live.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.computrabajo.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: http://www.ipensa.com:8082/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.campusvirtualsp.org/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://sisa.msal.gov.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://portal.cimed.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://myaccount.google.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://vihda.anlis.gov.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.clubmasiva.com.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://zona.ucalp.edu.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.linkedin.com/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://profesionales.hospitalespanol.org.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://www.sanidad.org.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://pacientes.diagnosticomon.com.ar:3030/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://portal.italianolaplata.org.ar/
+Login: 
+Password: 
+
+Soft: Google Chrome (Default)
+Host: https://portalncn.com.ar/
+Login: 
+Password: 

@@ -1,0 +1,23 @@
+﻿Browser: AVAST_Software
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: true
+Default Search: unknown
+Install Date: 20260314
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Profile Name: Default Profile
+
+[Metadata]
+Extraction Time: 1783098332

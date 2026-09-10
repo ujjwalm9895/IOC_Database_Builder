@@ -1,0 +1,533 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к большинству крипто кошельков: 
+Exodus, Metamask, Phantom, Electrum, Trust Wallet и т.д
+Так же принимаем Exodus/Electrum прямо с отстука без известного баланса.
+Общий процент на любые балансы 75/25 (75% - клиенту) 
+Deposit 1,3 BTC
+Telegram: Qwerty99990000
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 2.49.167.49
+Country: AE
+
+Date: 08.07.2026 20:36:08
+MachineID: c119cdcb-9cdc-7f84-76d0-b7c9ab823414
+GUID: {414be714-26c6}
+HWID: BB5BFB4EF46F2681688B-414be714-26c6-ACC1EB0
+
+Path: C:\Users\ahmad\AppData\Local\Temp\Rar$EXb18424.18001.rartemp\Set.Up.exe
+MD5: 6669e10c960f6c2297bcd3d5a27412aa
+Work Dir: In memory
+
+Windows: Windows 11 Pro 25H2 (Build 26200)
+Computer Name: DESKTOP-8KLG157
+User Name: ahmad
+Display Resolution: 1920x1080
+Local Time: 08.07.2026 20:36:08
+Antivirus: Windows Defender
+
+[Hardware]
+Processor: 12th Gen Intel(R) Core(TM) i7-12650H
+Cores: 16
+Threads: 16
+RAM: 16109 MB
+VideoCard: Intel(R) UHD Graphics
+
+[Processes]
+  [4] System
+  [236] Secure System
+  [280] Registry
+  [912] smss.exe
+  [1384] csrss.exe
+  [1488] wininit.exe
+  [1496] csrss.exe
+  [1568] services.exe
+  [1596] winlogon.exe
+  [1628] LsaIso.exe
+  [1640] lsass.exe
+  [1788] svchost.exe
+  [1816] fontdrvhost.exe
+  [1824] fontdrvhost.exe
+  [1908] WUDFHost.exe
+  [1968] svchost.exe
+  [2012] svchost.exe
+  [1108] WUDFHost.exe
+  [1156] WUDFHost.exe
+  [1720] WUDFHost.exe
+  [2116] svchost.exe
+  [2136] svchost.exe
+  [2144] svchost.exe
+  [2252] svchost.exe
+  [2288] dwm.exe
+  [2332] svchost.exe
+  [2440] svchost.exe
+  [2448] svchost.exe
+  [2556] svchost.exe
+  [2568] svchost.exe
+  [2600] IntelCpHDCPSvc.exe
+  [2616] svchost.exe
+  [2632] svchost.exe
+  [2680] svchost.exe
+  [2736] svchost.exe
+  [2816] svchost.exe
+  [2892] svchost.exe
+  [1376] svchost.exe
+  [3396] UshUpgradeService.exe
+  [3484] NVDisplay.Container.exe
+  [3536] svchost.exe
+  [3572] svchost.exe
+  [3580] svchost.exe
+  [3588] svchost.exe
+  [3692] Memory Compression
+  [3732] svchost.exe
+  [3816] svchost.exe
+  [3824] svchost.exe
+  [3856] svchost.exe
+  [3984] svchost.exe
+  [4040] svchost.exe
+  [3388] svchost.exe
+  [3792] svchost.exe
+  [3876] svchost.exe
+  [3972] svchost.exe
+  [4144] svchost.exe
+  [4248] spoolsv.exe
+  [4296] HostControlService.exe
+  [4288] HostStorageService.exe
+  [4428] svchost.exe
+  [4484] svchost.exe
+  [4604] svchost.exe
+  [4712] svchost.exe
+  [4772] DellFFDPWmiService.exe
+  [4780] HidMonitorSvc.exe
+  [4796] armsvc.exe
+  [4808] svchost.exe
+  [4816] svchost.exe
+  [4824] svchost.exe
+  [4840] ESystemRemoteService.exe
+  [4848] FMService64.exe
+  [4856] GameInputRedistService.exe
+  [4864] svchost.exe
+  [4908] svchost.exe
+  [4920] ipfsvc.exe
+  [4968] HPPrintScanDoctorService.exe
+  [4984] NVDisplay.Container.exe
+  [4992] OneApp.IGCC.WinService.exe
+  [5028] esif_uf.exe
+  [5040] svchost.exe
+  [5080] IntelAudioService.exe
+  [4072] svchost.exe
+  [4540] NahimicService.exe
+  [4676] LenovoUtilityService.exe
+  [5124] LMS.exe
+  [5200] ipf_uf.exe
+  [5220] nvcontainer.exe
+  [5228] RtkAudUService64.exe
+  [5236] PnkBstrA.exe
+  [5272] RtkBtManServ.exe
+  [5284] sqlwriter.exe
+  [5296] svchost.exe
+  [5316] svchost.exe
+  [5328] WMIRegistrationService.exe
+  [5340] svchost.exe
+  [5368] svchost.exe
+  [5996] dasHost.exe
+  [6160] svchost.exe
+  [6168] jhi_service.exe
+  [6684] EDesktop.exe
+  [4932] WmiPrvSE.exe
+  [7616] dasHost.exe
+  [7696] svchost.exe
+  [8720] svchost.exe
+  [8916] gamingservices.exe
+  [8924] gamingservicesnet.exe
+  [9032] svchost.exe
+  [4720] svchost.exe
+  [9060] AggregatorHost.exe
+  [9512] svchost.exe
+  [9952] GameInputRedistService.exe
+  [9996] ipf_helper.exe
+  [9392] sihost.exe
+  [9932] svchost.exe
+  [10184] svchost.exe
+  [5308] svchost.exe
+  [10292] svchost.exe
+  [10364] svchost.exe
+  [10452] svchost.exe
+  [10676] svchost.exe
+  [10988] explorer.exe
+  [11200] taskhostw.exe
+  [11248] unsecapp.exe
+  [10280] svchost.exe
+  [11428] CrossDeviceResume.exe
+  [11612] nvcontainer.exe
+  [11720] nvcontainer.exe
+  [12012] nvcontainer.exe
+  [12180] svchost.exe
+  [12544] svchost.exe
+  [12688] svchost.exe
+  [12996] svchost.exe
+  [13152] StartMenuExperienceHost.exe
+  [13192] SearchHost.exe
+  [13408] WidgetBoard.exe
+  [13420] nvsphelper64.exe
+  [13456] NVIDIA Overlay.exe
+  [13632] svchost.exe
+  [13644] RuntimeBroker.exe
+  [13776] unsecapp.exe
+  [14052] svchost.exe
+  [14200] WidgetService.exe
+  [14036] NVIDIA Overlay.exe
+  [14208] NVIDIA Overlay.exe
+  [12940] NVIDIA Overlay.exe
+  [15328] msedgewebview2.exe
+  [14728] NVIDIA Overlay.exe
+  [14976] audiodg.exe
+  [9584] msedgewebview2.exe
+  [16104] msedgewebview2.exe
+  [16116] msedgewebview2.exe
+  [16232] msedgewebview2.exe
+  [9256] msedgewebview2.exe
+  [16568] MicrosoftStartFeedProvider.exe
+  [16876] svchost.exe
+  [17360] FnHotkeyCapsLKNumLK.exe
+  [16356] FnHotkeyUtility.exe
+  [17988] ctfmon.exe
+  [18020] TabTip.exe
+  [9356] GameInputSvc.exe
+  [17996] GameInputSvc.exe
+  [17664] SecurityHealthSystray.exe
+  [17700] SecurityHealthService.exe
+  [17916] RtkAudUService64.exe
+  [18484] svchost.exe
+  [18588] OneDrive.exe
+  [19032] FileSyncHelper.exe
+  [19120] ShellExperienceHost.exe
+  [19424] RuntimeBroker.exe
+  [18936] uTorrent.exe
+  [6832] utorrentie.exe
+  [17756] utorrentie.exe
+  [7444] utorrentie.exe
+  [7448] msedgewebview2.exe
+  [19488] msedgewebview2.exe
+  [19816] msedgewebview2.exe
+  [19824] msedgewebview2.exe
+  [19868] msedgewebview2.exe
+  [20076] msedgewebview2.exe
+  [20188] msedgewebview2.exe
+  [19688] msedgewebview2.exe
+  [20168] EADesktop.exe
+  [20552] EACefSubProcess.exe
+  [20576] EACefSubProcess.exe
+  [20588] EACefSubProcess.exe
+  [20860] EABackgroundService.exe
+  [20976] Canva.exe
+  [21420] Canva.exe
+  [21336] EALocalHostSvc.exe
+  [21204] steam.exe
+  [20328] steamwebhelper.exe
+  [5360] steamservice.exe
+  [4748] steamwebhelper.exe
+  [21520] steamwebhelper.exe
+  [21700] steamwebhelper.exe
+  [22012] steamwebhelper.exe
+  [21784] EACefSubProcess.exe
+  [1872] steamwebhelper.exe
+  [22076] EACefSubProcess.exe
+  [22832] AdobeCollabSync.exe
+  [22872] AdobeCollabSync.exe
+  [23236] NhNotifSys.exe
+  [23472] cowork-svc.exe
+  [8524] steamwebhelper.exe
+  [19408] GoogleDriveFS.exe
+  [13484] crashpad_handler.exe
+  [23784] TextInputHost.exe
+  [24328] helper.exe
+  [24820] svchost.exe
+  [24904] AppleMobileDeviceLauncher.exe
+  [24880] XboxPcTray.exe
+  [12028] XboxPcAppFT.exe
+  [25784] WhatsApp.Root.exe
+  [26028] AppleMobileDeviceProcess.exe
+  [26068] RuntimeBroker.exe
+  [26240] msedgewebview2.exe
+  [26268] msedgewebview2.exe
+  [26448] msedgewebview2.exe
+  [26456] msedgewebview2.exe
+  [26500] msedgewebview2.exe
+  [27008] msedgewebview2.exe
+  [27356] CCXProcess.exe
+  [27372] node.exe
+  [27384] conhost.exe
+  [27520] ApplicationFrameHost.exe
+  [27568] XboxPcApp.exe
+  [25776] RuntimeBroker.exe
+  [24968] svchost.exe
+  [7840] AdobeIPCBroker.exe
+  [24988] claude.exe
+  [25084] claude.exe
+  [2044] claude.exe
+  [22524] claude.exe
+  [2804] claude.exe
+  [3272] claude.exe
+  [5572] claude.exe
+  [21540] claude.exe
+  [20988] claude.exe
+  [12836] msedgewebview2.exe
+  [13476] msedgewebview2.exe
+  [3288] msedgewebview2.exe
+  [3088] msedgewebview2.exe
+  [11236] msedgewebview2.exe
+  [27772] msedgewebview2.exe
+  [2728] FileCoAuth.exe
+  [28324] svchost.exe
+  [24604] svchost.exe
+  [25300] tallyscheduler.exe
+  [25800] svchost.exe
+  [24272] svchost.exe
+  [17104] svchost.exe
+  [9808] svchost.exe
+  [9960] svchost.exe
+  [24996] svchost.exe
+  [8716] svchost.exe
+  [29396] UserOOBEBroker.exe
+  [25552] AppActions.exe
+  [24020] DataExchangeHost.exe
+  [6544] claude.exe
+  [18712] svchost.exe
+  [29516] svchost.exe
+  [13532] svchost.exe
+  [25024] dllhost.exe
+  [16868] svchost.exe
+  [19256] svchost.exe
+  [6608] svchost.exe
+  [9204] svchost.exe
+  [13360] svchost.exe
+  [29880] ShellHost.exe
+  [23608] SystemSettings.exe
+  [13168] dllhost.exe
+  [6096] OfficeClickToRun.exe
+  [5152] AppVShNotify.exe
+  [29232] SearchIndexer.exe
+  [18168] OneDrive.Sync.Service.exe
+  [30028] svchost.exe
+  [28804] MpDefenderCoreService.exe
+  [11924] MsMpEng.exe
+  [18980] chrome.exe
+  [19832] chrome.exe
+  [11000] chrome.exe
+  [23732] chrome.exe
+  [15856] chrome.exe
+  [10272] chrome.exe
+  [3052] chrome.exe
+  [9152] msedge.exe
+  [23288] msedge.exe
+  [14132] msedge.exe
+  [13304] msedge.exe
+  [25548] msedge.exe
+  [30456] chrome.exe
+  [3300] chrome.exe
+  [24368] chrome.exe
+  [22744] chrome.exe
+  [9232] chrome.exe
+  [24196] chrome.exe
+  [5408] GoogleDriveFS.exe
+  [12520] crashpad_handler.exe
+  [5848] conhost.exe
+  [14696] msedgewebview2.exe
+  [552] msedgewebview2.exe
+  [17636] msedgewebview2.exe
+  [15876] msedgewebview2.exe
+  [21732] msedgewebview2.exe
+  [19264] msedgewebview2.exe
+  [14024] chrome.exe
+  [9972] chrome.exe
+  [21604] SecHealthUI.exe
+  [6064] SecurityHealthHost.exe
+  [22656] SecurityHealthHost.exe
+  [30548] WmiPrvSE.exe
+  [13164] backgroundTaskHost.exe
+  [10892] RuntimeBroker.exe
+  [484] svchost.exe
+[Software]
+  Android Studio
+  CPUID HWMonitor 1.61
+  EaseUS Partition Master
+  Git
+  HoYoPlay
+  Microsoft 365 - en-us
+  Microsoft OneDrive
+  Microsoft Office Professional Plus 2024 - en-us
+  WinRAR 7.22 (64-??)
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+  Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64)
+  Python 3.14.6 Documentation (64-bit)
+  Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)
+  Microsoft.Maui.Graphics (x64)
+  IIS Express Application Compatibility Database for x64
+  Microsoft Visual C++ 2022 X64 Debug Runtime - 14.51.36247
+  Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64)
+  .NET MAUI Templates (x64)
+  DiagnosticsHub_CollectionService
+  Microsoft ODBC Driver 17 for SQL Server
+  Microsoft Windows Desktop Runtime - 8.0.24 (x64)
+  Microsoft.MacCatalyst.Sdk.net10.0_26.5 (x64)
+  Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)
+  Microsoft ASP.NET Core Runtime - 10.0.9 (x64)
+  Microsoft.iOS.Sdk.net10.0_26.0 (x64)
+  Python 3.14.6 Tcl/Tk Support (64-bit)
+  Microsoft.iOS.Sdk.net10.0_26.5 (x64)
+  Microsoft GameInput
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)
+  Microsoft.Maui.Controls.Build.Tasks (x64)
+  Application Verifier x64 External Package (DesktopEditions)
+  Microsoft.iOS.Sdk.net9.0_26.5 (x64)
+  Microsoft.Android.Runtime.NativeAOT.36.android-x64 (x64)
+  Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)
+  Python 3.14.6 Standard Library (64-bit)
+  Microsoft .NET Host - 10.0.9 (x64)
+  Microsoft Windows Desktop Targeting Pack - 10.0.9 (x64)
+  Python 3.14.6 Executables (64-bit)
+  Microsoft Windows Desktop Runtime - 8.0.28 (x64)
+  Microsoft.Android.Runtime.CoreCLR.36.android-arm64 (x64)
+  Microsoft.NET.Runtime.MonoTargets.Sdk (x64)
+  Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_26.5 (x64)
+  HP Color LaserJet Pro M478f-9f Basic Device Software
+  Microsoft.MacCatalyst.Sdk.net9.0_18.0 (x64)
+  Microsoft.Maui.Controls.Xaml (x64)
+  Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610
+  Workflow Manager Tools 1.0 for Visual Studio
+  Microsoft .NET 8.0 Templates 8.0.422 (x64)
+  Microsoft.iOS.Windows.Sdk.net9.0_26.5 (x64)
+  vs_minshellinteropx64msi
+  Microsoft.iOS.Runtime.ios.net10.0_26.5 (x64)
+  Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64)
+  Microsoft .NET Runtime - 10.0.9 (x64)
+  Microsoft.MacCatalyst.Sdk.net10.0_26.0 (x64)
+  Microsoft Command Line Utilities 15 for SQL Server
+  Microsoft.iOS.Ref.net10.0_26.5 (x64)
+  Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)
+  Microsoft ASP.NET Core 8.0.28 Targeting Pack (x64)
+  HidHide
+  Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)
+  Microsoft .NET AppHost Pack - 10.0.9 (x64_arm64)
+  Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)
+  .NET for Android Templates (x64)
+  Microsoft.Android.Runtime.Mono.36.android-x86 (x64)
+  Application Verifier x64 External Package (OnecoreUAP)
+  Microsoft.Android.Runtime.NativeAOT.36.android-arm64 (x64)
+  Microsoft .NET AppHost Pack - 8.0.28 (x64_arm64)
+  Microsoft.Android.Runtime.Mono.36.android-arm64 (x64)
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+  Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_26.5 (x64)
+  Microsoft .NET AppHost Pack - 10.0.9 (x64_x86)
+  Microsoft System CLR Types for SQL Server 2019
+  Microsoft.Android.Sdk.Windows (x64)
+  Node.js
+  Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)
+  vs_devenx64vmsi
+  Microsoft.Android.Sdk.Windows (x64)
+  Microsoft .NET Host FX Resolver - 8.0.24 (x64)
+  Workflow Manager Client 1.0
+  Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64)
+  Google Drive
+  VS JIT Debugger
+  Microsoft Windows Desktop Targeting Pack - 8.0.28 (x64)
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)
+  Microsoft Visual Studio Installer
+  Python 3.14.6 Core Interpreter (64-bit)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247
+  Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64)
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)
+  Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64)
+  Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610
+  Microsoft .NET Runtime - 8.0.24 (x64)
+  Microsoft.Maui.Core (x64)
+  Python 3.14.6 Development Libraries (64-bit)
+  Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)
+  Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)
+  Windows App Certification Kit Native Components
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)
+  Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64)
+  Microsoft .NET AppHost Pack - 10.0.9 (x64)
+  Microsoft.Maui.Controls.Core (x64)
+  Microsoft.MacCatalyst.Templates (x64)
+  Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)
+  Universal CRT Tools x64
+  Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64)
+  Product Improvement Study for HP Color LaserJet Pro M478f-9f
+  Office 16 Click-to-Run Extensibility Component
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)
+  Microsoft.iOS.Windows.Sdk.net9.0_18.0 (x64)
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247
+  Microsoft .NET Host FX Resolver - 10.0.9 (x64)
+  ViGEm Bus Driver
+  Microsoft.Android.Runtime.36.android (x64)
+  Windows SDK DirectX x64 Remote
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)
+  Microsoft .NET AppHost Pack - 8.0.28 (x64_x86)
+  Microsoft .NET Runtime - 8.0.28 (x64)
+  Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100 (x64)
+  Python 3.14.6 Test Suite (64-bit)
+  Microsoft.iOS.Sdk.net9.0_18.0 (x64)
+  Revo Uninstaller 2.7.0
+  Microsoft.iOS.Runtime.iossimulator-x64.net10.0_26.5 (x64)
+  Microsoft.Android.Ref.36 (x64)
+  Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+  Microsoft .NET Host - 8.0.24 (x64)
+  Microsoft.iOS.Windows.Sdk.net10.0_26.0 (x64)
+  .NET MAUI SDK (x64)
+  Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64)
+  Microsoft.Android.Runtime.Mono.36.android-arm (x64)
+  Adobe Acrobat (64-bit)
+  Microsoft.MacCatalyst.Sdk.net9.0_26.5 (x64)
+  Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)
+  Microsoft.NET.Sdk.macOS.Manifest-10.0.100 (x64)
+  IIS Express Application Compatibility Database for x86
+  Microsoft.Android.Runtime.Mono.36.android-x64 (x64)
+  Python 3.14.6 Add to Path (64-bit)
+  NVIDIA Graphics Driver 610.47
+  NVIDIA App 11.0.7.247
+  NVIDIA MessageBus 3 for NvApp
+  NVIDIA Backend
+  NvCpl
+  NVIDIA PhysX System Software 9.23.1019
+  NVIDIA FrameView SDK 1.7.12227.37421622
+  NVIDIA HD Audio Driver 1.4.5.7
+  NVIDIA Install Application
+  NVIDIA Container
+  NVIDIA AIUser Container
+  NVIDIA LocalSystem Container
+  NVIDIA Session Container
+  NVIDIA User Container
+  NVIDIA NvDLISR
+  NVIDIA Platform Controllers and Framework
+  NVIDIA Watchdog Plugin for NvContainer
+  NVIDIA Telemetry Client
+  NVIDIA ShadowPlay 11.0.7.0
+  NVIDIA USBC Driver 1.52.831.832
+  NVIDIA Virtual Audio 4.65.0.12
+  Microsoft .NET 10.0 Templates 10.0.301 x64
+  Microsoft .NET Targeting Pack - 8.0.28 (x64)
+  Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)
+  Microsoft.Maui.Controls (x64)
+  Microsoft.iOS.Templates (x64)
+  Microsoft Windows Desktop Runtime - 10.0.9 (x64)
+  Microsoft.AspNetCore.Components.WebView.Maui (x64)
+  Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)
+  Microsoft ASP.NET Core 8.0.28 Shared Framework (x64)
+  vs_communityx64msi
+  Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_26.5 (x64)
+  Microsoft.NET.Sdk.Android.Manifest-10.0.100 (x64)
+  Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)
+  Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)
+  IIS 10.0 Express
+  .NET MAUI SDK (x64)

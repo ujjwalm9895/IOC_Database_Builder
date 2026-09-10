@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "Configs": [
+    {
+      "Feature": "Enabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "AppVersion": ">=6.47.3",  
+          "Weight": 2
+        }
+      ]
+    },
+    {
+      "Feature": "Deprecated",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": "<=7.15.6"
+        }
+      ]
+    },
+    {
+      "Feature": "MeshnetFileShareNordDrop",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.5.0.0"
+        }
+      ]
+    },
+    {
+      "Feature": "MeshnetInOnboarding",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.15.0"
+        }
+      ]
+    },
+    {
+      "Feature": "MeshnetPeerRenamingEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+		  "AppVersion": ">=7.18.5.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NewFileSharingWindowEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.20.0"
+        }
+      ]
+    },
+    {
+      "Feature": "KillRunningZombieApps",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.37.0"
+        }
+      ]
+    }
+  ]
+}

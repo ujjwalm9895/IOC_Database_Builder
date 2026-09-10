@@ -1,0 +1,303 @@
+IP: 103.197.152.40
+Country: BD
+Date: 11.07.2026 01:58:44
+MachineID: 769e8ea7-e8ea-496f-5ce6-2a7859466688
+GUID: {6b6fc2c0-a155}
+HWID: FD16A906FBC7DE196063-6b6fc2c0-a155-707E2BB
+Path: C:\Users\Bondhon\nyOJRZS.exe
+MD5: 7def6882cd38fe92ff13936a9f0741dd
+Work Dir: In memory
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: DESKTOP-KRHEUM5
+User Name: Bondhon
+Display Resolution: 1920x1080
+Local Time: 11.07.2026 01:58:44
+Antivirus: Windows Defender
+[Hardware]
+Processor: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Cores: 4
+Threads: 4
+RAM: 16350 MB
+VideoCard: NVIDIA GeForce GTX 1050 Ti
+[Processes]
+  [4] System
+  [108] Registry
+  [368] smss.exe
+  [488] csrss.exe
+  [840] wininit.exe
+  [912] services.exe
+  [928] lsass.exe
+  [584] svchost.exe
+  [612] fontdrvhost.exe
+  [716] svchost.exe
+  [772] svchost.exe
+  [952] svchost.exe
+  [480] svchost.exe
+  [1052] svchost.exe
+  [1224] svchost.exe
+  [1304] svchost.exe
+  [1360] svchost.exe
+  [1380] svchost.exe
+  [1392] svchost.exe
+  [1404] svchost.exe
+  [1460] svchost.exe
+  [1536] svchost.exe
+  [1544] NVDisplay.Container.exe
+  [1616] svchost.exe
+  [1708] svchost.exe
+  [1744] helperservice.exe
+  [1772] svchost.exe
+  [1780] svchost.exe
+  [1788] svchost.exe
+  [1924] svchost.exe
+  [1964] svchost.exe
+  [1976] Memory Compression
+  [1992] svchost.exe
+  [2000] svchost.exe
+  [2132] svchost.exe
+  [2196] svchost.exe
+  [2372] svchost.exe
+  [2380] svchost.exe
+  [2388] svchost.exe
+  [2468] svchost.exe
+  [2484] svchost.exe
+  [2636] svchost.exe
+  [2652] spoolsv.exe
+  [2664] svchost.exe
+  [2756] svchost.exe
+  [2852] svchost.exe
+  [2420] svchost.exe
+  [2792] svchost.exe
+  [3076] svchost.exe
+  [3084] svchost.exe
+  [3096] svchost.exe
+  [3172] svchost.exe
+  [3212] svchost.exe
+  [3224] svchost.exe
+  [3288] nvcontainer.exe
+  [3312] Service_KMS.exe
+  [3356] NvTelemetryContainer.exe
+  [3428] OfficeClickToRun.exe
+  [3444] svchost.exe
+  [3612] svchost.exe
+  [3732] svchost.exe
+  [3960] WmiPrvSE.exe
+  [4204] conhost.exe
+  [4696] dllhost.exe
+  [1044] SearchIndexer.exe
+  [5608] svchost.exe
+  [5732] svchost.exe
+  [5932] svchost.exe
+  [6040] svchost.exe
+  [6732] svchost.exe
+  [6944] AggregatorHost.exe
+  [7988] svchost.exe
+  [9560] svchost.exe
+  [4940] svchost.exe
+  [11044] SecurityHealthService.exe
+  [4620] svchost.exe
+  [4952] svchost.exe
+  [10372] audiodg.exe
+  [14064] svchost.exe
+  [10364] svchost.exe
+  [13844] svchost.exe
+  [11208] svchost.exe
+  [5024] svchost.exe
+  [1972] svchost.exe
+  [9964] svchost.exe
+  [18068] svchost.exe
+  [7956] MpDefenderCoreService.exe
+  [21080] MsMpEng.exe
+  [7104] NisSrv.exe
+  [13352] svchost.exe
+  [18016] svchost.exe
+  [13412] csrss.exe
+  [18360] winlogon.exe
+  [20168] fontdrvhost.exe
+  [13244] dwm.exe
+  [17928] NVDisplay.Container.exe
+  [9196] svchost.exe
+  [19420] nvcontainer.exe
+  [14608] sihost.exe
+  [1288] svchost.exe
+  [5080] svchost.exe
+  [9508] taskhostw.exe
+  [11160] taskhostw.exe
+  [4692] taskhostw.exe
+  [16152] ctfmon.exe
+  [11908] explorer.exe
+  [19716] svchost.exe
+  [3988] SearchApp.exe
+  [8404] StartMenuExperienceHost.exe
+  [18700] RuntimeBroker.exe
+  [19176] RuntimeBroker.exe
+  [4272] msedgewebview2.exe
+  [12936] msedgewebview2.exe
+  [7608] msedgewebview2.exe
+  [11612] msedgewebview2.exe
+  [21472] SearchApp.exe
+  [20552] msedgewebview2.exe
+  [15960] msedgewebview2.exe
+  [5548] UserOOBEBroker.exe
+  [19804] ShellExperienceHost.exe
+  [13204] RuntimeBroker.exe
+  [19252] SecurityHealthSystray.exe
+  [9012] BlueStacksServices.exe
+  [16332] IDMan.exe
+  [4660] BlueStacksServices.exe
+  [4632] BlueStacksServices.exe
+  [20640] TextInputHost.exe
+  [15244] fdm.exe
+  [7252] dllhost.exe
+  [4256] Lively.exe
+  [8744] BlueStacksServices.exe
+  [15636] Discord.exe
+  [9892] Discord.exe
+  [19308] Discord.exe
+  [11676] Discord.exe
+  [14508] qbittorrent.exe
+  [6172] CompPkgSrv.exe
+  [6472] Lively.Watchdog.exe
+  [5860] mpv.exe
+  [7120] Discord.exe
+  [6468] dllhost.exe
+  [13396] RuntimeBroker.exe
+  [2968] RuntimeBroker.exe
+  [21432] Discord.exe
+  [17580] DiscordSystemHelper.exe
+  [15240] DiscordSystemHelper.exe
+  [10276] HD-Player.exe
+  [13288] BstkSVC.exe
+  [11116] svchost.exe
+  [7420] NVIDIA Web Helper.exe
+  [13848] conhost.exe
+  [8240] BlueStacksAppplayerWeb.exe
+  [3764] RobloxPlayerBeta.exe
+  [14968] RobloxCrashHandler.exe
+  [660] Video.UI.exe
+  [10656] RuntimeBroker.exe
+  [20380] chrome.exe
+  [8200] chrome.exe
+  [10076] chrome.exe
+  [15860] chrome.exe
+  [21296] chrome.exe
+  [9692] chrome.exe
+  [20960] chrome.exe
+  [10312] chrome.exe
+  [3272] chrome.exe
+  [1532] cmd.exe
+  [1376] conhost.exe
+  [14640] wenativehost.exe
+  [13712] chrome.exe
+  [5212] chrome.exe
+  [20788] chrome.exe
+  [6532] chrome.exe
+  [11992] HD-Player.exe
+  [3888] chrome.exe
+  [8732] chrome.exe
+  [15500] chrome.exe
+  [7076] chrome.exe
+  [6964] chrome.exe
+  [448] chrome.exe
+  [5624] chrome.exe
+  [1292] chrome.exe
+  [1888] chrome.exe
+  [1520] chrome.exe
+  [15392] chrome.exe
+  [6364] chrome.exe
+  [3948] chrome.exe
+  [9924] chrome.exe
+  [8120] chrome.exe
+  [18188] chrome.exe
+  [11332] chrome.exe
+  [13136] chrome.exe
+  [17464] SystemSettings.exe
+  [828] ApplicationFrameHost.exe
+  [20696] chrome.exe
+  [3380] chrome.exe
+  [1696] chrome.exe
+  [8176] Cortana.exe
+  [11864] svchost.exe
+  [16888] powershell.exe
+  [10356] conhost.exe
+  [9776] SearchProtocolHost.exe
+  [20820] SearchFilterHost.exe
+  [10864] WmiPrvSE.exe
+  [12620] svchost.exe
+  [8484] smartscreen.exe
+  [15784] svchost.exe
+  [20404] chrome.exe
+  [13860] 5D1.exe
+  [11076] svchost.exe
+  [20936] hostmanager.exe
+  [9024] 4BtqZz1.exe
+  [17004] RuntimeBroker.exe
+  [15980] zz4Sj5M.exe
+  [9236] Bwale.exe
+  [21052] powershell.exe
+  [10072] conhost.exe
+  [4832] EYLz5VG.exe
+  [9132] SecHealthUI.exe
+  [4252] SecurityHealthHost.exe
+  [11692] svchost.exe
+  [15628] svchost.exe
+  [19092] svchost.exe
+  [19376] svchost.exe
+  [10952] 6hZeO7v9pMwk8.exe
+  [19968] 6hZeO7v9pMwk8.tmp
+  [1752] diskanalyzer3678.exe
+  [7580] KdxMe9Q0d.exe
+  [1124] K7KlfXCwP.exe
+  [13092] RuntimeBroker.exe
+  [19064] nyOJRZS.exe
+  [9340] svchost.exe
+  [16440] CompatTelRunner.exe
+  [15196] conhost.exe
+  [640] EKhrrcUl.exe
+  [12608] consent.exe
+  [6180] file.exe
+[Software]
+  7-Zip 26.01 (x64)
+  BlueStacks
+  Microsoft Office Professional Plus 2019 - en-us
+  Free Download Manager
+  Microsoft Update Health Tools
+  Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24215
+  KMSpico
+  Office 16 Click-to-Run Licensing Component
+  Office 16 Click-to-Run Extensibility Component
+  Office 16 Click-to-Run Localization Component
+  Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+  Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+  Ansel
+  NVIDIA Control Panel 384.76
+  NVIDIA Graphics Driver 560.94
+  NVIDIA GeForce Experience 3.7.0.81
+  NVIDIA 3D Vision Controller Driver 369.04
+  NVIDIA Optimus Update 25.6.0.0
+  NVIDIA PhysX System Software 9.17.0524
+  NVIDIA Update 25.6.0.0
+  SHIELD Streaming
+  NVIDIA Install Application
+  NVIDIA Backend
+  NVIDIA Container
+  NVIDIA LocalSystem Container
+  NVIDIA Message Bus for NvContainer
+  NVIDIA NetworkService Container
+  NVIDIA Session Container
+  NVIDIA User Container
+  NVIDIA Display Container
+  NVIDIA Display Container LS
+  NVIDIA Display Watchdog Plugin
+  NVIDIA Display Session Container
+  NvNodejs
+  NVIDIA Watchdog Plugin for NvContainer
+  NvTelemetry
+  NVIDIA Telemetry Container
+  NvvHci
+  Nvidia Share
+  NVIDIA ShadowPlay 3.7.0.81
+  NVIDIA SHIELD Wireless Controller Driver
+  NVIDIA Update Core
+  NVIDIA Virtual Audio 3.80.1
+  Update for x64-based Windows Systems (KB5001716)

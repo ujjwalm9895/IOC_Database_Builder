@@ -1,0 +1,196 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+⤷ Жирные логи с вебмастеров, лендов и Youtube 
+⤷ Количество логов в базах: 3 350 000+ | Имеем отзывы на форумах 
+⤷ Регулярные заливы свежего материала
+⤷ Льем уникальный трафик без дублей в одни руки по индивидуальной подписке. 
+
+⦁Budget(1 week)-208$ | Budget(1 month)-422$ | Budget(Lifetime)-4875$ | Secret(1 month)-487$ 
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 103.122.91.109
+Country: BD
+
+Date: 02.06.2026 19:39:35
+MachineID: eda657ce-657c-7b14-6e47-83e18a8d3511
+GUID: {360c02cb-5e77}
+HWID: FED5CFC024F9D8BB4AB5-360c02cb-5e77-2C38CD5
+
+Path: C:\Windows\system32\nslookup.exe
+MD5: 23a0907ddec6ebaf35ee830865450da7
+Work Dir: In memory
+
+Windows: Windows 11 Pro 25H2 (Build 26200)
+Computer Name: DESKTOP-5HLA3JA
+User Name: Ethun Pandey
+Display Resolution: 1920x1080
+Local Time: 02.06.2026 19:39:34
+
+[Hardware]
+Processor: 13th Gen Intel(R) Core(TM) i5-13400F
+Cores: 16
+Threads: 16
+RAM: 16219 MB
+VideoCard: NVIDIA GeForce RTX 4060 Ti
+
+[Processes]
+  [4] System
+  [272] Registry
+  [844] smss.exe
+  [1368] csrss.exe
+  [1456] wininit.exe
+  [1464] csrss.exe
+  [1560] winlogon.exe
+  [1676] services.exe
+  [1696] lsass.exe
+  [1828] svchost.exe
+  [1860] fontdrvhost.exe
+  [1868] fontdrvhost.exe
+  [1968] svchost.exe
+  [868] dwm.exe
+  [1468] svchost.exe
+  [1448] svchost.exe
+  [1664] svchost.exe
+  [1720] svchost.exe
+  [1708] svchost.exe
+  [1844] svchost.exe
+  [1600] svchost.exe
+  [2236] svchost.exe
+  [2368] svchost.exe
+  [2488] svchost.exe
+  [2656] svchost.exe
+  [2800] NVDisplay.Container.exe
+  [2916] svchost.exe
+  [3004] Memory Compression
+  [3056] svchost.exe
+  [3196] svchost.exe
+  [3224] svchost.exe
+  [3332] svchost.exe
+  [3368] svchost.exe
+  [3508] svchost.exe
+  [3580] svchost.exe
+  [3656] spoolsv.exe
+  [3720] svchost.exe
+  [3796] svchost.exe
+  [4028] jhi_service.exe
+  [4036] RtkAudUService64.exe
+  [4056] WMIRegistrationService.exe
+  [4068] MsMpEng.exe
+  [4076] MpDefenderCoreService.exe
+  [4292] NVDisplay.Container.exe
+  [4956] svchost.exe
+  [5284] svchost.exe
+  [5908] wlanext.exe
+  [4880] svchost.exe
+  [6000] sihost.exe
+  [6164] svchost.exe
+  [6172] svchost.exe
+  [6364] svchost.exe
+  [6448] MicrosoftEdgeUpdate.exe
+  [6692] taskhostw.exe
+  [6796] explorer.exe
+  [6836] ShellHost.exe
+  [7108] CrossDeviceResume.exe
+  [7436] PowerToys.exe
+  [7568] PowerToys.QuickAccess.exe
+  [7624] SearchIndexer.exe
+  [7912] dllhost.exe
+  [7368] svchost.exe
+  [7204] SearchHost.exe
+  [6400] StartMenuExperienceHost.exe
+  [8256] RuntimeBroker.exe
+  [8412] svchost.exe
+  [8856] msedgewebview2.exe
+  [8900] msedgewebview2.exe
+  [9164] msedgewebview2.exe
+  [9172] msedgewebview2.exe
+  [8428] msedgewebview2.exe
+  [9332] msedgewebview2.exe
+  [9624] backgroundTaskHost.exe
+  [9972] backgroundTaskHost.exe
+  [10672] PowerToys.AlwaysOnTop.exe
+  [10776] PowerToys.Awake.exe
+  [10924] PowerToys.ColorPickerUI.exe
+  [11072] PowerToys.FancyZones.exe
+  [11236] Microsoft.CmdPal.UI.exe
+  [5684] UserOOBEBroker.exe
+  [11284] PowerToys.Peek.UI.exe
+  [11916] ctfmon.exe
+  [12032] WindowsPackageManagerServer.exe
+  [12184] SecurityHealthSystray.exe
+  [12204] SecurityHealthService.exe
+  [12224] Microsoft.CmdPal.Ext.PowerToys.exe
+  [11452] RtkAudUService64.exe
+  [8424] ApplicationFrameHost.exe
+  [12368] svchost.exe
+  [12492] svchost.exe
+  [13212] svchost.exe
+  [4752] svchost.exe
+  [13916] RuntimeBroker.exe
+  [13984] svchost.exe
+  [9040] svchost.exe
+  [6040] ShellExperienceHost.exe
+  [13620] RuntimeBroker.exe
+  [4196] svchost.exe
+  [5784] svchost.exe
+  [7756] svchost.exe
+  [5068] BraveCrashHandler.exe
+  [13904] BraveCrashHandler64.exe
+  [2036] brave.exe
+  [3920] brave.exe
+  [2840] brave.exe
+  [6360] brave.exe
+  [13884] brave.exe
+  [7780] brave.exe
+  [1588] brave.exe
+  [7024] brave.exe
+  [9392] brave.exe
+  [2732] brave.exe
+  [1000] brave.exe
+  [13728] brave.exe
+  [5376] SystemSettings.exe
+  [6420] Rainmeter.exe
+  [7348] conhost.exe
+  [7552] audiodg.exe
+  [14084] brave.exe
+  [3396] brave.exe
+  [13804] brave.exe
+  [6460] brave.exe
+  [3488] svchost.exe
+  [7732] smartscreen.exe
+  [5428] svchost.exe
+  [4936] brave.exe
+  [6208] brave.exe
+  [12872] SearchProtocolHost.exe
+  [7984] brave.exe
+  [12760] SecHealthUI.exe
+  [4992] SecurityHealthHost.exe
+  [10472] WmiPrvSE.exe
+  [3404] svchost.exe
+  [5192] svchost.exe
+  [3680] CHXSmartScreen.exe
+  [5180] RuntimeBroker.exe
+  [6864] nslookup.exe
+  [1616] SecurityHealthHost.exe
+  [692] Setup.exe
+  [3616] AutoIt3.exe
+  [13096] dllhost.exe
+  [8648] dllhost.exe
+  [12064] nslookup.exe
+[Software]
+  Git
+  VLC media player
+  WinRAR 7.22 (64-bit)
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36231
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36231
+  PowerToys (Preview)
+  Revo Uninstaller 2.7.0

@@ -1,0 +1,22 @@
+﻿Browser: Opera_GX_Stable
+===============
+
+[Local State]
+Sync Enabled: false
+Enterprise Managed: true
+Update Channel: stable
+Hardware Acceleration: enabled
+Metrics Enabled: false
+Default Search: Yandex
+
+[Preferences]
+Autofill Enabled: true
+Password Manager: unknown
+Safe Browsing: enabled
+Do Not Track: disabled
+Block Third Party Cookies: false
+Translate Enabled: false
+Download Dir: C:\Users\trehy\OneDrive\Documents
+
+[Metadata]
+Extraction Time: 1782272670

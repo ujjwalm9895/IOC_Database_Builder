@@ -1,0 +1,14 @@
+﻿.copilot.microsoft.com	TRUE	/	TRUE	1814679505	GC	
+.microsoft.com	TRUE	/	TRUE	1813499160	MC1	
+.bat.bing.com	TRUE	/	TRUE	1814679505	MR	
+.c.bing.com	TRUE	/	TRUE	1814679505	MR	
+.microsoft.com	TRUE	/	TRUE	1814679505	MS0	
+.bing.com	TRUE	/	TRUE	1815659166	MUID	
+copilot.microsoft.com	FALSE	/	TRUE	1815659151	MUID	
+copilot.microsoft.com	FALSE	/	FALSE	1815659151	MUIDB	
+copilot.microsoft.com	FALSE	/	FALSE	1815659151	_EDGE_V	
+.copilot.microsoft.com	TRUE	/	TRUE	1814679505	__cf_bm	
+.microsoft.com	TRUE	/	FALSE	1814679505	_uetsid	
+.microsoft.com	TRUE	/	FALSE	1815659166	_uetvid	
+copilot.microsoft.com	FALSE	/	TRUE	1789739157	hasBeenMsalAuthenticated	
+copilot.microsoft.com	FALSE	/	TRUE	1816523151	userSidebarOpen_wchromium	

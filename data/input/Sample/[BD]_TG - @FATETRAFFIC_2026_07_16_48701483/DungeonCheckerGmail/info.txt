@@ -1,0 +1,5 @@
+[INFO] Cookie : Brave-Browser_Default_[BD32].txt
+[INFO] Email : hassansaikot28@gmail.com
+[INFO] Hits : 20
+[INFO] Queries : noreply@steampowered.com(19), ea@e.ea.com(1)
+

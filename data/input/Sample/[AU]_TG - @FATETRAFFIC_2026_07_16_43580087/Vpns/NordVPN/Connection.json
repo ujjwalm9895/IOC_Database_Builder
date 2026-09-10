@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "Configs": [
+    {
+      "Feature": "ConnectionRetryProtocolEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": "<7.14.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NordlynxConnectionTimeout",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 30,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        },
+        {
+          "Value": 15,
+          "Weight": 2,
+          "AppVersion": ">=7.35.0"
+        }
+      ]
+    },
+    {
+      "Feature": "OpenVpnConnectionTimeout",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 40,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "ObfuscatedConnectionTimeout",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 60,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "RetryStrategyWithProtocolRotation",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 2,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "RetryStrategyWithoutProtocolRotation",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 2,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "RetryStrategyAutoConnectWithProtocolRotation",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 4,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "RetryStrategyAutoConnectWithoutProtocolRotation",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 4,
+          "Weight": 1,
+          "AppVersion": ">=7.11.0"
+        }
+      ]
+    },
+    {
+      "Feature": "RecommendationTimeout",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 5,
+          "Weight": 1,
+          "AppVersion": "<7.14.0"
+        }
+      ]
+    },
+    {
+      "Feature": "UseConnectionFlowContexts",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.16.0"
+        }
+      ]
+    },
+    {
+      "Feature": "NordWhisperConnectionTimeout",
+      "Type": "int",
+      "Settings": [
+        {
+          "Value": 30,
+          "Weight": 1,
+          "AppVersion": ">=7.30.0"
+        }
+      ]
+    },
+    {
+        "Feature": "PostQuantumCryptographyEnabled",
+        "Type": "bool",
+        "Settings": [
+            {
+                "Value": true,
+                "Weight": 1,
+                "AppVersion": ">=7.31.0"
+            }
+        ]
+    },
+    {
+      "Feature": "IsTcpCompatibleWithThreatProtection",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": false,
+          "Weight": 1,
+          "AppVersion": ">=7.32.0"          
+        },
+        {
+          "Value": true,
+          "Weight": 2,
+          "AppVersion": ">=7.39.0"
+          
+        }
+      ]
+    },
+    {
+      "Feature": "IsNordWhisperInRetryFlowEnabled",
+      "Type": "bool",
+      "Settings": [
+        {
+          "Value": true,
+          "Weight": 1,
+          "AppVersion": ">=7.37.0"
+        }
+      ]
+    }
+  ]
+}

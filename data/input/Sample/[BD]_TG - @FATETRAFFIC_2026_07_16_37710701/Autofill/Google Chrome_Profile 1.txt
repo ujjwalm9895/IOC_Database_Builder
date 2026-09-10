@@ -1,0 +1,9 @@
+registration[email] u2203132@student.cuet.ac.bd
+identifier u2203132@student.cuet.ac.bd
+sid-country Bangladesh
+sid-first-name Md. Rokibul
+sid-last-name Islam
+sid-birthdate__month July
+sid-birthdate-day 18
+sid-birthdate-year 2003
+sid-email u2203132@student.cuet.ac.bd

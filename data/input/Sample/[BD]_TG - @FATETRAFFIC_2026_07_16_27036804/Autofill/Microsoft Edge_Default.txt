@@ -1,0 +1,79 @@
+ssc_board_other Technical
+roll 724466
+im_width 300
+im_height 300
+im_filesize 100
+im_height 80
+im_filesize 60
+present_pcode 6500
+name MD. RAYHAN HOSSAIN
+fathername MD. ASRAFUL ISLAM
+mothername ROUSHONARA BEGUM
+nid_no 9154159785
+present_care MD. ASRAFUL ISLAM
+mobileno 01774897464
+confirmmobile 01774897464
+roll1 117376
+reg1 1212668448
+result_gpa1 4.33
+roll2 506449
+reg2 1212668448
+result_gpa2 3.92
+result_gpa3 2.66
+bn_name মোঃ রায়হান হোসেন
+bn_mother রওশন আরা বেগম
+bn_father মো আশরাফুল ইসলাম
+reg 160901
+value_s 15
+roll 724468
+name TUHIN HOSSAIN
+ssc_group_other GENERAL ELECTRICAL WORKS
+name_bn তুহিন হোসেন
+father MD. ABU BAKKAR SIDDIK
+father_bn মো: আবু বক্কর সিদ্দিক
+mother THOMINA BEGUM
+mother_bn তহমিনা বেগম
+mobile 01303226676
+confirm_mobile 01303226676
+present_careof MD. ABU BAKKAR SIDDIK
+present_post Naogaon
+name Md Tuhin Hossen
+email hossenm36@gmail.com
+email 01768370930
+email +880 01303-226676
+react-aria9040797369-«r10» +880 01303-226676
+value_s 9
+value_s 11
+fathername MD. ABU BAKKAR SIDDIK
+mothername THOMINA BEGUM
+nid_no 1027129665
+present_care MD. ABU BAKKAR SIDDIK
+mobileno 01303226676
+confirmmobile 01303226676
+roll1 724468
+reg1 160901
+result_gpa1 4.64
+roll2 506625
+reg2 9012502683
+result_gpa2 3.83
+result_gpa3 2.95
+result_gpa4 3.36
+bn_name তুহিন হোসেন
+bn_mother তহমিনা বেগম
+bn_father মোঃ আবু বক্কর সিদ্দিক 
+validation 16MIMU15
+today_Year_ID 1998
+ageat_Year_ID 2025
+validation VUL556YS
+validation AB6TC4S2
+s বাবার সাথে 
+exm_roll 2180880
+reg_no 17225111327
+pass_year 2021
+jsc_institute Chakla High School, Naogaon
+ssc_board_other Technical Board
+other_exp[0][text_value] NG00002322L00001
+user_id ZWM7QPT6
+s Hot new choti – অতিথির আপ্যায়ন 
+q running shoes
+phoneNumber 1303226676

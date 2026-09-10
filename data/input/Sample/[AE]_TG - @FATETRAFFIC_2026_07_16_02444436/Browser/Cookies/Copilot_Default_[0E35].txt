@@ -1,0 +1,8 @@
+﻿.microsoft.com	TRUE	/	TRUE	1810579271	MC1	
+.bing.com	TRUE	/	TRUE	1812739270	MUID	
+copilot.microsoft.com	FALSE	/	TRUE	1812739267	MUID	
+copilot.microsoft.com	FALSE	/	FALSE	1812739267	MUIDB	
+copilot.microsoft.com	FALSE	/	FALSE	1812739267	_EDGE_V	
+copilot.microsoft.com	FALSE	/	TRUE	1812739269	__Host-copilot-anon	
+.microsoft.com	TRUE	/	FALSE	1812739272	_uetvid	
+copilot.microsoft.com	FALSE	/	TRUE	1813603267	userSidebarOpen_wchromium	

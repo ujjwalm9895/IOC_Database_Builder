@@ -1,0 +1,4 @@
+Soft: Google Chrome (Default)
+Host: android://kl8WH0S0yigLYPDqf3pjlXs9OJxLwIPOhlsylm51BGis3B9rQDKlimu02lofwJqGk9MxLHFMRLyILKireJO7dg==@com.kfc.me/
+Login: +971 - 523698808
+Password: 

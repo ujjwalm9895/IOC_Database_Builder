@@ -1,0 +1,285 @@
+﻿------------STEALER-VIDAR 2.0-------------
+Новая версия уникального продукта на рынке! 
+Стабильная работа с 2018 года! 
+Хотите разместить рекламу? Пишите нам!
+-------------------------------------------
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+⤷ Жирные логи с вебмастеров, лендов и Youtube 
+⤷ Количество логов в базах: 3 350 000+ | Имеем отзывы на форумах 
+⤷ Регулярные заливы свежего материала
+⤷ Льем уникальный трафик без дублей в одни руки по индивидуальной подписке. 
+
+⦁Budget(1 week)-208$ | Budget(1 month)-422$ | Budget(Lifetime)-4875$ | Secret(1 month)-487$ 
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Version: @FATETRAFFIC | @GGFATE | @FATEPRODUCTBOT  TELEGRAM
+
+IP: 154.127.161.43
+Country: AO
+
+Date: 30.05.2026 08:00:13
+MachineID: 6d979cc3-79cc-f56d-1452-79c5fe32ffb4
+GUID: {39e6fe40-29f8}
+HWID: 789FBED6A557AE29B0F3-39e6fe40-29f8-21514FB
+
+Path: C:\Windows\system32\nslookup.exe
+Work Dir: In memory
+
+Windows: Windows 10 Pro 22H2 (Build 19045)
+Computer Name: EDMILSON-GASPAR
+User Name: Daara e Domilson
+Display Resolution: 1366x768
+Local Time: 30.05.2026 08:00:12
+
+[Hardware]
+Processor: Intel(R) Celeron(R) CPU N3350 @ 1.10GHz
+Cores: 2
+Threads: 2
+RAM: 3922 MB
+VideoCard: Intel(R) HD Graphics
+
+[Processes]
+  [4] System
+  [48] Secure System
+  [96] Registry
+  [412] smss.exe
+  [664] csrss.exe
+  [952] wininit.exe
+  [960] csrss.exe
+  [692] winlogon.exe
+  [736] services.exe
+  [744] LsaIso.exe
+  [760] lsass.exe
+  [880] fontdrvhost.exe
+  [904] fontdrvhost.exe
+  [912] svchost.exe
+  [780] WUDFHost.exe
+  [1092] svchost.exe
+  [1140] svchost.exe
+  [1220] svchost.exe
+  [1252] dwm.exe
+  [1260] svchost.exe
+  [1400] svchost.exe
+  [1408] svchost.exe
+  [1440] svchost.exe
+  [1504] svchost.exe
+  [1536] svchost.exe
+  [1552] svchost.exe
+  [1580] svchost.exe
+  [1648] svchost.exe
+  [1696] svchost.exe
+  [1796] svchost.exe
+  [1836] svchost.exe
+  [1920] svchost.exe
+  [1940] svchost.exe
+  [1952] igfxCUIService.exe
+  [1968] svchost.exe
+  [1572] svchost.exe
+  [2092] wsc_proxy.exe
+  [2116] svchost.exe
+  [2144] svchost.exe
+  [2228] svchost.exe
+  [2236] Memory Compression
+  [2336] svchost.exe
+  [2392] svchost.exe
+  [2400] svchost.exe
+  [2436] svchost.exe
+  [2684] svchost.exe
+  [2796] svchost.exe
+  [2844] svchost.exe
+  [2908] svchost.exe
+  [3016] svchost.exe
+  [1616] svchost.exe
+  [3084] svchost.exe
+  [3092] svchost.exe
+  [3104] svchost.exe
+  [3236] svchost.exe
+  [3316] svchost.exe
+  [3348] sihost.exe
+  [3364] svchost.exe
+  [3416] PresentationFontCache.exe
+  [3476] svchost.exe
+  [3484] svchost.exe
+  [3496] svchost.exe
+  [3524] svchost.exe
+  [3684] AvastSvc.exe
+  [3724] taskhostw.exe
+  [3740] taskhostw.exe
+  [3816] wlanext.exe
+  [3856] conhost.exe
+  [3904] svchost.exe
+  [4000] ctfmon.exe
+  [4128] aswToolsSvc.exe
+  [4384] SearchIndexer.exe
+  [4396] igfxEM.exe
+  [4424] spoolsv.exe
+  [4608] svchost.exe
+  [4620] svchost.exe
+  [4908] svchost.exe
+  [4964] dasHost.exe
+  [4996] AppleMobileDeviceService.exe
+  [5004] mDNSResponder.exe
+  [5052] IntelCpHDCPSvc.exe
+  [5108] svchost.exe
+  [5116] svchost.exe
+  [3696] EMP_UDSA.exe
+  [4736] esif_uf.exe
+  [4864] GameInputRedistService.exe
+  [5176] ibtsiva.exe
+  [5248] svchost.exe
+  [5260] gamingservices.exe
+  [5316] gamingservicesnet.exe
+  [5368] svchost.exe
+  [5388] svchost.exe
+  [5444] svchost.exe
+  [5468] svchost.exe
+  [5484] svchost.exe
+  [5504] GameInputRedistService.exe
+  [5536] svchost.exe
+  [5624] svchost.exe
+  [5636] svchost.exe
+  [5660] RtkAudUService64.exe
+  [5676] WavesSysSvc64.exe
+  [5704] svchost.exe
+  [5748] svchost.exe
+  [5784] IntelCpHeciSvc.exe
+  [5836] LMS.exe
+  [6384] svchost.exe
+  [6392] svchost.exe
+  [6484] RtkAudUService64.exe
+  [6764] jhi_service.exe
+  [6860] svchost.exe
+  [7200] svchost.exe
+  [9208] unsecapp.exe
+  [8768] WmiPrvSE.exe
+  [6368] AggregatorHost.exe
+  [2808] svchost.exe
+  [9328] svchost.exe
+  [9644] aswEngSrv.exe
+  [3544] svchost.exe
+  [944] svchost.exe
+  [9860] svchost.exe
+  [9808] RuntimeBroker.exe
+  [10408] svchost.exe
+  [10712] RuntimeBroker.exe
+  [10720] svchost.exe
+  [7316] SecurityHealthSystray.exe
+  [7304] RtkAudUService64.exe
+  [5568] SecurityHealthService.exe
+  [11408] OneDrive.exe
+  [11952] GameInputSvc.exe
+  [12008] GameInputSvc.exe
+  [12020] svchost.exe
+  [11664] AvastUI.exe
+  [9396] OneDrive.Sync.Service.exe
+  [8792] svchost.exe
+  [10052] svchost.exe
+  [7120] svchost.exe
+  [9380] svchost.exe
+  [11136] FileCoAuth.exe
+  [11376] dllhost.exe
+  [8120] RuntimeBroker.exe
+  [3924] ApplicationFrameHost.exe
+  [7324] svchost.exe
+  [11836] UserOOBEBroker.exe
+  [3896] svchost.exe
+  [11124] svchost.exe
+  [2640] svchost.exe
+  [7456] AvastUI.exe
+  [6236] AvastUI.exe
+  [1872] dasHost.exe
+  [4732] svchost.exe
+  [2408] Video.UI.exe
+  [13184] WUDFHost.exe
+  [12152] AvastUI.exe
+  [2832] CompPkgSrv.exe
+  [4276] msedge.exe
+  [5532] msedge.exe
+  [7432] msedge.exe
+  [10476] msedge.exe
+  [1764] msedge.exe
+  [9404] msedge.exe
+  [12428] msedge.exe
+  [12376] msedge.exe
+  [1720] msedge.exe
+  [12040] msedge.exe
+  [11712] SystemSettings.exe
+  [8376] RuntimeBroker.exe
+  [11632] svchost.exe
+  [5584] explorer.exe
+  [10324] StartMenuExperienceHost.exe
+  [13084] TextInputHost.exe
+  [11548] SearchApp.exe
+  [2548] ShellExperienceHost.exe
+  [10792] SearchApp.exe
+  [3268] msedgewebview2.exe
+  [7480] msedgewebview2.exe
+  [10420] msedgewebview2.exe
+  [13020] msedgewebview2.exe
+  [7216] msedgewebview2.exe
+  [11852] msedgewebview2.exe
+  [11064] msedge.exe
+  [11152] svchost.exe
+  [4208] msedge.exe
+  [7960] AvastUI.exe
+  [3324] smartscreen.exe
+  [7340] msedge.exe
+  [12996] msedge.exe
+  [10564] msedge.exe
+  [4016] SearchFilterHost.exe
+  [8168] SearchProtocolHost.exe
+  [4012] Setup.exe
+  [11040] AutoIt3.exe
+  [12600] nslookup.exe
+  [13296] svchost.exe
+[Software]
+  Avast Free Antivirus
+  Pacote de controladores do Windows - Kionix, Inc. kxdiskprot DiskDrive  (06/07/2016 1.1.3.7)
+  Microsoft Office Professional Plus 2016
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  Vulkan Run Time Libraries 1.0.33.0
+  WinRAR 5.71 (64-bit)
+  Microsoft GameInput
+  Microsoft Update Health Tools
+  Microsoft .NET Core Runtime - 2.1.9 (x64)
+  Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+  Bonjour
+  Microsoft ASP.NET Core 2.1.9 Shared Framework (x64)
+  Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+  Microsoft Office Professional Plus 2016
+  Microsoft Access MUI (Portuguese (Brazil)) 2016
+  Microsoft Excel MUI (Portuguese (Brazil)) 2016
+  Microsoft PowerPoint MUI (Portuguese (Brazil)) 2016
+  Microsoft Publisher MUI (Portuguese (Brazil)) 2016
+  Microsoft Outlook MUI (Portuguese (Brazil)) 2016
+  Microsoft Word MUI (Portuguese (Brazil)) 2016
+  Microsoft Office Proofing Tools 2016 - English
+  Revisores de Texto do Microsoft Office 2016  Portugus (Brasil)
+  Herramientas de correccin de Microsoft Office 2016: espaol
+  Microsoft Office Proofing (Portuguese (Brazil)) 2016
+  Microsoft InfoPath MUI (Portuguese (Brazil)) 2016
+  Microsoft Office Shared MUI (Portuguese (Brazil)) 2016
+  Microsoft DCF MUI (Portuguese (Brazil)) 2016
+  Microsoft OneNote MUI (Portuguese (Brazil)) 2016
+  Microsoft Groove MUI (Portuguese (Brazil)) 2016
+  Microsoft Office 32-bit Components 2016
+  Microsoft Office Shared 32-bit MUI (Portuguese (Brazil)) 2016
+  Microsoft Office OSM MUI (Portuguese (Brazil)) 2016
+  Microsoft Office OSM UX MUI (Portuguese (Brazil)) 2016
+  Microsoft Skype for Business MUI (Portuguese (Brazil)) 2016
+  Verificao do estado de funcionamento do PC Windows
+  Microsoft .NET Core Host - 2.1.9 (x64)
+  Microsoft .NET Core Host FX Resolver - 2.1.9 (x64)
+  Update for x64-based Windows Systems (KB5001716)
+  Apple Mobile Device Support
+  Verificao do estado de funcionamento do PC Windows
+  Microsoft .NET Core SDK 2.1.602 (x64)
